@@ -1,0 +1,22 @@
+{
+  "name": "市場傳導輪 | 宏觀事件與資產星系",
+  "short_name": "市場傳導輪",
+  "description": "即時宏觀金融事件與資產衝擊傳導圖譜",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05070c",
+  "theme_color": "#070a12",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

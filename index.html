@@ -1,0 +1,1619 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>市場傳導輪 | 專屬投資版</title>
+  <!-- PWA & Mobile Web App Meta -->
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="theme-color" content="#070a12">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- D3.js CDN -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap');
+
+    body {
+      font-family: 'Noto Sans TC', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: #05070c;
+      color: #e2e8f0;
+      overflow: hidden;
+    }
+
+    .font-mono {
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    /* 星軌與流光動畫 */
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.3; filter: drop-shadow(0 0 4px rgba(56, 189, 248, 0.4)); }
+      50% { opacity: 0.8; filter: drop-shadow(0 0 12px rgba(56, 189, 248, 0.8)); }
+    }
+
+    .orbit-ring {
+      fill: none;
+      stroke: rgba(255, 255, 255, 0.05);
+      stroke-dasharray: 4 6;
+    }
+
+    .orbit-ring.active {
+      stroke: rgba(234, 179, 8, 0.2);
+    }
+
+    /* 節點光暈 */
+    .node-glow {
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .node-glow:hover {
+      filter: drop-shadow(0 0 10px currentColor);
+      cursor: pointer;
+    }
+
+    /* 連線光束流動 */
+    .link-flow {
+      stroke-dasharray: 6 6;
+      animation: dashFlow 1.2s linear infinite;
+    }
+
+    @keyframes dashFlow {
+      from { stroke-dashoffset: 24; }
+      to { stroke-dashoffset: 0; }
+    }
+
+    /* 科技感滾動條 */
+    ::-webkit-scrollbar {
+      width: 4px;
+      height: 4px;
+    }
+    ::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.2);
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(255, 255, 255, 0.15);
+      border-radius: 2px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(234, 179, 8, 0.5);
+    }
+
+    /* 科技網格背景 */
+    .bg-grid {
+      background-size: 40px 40px;
+      background-image: 
+        linear-gradient(to right, rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+        linear-gradient(to bottom, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    }
+  </style>
+</head>
+<body class="h-screen w-screen flex flex-col bg-grid select-none">
+
+  <!-- 頂部導航列 (Navigation Header) -->
+  <header class="h-14 border-b border-slate-800/80 bg-[#070a12]/90 backdrop-blur px-6 flex items-center justify-between z-20">
+    <div class="flex items-center space-x-6">
+      <div class="flex items-center space-x-3">
+        <div class="w-8 h-8 rounded-lg bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-black text-sm">
+          方
+        </div>
+        <div>
+          <h1 class="text-base font-bold tracking-wider text-slate-100 flex items-center space-x-2">
+            <span>市場傳導輪</span>
+            <span class="text-xs px-2 py-0.5 rounded bg-amber-500/20 text-amber-400 border border-amber-500/40 font-mono">TRANSMISSION GRAPH</span>
+          </h1>
+        </div>
+      </div>
+
+      <nav class="hidden md:flex items-center space-x-1 text-xs" id="marketNav">
+        <button onclick="filterMarket('all')" id="nav-all" class="px-3 py-1.5 rounded-md bg-amber-500/20 text-amber-300 font-semibold border border-amber-500/30 transition">全部標的 (13)</button>
+        <button onclick="filterMarket('tw')" id="nav-tw" class="px-3 py-1.5 rounded-md text-slate-400 hover:text-slate-200 transition">台股核心</button>
+        <button onclick="filterMarket('us')" id="nav-us" class="px-3 py-1.5 rounded-md text-slate-400 hover:text-slate-200 transition">美股巨頭</button>
+        <button onclick="filterMarket('macro')" id="nav-macro" class="px-3 py-1.5 rounded-md text-slate-400 hover:text-slate-200 transition">全球宏觀/黃金</button>
+      </nav>
+    </div>
+
+    <!-- 頂部右側狀態指標與功能按鈕 -->
+    <div class="flex items-center space-x-2">
+      <button onclick="openAddTargetModal()" class="text-xs px-2.5 py-1 rounded bg-amber-500/20 hover:bg-amber-500/30 text-amber-300 border border-amber-500/40 transition flex items-center space-x-1 font-semibold">
+        <i data-lucide="plus-circle" class="w-3.5 h-3.5"></i>
+        <span class="hidden sm:inline">新增標的</span>
+      </button>
+      <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
+        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
+        <span id="lastUpdateBadge">實時更新中</span>
+      </div>
+      <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
+        <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
+        <span class="hidden sm:inline">重置視角</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- 主工作區域 -->
+  <main class="flex-1 flex overflow-hidden relative">
+
+    <!-- 左側面板：排程事件與受牽動排行榜 (360px) -->
+    <aside class="w-84 md:w-96 border-r border-slate-800/80 bg-[#070a12]/80 backdrop-blur flex flex-col z-10">
+      
+      <!-- 上半部：接下來會發生的事 (Upcoming Events) -->
+      <div class="h-1/2 flex flex-col border-b border-slate-800/60 p-4">
+        <div class="flex items-center justify-between mb-3">
+          <div class="flex items-center space-x-2">
+            <i data-lucide="calendar" class="w-4 h-4 text-purple-400"></i>
+            <h2 class="text-xs font-bold text-slate-300 tracking-wider">接下來會發生的事</h2>
+          </div>
+          <span class="text-[10px] font-mono px-1.5 py-0.5 rounded bg-purple-500/20 text-purple-300 border border-purple-500/30" id="eventCountBadge">8 件</span>
+        </div>
+        <p class="text-[11px] text-slate-500 mb-3 leading-relaxed">點擊排程事件，點亮傳導光線，追溯它在多少步內撼動哪些核心標的。</p>
+
+        <div class="flex-1 overflow-y-auto space-y-2 pr-1" id="eventsList">
+          <!-- 透過 JS 動態渲染排程事件 -->
+        </div>
+      </div>
+
+      <!-- 下半部：接下來最被牽動的標的 (Impact Targets) -->
+      <div class="h-1/2 flex flex-col p-4">
+        <div class="flex items-center justify-between mb-2">
+          <div class="flex items-center space-x-2">
+            <i data-lucide="crosshair" class="w-4 h-4 text-amber-400"></i>
+            <h2 class="text-xs font-bold text-slate-300 tracking-wider">接下來最被牽動的標的</h2>
+          </div>
+          <span class="text-[10px] text-slate-500 font-mono">未來 30 天</span>
+        </div>
+        <p class="text-[11px] text-slate-500 mb-3 leading-relaxed">依排程事件傳導衝擊權重加總計算（非漲跌預測，為震盪與關聯敏感度）。</p>
+
+        <div class="flex-1 overflow-y-auto space-y-1.5 pr-1" id="targetsList">
+          <!-- 透過 JS 動態渲染標的排行榜 -->
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- 中央核心：星系傳導圖 (Transmission Graph Canvas/SVG) -->
+    <section class="flex-1 relative flex items-center justify-center overflow-hidden" id="graphContainer">
+      <svg id="transmissionSvg" class="w-full h-full cursor-grab active:cursor-grabbing"></svg>
+
+      <!-- 底部傳導推演即時動態摘要 (Live Pulse Summary Bar) -->
+      <div class="absolute bottom-5 left-5 pointer-events-none flex justify-start z-10">
+        <div class="bg-[#0b0f19]/90 border border-amber-500/30 shadow-2xl backdrop-blur-md rounded-xl p-3.5 max-w-sm pointer-events-auto transition-all duration-300" id="pulseSummaryBox">
+          <div class="flex items-center space-x-2 mb-1">
+            <span class="w-2 h-2 rounded-full bg-amber-400 animate-pulse"></span>
+            <span class="text-xs font-bold text-amber-400 tracking-wide" id="summaryHeader">今日傳導快報</span>
+          </div>
+          <p class="text-xs font-semibold text-slate-100" id="summaryTitle">
+            未來 30 天有 8 件排程事件，加總下來被撼動最重的是 <span class="text-amber-400 underline decoration-amber-500/50">台積電</span>、<span class="text-yellow-400 underline decoration-yellow-500/50">黃金現貨</span>、<span class="text-sky-400 underline decoration-sky-500/50">QQQ</span>。
+          </p>
+          <p class="text-[11px] text-slate-400 mt-1 leading-relaxed" id="summaryDetail">
+            點擊左側任一排程事件或圖中節點，即可即時查看傳導光束與步數延遲。
+          </p>
+        </div>
+      </div>
+
+      <!-- 圖例 (Legend) -->
+      <div class="absolute top-6 right-8 bg-[#0b0f19]/80 border border-slate-800 rounded-lg p-3 text-[11px] space-y-2 backdrop-blur pointer-events-none">
+        <div class="font-bold text-slate-300 mb-1 border-b border-slate-800 pb-1">傳導星系圖層</div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-purple-500 ring-2 ring-purple-500/30"></span>
+          <span class="text-slate-400">外軌：排程事件 (Events)</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-400 ring-2 ring-emerald-400/30"></span>
+          <span class="text-slate-400">中軌：產業/經濟因子 (Factors)</span>
+        </div>
+        <div class="flex items-center space-x-2">
+          <span class="w-2.5 h-2.5 rounded-full bg-amber-400 ring-2 ring-amber-400/30"></span>
+          <span class="text-slate-400">核心：專屬投資標的 (Targets)</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- 右側抽屜面板：節點詳細分析 (Drawer) -->
+    <aside id="detailDrawer" class="w-96 border-l border-slate-800/80 bg-[#070a12]/95 backdrop-blur flex flex-col p-6 overflow-y-auto transition-all duration-300">
+      <div class="flex items-center justify-between pb-4 border-b border-slate-800">
+        <div>
+          <span class="text-[10px] font-mono px-2 py-0.5 rounded bg-slate-800 text-slate-300 uppercase" id="drawerBadge">標的剖析</span>
+          <h3 class="text-lg font-bold text-slate-100 mt-1 flex items-center space-x-2" id="drawerTitle">
+            <span>請點擊圖中節點</span>
+          </h3>
+        </div>
+        <div class="text-right">
+          <div class="text-xs text-slate-500 font-mono">傳導指數</div>
+          <div class="text-xl font-black font-mono text-amber-400" id="drawerScore">--</div>
+        </div>
+      </div>
+
+      <div class="mt-4 space-y-4 text-xs">
+        <div>
+          <h4 class="text-slate-400 font-semibold mb-1 flex items-center space-x-1.5">
+            <i data-lucide="info" class="w-3.5 h-3.5 text-sky-400"></i>
+            <span>基本概述與定位</span>
+          </h4>
+          <p class="text-slate-300 leading-relaxed bg-slate-900/60 p-3 rounded-lg border border-slate-800/60" id="drawerDesc">
+            在中間的傳導星系中點擊任何一個排程事件、產業節點，或您所屬的投資標的，此處將即時展開其背後的傳導脈絡、連動路徑與防禦/進攻策略。
+          </p>
+        </div>
+
+        <div id="drawerTransmissionBox">
+          <h4 class="text-slate-400 font-semibold mb-2 flex items-center space-x-1.5">
+            <i data-lucide="git-merge" class="w-3.5 h-3.5 text-purple-400"></i>
+            <span>關聯傳導鏈路</span>
+          </h4>
+          <div class="space-y-2" id="drawerChains">
+            <!-- 動態注入連線詳情 -->
+            <div class="text-slate-500 italic p-3 bg-slate-900/30 rounded border border-slate-800/40">
+              尚無選擇節點。
+            </div>
+          </div>
+        </div>
+
+        <div class="bg-gradient-to-br from-amber-500/10 to-transparent p-3.5 rounded-xl border border-amber-500/20">
+          <h4 class="text-amber-400 font-bold mb-1 text-xs flex items-center space-x-1">
+            <i data-lucide="zap" class="w-3.5 h-3.5"></i>
+            <span>操盤提醒 (Antigravity 觀點)</span>
+          </h4>
+          <p class="text-[11px] text-slate-300 leading-relaxed" id="drawerTip">
+            觀察傳導輪時，優先關注「外軌事件」到「核心標的」的步數（Steps）。步數越短（如 1 步），反應往往在當日或隔日（T+0 / T+1）直接體現；步數較多時（2~3 步），資金有擴散輪動延遲效應。
+          </p>
+        </div>
+      </div>
+    </aside>
+
+  </main>
+
+  <!-- ➕ 新增標的互動彈窗 (Add Target Modal) -->
+  <div id="addTargetModal" class="fixed inset-0 bg-black/80 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+    <div class="bg-[#0b0f19] border border-amber-500/40 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-800">
+        <div class="flex items-center space-x-2">
+          <i data-lucide="plus-circle" class="w-5 h-5 text-amber-400"></i>
+          <h3 class="text-base font-bold text-slate-100">新增個人追蹤標的</h3>
+        </div>
+        <button onclick="closeAddTargetModal()" class="text-slate-400 hover:text-slate-200">
+          <i data-lucide="x" class="w-5 h-5"></i>
+        </button>
+      </div>
+
+      <p class="text-xs text-slate-400 leading-relaxed">
+        輸入您想要加入傳導星系的股票代號或名稱，系統將自動將其納入核心軌道並掛載對應產業傳導鏈。
+      </p>
+
+      <form id="addTargetForm" onsubmit="handleCreateTarget(event)" class="space-y-3.5 text-xs">
+        <div>
+          <label class="block text-slate-300 font-semibold mb-1">股票代號 (Ticker / Symbol)</label>
+          <input type="text" id="newSymbol" required placeholder="例如: 2454 或 NVDA" class="w-full bg-slate-900/90 border border-slate-700 rounded-lg px-3 py-2 text-slate-100 focus:outline-none focus:border-amber-400 font-mono">
+        </div>
+
+        <div>
+          <label class="block text-slate-300 font-semibold mb-1">標的名稱 (Name)</label>
+          <input type="text" id="newName" required placeholder="例如: 聯發科 或 輝達" class="w-full bg-slate-900/90 border border-slate-700 rounded-lg px-3 py-2 text-slate-100 focus:outline-none focus:border-amber-400">
+        </div>
+
+        <div class="grid grid-cols-2 gap-3">
+          <div>
+            <label class="block text-slate-300 font-semibold mb-1">所屬市場</label>
+            <select id="newMarket" class="w-full bg-slate-900/90 border border-slate-700 rounded-lg px-3 py-2 text-slate-100 focus:outline-none focus:border-amber-400">
+              <option value="台股">台股</option>
+              <option value="美股">美股</option>
+              <option value="全球">全球/期貨</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-slate-300 font-semibold mb-1">關聯主要產業因子</label>
+            <select id="newFactor" class="w-full bg-slate-900/90 border border-slate-700 rounded-lg px-3 py-2 text-slate-100 focus:outline-none focus:border-amber-400">
+              <option value="f_foundry">晶圓代工與先進製程</option>
+              <option value="f_ai_cloud">AI 雲端算力與資本支出</option>
+              <option value="f_server_power">AI 資料中心電力與散熱</option>
+              <option value="f_ev_auto">電動車與無人自駕</option>
+              <option value="f_satellite">低軌衛星與航太通信</option>
+              <option value="f_rates">實質利率 / 美元走勢</option>
+              <option value="f_banking_spread">銀行存貸利差與企金</option>
+              <option value="f_green_energy">綠能儲能與碳權</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-slate-300 font-semibold mb-1">投資觀點 / 備忘說明 (可選)</label>
+          <textarea id="newSummary" rows="2" placeholder="簡述您的投資邏輯或關注重點..." class="w-full bg-slate-900/90 border border-slate-700 rounded-lg px-3 py-2 text-slate-100 focus:outline-none focus:border-amber-400"></textarea>
+        </div>
+
+        <div class="pt-3 flex items-center justify-end space-x-2 border-t border-slate-800">
+          <button type="button" onclick="closeAddTargetModal()" class="px-4 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-slate-300">取消</button>
+          <button type="submit" class="px-4 py-2 rounded-lg bg-amber-500 hover:bg-amber-400 text-slate-950 font-bold transition">加入傳導星系</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    // 初始化 Lucide 圖標
+    lucide.createIcons();
+
+    // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
+    const embeddedGraphData = {
+  "updatedAt": "2026-09-13 17:20",
+  "events": [
+    {
+      "id": "e_breaking_1",
+      "name": "⚡ 魏哲家說繼續買！外媒曝台積電「2027目...",
+      "date": "09-13",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "魏哲家說繼續買！外媒曝台積電「2027目標價」潛在漲幅逾5成 點名這領域也缺晶片",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 13 Sep 2026 04:48:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOaVREQlhYcVlVOHEwbDdIRVZGNjNrQW1iSnllWE1SRGRFc2I3LTRGdC1aYjAzNWZKUC03bDV4T2czb25mNm15aVdFYURxSEI4N285SXl4LUhHU25DMUdvOXdsOEwybVE4eEE0MXgtWEVBMDg5QnpmR0dNT29QbXZuTklUOHdpN1ZLMlRRWThlTGJIQ04wVlNIWnFkNE1ScjUyM2ptLWtQRGJxTkFSSDh4em1EamwyRENGWVhQeUNiZ2VtVTJjemVtdmZmSjBKQk8wSlQyS3hYcmFKV05UOHlLVEpIWVRNRTl5ZHVseGo5eTFQeVNrZVB2OHc5MkZQS2xhclExVW5KcEROUE1iekJEVnpNMVpHa0p6aEVmNl9tbUI1SzZwa3liRjhtRWJUUV92TVNGdF9aejR4Z0IwSnBkd3Q3UGlKSVN0M3VPa0tveE1nck9QUHpNUzY4Y3QzOUFPODMwNVltWHhVam5FRDIyc1NSMkJHODRkSjNPZTRuVjdHdkJMUHZIa2dqWENlVXl4TWxBaGtURDktNi10QmlmYlEyeU8yb2owbWdCZU05bDRoZmY2a0hBb1BFaThfM0RHOC1Pc0VfMl9reVpxUkVPNFZVUnRUUjFQRFVv?oc=5",
+      "desc": "【Yahoo股市】魏哲家說繼續買！外媒曝台積電「2027目標價」潛在漲幅逾5成 點名這領域也缺晶片",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
+      "name": "⚡ 台積電、記憶體未來3至5年選誰？PTT答...",
+      "date": "09-13",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電、記憶體未來3至5年選誰？PTT答案偏一邊…反推0050：何必二選一",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 13 Sep 2026 05:14:10 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tT2xkdDVSXzV5b0lLTUFOSzJ4OHNyaFg5UlRFcVdnZ1Bpc25rYS1GWmFwSTllUDN4R2YtUVNUV1FnSzFQRS0yRHRJVUpHZVNzNGfSAVdBVV95cUxOa1pfVU5oeWszc0R5VW9zWWtJOGRtSWc4b3ZFOXRVT0FYeHB5MW02SjZfWUtEejd1cXhudnRIOVpIOEpqRlVhZzJRa25iSnQtQzhnUG1jNDQ?oc=5",
+      "desc": "【UDN】台積電、記憶體未來3至5年選誰？PTT答案偏一邊…反推0050：何必二選一",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 蘋果新機亮相、台積電8月營收首度突破5字...",
+      "date": "09-13",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "蘋果新機亮相、台積電8月營收首度突破5字頭、8月CPI再踩紅線 本周大事回顧",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Sun, 13 Sep 2026 04:13:01 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43Z0xFLVZxUU8yb1lSQjJMLUowSGZLcVhjVFlQOGFZWVlGVjdyQTIwSFNrWWM4cnZFQVA4ZElla2FiUTNfWU0xUTUwNEwxdDg?oc=5",
+      "desc": "【news.cnyes.com】蘋果新機亮相、台積電8月營收首度突破5字頭、8月CPI再踩紅線 本周大事回顧",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 美國聯準會將召開利率會議華許公信力面臨考...",
+      "date": "09-13",
+      "category": "突發總經",
+      "isBreaking": true,
+      "newsTitle": "美國聯準會將召開利率會議華許公信力面臨考驗| 國際",
+      "newsSource": "中央社 CNA",
+      "newsDate": "Sun, 13 Sep 2026 07:30:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIcHlaQlQzZWJxRFlyWEEwYnZaMkcxSUx6bGRycVd4aTQyY01ERU8zMUVSSWZPQktib2sxNnhaTFR6NFIwMXBOdlllOGJ1SE13M05kdDJCQmQtMHlZQzZZ?oc=5",
+      "desc": "【中央社 CNA】美國聯準會將召開利率會議華許公信力面臨考驗| 國際",
+      "impactTargets": [
+        "t_gold"
+      ],
+      "primaryChain": [
+        "f_rates",
+        "t_gold"
+      ]
+    },
+    {
+      "id": "e_fomc",
+      "name": "FOMC 利率決議",
+      "date": "09-18",
+      "category": "宏觀央行",
+      "desc": "聯準會最新利率決策與經濟預測點陣圖公布",
+      "impactTargets": [
+        "t_gold",
+        "t_qqq",
+        "t_voo",
+        "t_bank_sp",
+        "t_bank_sinopac"
+      ],
+      "primaryChain": [
+        "f_rates",
+        "f_dollar",
+        "t_gold"
+      ]
+    },
+    {
+      "id": "e_cpi",
+      "name": "美國 8 月 CPI 物價指數",
+      "date": "09-11",
+      "category": "通膨指標",
+      "desc": "牽動市場對後續降息碼數預期，左右股債估值",
+      "impactTargets": [
+        "t_gold",
+        "t_qqq",
+        "t_voo"
+      ],
+      "primaryChain": [
+        "f_inflation",
+        "f_rates",
+        "t_qqq"
+      ]
+    },
+    {
+      "id": "e_tsmc_revenue",
+      "name": "台積電 8 月營收公布",
+      "date": "09-10",
+      "category": "半導體指標",
+      "desc": "驗證 AI 晶片先進製程 (3nm/5nm) 與 CoWoS 產能吃緊狀況",
+      "impactTargets": [
+        "t_2330",
+        "t_0050",
+        "t_00935",
+        "t_2308"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330",
+        "t_0050"
+      ]
+    },
+    {
+      "id": "e_google_ai",
+      "name": "Google Gemini 旗艦發布會",
+      "date": "09-24",
+      "category": "科技巨頭",
+      "desc": "展示下一代多模態模型與擴大 Cloud TPU 資本支出計畫",
+      "impactTargets": [
+        "t_googl",
+        "t_2330",
+        "t_2308",
+        "t_qqq"
+      ],
+      "primaryChain": [
+        "f_ai_cloud",
+        "t_googl",
+        "f_server_power",
+        "t_2308"
+      ]
+    },
+    {
+      "id": "e_tesla_robotaxi",
+      "name": "Tesla Robotaxi 發表會",
+      "date": "10-10",
+      "category": "自動駕駛",
+      "desc": "端到端 FSD V13 商業化與 Cybercab 無人車隊實體亮相",
+      "impactTargets": [
+        "t_tsla",
+        "t_qqq",
+        "t_00935"
+      ],
+      "primaryChain": [
+        "f_ev_auto",
+        "t_tsla",
+        "t_qqq"
+      ]
+    },
+    {
+      "id": "e_spacex_starship",
+      "name": "SpaceX Starship 第五次軌道試飛",
+      "date": "09-20",
+      "category": "航太低軌衛星",
+      "desc": "嘗試超重型助推器機械手臂塔架捕捉，星鏈直連手機衛星部署加速",
+      "impactTargets": [
+        "t_spacex",
+        "t_2308"
+      ],
+      "primaryChain": [
+        "f_satellite",
+        "t_spacex",
+        "t_2308"
+      ]
+    },
+    {
+      "id": "e_taiwan_cbam",
+      "name": "台灣碳費審議與公布起徵點",
+      "date": "09-15",
+      "category": "淨零綠能",
+      "desc": "台灣碳費標準定案，啟動企業自主減量計畫與綠電儲能布局",
+      "impactTargets": [
+        "t_1101",
+        "t_bank_sinopac"
+      ],
+      "primaryChain": [
+        "f_green_energy",
+        "t_1101"
+      ]
+    },
+    {
+      "id": "e_quadruple_witching",
+      "name": "美股四巫日（期貨選擇權結算）",
+      "date": "09-20",
+      "category": "市場衍生品",
+      "desc": "季底機構大規模再平衡與避險部位轉倉，波動率放大",
+      "impactTargets": [
+        "t_qqq",
+        "t_voo"
+      ],
+      "primaryChain": [
+        "f_liquidity",
+        "t_qqq",
+        "t_voo"
+      ]
+    }
+  ],
+  "factors": [
+    {
+      "id": "f_rates",
+      "name": "實質利率 / 美債殖利率",
+      "category": "總經貨幣"
+    },
+    {
+      "id": "f_dollar",
+      "name": "美元指數 DXY",
+      "category": "匯率因子"
+    },
+    {
+      "id": "f_inflation",
+      "name": "通膨與就業預期",
+      "category": "總經物價"
+    },
+    {
+      "id": "f_liquidity",
+      "name": "市場季底流動性",
+      "category": "資金動能"
+    },
+    {
+      "id": "f_foundry",
+      "name": "晶圓代工與先進封裝",
+      "category": "半導體製程"
+    },
+    {
+      "id": "f_ai_cloud",
+      "name": "AI 雲端算力與資本支出",
+      "category": "科技趨勢"
+    },
+    {
+      "id": "f_server_power",
+      "name": "AI 資料中心電力與散熱",
+      "category": "伺服器基建"
+    },
+    {
+      "id": "f_ev_auto",
+      "name": "電動車與無人自駕",
+      "category": "智慧載具"
+    },
+    {
+      "id": "f_satellite",
+      "name": "低軌衛星與航太通信",
+      "category": "太空通信"
+    },
+    {
+      "id": "f_green_energy",
+      "name": "綠能儲能與碳權資產",
+      "category": "ESG永續"
+    },
+    {
+      "id": "f_banking_spread",
+      "name": "台美銀行存貸利差與企金",
+      "category": "金融產業"
+    }
+  ],
+  "targets": [
+    {
+      "id": "t_gold",
+      "symbol": "GOLD",
+      "name": "黃金現貨 / 存摺",
+      "type": "避險貴金屬",
+      "market": "全球",
+      "score": 100,
+      "color": "#eab308",
+      "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
+      "price": 4408.9,
+      "currency": "美元",
+      "change_pct": 0.34
+    },
+    {
+      "id": "t_qqq",
+      "symbol": "QQQ",
+      "name": "Invesco 那斯達克100 ETF",
+      "type": "美股大盤/科技",
+      "market": "美股",
+      "score": 100,
+      "color": "#38bdf8",
+      "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
+      "price": 714.88,
+      "currency": "美元",
+      "change_pct": -0.39
+    },
+    {
+      "id": "t_voo",
+      "symbol": "VOO",
+      "name": "Vanguard 標普500 ETF",
+      "type": "美股全市場",
+      "market": "美股",
+      "score": 100,
+      "color": "#60a5fa",
+      "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
+      "price": 702.56,
+      "currency": "美元",
+      "change_pct": -1.15
+    },
+    {
+      "id": "t_googl",
+      "symbol": "GOOGL",
+      "name": "Alphabet (Google)",
+      "type": "AI與雲端巨頭",
+      "market": "美股",
+      "score": 97,
+      "color": "#f97316",
+      "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
+      "price": 338.5,
+      "currency": "美元",
+      "change_pct": -1.16
+    },
+    {
+      "id": "t_tsla",
+      "symbol": "TSLA",
+      "name": "Tesla (特斯拉)",
+      "type": "自駕與人形機器人",
+      "market": "美股",
+      "score": 93,
+      "color": "#ef4444",
+      "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
+      "price": 365.44,
+      "currency": "美元",
+      "change_pct": -2.9
+    },
+    {
+      "id": "t_spacex",
+      "symbol": "SPACEX",
+      "name": "SpaceX (星鏈/星艦概念)",
+      "type": "航太與低軌衛星",
+      "market": "美股未上市/供應鏈",
+      "score": 87,
+      "color": "#a855f7",
+      "summary": "全球商業航太與低軌衛星壟斷龍頭，帶動地面接收站、高頻微波元件與車載電力供應鏈。",
+      "price": 210.0,
+      "currency": "美元(估值)",
+      "change_pct": 1.5
+    },
+    {
+      "id": "t_2330",
+      "symbol": "2330",
+      "name": "台積電 (TSMC)",
+      "type": "晶圓代工霸主",
+      "market": "台股",
+      "score": 100,
+      "color": "#f59e0b",
+      "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
+      "price": 2410.0,
+      "currency": "台幣",
+      "change_pct": -2.03
+    },
+    {
+      "id": "t_2308",
+      "symbol": "2308",
+      "name": "台達電 (Delta)",
+      "type": "AI電力與散熱綠能",
+      "market": "台股",
+      "score": 100,
+      "color": "#10b981",
+      "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
+      "price": 1620.0,
+      "currency": "台幣",
+      "change_pct": -12.43
+    },
+    {
+      "id": "t_0050",
+      "symbol": "0050",
+      "name": "元大台灣50 ETF",
+      "type": "台股大盤權值",
+      "market": "台股",
+      "score": 99,
+      "color": "#3b82f6",
+      "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
+      "price": 107.7,
+      "currency": "台幣",
+      "change_pct": -2.0
+    },
+    {
+      "id": "t_00935",
+      "symbol": "00935",
+      "name": "野村台灣創新科技50",
+      "type": "半導體創新主題",
+      "market": "台股",
+      "score": 100,
+      "color": "#8b5cf6",
+      "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
+      "price": 58.55,
+      "currency": "台幣",
+      "change_pct": -3.38
+    },
+    {
+      "id": "t_1101",
+      "symbol": "1101",
+      "name": "台泥 (Taiwan Cement)",
+      "type": "低碳儲能與傳產轉型",
+      "market": "台股",
+      "score": 84,
+      "color": "#14b8a6",
+      "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
+      "price": 24.5,
+      "currency": "台幣",
+      "change_pct": 0.82
+    },
+    {
+      "id": "t_bank_sp",
+      "symbol": "5876",
+      "name": "上海商銀",
+      "type": "外匯企金績優銀行",
+      "market": "台股",
+      "score": 81,
+      "color": "#06b6d4",
+      "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
+      "price": 48.65,
+      "currency": "台幣",
+      "change_pct": 3.62
+    },
+    {
+      "id": "t_bank_sinopac",
+      "symbol": "2890",
+      "name": "永豐金控",
+      "type": "證券經紀與綠能金控",
+      "market": "台股",
+      "score": 94,
+      "color": "#ec4899",
+      "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
+      "price": 43.7,
+      "currency": "台幣",
+      "change_pct": 2.58
+    }
+  ],
+  "links": [
+    {
+      "source": "e_breaking_1",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_2",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_3",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_4",
+      "target": "f_rates",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發總經"
+    },
+    {
+      "source": "e_fomc",
+      "target": "f_rates",
+      "weight": 95,
+      "desc": "降息決策直接改變基準利率"
+    },
+    {
+      "source": "f_rates",
+      "target": "f_dollar",
+      "weight": 90,
+      "desc": "美債殖利率下行壓抑美元"
+    },
+    {
+      "source": "f_dollar",
+      "target": "t_gold",
+      "weight": 95,
+      "desc": "美元走弱，黃金現貨即刻飆升 (T+0)"
+    },
+    {
+      "source": "f_rates",
+      "target": "t_qqq",
+      "weight": 85,
+      "desc": "實質利率走低修復科技股遠期估值"
+    },
+    {
+      "source": "f_rates",
+      "target": "t_voo",
+      "weight": 80,
+      "desc": "降低企業整體融資成本"
+    },
+    {
+      "source": "f_rates",
+      "target": "f_banking_spread",
+      "weight": 75,
+      "desc": "降息週期重塑銀行淨利差 NIM"
+    },
+    {
+      "source": "f_banking_spread",
+      "target": "t_bank_sp",
+      "weight": 80,
+      "desc": "海外美元存放款利差結構調整"
+    },
+    {
+      "source": "f_banking_spread",
+      "target": "t_bank_sinopac",
+      "weight": 82,
+      "desc": "債券部位未實現利益回升，綠能融資利潤"
+    },
+    {
+      "source": "e_cpi",
+      "target": "f_inflation",
+      "weight": 92,
+      "desc": "通膨讀數影響利率預期"
+    },
+    {
+      "source": "f_inflation",
+      "target": "f_rates",
+      "weight": 88,
+      "desc": "低於預期將強化降息信心"
+    },
+    {
+      "source": "e_tsmc_revenue",
+      "target": "f_foundry",
+      "weight": 98,
+      "desc": "驗證全球AI晶片出貨強度"
+    },
+    {
+      "source": "f_foundry",
+      "target": "t_2330",
+      "weight": 100,
+      "desc": "先進製程稼動率破百 (T+0)"
+    },
+    {
+      "source": "t_2330",
+      "target": "t_0050",
+      "weight": 95,
+      "desc": "台積電佔 0050 權重逾 50%"
+    },
+    {
+      "source": "t_2330",
+      "target": "t_00935",
+      "weight": 90,
+      "desc": "台積電為半導體創新最大成分股"
+    },
+    {
+      "source": "e_google_ai",
+      "target": "f_ai_cloud",
+      "weight": 90,
+      "desc": "Google 加碼雲端自研晶片"
+    },
+    {
+      "source": "f_ai_cloud",
+      "target": "t_googl",
+      "weight": 92,
+      "desc": "AI 產品化變現能力提升"
+    },
+    {
+      "source": "f_ai_cloud",
+      "target": "f_foundry",
+      "weight": 85,
+      "desc": "委託台積電代工 TPU"
+    },
+    {
+      "source": "f_ai_cloud",
+      "target": "f_server_power",
+      "weight": 88,
+      "desc": "百萬瓦級資料中心迫切需要高功率電力架構"
+    },
+    {
+      "source": "f_server_power",
+      "target": "t_2308",
+      "weight": 94,
+      "desc": "台達電通吃伺服器高壓電源與散熱 (T+2)"
+    },
+    {
+      "source": "t_googl",
+      "target": "t_qqq",
+      "weight": 85,
+      "desc": "Google 佔 QQQ 前五大權重"
+    },
+    {
+      "source": "e_tesla_robotaxi",
+      "target": "f_ev_auto",
+      "weight": 90,
+      "desc": "自動駕駛里程碑落地"
+    },
+    {
+      "source": "f_ev_auto",
+      "target": "t_tsla",
+      "weight": 95,
+      "desc": "市場重新對特斯拉按 AI/機器人估值"
+    },
+    {
+      "source": "t_tsla",
+      "target": "t_qqq",
+      "weight": 80,
+      "desc": "帶動科技成長股動能"
+    },
+    {
+      "source": "t_tsla",
+      "target": "t_00935",
+      "weight": 70,
+      "desc": "台系車載半導體供應鏈聯動"
+    },
+    {
+      "source": "e_spacex_starship",
+      "target": "f_satellite",
+      "weight": 95,
+      "desc": "低軌衛星進入常態化低成本密集發射"
+    },
+    {
+      "source": "f_satellite",
+      "target": "t_spacex",
+      "weight": 98,
+      "desc": "星鏈用戶突破數百萬，商用化提速"
+    },
+    {
+      "source": "f_satellite",
+      "target": "t_2308",
+      "weight": 80,
+      "desc": "台達電供應衛星與地面通訊設備關鍵電源"
+    },
+    {
+      "source": "e_taiwan_cbam",
+      "target": "f_green_energy",
+      "weight": 88,
+      "desc": "台灣碳定價上路，低碳門檻確立"
+    },
+    {
+      "source": "f_green_energy",
+      "target": "t_1101",
+      "weight": 92,
+      "desc": "台泥低碳水泥與儲能櫃享競爭優勢"
+    },
+    {
+      "source": "f_green_energy",
+      "target": "t_bank_sinopac",
+      "weight": 75,
+      "desc": "永豐金綠能電廠融資龍頭"
+    },
+    {
+      "source": "e_quadruple_witching",
+      "target": "f_liquidity",
+      "weight": 88,
+      "desc": "季底巨額期現貨轉倉波動"
+    },
+    {
+      "source": "f_liquidity",
+      "target": "t_qqq",
+      "weight": 85,
+      "desc": "巨型科技權值股劇烈震盪"
+    },
+    {
+      "source": "f_liquidity",
+      "target": "t_voo",
+      "weight": 85,
+      "desc": "標普500再平衡放量"
+    }
+  ]
+};
+
+    // 啟動視覺化
+    window.addEventListener("DOMContentLoaded", () => {
+      initTransmissionGraph(embeddedGraphData);
+    });
+    // 若 DOM 已就緒則立即執行
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+      initTransmissionGraph(embeddedGraphData);
+    }
+
+    function initTransmissionGraph(graphData) {
+      const { events, factors, targets, links } = graphData;
+
+      // 渲染左側排程與突發事件
+      const eventsContainer = document.getElementById('eventsList');
+      eventsContainer.innerHTML = '';
+      events.forEach(evt => {
+        const isBreaking = evt.isBreaking || evt.id.startsWith('e_breaking_');
+        const div = document.createElement('div');
+        div.className = `group p-2.5 rounded-lg ${isBreaking ? 'bg-rose-950/30 hover:bg-rose-900/40 border-rose-500/40' : 'bg-slate-900/50 hover:bg-purple-950/30 border-slate-800/60 hover:border-purple-500/50'} border transition cursor-pointer flex items-start space-x-3`;
+        div.onclick = () => selectNode(evt.id, 'event');
+        div.innerHTML = `
+          <div class="text-center font-mono ${isBreaking ? 'bg-rose-500/20 text-rose-300 border-rose-500/40' : 'bg-purple-500/10 text-purple-300 border-purple-500/20'} border px-2 py-1 rounded">
+            <div class="text-[9px] uppercase ${isBreaking ? 'text-rose-400 font-black animate-pulse' : 'text-purple-400'}">${isBreaking ? '突發' : '排程'}</div>
+            <div class="text-xs font-bold">${evt.date.split('-')[1] || evt.date}</div>
+          </div>
+          <div class="flex-1 min-w-0">
+            <div class="flex items-center justify-between">
+              <h4 class="text-xs font-bold ${isBreaking ? 'text-rose-200 group-hover:text-rose-300' : 'text-slate-200 group-hover:text-purple-300'} truncate">${evt.name}</h4>
+              <span class="text-[10px] ${isBreaking ? 'text-rose-400' : 'text-slate-500'} font-mono">${evt.category}</span>
+            </div>
+            <p class="text-[11px] text-slate-400 truncate mt-0.5">${evt.desc}</p>
+          </div>
+        `;
+        eventsContainer.appendChild(div);
+      });
+
+      // 更新事件數量徽章
+      const breakingCount = events.filter(e => e.isBreaking || e.id.startsWith('e_breaking_')).length;
+      document.getElementById('eventCountBadge').innerHTML = `${events.length} 件 ${breakingCount > 0 ? `<span class="text-rose-400 font-bold ml-1">(${breakingCount} 突發)</span>` : ''}`;
+
+      // 渲染左側被牽動標的排行榜 (含即時價格與漲跌幅)
+      const targetsContainer = document.getElementById('targetsList');
+      targetsContainer.innerHTML = '';
+      const sortedTargets = [...targets].sort((a, b) => b.score - a.score);
+      sortedTargets.forEach((tgt, index) => {
+        const hasPrice = tgt.price !== undefined && tgt.price !== null;
+        const changePct = tgt.change_pct || 0;
+        const isPositive = changePct >= 0;
+        const priceColor = isPositive ? 'text-rose-400' : 'text-emerald-400';
+        
+        const div = document.createElement('div');
+        div.className = 'group p-2 rounded-lg bg-slate-900/40 hover:bg-amber-950/20 border border-slate-800/50 hover:border-amber-500/40 transition cursor-pointer flex items-center justify-between';
+        div.onclick = () => selectNode(tgt.id, 'target');
+        div.innerHTML = `
+          <div class="flex items-center space-x-2.5 min-w-0">
+            <span class="font-mono text-[11px] font-bold ${index < 3 ? 'text-amber-400' : 'text-slate-500'} w-4">
+              0${index + 1}
+            </span>
+            <div class="truncate">
+              <div class="flex items-center space-x-1.5">
+                <span class="text-xs font-bold text-slate-200 group-hover:text-amber-300">${tgt.symbol}</span>
+                <span class="text-[11px] text-slate-400 truncate">${tgt.name}</span>
+              </div>
+              <div class="text-[10px] text-slate-500 font-mono flex items-center space-x-1.5">
+                <span>${tgt.type}</span>
+                ${hasPrice ? `<span class="${priceColor} font-bold">${tgt.price} (${isPositive ? '+' : ''}${changePct}%)</span>` : ''}
+              </div>
+            </div>
+          </div>
+          <div class="text-right flex-shrink-0 pl-2">
+            <span class="text-xs font-mono font-bold text-amber-400">${tgt.score}</span>
+            <div class="text-[9px] text-slate-500">敏感權重</div>
+          </div>
+        `;
+        targetsContainer.appendChild(div);
+      });
+
+      // ==================== D3 視覺化星系圖繪製 ====================
+      const svg = d3.select("#transmissionSvg");
+      const container = document.getElementById("graphContainer");
+      const width = container.clientWidth;
+      const height = container.clientHeight;
+
+      svg.selectAll("*").remove();
+
+      // 定義 SVG 濾鏡 (霓虹發光 Glow Filter)
+      const defs = svg.append("defs");
+
+      // 建立不同顏色的 Glow 濾鏡
+      function makeGlowFilter(id, color) {
+        const filter = defs.append("filter")
+          .attr("id", id)
+          .attr("x", "-50%")
+          .attr("y", "-50%")
+          .attr("width", "200%")
+          .attr("height", "200%");
+
+        filter.append("feDropShadow")
+          .attr("dx", 0)
+          .attr("dy", 0)
+          .attr("stdDeviation", 6)
+          .attr("flood-color", color)
+          .attr("flood-opacity", 0.8);
+      }
+
+      makeGlowFilter("glow-gold", "#eab308");
+      makeGlowFilter("glow-purple", "#c084fc");
+      makeGlowFilter("glow-blue", "#38bdf8");
+      makeGlowFilter("glow-green", "#34d399");
+
+      // 箭頭 marker
+      defs.append("marker")
+        .attr("id", "arrowhead")
+        .attr("viewBox", "0 -5 10 10")
+        .attr("refX", 18)
+        .attr("refY", 0)
+        .attr("markerWidth", 5)
+        .attr("markerHeight", 5)
+        .attr("orient", "auto")
+        .append("path")
+        .attr("d", "M0,-5L10,0L0,5")
+        .attr("fill", "#64748b");
+
+      const g = svg.append("g").attr("id", "mainGraphGroup");
+
+      // 支援 Zoom & Pan 縮放平移
+      const zoom = d3.zoom()
+        .scaleExtent([0.5, 3])
+        .on("zoom", (event) => {
+          g.attr("transform", event.transform);
+        });
+
+      svg.call(zoom);
+
+      // 設定三層軌道半徑
+      const R_TARGET = Math.min(width, height) * 0.18;   // 內層：核心標的 (13項)
+      const R_FACTOR = Math.min(width, height) * 0.32;   // 中層：產業與經濟因子 (11項)
+      const R_EVENT  = Math.min(width, height) * 0.44;   // 外層：排程重大事件 (8項)
+
+      const cx = width / 2;
+      const cy = height / 2;
+
+      // 繪製同心圓星軌 (Orbit Rings)
+      const orbitGroup = g.append("g").attr("class", "orbits");
+      [R_TARGET, R_FACTOR, R_EVENT].forEach((r, idx) => {
+        orbitGroup.append("circle")
+          .attr("cx", cx)
+          .attr("cy", cy)
+          .attr("r", r)
+          .attr("class", `orbit-ring ring-${idx}`);
+      });
+
+      // 計算各節點在各自軌道上的極座標角度
+      const allNodes = [];
+
+      // 1. 內圈：Targets (13項)
+      targets.forEach((t, i) => {
+        const angle = (i / targets.length) * 2 * Math.PI - Math.PI / 2;
+        allNodes.push({
+          ...t,
+          layer: 'target',
+          radius: R_TARGET,
+          x: cx + R_TARGET * Math.cos(angle),
+          y: cy + R_TARGET * Math.sin(angle),
+          angle: angle
+        });
+      });
+
+      // 2. 中圈：Factors (11項)
+      factors.forEach((f, i) => {
+        const angle = (i / factors.length) * 2 * Math.PI - Math.PI / 2;
+        allNodes.push({
+          ...f,
+          layer: 'factor',
+          radius: R_FACTOR,
+          x: cx + R_FACTOR * Math.cos(angle),
+          y: cy + R_FACTOR * Math.sin(angle),
+          angle: angle
+        });
+      });
+
+      // 3. 外圈：Events (8項)
+      events.forEach((e, i) => {
+        const angle = (i / events.length) * 2 * Math.PI - Math.PI / 2;
+        allNodes.push({
+          ...e,
+          layer: 'event',
+          radius: R_EVENT,
+          x: cx + R_EVENT * Math.cos(angle),
+          y: cy + R_EVENT * Math.sin(angle),
+          angle: angle
+        });
+      });
+
+      const nodeMap = new Map(allNodes.map(n => [n.id, n]));
+
+      // 轉換 links 物件
+      const linkObjects = links.map(l => ({
+        ...l,
+        sourceNode: nodeMap.get(l.source),
+        targetNode: nodeMap.get(l.target)
+      })).filter(l => l.sourceNode && l.targetNode);
+
+      // 繪製連線圖層 (Links Layer)
+      const linkGroup = g.append("g").attr("class", "links");
+      const linkElements = linkGroup.selectAll("path")
+        .data(linkObjects)
+        .enter()
+        .append("path")
+        .attr("d", d => {
+          // 產生圓滑貝茲曲線連線
+          const sx = d.sourceNode.x;
+          const sy = d.sourceNode.y;
+          const tx = d.targetNode.x;
+          const ty = d.targetNode.y;
+          const dx = tx - sx;
+          const dy = ty - sy;
+          const dr = Math.sqrt(dx * dx + dy * dy) * 1.2;
+          return `M${sx},${sy}A${dr},${dr} 0 0,1 ${tx},${ty}`;
+        })
+        .attr("fill", "none")
+        .attr("stroke", "rgba(255, 255, 255, 0.08)")
+        .attr("stroke-width", 1.2)
+        .attr("marker-end", "url(#arrowhead)");
+
+      // 繪製節點圖層 (Nodes Layer)
+      const nodeGroup = g.append("g").attr("class", "nodes");
+      const nodeElements = nodeGroup.selectAll("g")
+        .data(allNodes)
+        .enter()
+        .append("g")
+        .attr("class", "node-item cursor-pointer")
+        .attr("transform", d => `translate(${d.x}, ${d.y})`)
+        .on("click", (event, d) => {
+          event.stopPropagation();
+          selectNode(d.id, d.layer);
+        });
+
+      // 透明擴大感應區 (半徑 24px，確保無論手指或滑鼠都極好點選)
+      nodeElements.append("circle")
+        .attr("r", 24)
+        .attr("fill", "transparent")
+        .attr("class", "cursor-pointer");
+
+      // 節點外環微光裝飾
+      nodeElements.append("circle")
+        .attr("r", d => d.layer === 'target' ? 14 : d.layer === 'factor' ? 8 : 10)
+        .attr("fill", "none")
+        .attr("stroke", d => {
+          if (d.layer === 'target') return d.color || '#eab308';
+          if (d.layer === 'factor') return '#10b981';
+          return '#a855f7';
+        })
+        .attr("stroke-width", 1)
+        .attr("opacity", 0.4);
+
+      // 節點本體實心圓
+      nodeElements.append("circle")
+        .attr("class", "node-core node-glow")
+        .attr("r", d => d.layer === 'target' ? 8 : d.layer === 'factor' ? 5 : 6)
+        .attr("fill", d => {
+          if (d.layer === 'target') return d.color || '#eab308';
+          if (d.layer === 'factor') return '#34d399';
+          return '#c084fc';
+        });
+
+      // 節點文字標籤 (Label)
+      nodeElements.append("text")
+        .attr("dy", d => d.layer === 'target' ? 24 : d.y > cy ? 18 : -14)
+        .attr("text-anchor", "middle")
+        .attr("class", d => `text-[11px] font-mono tracking-tight font-medium ${
+          d.layer === 'target' ? 'fill-amber-200 font-bold text-xs' : d.layer === 'factor' ? 'fill-slate-400 text-[10px]' : 'fill-purple-300'
+        }`)
+        .text(d => d.symbol || d.name);
+
+      // 重置視角按鈕事件
+      document.getElementById('resetViewBtn').onclick = () => {
+        svg.transition().duration(750).call(
+          zoom.transform,
+          d3.zoomIdentity
+        );
+        resetHighlight();
+      };
+
+      // 點擊空白處重置高亮
+      svg.on("click", () => {
+        resetHighlight();
+      });
+
+      // ==================== 節點選取與高亮邏輯 ====================
+      window.selectNode = function(nodeId, layerType) {
+        const selected = nodeMap.get(nodeId);
+        if (!selected) return;
+
+        // 1. 找出所有與該節點直接或間接關聯的連線與節點 (BFS 傳導鏈路搜尋)
+        const connectedNodeIds = new Set([nodeId]);
+        const activeLinkObjects = [];
+
+        // 搜尋向下或向上的連線
+        links.forEach(l => {
+          if (l.source === nodeId || l.target === nodeId) {
+            connectedNodeIds.add(l.source);
+            connectedNodeIds.add(l.target);
+            activeLinkObjects.push(l);
+          }
+        });
+
+        // 若點擊的是事件，進一步尋找二階傳導（走兩步到標的）
+        if (selected.layer === 'event') {
+          links.forEach(l1 => {
+            if (l1.source === nodeId) {
+              links.forEach(l2 => {
+                if (l2.source === l1.target) {
+                  connectedNodeIds.add(l2.target);
+                  activeLinkObjects.push(l2);
+                }
+              });
+            }
+          });
+        }
+
+        // 若點擊的是標的，反向尋找所有匯入該標的的事件與因子
+        if (selected.layer === 'target') {
+          links.forEach(l1 => {
+            if (l1.target === nodeId) {
+              links.forEach(l2 => {
+                if (l2.target === l1.source) {
+                  connectedNodeIds.add(l2.source);
+                  activeLinkObjects.push(l2);
+                }
+              });
+            }
+          });
+        }
+
+        // 2. 更新視覺高亮樣式
+        nodeElements.selectAll(".node-core")
+          .attr("opacity", d => connectedNodeIds.has(d.id) ? 1 : 0.15)
+          .style("filter", d => {
+            if (d.id === nodeId) return "drop-shadow(0 0 14px #eab308)";
+            if (connectedNodeIds.has(d.id)) return "drop-shadow(0 0 8px #38bdf8)";
+            return "none";
+          });
+
+        nodeElements.selectAll("text")
+          .attr("opacity", d => connectedNodeIds.has(d.id) ? 1 : 0.2);
+
+        linkElements
+          .attr("stroke", d => {
+            const isActive = activeLinkObjects.some(al => al.source === d.source && al.target === d.target);
+            return isActive ? "#38bdf8" : "rgba(255, 255, 255, 0.03)";
+          })
+          .attr("stroke-width", d => {
+            const isActive = activeLinkObjects.some(al => al.source === d.source && al.target === d.target);
+            return isActive ? 2.5 : 1;
+          })
+          .attr("class", d => {
+            const isActive = activeLinkObjects.some(al => al.source === d.source && al.target === d.target);
+            return isActive ? "link-flow" : "";
+          });
+
+        // 3. 更新下方動態摘要列
+        updateSummaryBox(selected, activeLinkObjects, connectedNodeIds);
+
+        // 4. 更新右側抽屜詳情
+        updateDrawer(selected, activeLinkObjects);
+      };
+
+      // 頂部市場切換過濾邏輯
+      window.filterMarket = function(marketType) {
+        // 更新按鈕外觀樣式
+        ['all', 'tw', 'us', 'macro'].forEach(m => {
+          const btn = document.getElementById(`nav-${m}`);
+          if (m === marketType) {
+            btn.className = "px-3 py-1.5 rounded-md bg-amber-500/20 text-amber-300 font-semibold border border-amber-500/30 transition";
+          } else {
+            btn.className = "px-3 py-1.5 rounded-md text-slate-400 hover:text-slate-200 transition";
+          }
+        });
+
+        if (marketType === 'all') {
+          resetHighlight();
+          return;
+        }
+
+        const activeIds = new Set();
+        targets.forEach(t => {
+          if (marketType === 'tw' && (t.market === '台股' || t.symbol.includes('00') || ['2330', '2308', '1101', '5876', '2890'].includes(t.symbol))) {
+            activeIds.add(t.id);
+          } else if (marketType === 'us' && (t.market.includes('美股') && t.id !== 't_gold')) {
+            activeIds.add(t.id);
+          } else if (marketType === 'macro' && (t.id === 't_gold' || t.type.includes('貴金屬') || t.symbol === 'GOLD')) {
+            activeIds.add(t.id);
+          }
+        });
+
+        // 納入這些標的的上游關聯連線與節點
+        const activeLinks = [];
+        links.forEach(l => {
+          if (activeIds.has(l.target)) {
+            activeIds.add(l.source);
+            activeLinks.push(l);
+            // 再向上一層尋找事件
+            links.forEach(l0 => {
+              if (l0.target === l.source) {
+                activeIds.add(l0.source);
+                activeLinks.push(l0);
+              }
+            });
+          }
+        });
+
+        // 視覺過濾高亮
+        nodeElements.selectAll(".node-core")
+          .attr("opacity", d => activeIds.has(d.id) ? 1 : 0.12)
+          .style("filter", d => activeIds.has(d.id) ? "drop-shadow(0 0 10px #38bdf8)" : "none");
+
+        nodeElements.selectAll("text")
+          .attr("opacity", d => activeIds.has(d.id) ? 1 : 0.15);
+
+        linkElements
+          .attr("stroke", d => activeLinks.some(al => al.source === d.source && al.target === d.target) ? "#38bdf8" : "rgba(255, 255, 255, 0.02)")
+          .attr("stroke-width", d => activeLinks.some(al => al.source === d.source && al.target === d.target) ? 2 : 0.8)
+          .attr("class", d => activeLinks.some(al => al.source === d.source && al.target === d.target) ? "link-flow" : "");
+
+        const mName = marketType === 'tw' ? '台股核心標的' : marketType === 'us' ? '美股巨頭與指數' : '全球宏觀與避險黃金';
+        document.getElementById('summaryHeader').innerText = `視角切換：${mName}`;
+        document.getElementById('summaryTitle').innerHTML = `已為您聚焦於 <span class="text-amber-400 font-bold">${mName}</span>，已自動串聯其關鍵驅動脈絡。`;
+        document.getElementById('summaryDetail').innerText = "點擊任何聚焦節點可展開其即時行情與最新關聯鏈路。";
+      };
+
+      function resetHighlight() {
+        nodeElements.selectAll(".node-core").attr("opacity", 1).style("filter", "none");
+        nodeElements.selectAll("text").attr("opacity", 1);
+        linkElements
+          .attr("stroke", "rgba(255, 255, 255, 0.08)")
+          .attr("stroke-width", 1.2)
+          .attr("class", "");
+
+        document.getElementById('summaryHeader').innerText = "今日傳導快報";
+        document.getElementById('summaryTitle').innerHTML = `未來 30 天有 8 件排程事件，加總下來被撼動最重的是 <span class="text-amber-400 underline">台積電</span>、<span class="text-yellow-400 underline">黃金現貨</span>、<span class="text-sky-400 underline">QQQ</span>。`;
+        document.getElementById('summaryDetail').innerText = "點擊左側任一排程事件或中央節點，即可即時展開傳導光束與步數延遲。";
+      }
+
+      function updateSummaryBox(node, activeLinks, connectedIds) {
+        const header = document.getElementById('summaryHeader');
+        const title = document.getElementById('summaryTitle');
+        const detail = document.getElementById('summaryDetail');
+
+        if (node.layer === 'event') {
+          header.innerHTML = `<span class="text-purple-400">事件焦點：${node.name} (${node.date})</span>`;
+          
+          // 找出觸達的核心標的
+          const reachedTargets = targets.filter(t => connectedIds.has(t.id));
+          const targetNames = reachedTargets.map(t => `<span class="text-amber-300 font-bold">${t.name}</span>`).join('、');
+          
+          title.innerHTML = `該事件向內傳導，預計直接或間接波及：${targetNames || '周邊產業鏈'}。`;
+          detail.innerHTML = `傳導推演：${node.desc}。歷史統計通常於公佈後 <span class="text-emerald-400 font-bold">T+0 ~ T+2</span> 日內完整定價。`;
+        } else if (node.layer === 'target') {
+          header.innerHTML = `<span class="text-amber-400">核心標的焦點：${node.name} (${node.symbol})</span>`;
+          title.innerHTML = `當前傳導敏感度評分：<span class="text-amber-400 font-bold text-base font-mono">${node.score} 分</span>，關聯鏈路已全數點亮。`;
+          detail.innerHTML = `${node.summary}`;
+        } else {
+          header.innerHTML = `<span class="text-emerald-400">傳導中繼節點：${node.name}</span>`;
+          title.innerHTML = `作為關鍵產業因子，連接了宏觀事件與終端核心標的。`;
+          detail.innerHTML = `觀察上游事件的定價變化，可提前預判對下游關聯標的的資金推移。`;
+        }
+      }
+
+      function updateDrawer(node, activeLinks) {
+        document.getElementById('drawerBadge').innerText = node.layer === 'event' ? (node.isBreaking ? '⚡ 突發非排程新聞' : '重大排程事件') : node.layer === 'target' ? '核心投資標的' : '傳導因子節點';
+        document.getElementById('drawerTitle').innerHTML = `<span>${node.name}</span> ${node.symbol ? `<span class="text-amber-400 text-sm font-mono font-normal">(${node.symbol})</span>` : ''}`;
+        document.getElementById('drawerScore').innerText = node.score ? `${node.score}` : (node.weight ? `${node.weight}` : '88');
+
+        // 若為核心標的且有價格資料，顯示即時報價卡片
+        let cardHtml = '';
+        if (node.layer === 'target' && node.price) {
+          const isPos = (node.change_pct || 0) >= 0;
+          cardHtml = `
+            <div class="flex items-center justify-between p-2.5 mb-2 rounded-lg bg-slate-900 border border-slate-800 font-mono">
+              <span class="text-slate-400 text-xs">即時行情 (${node.currency || 'USD'})</span>
+              <div class="text-right">
+                <span class="text-sm font-bold text-slate-100">${node.price}</span>
+                <span class="text-xs font-semibold ml-1.5 ${isPos ? 'text-rose-400' : 'text-emerald-400'}">${isPos ? '+' : ''}${node.change_pct}%</span>
+              </div>
+            </div>
+          `;
+        }
+
+        // 若為突發非排程新聞，渲染專屬「新聞詳細內容與原始來源」卡片
+        if (node.layer === 'event' && (node.isBreaking || node.id.startsWith('e_breaking_'))) {
+          cardHtml = `
+            <div class="p-3.5 mb-3 rounded-xl bg-gradient-to-br from-rose-950/40 to-slate-900/90 border border-rose-500/40 space-y-2.5">
+              <div class="flex items-center justify-between text-[11px]">
+                <span class="px-2 py-0.5 rounded-full bg-rose-500/20 text-rose-300 font-bold border border-rose-500/30 flex items-center space-x-1">
+                  <span class="w-1.5 h-1.5 rounded-full bg-rose-400 animate-ping"></span>
+                  <span>即時快訊</span>
+                </span>
+                <span class="text-slate-400 font-mono text-[10px]">${node.newsDate ? node.newsDate.split(' ').slice(0, 4).join(' ') : '今日最新'}</span>
+              </div>
+
+              <div class="text-slate-100 text-xs font-bold leading-snug">
+                ${node.newsTitle || node.desc || node.name}
+              </div>
+
+              <div class="flex items-center justify-between pt-2 border-t border-slate-800/80 text-[11px]">
+                <div class="flex items-center space-x-1.5 text-slate-300">
+                  <span class="text-slate-500">媒體來源:</span>
+                  <span class="font-semibold text-rose-300 bg-rose-500/10 px-1.5 py-0.5 rounded">${node.newsSource || '財經即時'}</span>
+                </div>
+                ${node.newsUrl ? `
+                  <a href="${node.newsUrl}" target="_blank" rel="noopener noreferrer" class="text-sky-400 hover:text-sky-300 flex items-center space-x-1 font-semibold hover:underline bg-sky-500/10 px-2 py-0.5 rounded border border-sky-500/20 transition">
+                    <span>閱讀原文</span>
+                    <i data-lucide="external-link" class="w-3 h-3"></i>
+                  </a>
+                ` : ''}
+              </div>
+            </div>
+          `;
+        }
+
+        document.getElementById('drawerDesc').innerHTML = cardHtml + (node.desc || node.summary || '產業中繼因子，負責承接宏觀事件衝擊並傳導至終端個股。');
+
+        // 渲染鏈路詳情
+        const chainsContainer = document.getElementById('drawerChains');
+        if (activeLinks.length > 0) {
+          chainsContainer.innerHTML = '';
+          activeLinks.forEach(link => {
+            const s = nodeMap.get(link.source);
+            const t = nodeMap.get(link.target);
+            const item = document.createElement('div');
+            item.className = 'p-2.5 bg-slate-900/70 rounded-lg border border-slate-800 text-[11px] space-y-1';
+            item.innerHTML = `
+              <div class="flex items-center space-x-1.5 font-mono text-slate-300">
+                <span class="text-purple-300 font-semibold">${s.symbol || s.name}</span>
+                <i data-lucide="arrow-right" class="w-3 h-3 text-sky-400 inline"></i>
+                <span class="text-amber-300 font-semibold">${t.symbol || t.name}</span>
+                <span class="ml-auto text-[10px] px-1.5 py-0.2 rounded bg-sky-500/20 text-sky-300 font-bold">衝擊強度 ${link.weight || 90}%</span>
+              </div>
+              <div class="text-slate-400 text-[10px] pl-1 border-l-2 border-slate-700">${link.desc || '傳導關聯影響'}</div>
+            `;
+            chainsContainer.appendChild(item);
+          });
+          lucide.createIcons();
+        } else {
+          chainsContainer.innerHTML = `<div class="text-slate-500 italic p-2.5 bg-slate-900/30 rounded border border-slate-800/40">此節點尚無活躍鏈路</div>`;
+        }
+      }
+
+    }
+
+    // ==================== ➕ 新增標的彈窗與資料處理 ====================
+    function openAddTargetModal() {
+      document.getElementById('addTargetModal').classList.remove('hidden');
+    }
+
+    function closeAddTargetModal() {
+      document.getElementById('addTargetModal').classList.add('hidden');
+    }
+
+    function handleCreateTarget(e) {
+      e.preventDefault();
+      const symbol = document.getElementById('newSymbol').value.trim().toUpperCase();
+      const name = document.getElementById('newName').value.trim();
+      const market = document.getElementById('newMarket').value;
+      const factorId = document.getElementById('newFactor').value;
+      const summary = document.getElementById('newSummary').value.trim() || `${name} (${symbol})，受所屬產業鏈動能牽動。`;
+
+      const newId = `t_custom_${Date.now()}`;
+      const newTarget = {
+        id: newId,
+        symbol: symbol,
+        name: name,
+        type: market === '台股' ? '自選台股' : market === '美股' ? '自選美股' : '全球期貨/ETF',
+        market: market,
+        score: 85,
+        color: '#f59e0b',
+        summary: summary,
+        price: null,
+        change_pct: 0
+      };
+
+      // 動態掛載至目前記憶體資料
+      embeddedGraphData.targets.push(newTarget);
+      embeddedGraphData.links.push({
+        source: factorId,
+        target: newId,
+        weight: 90,
+        desc: `產業因子直接牽動新增標的 ${name} (${symbol})`
+      });
+
+      // 重新繪製星系與排行榜
+      initTransmissionGraph(embeddedGraphData);
+      closeAddTargetModal();
+      document.getElementById('addTargetForm').reset();
+
+      // 自動聚焦選取新標的
+      setTimeout(() => {
+        selectNode(newId, 'target');
+      }, 300);
+    }
+
+    // 註冊 PWA Service Worker (支援離線與桌面安裝)
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('sw.js').catch(err => console.log('SW register fail:', err));
+      });
+    }
+  </script>
+</body>
+</html>
