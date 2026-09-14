@@ -1,0 +1,33 @@
+name: 每日自動更新市場傳導輪
+
+on:
+  schedule:
+    # 台灣時間每日早上 08:00 (UTC 00:00) 與下午 16:30 (UTC 08:30)
+    - cron: '0 0 * * *'
+    - cron: '30 8 * * *'
+  workflow_dispatch: # 支援在 GitHub 上手動一鍵點擊執行
+
+jobs:
+  update-transmission:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 檢出最新程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 執行市場傳導輪自動爬蟲與行情更新引擎
+        run: |
+          python update_market_engine.py
+
+      - name: 提交更新並同步至 GitHub Pages
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add index.html transmission_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update: $(date +'%Y-%m-%d %H:%M')" && git push)

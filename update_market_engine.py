@@ -247,7 +247,11 @@ def update_html_with_embedded_data(graph_data):
 
 
 def sync_to_github():
-    """自動提交並推播至 GitHub Pages 雲端"""
+    """自動提交並推播至 GitHub Pages 雲端（若在 GitHub Actions 雲端環境中則由 workflow 接管）"""
+    if os.environ.get("GITHUB_ACTIONS"):
+        print("[5/5] 偵測到 GitHub Actions 雲端環境，由 Workflow 接管自動提交。")
+        return
+
     print("[5/5] 正在自動同步至 GitHub Pages 雲端...")
     try:
         subprocess.run(["git", "add", "."], cwd=BASE_DIR, check=True)
