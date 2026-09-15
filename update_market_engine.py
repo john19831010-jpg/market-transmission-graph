@@ -48,6 +48,20 @@ def fetch_quotes():
     
     quotes = {}
     print("[1/5] 正在抓取最新市場行情報價...")
+    
+    # 先抓取 USD/TWD 匯率供黃金換算
+    usdtwd_rate = 31.85
+    try:
+        url_fx = "https://query1.finance.yahoo.com/v8/finance/chart/USDTWD=X?interval=1d&range=1d"
+        req_fx = urllib.request.Request(url_fx, headers=HEADERS)
+        with urllib.request.urlopen(req_fx, context=SSL_CTX, timeout=5) as resp:
+            data_fx = json.loads(resp.read().decode('utf-8'))
+            fx_val = data_fx['chart']['result'][0]['meta'].get('regularMarketPrice')
+            if fx_val and fx_val > 0:
+                usdtwd_rate = round(float(fx_val), 2)
+    except Exception as e:
+        print(f"  - 抓取美元兌台幣匯率失敗，使用預設值 {usdtwd_rate}: {e}")
+
     for tid, (symbol, currency) in tickers.items():
         try:
             url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
@@ -62,11 +76,25 @@ def fetch_quotes():
                 if price and chart_prev and chart_prev > 0:
                     change_pct = round(((price - chart_prev) / chart_prev) * 100, 2)
                     
-                quotes[tid] = {
+                q_item = {
                     "price": price,
                     "currency": currency,
                     "change_pct": change_pct
                 }
+
+                # 若為黃金，額外計算 台灣銀行存摺 (TWD/公克) 與 台灣銀樓盤價 (TWD/台錢)
+                if tid == "t_gold" and price:
+                    # 1 金衡盎司 = 31.1034768 公克，1 台錢 = 3.75 公克
+                    gram_twd = round((price * usdtwd_rate) / 31.1034768, 1)
+                    qian_twd = round(gram_twd * 3.75)
+                    q_item["gold_units"] = {
+                        "oz_usd": round(price, 1),
+                        "gram_twd": gram_twd,
+                        "qian_twd": qian_twd,
+                        "usdtwd": usdtwd_rate
+                    }
+
+                quotes[tid] = q_item
         except Exception as e:
             print(f"  - 抓取 {symbol} 失敗: {e}")
             quotes[tid] = {"price": None, "currency": currency, "change_pct": 0.0}
@@ -132,6 +160,8 @@ def synthesize_transmission_data(quotes, news_list):
             tgt["price"] = quotes[tid]["price"]
             tgt["currency"] = quotes[tid]["currency"]
             tgt["change_pct"] = quotes[tid]["change_pct"]
+            if "gold_units" in quotes[tid]:
+                tgt["gold_units"] = quotes[tid]["gold_units"]
 
     mapping = [
         {"keywords": ["台積電", "晶圓", "CoWoS", "先進製程"], "factor": "f_foundry", "target": "t_2330", "cat": "突發半導體"},

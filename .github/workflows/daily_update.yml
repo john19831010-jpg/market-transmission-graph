@@ -2,9 +2,8 @@ name: 每日自動更新市場傳導輪
 
 on:
   schedule:
-    # 台灣時間每日早上 08:00 (UTC 00:00) 與下午 16:30 (UTC 08:30)
-    - cron: '0 0 * * *'
-    - cron: '30 8 * * *'
+    # 每 1 小時定時爬取更新一次 (UTC 每個整點執行)
+    - cron: '0 * * * *'
   workflow_dispatch: # 支援在 GitHub 上手動一鍵點擊執行
 
 jobs:
