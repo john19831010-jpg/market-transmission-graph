@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-09-15 20:59 實時更新</span>
+        <span id="lastUpdateBadge">2026-09-15 23:30 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,48 +336,10 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-09-15 20:59",
+  "updatedAt": "2026-09-15 23:30",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電除息前買盤湧現！盤中漲25元站回2...",
-      "date": "09-15",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電除息前買盤湧現！盤中漲25元站回2400元",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 15 Sep 2026 01:19:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQNlVLM3A4QzhQeWdBS3BxRnhPUUhWSTc2MVk1QUFZNjhiR1QyTTA0TnJwUTlhNzBnNS14QzdMMnFJTXJPT0ZsNTc5N29XeWZpczRyblEwc1ItX0ZCVUlyY1IxNUNxaHhRRmRZV0tON3dGWk5FNDVtd3ludGZnaF9NdndkdGNuVE10cDhNLXpvNWZOa0w3N2ZzTVJPUUVNcXdFVzhvZUU1eHBwdDlkX0l1ME92QkNPVDUzWnYtb2tMTkUtdUlCYXpYS1JwcFJzU254U1NSVjhMMEk0QTF4U1M2eF9FajJOeDlnOG00aTdscFRpZldBSmhGR0dYZjJlVmJzRGNRZUZMdGNVZEZXcVNVa2dFSHRjLWtTUjB3SHNwYmNDcHVTUXJJb2JYN2RjSkdWMHk3V0p2Wm5ZYlE?oc=5",
-      "desc": "【Yahoo股市】台積電除息前買盤湧現！盤中漲25元站回2400元",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 黃仁勳稱它「AI代工界台積電」！新創公司...",
-      "date": "09-15",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "黃仁勳稱它「AI代工界台積電」！新創公司高層：AI產業迎關鍵轉折",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Tue, 15 Sep 2026 13:06:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92X1pnY2ZNOVhXSHhVTzMwRlJfZXByejR1QVBvZ183YmxhZzFFS1NhMkFESWhRY3BQM1dpZ0tFVy1FNmtjZzJOMEVlRm9fbVVYcEHSAVBBVV95cUxPdjFqTDRQVUR4MFpkN1FhRmpSclpoNl93NjJHSEk1WGJtbDVGU1Z4Z2RTZS1nLTl6V1Zlek5NTmZldjdkREI4c2wyd0lod0JMbA?oc=5",
-      "desc": "【ETtoday財經雲】黃仁勳稱它「AI代工界台積電」！新創公司高層：AI產業迎關鍵轉折",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 台積電還能領先多久？ 前經濟部長全說了",
       "date": "09-15",
       "category": "突發半導體",
@@ -396,16 +358,54 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電共同營運長米玉傑妙喻：AI像3歲超人",
+      "id": "e_breaking_2",
+      "name": "⚡ 歐洲台積電無塵室 都包給這家馬來西亞公司",
       "date": "09-15",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電共同營運長米玉傑妙喻：AI像3歲超人",
-      "newsSource": "UDN",
-      "newsDate": "Tue, 15 Sep 2026 16:14:43 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IOG43ejNYT21BcnVQWEg1TmdlV0hjVGRFWmZFTzl1VnNLSFN0SS1NSmJ5Y2RjMUlGZ3hmbUNPV3R3SjN5MkRxaXNPUHExc0JFblVR0gFYQVVfeXFMTXl6NF9ndy1KQ3hWajNMemJZeGJHbHlWckVSVFl1bWNWUzBLR2tFcDMyYmtaSFJERlpLSk5xQ3pKbXplMWNnUTh2WWNPSFpSRFFVZXFXd2pFag?oc=5",
-      "desc": "【UDN】台積電共同營運長米玉傑妙喻：AI像3歲超人",
+      "newsTitle": "歐洲台積電無塵室 都包給這家馬來西亞公司",
+      "newsSource": "信傳媒",
+      "newsDate": "Tue, 15 Sep 2026 23:11:45 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KMEcycTA4QjhvSmx1WXZpV0ZMcFR1RkZ6MlpHX2p5V3JIemxlOG82WUQwN2poZm9DbFpURFc0akcwcnUwQTZwbzdab2RMaGZHazZNN29rcWlzdw?oc=5",
+      "desc": "【信傳媒】歐洲台積電無塵室 都包給這家馬來西亞公司",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 利空夾殺！台股陷「低量風暴」 台積電除息...",
+      "date": "09-15",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "利空夾殺！台股陷「低量風暴」 台積電除息撞上台指期結算如何操作？",
+      "newsSource": "工商時報",
+      "newsDate": "Tue, 15 Sep 2026 22:45:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RWnUwUWgxWVJRZWFBNWVTQnh6UFRiZ0RNRUpxX1VNcVN1LTUxXzZ6ZE5nZFNPcXhGMjFOeUJZc1czX3poRHZNdk5hMjhSNk5WTlVnNi0yR2FmVUhfMzlz?oc=5",
+      "desc": "【工商時報】利空夾殺！台股陷「低量風暴」 台積電除息撞上台指期結算如何操作？",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 黃仁勳稱它「AI代工界台積電」！新創公司...",
+      "date": "09-15",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "黃仁勳稱它「AI代工界台積電」！新創公司高層：AI產業迎關鍵轉折",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Tue, 15 Sep 2026 13:06:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92X1pnY2ZNOVhXSHhVTzMwRlJfZXByejR1QVBvZ183YmxhZzFFS1NhMkFESWhRY3BQM1dpZ0tFVy1FNmtjZzJOMEVlRm9fbVVYcEHSAVBBVV95cUxPdjFqTDRQVUR4MFpkN1FhRmpSclpoNl93NjJHSEk1WGJtbDVGU1Z4Z2RTZS1nLTl6V1Zlek5NTmZldjdkREI4c2wyd0lod0JMbA?oc=5",
+      "desc": "【ETtoday財經雲】黃仁勳稱它「AI代工界台積電」！新創公司高層：AI產業迎關鍵轉折",
       "impactTargets": [
         "t_2330"
       ],
@@ -619,14 +619,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4332.4,
+      "price": 4326.9,
       "currency": "美元",
-      "change_pct": -1.7,
+      "change_pct": -1.82,
       "gold_units": {
-        "oz_usd": 4332.4,
-        "gram_twd": 4430.8,
-        "qian_twd": 16616,
-        "usdtwd": 31.81
+        "oz_usd": 4326.9,
+        "gram_twd": 4422.4,
+        "qian_twd": 16584,
+        "usdtwd": 31.79
       }
     },
     {
@@ -752,7 +752,7 @@
       "name": "台泥 (Taiwan Cement)",
       "type": "低碳儲能與傳產轉型",
       "market": "台股",
-      "score": 99,
+      "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
       "price": 23.8,
@@ -765,7 +765,7 @@
       "name": "上海商銀",
       "type": "外匯企金績優銀行",
       "market": "台股",
-      "score": 96,
+      "score": 99,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
       "price": 49.8,
