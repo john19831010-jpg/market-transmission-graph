@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15 14:33",
+  "updatedAt": "2026-09-15 14:34",
   "events": [
     {
       "id": "e_breaking_1",
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4331.2,
+      "price": 4330.2,
       "currency": "美元",
-      "change_pct": -0.76,
+      "change_pct": -0.79,
       "gold_units": {
-        "oz_usd": 4331.2,
-        "gram_twd": 4429.6,
-        "qian_twd": 16611,
+        "oz_usd": 4330.2,
+        "gram_twd": 4428.6,
+        "qian_twd": 16607,
         "usdtwd": 31.81
       }
     },
@@ -337,7 +337,7 @@
       "name": "Tesla (特斯拉)",
       "type": "自駕與人形機器人",
       "market": "美股",
-      "score": 96,
+      "score": 99,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
       "price": 358.97,
@@ -350,7 +350,7 @@
       "name": "SpaceX (星鏈/星艦概念)",
       "type": "航太與低軌衛星",
       "market": "美股未上市/供應鏈",
-      "score": 90,
+      "score": 93,
       "color": "#a855f7",
       "summary": "全球商業航太與低軌衛星壟斷龍頭，帶動地面接收站、高頻微波元件與車載電力供應鏈。",
       "price": 210.0,
@@ -415,7 +415,7 @@
       "name": "台泥 (Taiwan Cement)",
       "type": "低碳儲能與傳產轉型",
       "market": "台股",
-      "score": 87,
+      "score": 90,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
       "price": 23.8,
@@ -428,7 +428,7 @@
       "name": "上海商銀",
       "type": "外匯企金績優銀行",
       "market": "台股",
-      "score": 84,
+      "score": 87,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
       "price": 49.8,
