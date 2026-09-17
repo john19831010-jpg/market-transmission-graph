@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17 05:52",
+  "updatedAt": "2026-09-17 11:14",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,34 +22,34 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ FOMC 升息1碼 統一投顧：聯準會未來...",
+      "name": "⚡ 台達電目標價遭下修100元！AI電源第4...",
       "date": "09-17",
-      "category": "突發總經",
+      "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "FOMC 升息1碼 統一投顧：聯準會未來升息幅度有限",
-      "newsSource": "經濟日報",
-      "newsDate": "Thu, 17 Sep 2026 00:52:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWN0dIbzVfdXV5NnFPbUU2a3RSS29ZZzNnZDBlWmJfakYxdlk5WWtMRXN3NjBKNzE1bDh2NXVxN0NBWkEwSkNHSGs4RVNRS2RNc0VDRnBuSVhqQdIBX0FVX3lxTFAxb0J4RnVBNWJsT0ItdURfNW9DSzd0dEpQTzB1NWE5MTR2Y0JJY2Q4SVJlSFozQkZtQl8tX2dFUjByc0dyT09kaTBLeUdlUzgySzZaSG1MN1NHS3A0RGtR?oc=5",
-      "desc": "【經濟日報】FOMC 升息1碼 統一投顧：聯準會未來升息幅度有限",
+      "newsTitle": "台達電目標價遭下修100元！AI電源第4季仍看旺法人卻卡在「供應瓶頸」",
+      "newsSource": "旺得富理財網",
+      "newsDate": "Thu, 17 Sep 2026 08:56:37 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hdE1OZkp1OVIwTmFUZFhlNTBvRGRScGRnWWxlWlZydmJTYU5lR0sxSkN1UURGS2JrMWpoVEU2U3VkTXZ6Tm1iSDhMdjZLZzNJT0Znc3RlRy03aE96Vm1OYTU5Wi10dGFqRHc?oc=5",
+      "desc": "【旺得富理財網】台達電目標價遭下修100元！AI電源第4季仍看旺法人卻卡在「供應瓶頸」",
       "impactTargets": [
-        "t_gold"
+        "t_2308"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_server_power",
+        "t_2308"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "name": "⚡ 聯準會升息1碼！FOMC最新9月聲明全文...",
       "date": "09-17",
       "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Wed, 16 Sep 2026 23:09:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
-      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsTitle": "聯準會升息1碼！FOMC最新9月聲明全文一次看",
+      "newsSource": "ec.ltn.com.tw",
+      "newsDate": "Thu, 17 Sep 2026 00:22:13 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LZC1SZnVyM0dmYjdqRjl3T3BLVDNpTGFOZ0dyejhselpOTXJzWWJkdDFnUzBqcTY5NE5jeXkwZmFsNnFDNEU0MkFyMDd6ZHI3UUIxSWdwNjBzZmhOaVJ30gFkQVVfeXFMT1p2S2pnTlFvNlhHOWE2TUVrd0dOYlZTV1FQU0gtc2xwMW0xaDJpMWJOanhIc1ZtQWxWY1FKRGx5SDZBcmYwX2lFd3FhaUtNbnFwcWhDZGxNWE53aTZ4R3F0MlgyWA?oc=5",
+      "desc": "【ec.ltn.com.tw】聯準會升息1碼！FOMC最新9月聲明全文一次看",
       "impactTargets": [
         "t_gold"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 聯準會升息…台股反大漲900點？專家揭關...",
+      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
       "date": "09-17",
       "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "聯準會升息…台股反大漲900點？專家揭關鍵：留意「它」",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Thu, 17 Sep 2026 02:06:43 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZWh4RmlSZ2lHam5LVEFDUkpVYnJyNkJMeV9LalRwZzFWTnY2bk1pLUFYM1pkY0NOT3N3M3FJTnFjbkNRLXh3QU1zSVZnbk5BMFhrcEtnQUpxMXJZREMzZmttWmtCZmdZRTZoWHp6OG9NVllUV1k2T2ZUM2k4czBFVUFOYm5vUWtBcVVXQy14c05XZEwzOG9PV0tJQ1ZCVU96Q2RSYUU3ZEhGbFZocFVDdkdUZ2QxVkhUN2MtaDVYUV9DcFdkd1h5VWNJM0FHNUpqSDlONUZFSEFwVllSbEowb3AtVnBDc0VVQm9kYXVRcXlwUXh3OUthVWIteTYyaGN4NjRGYTNIWUpaLTNza3JRRHdBZ2V4X2FIVjY1TFVtZDN6azBlQ1I1NG9ZcmthbllJT1dNYVcyc0lQZEd5NlJZaU9MZ09YM1Bh?oc=5",
-      "desc": "【Yahoo股市】聯準會升息…台股反大漲900點？專家揭關鍵：留意「它」",
+      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsSource": "sinotrade.com.tw",
+      "newsDate": "Wed, 16 Sep 2026 23:09:41 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
+      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
       "impactTargets": [
         "t_gold"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4335.8,
+      "price": 4369.1,
       "currency": "美元",
-      "change_pct": -0.37,
+      "change_pct": 0.4,
       "gold_units": {
-        "oz_usd": 4335.8,
-        "gram_twd": 4441.3,
-        "qian_twd": 16655,
-        "usdtwd": 31.86
+        "oz_usd": 4369.1,
+        "gram_twd": 4478.2,
+        "qian_twd": 16793,
+        "usdtwd": 31.88
       }
     },
     {
@@ -458,9 +458,9 @@
     },
     {
       "source": "e_breaking_2",
-      "target": "f_rates",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_3",
