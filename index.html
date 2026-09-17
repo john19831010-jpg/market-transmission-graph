@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-09-16 21:57 實時更新</span>
+        <span id="lastUpdateBadge">2026-09-17 00:17 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,12 +336,12 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-09-16 21:57",
+  "updatedAt": "2026-09-17 00:17",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 半導體ETF反彈了！「這檔」連3年填息1...",
-      "date": "09-16",
+      "date": "09-17",
       "category": "突發總經",
       "isBreaking": true,
       "newsTitle": "半導體ETF反彈了！「這檔」連3年填息100% 最新年化殖利率衝23.6%",
@@ -359,8 +359,27 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 台積電ADR止跌反彈1% 台指期漲322點",
+      "date": "09-17",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電ADR止跌反彈1% 台指期漲322點",
+      "newsSource": "經濟日報",
+      "newsDate": "Wed, 16 Sep 2026 23:12:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DbUtydVB0eG9Pa1BNNl80NEVQOS1YVVJWd0IzZS1iZWRZZzM2RzRVWjBEQUxCNlJkTFp0anp0R1drUU5hVUhNVXdLOEVSX2tLMENwY0k4M0UtYk9r0gFiQVVfeXFMT1hRSlVGNjZ4VzJDSHhCT0xVTnBiMFZZcjBMTTFuY0VCSHh2cG9VRnhJdEhxVWptVlJlcVltbHpHQ0Y2VnQ4dllrLS1vMl8yMlMxOU44X0p0UEU5T0ZTT0syWlE?oc=5",
+      "desc": "【經濟日報】台積電ADR止跌反彈1% 台指期漲322點",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電「這原因」創造三星黃金時機 未來3...",
-      "date": "09-16",
+      "date": "09-17",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電「這原因」創造三星黃金時機 未來3年成代工關鍵戰役",
@@ -377,9 +396,9 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 迎大單潮！台積電EPS拚140元、聯發科...",
-      "date": "09-16",
+      "date": "09-17",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "迎大單潮！台積電EPS拚140元、聯發科ASIC衝3800億元",
@@ -393,25 +412,6 @@
       "primaryChain": [
         "f_foundry",
         "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 聯準會3年多以來首度升息 美股收低道瓊跌...",
-      "date": "09-16",
-      "category": "突發總經",
-      "isBreaking": true,
-      "newsTitle": "聯準會3年多以來首度升息 美股收低道瓊跌逾600點",
-      "newsSource": "自由財經",
-      "newsDate": "Wed, 16 Sep 2026 20:54:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NcEtFejVDbDZXbFNZMktkWXBhenhORXZkc0dacG4zN2FNOUV6YnNMLTNLa3MxRGxGUklSRzBjNHB5QVRqanR0RlMzLWREM1hoZEV5aUc1d1AwQTNaRXlR0gFkQVVfeXFMTUQ0eTAtQjd1V01COUl0eFRoc2Qyb2VnUmFqYy10VWxBRk54eW9HTGNHRDM3R09jTkVxOUNGYms5c1FLUHdQd21XOEt3M2xnZHpmcmhrOUdVZ05ka2dtdW5wWTctaQ?oc=5",
-      "desc": "【自由財經】聯準會3年多以來首度升息 美股收低道瓊跌逾600點",
-      "impactTargets": [
-        "t_gold"
-      ],
-      "primaryChain": [
-        "f_rates",
-        "t_gold"
       ]
     },
     {
@@ -619,14 +619,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4302.5,
+      "price": 4311.9,
       "currency": "美元",
-      "change_pct": -2.41,
+      "change_pct": -2.2,
       "gold_units": {
-        "oz_usd": 4302.5,
-        "gram_twd": 4403.0,
-        "qian_twd": 16511,
-        "usdtwd": 31.83
+        "oz_usd": 4311.9,
+        "gram_twd": 4416.8,
+        "qian_twd": 16563,
+        "usdtwd": 31.86
       }
     },
     {
@@ -807,9 +807,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
