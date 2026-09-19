@@ -1,82 +1,6 @@
 {
-  "updatedAt": "2026-09-19 19:13",
+  "updatedAt": "2026-09-19 22:13",
   "events": [
-    {
-      "id": "e_breaking_1",
-      "name": "⚡ 【0918台股盤後】台積電回神、創意飆漲...",
-      "date": "09-19",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "【0918台股盤後】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Sat, 19 Sep 2026 08:40:08 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxPY0JZXzI2eTdXVUZYdzY3b0FqaUliTHBKM0NWeEQwaUZtS0xGOUVQcVFTUjd3a0k3NjhHNFBSMjN1UEZJMV9FOGxRZWZsMndPMjQ1Sk1aX2o1X1NiZmMwblRCcHNLSDNSTF82bWNjRDh6NXRXNzZzZjJ1bGx1dzFzb0JZNDV2UTdkQmxHLWV1TW9CUWVTY19BaDA2VzlzMW9tcHY2MTh3MVU4azVVWW15Qnk1ckYyblZQWHRKbU5XTXN1VnBGWHI1YUt2MXo5LXloZ1I5SkI2UnJLcmFtSUlHcVhmcTRhNFdkMlVRUmoyRmRQSnFzS29OSWFTTks3dXd5VGFSYVNERkdBSFY0TU5XdFJPeUJKM2tQOXhFNjNhMHh5MDVORnEzWDFuYVU0bEJ6NVBuUEJoUEotMGdCejhXeGRkZkxEZ0RHbXl3ZmlsRmRXaHIxeG9hNktvMXQyV0xOcWMxTGpmTm9oaDJhaGpmS085X1dDcC12OFQ1WlI2dGNaTkc0aGNvSEJCZWZ1akZzWUJkaEsyZ3BCdjdZUXZIeTI5QmJ2SnZ1V1RySjcwZUp5T202MWxUa3R3SFdEaTAzd0R6VEh0Wkh2RXU1d0dQYmpWb1YwOGlTbWQxRHZiMVVPU3hHWU5fV0pkclNPU1BOU0FGY3ZvbVZ6bWxnMnZFc1dGUVlDN0E4eWpIMVRNRnVnT016Z0kwTm9FZEVsNTN2eVVGZUw4cjdxQ1ppTkNNcUpZb2NaeWZZbW9XcnkxV0JKLVFsdzhCajJJZnlSWVE5RXlPeWswczNGbWpYMHRDbldoeXFHTWlCRDlnbG9OQlpOZmlQQk9IUWZCV2JXMFlIcjgyRDNQa0UxcDlKZmRGb0ZuTEpvMTBLc0p2VXhKd0pIT09wYk95bWo2S0RwbXpCcW5SaVpQMW1Ibjd3aHVUMW53cw?oc=5",
-      "desc": "【sinotrade.com.tw】【0918台股盤後】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 美國聯準會信譽性升息的潛台詞- 日報",
-      "date": "09-19",
-      "category": "突發總經",
-      "isBreaking": true,
-      "newsTitle": "美國聯準會信譽性升息的潛台詞- 日報",
-      "newsSource": "工商時報",
-      "newsDate": "Sat, 19 Sep 2026 19:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvNkRQRUtfcFdrWFR4MVllcXMwRllGcmc2LWNqVVA1VnVranp1Y0FONmJIVllfVS13RmVXS0JZWW4wUmVsNldDdDlzYjFqWFVMdkk5TTJYT2RjM3RnZFp3?oc=5",
-      "desc": "【工商時報】美國聯準會信譽性升息的潛台詞- 日報",
-      "impactTargets": [
-        "t_gold"
-      ],
-      "primaryChain": [
-        "f_rates",
-        "t_gold"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 美股收盤》美債殖利率、通膨壓力尚存 美股...",
-      "date": "09-19",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 18 Sep 2026 22:33:45 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VHNMdGI4N0tLeVpTWE1aYjQzYlRfWmVtcGRUQ3h6eGgwc2dOR19MQWNrOGdkMEJEV3VNMVlGUjNqUDUzNGgxMlRQLTlRb1FEOTR5VE9mYTZacGJXWWk40gFkQVVfeXFMTUtnVzJzbGVWNEZ6Q2NwZUstbVhoVHMzUlBGUU1DTWVidWpNdlBNcmNaejE0TDF2ZmcySkIzZ0pEb3hQTE9uWG83cXlrYloxYUNoLXBXUHRGR3NIeFYwejIwRUYzYg?oc=5",
-      "desc": "【自由財經】美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ Google AI模型首度越界Gemin...",
-      "date": "09-19",
-      "category": "突發AI",
-      "isBreaking": true,
-      "newsTitle": "Google AI模型首度越界Gemini自主駭入3家企業| 科技",
-      "newsSource": "中央社 CNA",
-      "newsDate": "Sat, 19 Sep 2026 02:18:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpYmlHLU1aeklRejZ1V3BDaFJMQmxBbmYwd3RGbVlIdndnWS01RGF5OUZ2cGJyV3NKenliTTY1Sl9ycXJTeGs2VUFyMFgtN3ZYUlRLc21uU2VqYzVvclE?oc=5",
-      "desc": "【中央社 CNA】Google AI模型首度越界Gemini自主駭入3家企業| 科技",
-      "impactTargets": [
-        "t_googl"
-      ],
-      "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
-      ]
-    },
     {
       "id": "e_fomc",
       "name": "FOMC 利率決議",
@@ -450,30 +374,6 @@
     }
   ],
   "links": [
-    {
-      "source": "e_breaking_1",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_2",
-      "target": "f_rates",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
-    },
-    {
-      "source": "e_breaking_3",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_4",
-      "target": "f_ai_cloud",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
-    },
     {
       "source": "e_fomc",
       "target": "f_rates",
