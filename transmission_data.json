@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19 16:21",
+  "updatedAt": "2026-09-19 19:13",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,21 +22,21 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電挑戰曝光！1份報告揭密美國廠「最大...",
+      "name": "⚡ 美國聯準會信譽性升息的潛台詞- 日報",
       "date": "09-19",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "台積電挑戰曝光！1份報告揭密美國廠「最大難題」",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 18 Sep 2026 02:06:15 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxdEZva05SemZPZTZVd1hMTXM3a3RWaEh1QTd3X0k3bjY0czVlR3V3ZFBWbHN6OTRlSVVpVE1XcjNUOUNLRTRGZXE4RzVVNTliVUE0SkVkZm5fR21oc3ZB0gFkQVVfeXFMTVliejczbEJsSjEwcjVSTW00Nk5HLVlJXzZ4R2FJc1c5WXQ5MWRLYjVGT2ZvNHJTQUJLVDlxMFhyMndfckExd01EcHYzZW42Q3Z3WEJMamZmVWh0UU1xSmNNWVpQVA?oc=5",
-      "desc": "【自由財經】台積電挑戰曝光！1份報告揭密美國廠「最大難題」",
+      "newsTitle": "美國聯準會信譽性升息的潛台詞- 日報",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 19 Sep 2026 19:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvNkRQRUtfcFdrWFR4MVllcXMwRllGcmc2LWNqVVA1VnVranp1Y0FONmJIVllfVS13RmVXS0JZWW4wUmVsNldDdDlzYjFqWFVMdkk5TTJYT2RjM3RnZFp3?oc=5",
+      "desc": "【工商時報】美國聯準會信譽性升息的潛台詞- 日報",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "name": "⚡ Google AI模型首度越界Gemin...",
       "date": "09-19",
-      "category": "突發總經",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Thu, 17 Sep 2026 00:27:35 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
-      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsTitle": "Google AI模型首度越界Gemini自主駭入3家企業| 科技",
+      "newsSource": "中央社 CNA",
+      "newsDate": "Sat, 19 Sep 2026 02:18:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpYmlHLU1aeklRejZ1V3BDaFJMQmxBbmYwd3RGbVlIdndnWS01RGF5OUZ2cGJyV3NKenliTTY1Sl9ycXJTeGs2VUFyMFgtN3ZYUlRLc21uU2VqYzVvclE?oc=5",
+      "desc": "【中央社 CNA】Google AI模型首度越界Gemini自主駭入3家企業| 科技",
       "impactTargets": [
-        "t_gold"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
@@ -458,9 +458,9 @@
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_breaking_3",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
