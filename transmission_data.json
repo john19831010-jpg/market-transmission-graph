@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-18 23:06",
+  "updatedAt": "2026-09-19 03:46",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 8.6萬股民歡呼！00999A重倉台積電...",
-      "date": "09-18",
+      "name": "⚡ 台積電供應鏈聯合徵才三部曲最終場登場 慈...",
+      "date": "09-19",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "8.6萬股民歡呼！00999A重倉台積電、大聯大、聯發科「拚3個交易日填息」 配息這天入帳",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 18 Sep 2026 05:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHg4RUJfZW9tbERQTy1Sd3B6ZDhPaE1sUlNKdXRpRXliSTFXS3pwd0pzTmZmcGc2STRPOW1KLVkxcm14NTVyU0ZmMi1rZERpTG1FSVl0RkxGUE5zY1lKcUZqQnZKWXJxMHdPZ0h5ZGtoSkNrVjN3UWs0T3BTSGluS3dCVjFGY3p2eUwzUEs5VXIwS1Foel9IaGdVekl3aENpejZHczMyOVllMWtFazlCWGFzVGhHUUpFcFhpaGhuMXB6RVlMMGhiRWIxYjNaSFExSG9CVVJtN1Y4WlBXc1VOSUUzTnRBSVNPSkVtbklpbGwzOFpaSGtRVFplQ3ZNMlo4TVh1TUFhbUdvaDJmd2hhc1hNQl90NTdvYlRaQmlHTHFUZVBRWmhEZ2s3dw?oc=5",
-      "desc": "【Yahoo股市】8.6萬股民歡呼！00999A重倉台積電、大聯大、聯發科「拚3個交易日填息」 配息這天入帳",
+      "newsTitle": "台積電供應鏈聯合徵才三部曲最終場登場 慈善基金會董事長張淑芬親自出席活動",
+      "newsSource": "信傳媒",
+      "newsDate": "Sat, 19 Sep 2026 01:00:43 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0OE9IOTVDeGpfTXE0aEF6WmZILVBmcVNFWnc4SmxTVWRkTVRqT1ZqZzNfMG5rR1EtcWd1VU9KVzFfdFg2U3BtVW14QlBQZU1ZQkFRejJDMXRydw?oc=5",
+      "desc": "【信傳媒】台積電供應鏈聯合徵才三部曲最終場登場 慈善基金會董事長張淑芬親自出席活動",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,8 +22,27 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 央行不跟進聯準會升息、台積電除息秀、華邦...",
+      "date": "09-19",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "央行不跟進聯準會升息、台積電除息秀、華邦電收購英飛凌記憶體事業 本周大事回顧",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 19 Sep 2026 02:04:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQZkd1TGhvYmlYVjFUUjRKZ0NNWXY0ZjBWUGdUdUVPR2RGSW5oYjVrMERTN2hSVWRmSUNYQnUzdlBWamxpYnJ1dmNHZ29sM3lUX2sySVFEX205RkxNM05RZElUQUZ3cV9GR1pnZmhmT2ZQU0dqUERwOGdSMmtpRjcwMGY0ZGF1TnNaU0ItejhJQ0EtRjg1MmNraW5yVFpPSm9hUW5yME9YeDIzUE5TR3BEUlE5RUZkX1NvSlo4STFxUmRZckRFck9BbTFmUEN3ZktOOXlTdGZBbldMblRNNTJmUGhHUkVZaGkzTkJFelFCZzZObUFwV0ZIejlHSzNUR3hRcDI1Q1VnZ0RBTlN6a2NYVWpEVThLY3VGWFk2WUdkM2NiV2ZpNVlIWEU0SUViSDlsWlFfcXZvNFlXQXBWQWpFY3d6VG1yVldjNG9hOXhkWkpvLUUyb3NwVnlOaUlSejA1bnE0cU5YbUpHMThVNi1KaGtXaWRJMTZpZXFWZDlpa1hxNUJNaHBaUlJKazdjMVZxQnNoT0RSUTdNOTZ0NVRIZWR4ZGVWS0M1NDJXSE5seE1xLVhYVm9WWHNWNUtmcFVUN0I1aUJHS1FWdkZaRk9zR1Ixdk10QXFZZlBOdTRtRDNpOGk4MlZZRXVYUHFoamplRHBPSkpBRkQxSHRaaE1YOHNNZw?oc=5",
+      "desc": "【Yahoo股市】央行不跟進聯準會升息、台積電除息秀、華邦電收購英飛凌記憶體事業 本周大事回顧",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電挑戰曝光！1份報告揭密美國廠「最大...",
-      "date": "09-18",
+      "date": "09-19",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電挑戰曝光！1份報告揭密美國廠「最大難題」",
@@ -40,28 +59,9 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 台積電供應鏈聯合徵才串聯25家供應商　台...",
-      "date": "09-18",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電供應鏈聯合徵才串聯25家供應商　台南釋出逾2200個工作機會",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Fri, 18 Sep 2026 22:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhRmxuNEhSb0kyQWowRGRxWkhSdHdoYkxzaXBEM2h4TXltMmltX0ZhcHVrWUZYU1NTdExOb1Q4SUxfTFhjeFEwaFRpNlJhYUlqLWfSAVBBVV95cUxQclhfeElHTkFFZ2w0ZS1jc1NNNF9VaC0za21uM2ZVak81VEsxYzdvNUpsOWVlb1RscnBOMThiNFBqRERaZUQzQlJpS0FyU1lYYQ?oc=5",
-      "desc": "【ETtoday財經雲】台積電供應鏈聯合徵才串聯25家供應商　台南釋出逾2200個工作機會",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_4",
       "name": "⚡ 晶背供電是什麼？中砂、昇陽半導體領軍受惠...",
-      "date": "09-18",
+      "date": "09-19",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "晶背供電是什麼？中砂、昇陽半導體領軍受惠，開啟先進製程新賽局｜股市話題｜豐雲學堂2026 年 09 月",
