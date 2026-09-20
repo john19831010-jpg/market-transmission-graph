@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-09-19 22:13 實時更新</span>
+        <span id="lastUpdateBadge">2026-09-20 00:47 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,8 +336,84 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-09-19 22:13",
+  "updatedAt": "2026-09-20 00:47",
   "events": [
+    {
+      "id": "e_breaking_1",
+      "name": "⚡ 【創新背面供電】台積電A16落腳高雄 第...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "【創新背面供電】台積電A16落腳高雄 第四季試產！2027年放量| 財經焦點",
+      "newsSource": "太報 TaiSounds",
+      "newsDate": "Sat, 19 Sep 2026 23:10:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQjg2aDZaOU92eUVVYWVramNNUUVaSVpMWnJ6YzhTZm1PUnJleW8wV2dENEN5VXVWZnFnYnRrN29UZzFjVldDRHdwSWhZWFVvaC1CR282c2loWndN?oc=5",
+      "desc": "【太報 TaiSounds】【創新背面供電】台積電A16落腳高雄 第四季試產！2027年放量| 財經焦點",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
+      "name": "⚡ 台積電晶圓代工傳漲價10% 超微Q4也跟...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電晶圓代工傳漲價10% 超微Q4也跟漲 | 科技",
+      "newsSource": "非凡新聞台",
+      "newsDate": "Sat, 19 Sep 2026 22:39:15 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDYVUxeC1hcW1mNmdJYkF1LWR3bjg0a1RlUkhCcGtPaThldl9Ka3Qxak5GRkN1cXFfNDRNbmt6dklrT3FVVUJFU2RYN1NfcGNFSnQycGdoUHByd0E?oc=5",
+      "desc": "【非凡新聞台】台積電晶圓代工傳漲價10% 超微Q4也跟漲 | 科技",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "date": "09-20",
+      "category": "突發總經",
+      "isBreaking": true,
+      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsSource": "sinotrade.com.tw",
+      "newsDate": "Thu, 17 Sep 2026 00:27:35 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
+      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "impactTargets": [
+        "t_gold"
+      ],
+      "primaryChain": [
+        "f_rates",
+        "t_gold"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 美股收盤》美債殖利率、通膨壓力尚存 美股...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
+      "newsSource": "自由財經",
+      "newsDate": "Fri, 18 Sep 2026 22:33:45 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VHNMdGI4N0tLeVpTWE1aYjQzYlRfWmVtcGRUQ3h6eGgwc2dOR19MQWNrOGdkMEJEV3VNMVlGUjNqUDUzNGgxMlRQLTlRb1FEOTR5VE9mYTZacGJXWWk40gFkQVVfeXFMTUtnVzJzbGVWNEZ6Q2NwZUstbVhoVHMzUlBGUU1DTWVidWpNdlBNcmNaejE0TDF2ZmcySkIzZ0pEb3hQTE9uWG83cXlrYloxYUNoLXBXUHRGR3NIeFYwejIwRUYzYg?oc=5",
+      "desc": "【自由財經】美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
     {
       "id": "e_fomc",
       "name": "FOMC 利率決議",
@@ -711,6 +787,30 @@
     }
   ],
   "links": [
+    {
+      "source": "e_breaking_1",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_2",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_3",
+      "target": "f_rates",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發總經"
+    },
+    {
+      "source": "e_breaking_4",
+      "target": "f_foundry",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
     {
       "source": "e_fomc",
       "target": "f_rates",
