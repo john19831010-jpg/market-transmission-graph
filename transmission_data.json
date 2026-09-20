@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-20 05:51",
+  "updatedAt": "2026-09-20 10:54",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 拿3萬買台積電！專家預測2029年底可望...",
+      "name": "⚡ 半導體洗晶圓也靠它！「這檔化工股」一周狂...",
       "date": "09-20",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "拿3萬買台積電！專家預測2029年底可望變「這金額」",
-      "newsSource": "Yahoo新聞",
-      "newsDate": "Sun, 20 Sep 2026 03:41:36 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcXBxZXVlWFZlWDNaMWsyRmo3UnhfYm5WVnJOdkpXY3BoaHRxMzNOMkxZMkVZdFAxS3hMMTF1ZFNYc2hRRW12MVN1aGdFbUZUUDA5TUdPLTBDRDF6Q20zcmNLWmJwOWlncmFsMm1sSVJyd3Baal9ud3BRQllfVmFack5ZTXppRFpvdTBiaFlZZThiV0dBQ0Voa3RUUnZMV1NQa3NybThWdkt1OEFwVF9kSVB6TXNCa1BxZVFUU0V3aWNUQmVfWXpDZXlRcnpmU011X1JnRmFpTG1acTZ2MllZM1N6ZTdheGxPRXYwUlhRZ2dLR255UWdwellnR3dxOF9EeWJCcDd3dklfSGRHTmR4Q1FHMlFKeF9tUUFaTlNuakkwSnZhcVZBNlcyR3Btc3FvNEFSNw?oc=5",
-      "desc": "【Yahoo新聞】拿3萬買台積電！專家預測2029年底可望變「這金額」",
+      "newsTitle": "半導體洗晶圓也靠它！「這檔化工股」一周狂飆18.3%衝破百元 8月營收創18年新高",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 20 Sep 2026 03:53:24 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPc0hVV2VHYzMxNG9SVWNfNHZtbmNDOGgyajlzVWhXWHRqOUwtcld4d3ZQTWROeUFHZ1dwcnpvVDY3RElEdHViOGtuaFhBc002NkpDdWpKcy04VHlZSThyajk3N20yT1liRGFhMXFWdkpHNXY4UkQxQ25DM0Z0NXhnUENEWnh0cTRiczMxdVZ5U0ZOb1NTSVdBZ3lhWnM1QXJGV2tjWVNFVVZ3dnJNYk5MZGE2Y3pSUXFaS29ZTTNNLWJadTltTXI1eEVaN1BOdXFfSXU1d210Mms3YmxUdUhrWmhlbG9OaVMxelFpb2tSNkdPR2hIOGMtYjdQLWFvdXAzZ1lSYkRJMFZWZjdqdER6bUtUY2c0QXpUTlBlaU14TExWOWF4R19uNjlHZ1Y0dWMxSC04T2R2V2U4VzdVV2QwNmxhY1hWTWxISnUtTlNfVEhvZjJDaEM1TUIxTDV5cjc1?oc=5",
+      "desc": "【Yahoo股市】半導體洗晶圓也靠它！「這檔化工股」一周狂飆18.3%衝破百元 8月營收創18年新高",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,25 +22,6 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 【創新背面供電】台積電A16落腳高雄 第...",
-      "date": "09-20",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "【創新背面供電】台積電A16落腳高雄 第四季試產！2027年放量| 財經焦點",
-      "newsSource": "太報 TaiSounds",
-      "newsDate": "Sat, 19 Sep 2026 23:10:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQjg2aDZaOU92eUVVYWVramNNUUVaSVpMWnJ6YzhTZm1PUnJleW8wV2dENEN5VXVWZnFnYnRrN29UZzFjVldDRHdwSWhZWFVvaC1CR282c2loWndN?oc=5",
-      "desc": "【太報 TaiSounds】【創新背面供電】台積電A16落腳高雄 第四季試產！2027年放量| 財經焦點",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 拿3萬買台積電可賺多少？外媒預測2029...",
       "date": "09-20",
       "category": "突發半導體",
@@ -59,22 +40,41 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "id": "e_breaking_3",
+      "name": "⚡ 為何外資從印度殺向台韓？華爾街大咖曝「台...",
       "date": "09-20",
-      "category": "突發總經",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Thu, 17 Sep 2026 00:27:35 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
-      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsTitle": "為何外資從印度殺向台韓？華爾街大咖曝「台積電、三星背後大行情」",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 20 Sep 2026 06:54:44 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qa0pLNDVoZlBPX2xleFdiRi05R2ZPMExHcUViN0JhSFQwVE92Z1lRajdFX2JDVnBleGVack9ram80X2Nfa0JtWXl0V2xSQzkxUm9RZFFXd3Fyb3R6OHRZ0gFkQVVfeXFMTnl2RjBFRExxOWo4NGVPQU1yczZ3RjVld1FXRTNWN1JPZmlSOWtoQV9RbC1acWNzX2U0LTdQV3NWZXcyX25PWW1DWjlkVVhWbFh0UFlIZEJOejRqV2dWdl9vcmNVWg?oc=5",
+      "desc": "【自由財經】為何外資從印度殺向台韓？華爾街大咖曝「台積電、三星背後大行情」",
       "impactTargets": [
-        "t_gold"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 花3萬元買台積電多好賺？外媒：3年後翻倍...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "花3萬元買台積電多好賺？外媒：3年後翻倍賺 | 民視新聞網",
+      "newsSource": "LINE TODAY",
+      "newsDate": "Sun, 20 Sep 2026 10:07:30 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VSnVmSTVoeFVWdDhzZGs0cmFOQ2ppdDBPTnBjQzBlXzduVHd1N05vamtQenZEX2VqclF2eW9EVEFteUE5dHRLRVhEekUydFNjdFUtaHBB?oc=5",
+      "desc": "【LINE TODAY】花3萬元買台積電多好賺？外媒：3年後翻倍賺 | 民視新聞網",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
