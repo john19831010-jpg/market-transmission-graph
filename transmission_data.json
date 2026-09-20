@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-09-20 10:54",
+  "updatedAt": "2026-09-20 14:35",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 大摩：全球 AI 半導體需求成長快速 看...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 20 Sep 2026 13:51:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jWG5kSHJuWG83b1l1azJ2TVB1aTBDNDFpSXBGa0o2cXo0ejJadlowbE90MjE4SzZWd2h3cXU4LTE4UWFWT0xGYnpqa1Z5Zmh60gFWQVVfeXFMT3d5QmhWSXUxcElhTlpPN3NXbWhmaU1xNlY2RUt2YTJNNE00N2xXeElwREFnU2oxWVl2MHJBeUtFR0o2YnRHeWk1a01CalJ3N0V1YTVLTmc?oc=5",
+      "desc": "【UDN】大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
+      "name": "⚡ 台積電晶圓代工宛如「超強護城河」 外媒喊...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電晶圓代工宛如「超強護城河」 外媒喊話現在值得買進",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 20 Sep 2026 12:52:57 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03cWRCMU5XWXhvZ09FOU04d1NyV1lvdEF6Wkx2d0FOWEZQY2V5REJVQlFNbVFidU82a0pLcUFBbmU5UFFMYlpLdzRBaF9UckhOY19rUmthSlZvY3V4eW400gFkQVVfeXFMTzctOGVZVjY2ZElWOGNwQjYyRlc3U1dJal90NTVrUWdfYkR2SGFTX2V2clNCLXRDMHVSNE5hU2JONVNLaGlMUG9YdHRlN0lZVnlPUENtRkZKVExseHlzbEFNYXdYVg?oc=5",
+      "desc": "【自由財經】台積電晶圓代工宛如「超強護城河」 外媒喊話現在值得買進",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 半導體洗晶圓也靠它！「這檔化工股」一周狂...",
       "date": "09-20",
       "category": "突發半導體",
@@ -21,60 +59,22 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 拿3萬買台積電可賺多少？外媒預測2029...",
-      "date": "09-20",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "拿3萬買台積電可賺多少？外媒預測2029年底驚人價值",
-      "newsSource": "三立新聞",
-      "newsDate": "Sat, 19 Sep 2026 22:27:47 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rZGRwQ24tZE1EdDVnOUdDVTMtdUY4Mk01SFZaSmZuM0RuWDZ2T3VHWFRlQWVPTkU3c3hINXZHU0FaQkVnUU83WWphMA?oc=5",
-      "desc": "【三立新聞】拿3萬買台積電可賺多少？外媒預測2029年底驚人價值",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 為何外資從印度殺向台韓？華爾街大咖曝「台...",
-      "date": "09-20",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "為何外資從印度殺向台韓？華爾街大咖曝「台積電、三星背後大行情」",
-      "newsSource": "自由財經",
-      "newsDate": "Sun, 20 Sep 2026 06:54:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qa0pLNDVoZlBPX2xleFdiRi05R2ZPMExHcUViN0JhSFQwVE92Z1lRajdFX2JDVnBleGVack9ram80X2Nfa0JtWXl0V2xSQzkxUm9RZFFXd3Fyb3R6OHRZ0gFkQVVfeXFMTnl2RjBFRExxOWo4NGVPQU1yczZ3RjVld1FXRTNWN1JPZmlSOWtoQV9RbC1acWNzX2U0LTdQV3NWZXcyX25PWW1DWjlkVVhWbFh0UFlIZEJOejRqV2dWdl9vcmNVWg?oc=5",
-      "desc": "【自由財經】為何外資從印度殺向台韓？華爾街大咖曝「台積電、三星背後大行情」",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ 花3萬元買台積電多好賺？外媒：3年後翻倍...",
+      "name": "⚡ 【MM一週盤前】聯準會、日本央行雙雙升息...",
       "date": "09-20",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "花3萬元買台積電多好賺？外媒：3年後翻倍賺 | 民視新聞網",
-      "newsSource": "LINE TODAY",
-      "newsDate": "Sun, 20 Sep 2026 10:07:30 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VSnVmSTVoeFVWdDhzZGs0cmFOQ2ppdDBPTnBjQzBlXzduVHd1N05vamtQenZEX2VqclF2eW9EVEFteUE5dHRLRVhEekUydFNjdFUtaHBB?oc=5",
-      "desc": "【LINE TODAY】花3萬元買台積電多好賺？外媒：3年後翻倍賺 | 民視新聞網",
+      "newsTitle": "【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
+      "newsSource": "MacroMicro",
+      "newsDate": "Sun, 20 Sep 2026 10:52:40 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcXlheWFfMFo1SWV6bGxLaW94YUVseGtXSTJ5bnFZeWF2ZFhTYXRDQlZBMVYxekJRRU9Lb1RhWG8yTERHQXYwVnBWd2twd1JOby00bGRsYWtGdHRQMjcwRW5jQW56TFJCMU5IWXd5VDdoaG1aR3gtc1J2UXdRaWhaNG5menRxbTZtemN5ZlB0WFZDdWJKTjJkakJJcmlUSUI4ODdmQzBvQ2ZGeVdKZ2l2VXRGdVFUeGU2T3NtTjJReHdaNmE1MFRzdHFTZy1ieWVYc243eGp0a3dVV3ZJVG92c3RMY0gwUHk2NkkteHJmeTBvaGhMMUdBOFdWekIwUWF6NWJmUFZ2NzdoeFVsRWJyTzJldnh1Mnd6amc?oc=5",
+      "desc": "【MacroMicro】【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
