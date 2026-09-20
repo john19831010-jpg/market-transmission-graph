@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-20 14:35",
+  "updatedAt": "2026-09-20 18:05",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 大摩：全球 AI 半導體需求成長快速 看...",
+      "name": "⚡ 大摩：全球AI半導體需求成長快速 看好台...",
       "date": "09-20",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股",
-      "newsSource": "UDN",
-      "newsDate": "Sun, 20 Sep 2026 13:51:49 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jWG5kSHJuWG83b1l1azJ2TVB1aTBDNDFpSXBGa0o2cXo0ejJadlowbE90MjE4SzZWd2h3cXU4LTE4UWFWT0xGYnpqa1Z5Zmh60gFWQVVfeXFMT3d5QmhWSXUxcElhTlpPN3NXbWhmaU1xNlY2RUt2YTJNNE00N2xXeElwREFnU2oxWVl2MHJBeUtFR0o2YnRHeWk1a01CalJ3N0V1YTVLTmc?oc=5",
-      "desc": "【UDN】大摩：全球 AI 半導體需求成長快速 看好台積電、聯發科等23檔台股",
+      "newsTitle": "大摩：全球AI半導體需求成長快速 看好台積電、聯發科等23檔台股",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Sun, 20 Sep 2026 14:30:23 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOcTJtM1E4OTllUU1kY3h1TmRzRkZza0ZfRWVqamROdDFjSG12MjBkQlpQQjJqZGR1N01KZzB0cVhnelM1NWVuZHgxeVp3a2ZCTVQ1OGt4SHB3OFlSbWFQMzcwdmlXa2VWem5hNTFYMUNKSzRVWFRmbnhqek9KSUVWX3d0YmRwcDBpSDZYR244dzcxV2dzV21nWXhqSjJORl94c2dMbkZWS3F0R1VIeVdmQkxmcVlORHBjajRWczRpM1VzVGZNNEs1eDJEblU2Ny1zdV9OcEJRRTBfV3BNYmNtUmtwOHJjRXo3d25rRGhjUDZENk93SlhoNjE2S0RIUEs1Mkk4RDdMMHRheENVdGFIY1lFZTJ1dkVTb2NJNVlNd2d6Y3RvYXJfY1RRWER2enBtWU00dWFjSmw1VTBTRkdaUkZoWXdkQnZRY2JWWDNHRG90cGJfaFJUQVlVZmVpUW84UGRPV3RaN1RrS05iZ2trOW14M1pXSVh1Q3ZaR1dpYjJfMGpkZTVFYQ?oc=5",
+      "desc": "【Yahoo新聞】大摩：全球AI半導體需求成長快速 看好台積電、聯發科等23檔台股",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,34 +41,34 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 半導體洗晶圓也靠它！「這檔化工股」一周狂...",
-      "date": "09-20",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "半導體洗晶圓也靠它！「這檔化工股」一周狂飆18.3%衝破百元 8月營收創18年新高",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sun, 20 Sep 2026 03:53:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPc0hVV2VHYzMxNG9SVWNfNHZtbmNDOGgyajlzVWhXWHRqOUwtcld4d3ZQTWROeUFHZ1dwcnpvVDY3RElEdHViOGtuaFhBc002NkpDdWpKcy04VHlZSThyajk3N20yT1liRGFhMXFWdkpHNXY4UkQxQ25DM0Z0NXhnUENEWnh0cTRiczMxdVZ5U0ZOb1NTSVdBZ3lhWnM1QXJGV2tjWVNFVVZ3dnJNYk5MZGE2Y3pSUXFaS29ZTTNNLWJadTltTXI1eEVaN1BOdXFfSXU1d210Mms3YmxUdUhrWmhlbG9OaVMxelFpb2tSNkdPR2hIOGMtYjdQLWFvdXAzZ1lSYkRJMFZWZjdqdER6bUtUY2c0QXpUTlBlaU14TExWOWF4R19uNjlHZ1Y0dWMxSC04T2R2V2U4VzdVV2QwNmxhY1hWTWxISnUtTlNfVEhvZjJDaEM1TUIxTDV5cjc1?oc=5",
-      "desc": "【Yahoo股市】半導體洗晶圓也靠它！「這檔化工股」一周狂飆18.3%衝破百元 8月營收創18年新高",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
       "name": "⚡ 【MM一週盤前】聯準會、日本央行雙雙升息...",
       "date": "09-20",
       "category": "突發總經",
       "isBreaking": true,
       "newsTitle": "【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
-      "newsSource": "MacroMicro",
+      "newsSource": "macromicro.me",
       "newsDate": "Sun, 20 Sep 2026 10:52:40 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcXlheWFfMFo1SWV6bGxLaW94YUVseGtXSTJ5bnFZeWF2ZFhTYXRDQlZBMVYxekJRRU9Lb1RhWG8yTERHQXYwVnBWd2twd1JOby00bGRsYWtGdHRQMjcwRW5jQW56TFJCMU5IWXd5VDdoaG1aR3gtc1J2UXdRaWhaNG5menRxbTZtemN5ZlB0WFZDdWJKTjJkakJJcmlUSUI4ODdmQzBvQ2ZGeVdKZ2l2VXRGdVFUeGU2T3NtTjJReHdaNmE1MFRzdHFTZy1ieWVYc243eGp0a3dVV3ZJVG92c3RMY0gwUHk2NkkteHJmeTBvaGhMMUdBOFdWekIwUWF6NWJmUFZ2NzdoeFVsRWJyTzJldnh1Mnd6amc?oc=5",
-      "desc": "【MacroMicro】【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
+      "desc": "【macromicro.me】【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
+      "impactTargets": [
+        "t_gold"
+      ],
+      "primaryChain": [
+        "f_rates",
+        "t_gold"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "date": "09-20",
+      "category": "突發總經",
+      "isBreaking": true,
+      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsSource": "sinotrade.com.tw",
+      "newsDate": "Thu, 17 Sep 2026 00:27:35 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
+      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
       "impactTargets": [
         "t_gold"
       ],
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1735.0,
+      "price": 1810.0,
       "currency": "台幣",
-      "change_pct": 7.1
+      "change_pct": 11.73
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 109.85,
+      "price": 102.0,
       "currency": "台幣",
-      "change_pct": 2.76
+      "change_pct": -4.58
     },
     {
       "id": "t_00935",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 24.35,
+      "price": 26.75,
       "currency": "台幣",
-      "change_pct": 1.88
+      "change_pct": 11.92
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 49.45,
+      "price": 49.5,
       "currency": "台幣",
-      "change_pct": -0.9
+      "change_pct": -0.8
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 45.25,
+      "price": 45.3,
       "currency": "台幣",
-      "change_pct": 1.0
+      "change_pct": 1.12
     }
   ],
   "links": [
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_breaking_4",
