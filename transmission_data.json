@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-09-20 00:47",
+  "updatedAt": "2026-09-20 05:51",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 拿3萬買台積電！專家預測2029年底可望...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "拿3萬買台積電！專家預測2029年底可望變「這金額」",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Sun, 20 Sep 2026 03:41:36 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNcXBxZXVlWFZlWDNaMWsyRmo3UnhfYm5WVnJOdkpXY3BoaHRxMzNOMkxZMkVZdFAxS3hMMTF1ZFNYc2hRRW12MVN1aGdFbUZUUDA5TUdPLTBDRDF6Q20zcmNLWmJwOWlncmFsMm1sSVJyd3Baal9ud3BRQllfVmFack5ZTXppRFpvdTBiaFlZZThiV0dBQ0Voa3RUUnZMV1NQa3NybThWdkt1OEFwVF9kSVB6TXNCa1BxZVFUU0V3aWNUQmVfWXpDZXlRcnpmU011X1JnRmFpTG1acTZ2MllZM1N6ZTdheGxPRXYwUlhRZ2dLR255UWdwellnR3dxOF9EeWJCcDd3dklfSGRHTmR4Q1FHMlFKeF9tUUFaTlNuakkwSnZhcVZBNlcyR3Btc3FvNEFSNw?oc=5",
+      "desc": "【Yahoo新聞】拿3萬買台積電！專家預測2029年底可望變「這金額」",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 【創新背面供電】台積電A16落腳高雄 第...",
       "date": "09-20",
       "category": "突發半導體",
@@ -21,16 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 台積電晶圓代工傳漲價10% 超微Q4也跟...",
+      "id": "e_breaking_3",
+      "name": "⚡ 拿3萬買台積電可賺多少？外媒預測2029...",
       "date": "09-20",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電晶圓代工傳漲價10% 超微Q4也跟漲 | 科技",
-      "newsSource": "非凡新聞台",
-      "newsDate": "Sat, 19 Sep 2026 22:39:15 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDYVUxeC1hcW1mNmdJYkF1LWR3bjg0a1RlUkhCcGtPaThldl9Ka3Qxak5GRkN1cXFfNDRNbmt6dklrT3FVVUJFU2RYN1NfcGNFSnQycGdoUHByd0E?oc=5",
-      "desc": "【非凡新聞台】台積電晶圓代工傳漲價10% 超微Q4也跟漲 | 科技",
+      "newsTitle": "拿3萬買台積電可賺多少？外媒預測2029年底驚人價值",
+      "newsSource": "三立新聞",
+      "newsDate": "Sat, 19 Sep 2026 22:27:47 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rZGRwQ24tZE1EdDVnOUdDVTMtdUY4Mk01SFZaSmZuM0RuWDZ2T3VHWFRlQWVPTkU3c3hINXZHU0FaQkVnUU83WWphMA?oc=5",
+      "desc": "【三立新聞】拿3萬買台積電可賺多少？外媒預測2029年底驚人價值",
       "impactTargets": [
         "t_2330"
       ],
@@ -40,7 +59,7 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
       "date": "09-20",
       "category": "突發總經",
@@ -56,25 +75,6 @@
       "primaryChain": [
         "f_rates",
         "t_gold"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 美股收盤》美債殖利率、通膨壓力尚存 美股...",
-      "date": "09-20",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 18 Sep 2026 22:33:45 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41VHNMdGI4N0tLeVpTWE1aYjQzYlRfWmVtcGRUQ3h6eGgwc2dOR19MQWNrOGdkMEJEV3VNMVlGUjNqUDUzNGgxMlRQLTlRb1FEOTR5VE9mYTZacGJXWWk40gFkQVVfeXFMTUtnVzJzbGVWNEZ6Q2NwZUstbVhoVHMzUlBGUU1DTWVidWpNdlBNcmNaejE0TDF2ZmcySkIzZ0pEb3hQTE9uWG83cXlrYloxYUNoLXBXUHRGR3NIeFYwejIwRUYzYg?oc=5",
-      "desc": "【自由財經】美股收盤》美債殖利率、通膨壓力尚存 美股漲跌互見 台積電ADR漲1.02％",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
       ]
     },
     {
@@ -284,7 +284,7 @@
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
       "price": 4424.9,
       "currency": "美元",
-      "change_pct": 1.68,
+      "change_pct": 2.13,
       "gold_units": {
         "oz_usd": 4424.9,
         "gram_twd": 4518.3,
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_rates",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
-    },
-    {
-      "source": "e_breaking_4",
       "target": "f_foundry",
       "weight": 92,
       "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_4",
+      "target": "f_rates",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
