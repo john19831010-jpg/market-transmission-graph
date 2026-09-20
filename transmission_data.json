@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20 18:05",
+  "updatedAt": "2026-09-20 21:15",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,6 +22,25 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 台積電成為「半導體龍頭霸主」付出的代價：...",
+      "date": "09-20",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電成為「半導體龍頭霸主」付出的代價：《幽影之國》選摘（5） | 何貴森 | 評論",
+      "newsSource": "風傳媒",
+      "newsDate": "Sun, 20 Sep 2026 21:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12TWxaVW9FdjE0a0cyd1BfRm1CaTBPQVpLZ00yM0J5V05nbDY5Z2loTWhJYUc4MFNzN2FfTTRWTUozTHZ1dU5OYkhYajVUdw?oc=5",
+      "desc": "【風傳媒】台積電成為「半導體龍頭霸主」付出的代價：《幽影之國》選摘（5） | 何貴森 | 評論",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電晶圓代工宛如「超強護城河」 外媒喊...",
       "date": "09-20",
       "category": "突發半導體",
@@ -40,35 +59,16 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 【MM一週盤前】聯準會、日本央行雙雙升息...",
-      "date": "09-20",
-      "category": "突發總經",
-      "isBreaking": true,
-      "newsTitle": "【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
-      "newsSource": "macromicro.me",
-      "newsDate": "Sun, 20 Sep 2026 10:52:40 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcXlheWFfMFo1SWV6bGxLaW94YUVseGtXSTJ5bnFZeWF2ZFhTYXRDQlZBMVYxekJRRU9Lb1RhWG8yTERHQXYwVnBWd2twd1JOby00bGRsYWtGdHRQMjcwRW5jQW56TFJCMU5IWXd5VDdoaG1aR3gtc1J2UXdRaWhaNG5menRxbTZtemN5ZlB0WFZDdWJKTjJkakJJcmlUSUI4ODdmQzBvQ2ZGeVdKZ2l2VXRGdVFUeGU2T3NtTjJReHdaNmE1MFRzdHFTZy1ieWVYc243eGp0a3dVV3ZJVG92c3RMY0gwUHk2NkkteHJmeTBvaGhMMUdBOFdWekIwUWF6NWJmUFZ2NzdoeFVsRWJyTzJldnh1Mnd6amc?oc=5",
-      "desc": "【macromicro.me】【MM一週盤前】聯準會、日本央行雙雙升息，本週聚焦川習二會！",
-      "impactTargets": [
-        "t_gold"
-      ],
-      "primaryChain": [
-        "f_rates",
-        "t_gold"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ 【美股盤前0916】聚焦美國FOMC利率...",
+      "name": "⚡ 雪上加霜！美聯準會升息1碼 中國房市面臨...",
       "date": "09-20",
       "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Thu, 17 Sep 2026 00:27:35 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiiARBVV95cUxQQ1dteEhVOThKNU55czJVeHc0bXpUdTd3TmVhNnlQUDJHbFlWOWhOeWtGRWpzSDdZWndGRmc3Yk1DWDZxS1pxbFJ0Z25tdlVvN3lzWDhDZFhfX1o1M1hlZ1VLdEwweVktZGZnbXUyekNNTG1BZER0aWxJdzd3N2RYaUtzNDNENnc1bjhTWFprcms0MWFOSjJfUzB3TVZQTW1HQnBNVjVwWnFiMjVUTk5QRmdjSHFGT2xZVDNrMzJ0bWJnNjRhYktOT2NBd1AwZklNWjJSV2RKT1dIWklNLVhaZzh3UHgzZFlfYm5aTEZEUVViX0JlZU1aWHJWSnM0VGhhRkd0STNHaXlLXzFsUTExQVYxeXBVUHVIaE1mZDJkc29QQlZTaGJNZzlTQmdnQ1pLNVlCQk1LVm9fN1pmUGV4Q2Rrb2NHcHJtVXUyV2Vac0JSYlotTUZ5dVNxTmh0ajFfNGlSRkJUbDNuS3k0VkQ4cU16SUZ3cWNaYzRKSTNoSW5Cd1EtbEFNLVI0MkJGRWZ6RTlrY202emk4SEpydVBTajhhLUxDdVZPckQzTWgxSE9oVndoMVZEbWVCTWlWU29FZWFmRDFUbmdQOFYxYmczTXg2bDRrTkk4SVFtcG1OTlpHeGU3bE9XUjJZSjVZQlNCbjhLTTUzRFIzSUdpRGJLOEo0NGhKR0VF?oc=5",
-      "desc": "【sinotrade.com.tw】【美股盤前0916】聚焦美國FOMC利率決議！債市賣壓持續蔓延，油價猛升也壓抑市場走勢｜豐雲學堂2026 年 09 月",
+      "newsTitle": "雪上加霜！美聯準會升息1碼 中國房市面臨4大衝擊",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 20 Sep 2026 14:23:36 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jY2h2Q2lOel9TZjBpbHFXa0xidUVDNl9YZjY3b2NGM3VvMWk5WXprZ2UzOWdpYVo5UzE1SHZrNUJGV3ljSG9zOG9Ec2xhQ2lJZzNjbHdYM01HMDYxNzUw0gFkQVVfeXFMTkdVVXJXZENSeDJGWkY0RXN5c0d1ZWFCYWtPazBLc1ctY2RXejFOdWNvNFV2aUhPaFZGTDFiWnpZR0lRN3c4dXNRbmZZMER2aElnbFEyOUNiT09pQjNaN2hXVFd6Vw?oc=5",
+      "desc": "【自由財經】雪上加霜！美聯準會升息1碼 中國房市面臨4大衝擊",
       "impactTargets": [
         "t_gold"
       ],
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_rates",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
