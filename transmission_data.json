@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-21 20:51",
+  "updatedAt": "2026-09-21 23:54",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電又要衝高？魏哲家喊「11字」網秒懂...",
+      "name": "⚡ 台積電新目標價？魏哲家對蔡力行喊「這句話...",
       "date": "09-21",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電又要衝高？魏哲家喊「11字」網秒懂：訊號出現！",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Mon, 21 Sep 2026 09:36:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPdG93cXNiRWxXb2NfY3JPcDZsa18wbTRid2Rqay1EYXhLQXRqUkRmYl9xTVp3alVMTXM1d3EtYUU2UXU2NS1PTFQ0WWYtVE5BekJsQ0VqMVZFLXNldGs0dlJlVS1qb0RHQUZyMl9EcUJYUTlOOEdabFBmc1AwRTVFcjNMdWt2OE42eTdTMjl0cGxlUnpoY2F1SEl5ejZCVzRrWGJraWdJVUwxSk5aU29Wc21aWGJDVGVobWlSdTFUck5lbFVScVdDcjd4SjRQQkxkbjVqTE11ZVNrX2hkN0NqZmdYOTV2WDZCSk5pTTBKYko5cXY1bWdIV21INk9zb2pUeUh3MzhnU3ZsanVQczBsa1pxcDVlajc2UFh1ZWJpRWRTSHh2TWRLZktJMS1rQjkxN3RwemdpeHp5M0N2Tk01SzFrb09GRlU?oc=5",
-      "desc": "【Yahoo股市】台積電又要衝高？魏哲家喊「11字」網秒懂：訊號出現！",
+      "newsTitle": "台積電新目標價？魏哲家對蔡力行喊「這句話」 網一聽嗨翻了",
+      "newsSource": "自由財經",
+      "newsDate": "Mon, 21 Sep 2026 06:56:30 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1cFM0bXdKWWRtRjB2ZjhyYURHZ2QxNXB2MVgyMUZvUGJsVTZRS09TQlEtenppMWtIUUU4a0RvTV9JVVIwS1J5YWtCdkFJMlNmZWtTdXlOMGZtUkhBWWdR0gFkQVVfeXFMTUxIZjBaazdtd2J5d1lRVlFmM3VTWjhHLWlXRHkyOTZvMlhhUE9ySG1QbVRqN0VHQmFsZzd5d1BnNkkwWHRZU3djTGRWd0ZpLTU1T21BOERpX2FlZkZ0VnJqSnBfZw?oc=5",
+      "desc": "【自由財經】台積電新目標價？魏哲家對蔡力行喊「這句話」 網一聽嗨翻了",
       "impactTargets": [
         "t_2330"
       ],
@@ -28,7 +28,7 @@
       "isBreaking": true,
       "newsTitle": "台積電要衝5010元？ 魏哲家同框蔡力行 喊「股價趕上聯發科」",
       "newsSource": "facebook.com",
-      "newsDate": "Mon, 21 Sep 2026 16:15:03 GMT",
+      "newsDate": "Mon, 21 Sep 2026 22:16:36 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNemlaajg0M0dTaGlYR2pqRzhEMWRMWncwMFpyNWlxa2VDVDJaNFU4ajRMRFNfOGx0LWZ4ZkpfNVlCNGJacWdDYm1XTk54VXd2eFB6WGJybmZSMVJWWFdncHpDOWVzbmdnbzBWaVBuT1I2eGlDWDdfV0xLNVRSV205SGlUUzVHYTRXcTRiQlgyU0pNVHRtdk1WR2Z6OTlHVXlOZnNTd1EtX3VkY0F0Tm5FOHlQTVNrVTZiVmh5UUNWa0tWTmpSMWdOdlp4eTNQWHZjOWxZeEZpLUtvdy1MczM5b01iVnQ1Y09OempoeVpldDd2akRxZFZSVHZ5cmVwUzYyZFZUTEFQUjBxWWlDQTdzQ0NEeVMyNVlySXRrSHdQakVHM0I4UWl1eVJ6V1FET2NDSlJ2ZVFoNm1HM2N4RWlXWE9Bbm1uQzJaMzU2NEN1WERrNFRaT3ViRFlHUDlydmhoYzN2RzM2THE2SHNBNHZXdi1HN2FwZw?oc=5",
       "desc": "【facebook.com】台積電要衝5010元？ 魏哲家同框蔡力行 喊「股價趕上聯發科」",
       "impactTargets": [
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 【0921台股盤前】台積電回神、創意飆漲...",
+      "name": "⚡ 蔡司半導體探照台灣先進製程與先進封裝的未來",
       "date": "09-21",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【0921台股盤前】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Mon, 21 Sep 2026 00:11:14 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxNekpNYmFpdjk4bEZWNzZrYUVYRHh6RUJPX0xzcnJYWHJUZUYwSllMOTAxdEN1Ny1iLUE1MHJyLW15WjRFaFJJbXRDUnRtX29RbHFFZmxacTJ0R0tycVNNbFdNY2JZMW1RSndfTXkyZUF0V3JDakdZNko2QnRzbWZDRWs1THM0d0lmSGN4SVN6X1RoS3ZBLU16bjM0dHl6S0tjMmRLbkZ0WjNFYTdYT3dvZVgtczFDWUstLW1nV0owZ3F1Um9ETG9lZlBQdU5jT1NDWGNzNTkyaWY3OGtQNGFWbk9iUk8zZVJWek1jai03QXFnQmNMTFN1a1JCeS1NLW9VVHdpSHUtempqUmtpd280elo5Qlhpb0ppZlNoaElheWFSckt4cS1qNUdaWXdaVFRfaVZUdHpUSDV5N3RCU1VJVk5VUDVISXVrYngybVl3YkdRbG9DZ2RCSnN6Z0gxZFBpanBiQU83YmI0am9ERE5mYjVtQ0pjQVRVclY2QndHMmhoWU16WGxPeVA2NjdmMWlIUnJDbmZUTEpkOW5Wc0lYZGxVb0ZUSzRDcUpKWDFZMUxkZFljWm5qNlB0eHVHVDFyeDZnbnBDMGtMNktMVnFCLXBaR2JrRlc3UXdoNXpUdlhRVVBsLWszMHlDZklnTVk4VzYtTjZ3NDUwWEwycVpnUW51QXh6RzVwVk01X1NoSi1OR25LVXVYLWk4RDJadG5DQnEtcU14Y2tMT2FvdzZKc0NaeHVnOVd3WWxoRDRXU1RCaUxLN000aVlWQWlkaXpZb044UnctX0dTbmNVMGZnMzluUWpiRGZxSW9mX3NaOWRGc0VBSjNXeGlEZkYyZ0RPMjdQbFQzUjdYLUdhRHZXWVFUWkJhcl94QTBzUUtESGZXSTR5Q2U5RHdDMW5NWkZ3MnpIbDAzV2RvUU95MFlSQ3Q3UQ?oc=5",
-      "desc": "【sinotrade.com.tw】【0921台股盤前】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月",
+      "newsTitle": "蔡司半導體探照台灣先進製程與先進封裝的未來",
+      "newsSource": "DIGITIMES",
+      "newsDate": "Mon, 21 Sep 2026 15:42:57 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZhd3lNZjlHNVF1VE0xems2QVUyUGp5UDR1RW1mcVJJRUhNZjBNMVFiVi1xdGVRanVSc2ZnR0JjWm9mZG44Y0pNOFVDVmJjNnRDRVl5bDRNQk1jR256RDBZTjBMNVRIVjVVSU5ZQ2ltdEoyNElJbjNYZTU3bnVWS3Bsa2VUU21oVmpKVTRtYmZMZmVpcVVKZFVJaE5hSTlhMFNn?oc=5",
+      "desc": "【DIGITIMES】蔡司半導體探照台灣先進製程與先進封裝的未來",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美股早盤／債券殖利率、油價回落…四大指數...",
+      "name": "⚡ 〈美股盤後〉那指大漲2%創收盤新高 AI...",
       "date": "09-21",
       "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "美股早盤／債券殖利率、油價回落…四大指數上攻！英特爾衝、AMD安謀飆| 全球財經| 全球",
-      "newsSource": "UDN",
-      "newsDate": "Mon, 21 Sep 2026 13:51:51 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNEhsQ1dGMTM2NXF5UWVQaDNydUNUb1VZY3Rqa09ucFJjVHU0Um9aM3VPdzBZV2tTbE9PcDQyYVVaYXpZc19ZanFucEw3djBm?oc=5",
-      "desc": "【UDN】美股早盤／債券殖利率、油價回落…四大指數上攻！英特爾衝、AMD安謀飆| 全球財經| 全球",
+      "newsTitle": "〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Mon, 21 Sep 2026 22:01:11 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHclNXdTNBUDBuYmVhVk1oTkFlb1BwWmprYW1lR1ZoblZrTTNBMlNFRDJ2d21GV2hKbXlzTTFBMnNNS2RwUGFubklWX080Z1k?oc=5",
+      "desc": "【news.cnyes.com】〈美股盤後〉那指大漲2%創收盤新高 AI股飆升、油價與美債殖利率降溫助攻",
       "impactTargets": [
         "t_gold"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4380.8,
+      "price": 4405.5,
       "currency": "美元",
-      "change_pct": -0.15,
+      "change_pct": 0.41,
       "gold_units": {
-        "oz_usd": 4380.8,
-        "gram_twd": 4464.8,
-        "qian_twd": 16743,
-        "usdtwd": 31.7
+        "oz_usd": 4405.5,
+        "gram_twd": 4495.7,
+        "qian_twd": 16859,
+        "usdtwd": 31.74
       }
     },
     {
