@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-09-22 09:13",
+  "updatedAt": "2026-09-22 14:27",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 黃仁勳掛保證「AI不會毀滅世界」！台積電...",
+      "date": "09-22",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Mon, 21 Sep 2026 01:24:47 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOamV1cE03NHhNa0d2bnhHRElsTS12c0dOak5IcExLaGJYXzlLUWhRTmxHRVo3a0o3US1RVkJTTHV4U05Xak1mQUJwT09zbWpXb19ZUFM5Q1AtWnVfWUhETGNvY2xuaWotdXZPU2dmYmxBaVpaWTJZcENjWWR1cXBWRTVRQXZ1VWJOQ3ZKUGlwcnhJbDZoS1NqTmJ0SG9xcnd3MnBZbnN3YkRTMTFwVmhpdnFZcEhCc3ZBU2ptRUxDbWxXSHBjdUxHalU4NWlobDlNOGlFRENXWEM2aG1UMWJGREptdHpRcGhvS3U4aWlGWUxXdmtISXFmSG0tLXJuVHI2MHd4ajRjWVlockRhMDdKRk4wZ2tCQzVBZmhoNjV1NXo1X091ZUppaTdaWHdYTl9iZFdUcTFnX1l2TFE0X0k3c0otbkFuYmd5dEJxNVVvZVI3dlpzM3NsUlJET3JvdEgxbnhHZUdKVTlzbVh2ZWJtNkpJcjlGWkM1eXZLOGQwQnhnNTlaRGE5bFI1c2pSQVBfUWJ0ZW9nb3VWN0VtMjJtWGJRSnBEdUhDNDcwVkc1WVBjaFBZQ0xZVGY5M2Ewdw?oc=5",
+      "desc": "【Yahoo股市】黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
+      "name": "⚡ 台達電董座鄭平拜會印度總理莫迪 持續擴充...",
+      "date": "09-22",
+      "category": "突發基建",
+      "isBreaking": true,
+      "newsTitle": "台達電董座鄭平拜會印度總理莫迪 持續擴充在地產能聚焦三大領域",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Tue, 22 Sep 2026 11:45:25 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Ra1pRTlh4cEt0ZUpXX2E4RlZiZlZSNlpJdEVMeTFyRDAxM1lTNjZVdF9OQkFvOEpKNmlPS2FTdTBFb0dtY0pjcXl5VDhxVXM?oc=5",
+      "desc": "【news.cnyes.com】台達電董座鄭平拜會印度總理莫迪 持續擴充在地產能聚焦三大領域",
+      "impactTargets": [
+        "t_2308"
+      ],
+      "primaryChain": [
+        "f_server_power",
+        "t_2308"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 48601點新猷曇花一現！台積電、記憶體...",
       "date": "09-22",
       "category": "突發半導體",
@@ -21,26 +59,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 虎頭蛇尾！台積電跌20元收最低2460　...",
-      "date": "09-22",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "虎頭蛇尾！台積電跌20元收最低2460　台股收漲81點48K得而復失",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Tue, 22 Sep 2026 05:34:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ESTM1NF9ESUZVMVZBS0lNWVhINGtnUnRJaG9Gd1hJVWpTZTgwSFBzZWFaSW9rTzltamFQd3hRZm9kNXJIUkcxT3laVVhEdTlhOHfSAVBBVV95cUxNTUZwaHZhcjRTMW5qQ193RzVuQmotVVdGZ1V5M2xEbVJremJ6YTFSNnMtMFlaNS1MSzJ3aXZEblhRU0FiM2lRSVBJXzcyTXVyNw?oc=5",
-      "desc": "【ETtoday財經雲】虎頭蛇尾！台積電跌20元收最低2460　台股收漲81點48K得而復失",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 〈美股盤後〉那指大漲2%創收盤新高 AI...",
       "date": "09-22",
       "category": "突發總經",
@@ -56,25 +75,6 @@
       "primaryChain": [
         "f_rates",
         "t_gold"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 美股收盤》AI+晶片股強勁反彈 美股4大...",
-      "date": "09-22",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "美股收盤》AI+晶片股強勁反彈 美股4大指數全收紅 台積電ADR漲2.44％",
-      "newsSource": "自由財經",
-      "newsDate": "Mon, 21 Sep 2026 22:31:50 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YSW43QVpxclVKbS1RRVBEUFljYVBCcVVCRlpVaDEwbDJzdEFxZ3N4OHQ1eXVWTmsteTdLU1ctSmhzcDBYSnZqQ0tVUW8yaHI2U0dNZVNPaFNWeDgteWNR0gFkQVVfeXFMTlhMTnBpYlZaV3kweV9oblRSckw0bzBlajMyOUdsdWt1SnNpR3FwR2FPdFp1N1poNUplNkpReDBMaF91SXhmajJ1d1RnazI0Vi1EVHFJY1VYdlFZR1kxc0dCc2FqWQ?oc=5",
-      "desc": "【自由財經】美股收盤》AI+晶片股強勁反彈 美股4大指數全收紅 台積電ADR漲2.44％",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4359.7,
+      "price": 4367.5,
       "currency": "美元",
-      "change_pct": -0.91,
+      "change_pct": -0.73,
       "gold_units": {
-        "oz_usd": 4359.7,
-        "gram_twd": 4439.1,
-        "qian_twd": 16647,
-        "usdtwd": 31.67
+        "oz_usd": 4367.5,
+        "gram_twd": 4442.8,
+        "qian_twd": 16660,
+        "usdtwd": 31.64
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 741.47,
+      "price": 745.726,
       "currency": "美元",
-      "change_pct": 4.55
+      "change_pct": 5.85
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 712.78,
+      "price": 713.105,
       "currency": "美元",
-      "change_pct": 1.93
+      "change_pct": 2.43
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 354.97,
+      "price": 361.49,
       "currency": "美元",
-      "change_pct": 1.6
+      "change_pct": 4.79
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 375.3,
+      "price": 378.43,
       "currency": "美元",
-      "change_pct": 4.55
+      "change_pct": 6.13
     },
     {
       "id": "t_spacex",
@@ -458,21 +458,21 @@
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_3",
-      "target": "f_rates",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
-    },
-    {
-      "source": "e_breaking_4",
       "target": "f_foundry",
       "weight": 92,
       "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_4",
+      "target": "f_rates",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
