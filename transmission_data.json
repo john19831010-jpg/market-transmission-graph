@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23 11:01",
+  "updatedAt": "2026-09-23 16:22",
   "events": [
     {
       "id": "e_breaking_1",
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 假加班真幽會！台積電工程師劈腿女同事 未...",
+      "name": "⚡ AI 與車用需求推升半導體晶圓代工市場，...",
       "date": "09-23",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "假加班真幽會！台積電工程師劈腿女同事 未婚妻心碎直擊「偷情現場」 他被抓包竟冷回這句",
-      "newsSource": "mirrordaily.news",
-      "newsDate": "Wed, 23 Sep 2026 08:33:32 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocVF4VkFHc2lyeWhocFRjRWo4MG1tVDRFRmd2SUFSU2pLSU9rUC1FZEdLY0x5RVR3LW8ySTB0U052MjRNanB1bDUxOXFta3BCMkE?oc=5",
-      "desc": "【mirrordaily.news】假加班真幽會！台積電工程師劈腿女同事 未婚妻心碎直擊「偷情現場」 他被抓包竟冷回這句",
+      "newsTitle": "AI 與車用需求推升半導體晶圓代工市場，成長動能延續至 2035 年",
+      "newsSource": "IndexBox",
+      "newsDate": "Wed, 23 Sep 2026 14:36:04 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbldISVFheWVFdlpvb3IyVS1OWmdESmV6RkNSTG8tUEp2Vjh0ekdmTS1HcmxZN0xBT2EyOURBMDV1cU1IQnIwYi1NelZGTGxPZE81NUZ6SVJURUFxV2cyN3o1V0dMVjhPd0IyNEl5bk9SYVFzM2s4bWs3LVMtZjlsVzJ2MUE5c1lweWhGZ014RW9NWTVmMjRtNy1mZG1KdVRZd0lNYTdnZjhkQ1JWRUtuYk9jODhKc2ktR1FJWlNsazFZc28xQnVkXzgyaGVsRk45NWc?oc=5",
+      "desc": "【IndexBox】AI 與車用需求推升半導體晶圓代工市場，成長動能延續至 2035 年",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美股收盤》AI續熱、投資人關注美伊 美股...",
+      "name": "⚡ 美股早盤／四大指數齊跌！布蘭特漲回100...",
       "date": "09-23",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "美股收盤》AI續熱、投資人關注美伊 美股漲跌互見 台積電ADR漲1.54％",
-      "newsSource": "自由財經",
-      "newsDate": "Tue, 22 Sep 2026 22:29:33 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jTnViMnFnSDUtcUUteVZFUUdTVU5hWlBTT1Y3NjluNExlN1NsdTRJbnp0RGhsZWQxVWE1M09DSmROYVhPMFJaZGpDTFFEV05OWTU2VzJjOHUwVm1QR3Yw0gFkQVVfeXFMTlJrelNsZUdRWGk5THhJOVF1LUxKcTdvak5maTFTeXJTc1g0VWRvR2ZTSEJGOVBIajhOWGFXTFhzd09ISnl6Q2NCbE4wNVFGZGVIN1FmM1M5Y0laa2RULUl0ODdhYQ?oc=5",
-      "desc": "【自由財經】美股收盤》AI續熱、投資人關注美伊 美股漲跌互見 台積電ADR漲1.54％",
+      "newsTitle": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
+      "newsSource": "聯合新聞網",
+      "newsDate": "Wed, 23 Sep 2026 14:00:32 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5",
+      "desc": "【聯合新聞網】美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4351.7,
+      "price": 4319.4,
       "currency": "美元",
-      "change_pct": -1.65,
+      "change_pct": -2.38,
       "gold_units": {
-        "oz_usd": 4351.7,
-        "gram_twd": 4428.2,
-        "qian_twd": 16606,
-        "usdtwd": 31.65
+        "oz_usd": 4319.4,
+        "gram_twd": 4413.4,
+        "qian_twd": 16550,
+        "usdtwd": 31.78
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 747.46,
+      "price": 740.11,
       "currency": "美元",
-      "change_pct": 6.09
+      "change_pct": 5.02
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 712.78,
+      "price": 707.93,
       "currency": "美元",
-      "change_pct": 2.38
+      "change_pct": 2.12
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 351.16,
+      "price": 339.72,
       "currency": "美元",
-      "change_pct": 1.79
+      "change_pct": -0.92
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 378.9,
+      "price": 379.4,
       "currency": "美元",
-      "change_pct": 6.26
+      "change_pct": 5.95
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
