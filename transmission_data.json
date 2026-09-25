@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-25 01:14",
+  "updatedAt": "2026-09-25 07:18",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 美股收盤》美債殖利率再飆！道瓊連3黑 台...",
+      "name": "⚡ 中秋連假後有大行情？台積電盤後鉅額交易飆...",
       "date": "09-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％",
-      "newsSource": "ec.ltn.com.tw",
-      "newsDate": "Thu, 24 Sep 2026 21:43:12 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5",
-      "desc": "【ec.ltn.com.tw】美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％",
+      "newsTitle": "中秋連假後有大行情？台積電盤後鉅額交易飆2,749元 再創歷史新天價",
+      "newsSource": "經濟日報",
+      "newsDate": "Thu, 24 Sep 2026 10:31:53 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05bzNTc05sS1A3UkxCSjUzNlc4TkZ0YkJaeXJLc2lUMDRGNXdPUlRyNVJkZXYzSVlZbE1qS2VpWDhCNVdsVTUtZkNEQk1LcHhVYVE1VXBSOUZZd9IBX0FVX3lxTE9aTU91M3Y0MWpHaHRDckJwT3hFd0pPd18xckZzZWlrNFVlNGZWYjlJMWhtdlc3X2RiYzVSQXoxT2t1VlhXMjJIeUc3NVdQRENFS283VWhxZjNQY01QaFVB?oc=5",
+      "desc": "【經濟日報】中秋連假後有大行情？台積電盤後鉅額交易飆2,749元 再創歷史新天價",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 國際油價衝高！美股漲跌互見 台積電ADR...",
+      "name": "⚡ 美股收盤》美債殖利率再飆！道瓊連3黑 台...",
       "date": "09-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "國際油價衝高！美股漲跌互見 台積電ADR逆勢上揚",
-      "newsSource": "tw.stock.yahoo.com",
-      "newsDate": "Thu, 24 Sep 2026 22:08:53 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMixgJBVV95cUxORHlUZGY4QTY5NGZlWXBsUEZxM3N5SDN0QjVDNjhGbWVxdmtOOWRzc3NRdmd1S1pzcHlhRHFMWUpxSXdRVzNyRm03ak5lRFl4OUtlbVJhaWNZanVFMkQ2czRucFJBTERKcVlqZ1JTNVNTTm9FdlBSNUllSlFXMmdBcy1HTWVJZkdVUG1KdkhwVGNUbk04VUpTcHpnc1BKZEh6RjROMktZME5BZ0N1S2wwblRGY0lWMFRYOURhZURpb0ViVmFTSFJ5amJPMjVabXFNT0tyc3llRDlNakZBS21EczhBcjdDa01GNDF1SmVKU1RhejJNcVlSU1ZBOHhOMnk4Y3lJRmxvbWJWN1d2TTRCM1FTOGZyZWZXcDhZLXNMRzFOcFpkRkJQV29PTXN2bW1UV25PX2ZnNGJkLU5pZnRmbERlcG1kZw?oc=5",
-      "desc": "【tw.stock.yahoo.com】國際油價衝高！美股漲跌互見 台積電ADR逆勢上揚",
+      "newsTitle": "美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％",
+      "newsSource": "自由財經",
+      "newsDate": "Thu, 24 Sep 2026 21:43:12 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORGQ3VFdsQkFidXJUUkpzUngxYTJDbTRTb3hvUWVDVHZvd1RackZ2RUszbXVJRC11aEtfeGtKZmRTZ1N4NHRRcGlxMnFfUjg2ZWJzcWItSXk5QjRNRWc00gFkQVVfeXFMT3hPaDlDZzBTNW1haktUd1VEM1J4TlV3aVo5dVhDbUU0VmNBNmN2a0dmVmJJV2pmdzhiSmhIYlFBN0FFUmpjSXlrYmpwUjdiUlkzS0pydFJ6aWk1ZVY2SnNZREpZbA?oc=5",
+      "desc": "【自由財經】美股收盤》美債殖利率再飆！道瓊連3黑 台積電ADR漲逾1％",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,34 +41,34 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ Gemini 3.8 Live 加入 L...",
+      "name": "⚡ 美股早盤／四大指數齊跌！布蘭特漲回100...",
       "date": "09-25",
-      "category": "突發AI",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "Gemini 3.8 Live 加入 Live Avatar，Google AI 終於有臉了",
-      "newsSource": "TechNews 科技新報",
-      "newsDate": "Fri, 25 Sep 2026 01:07:05 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yZEZVTWNLYVl1Sl81Q3JySWt3TDVKbElOQ0tIei0xSzlrZW5ibTRrWWp1Z0ZsNXVwdFJ0Wm81a2JUUjJNLXRaMl8wejRaUkdYOXlMTUdzVUVUV3praTZRdGRYQ1dFZ1Fwc3g0?oc=5",
-      "desc": "【TechNews 科技新報】Gemini 3.8 Live 加入 Live Avatar，Google AI 終於有臉了",
+      "newsTitle": "美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
+      "newsSource": "UDN",
+      "newsDate": "Wed, 23 Sep 2026 14:00:32 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LUjA0MkltQms2aG9iTGVtVGY5Z0NZay0tYTgxa2JGMndrUGJDWFJpdHlXMC1lRHNCdlVIVVVCeG1iYWF6aFc1akFKUEJGZVY3?oc=5",
+      "desc": "【UDN】美股早盤／四大指數齊跌！布蘭特漲回100美元 10年期美債殖利率破5%",
       "impactTargets": [
-        "t_googl"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google AI語音大幅躍進 高擬真聲...",
+      "name": "⚡ Google AI代理PageBreak...",
       "date": "09-25",
       "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "Google AI語音大幅躍進 高擬真聲線支援多國語言助產業創新",
-      "newsSource": "商傳媒",
-      "newsDate": "Thu, 24 Sep 2026 23:04:28 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQU2k5aWp5Y1ZYUXpuMDUyMGxIMEZrRVYwQmxnU19ORkJMMU1xdFVhRHlETzFFbmx4U1pQLUdqczE5UUJMa2RQemg5UFlkYzlOS2hFTF9RSG9MSHRud1lkNGtpYWJhcUdYR1FKRXl0V3FmdGZ6UTF0UmhqMk1zcDg4RDFVZ0doSUxSLUlOVkJGazRRSDVMbW9kT09Hc3pmbS1qVGJOM1dSMnNObHJydERhSkhNU185ZEFwZFdQZ0ZlOXQ5UUZhemhnM1hha19RTEhrTWp4QW9jOUc1Zlc1NGJRUnE4NDc2RjNCWVY1c0JWZU1rVzB4M3JYLUNBRDdsY0Q1cTEzcGxnTk40ekU1VzVLMjFiQzhCRFBhMUFTWmtXaWFEZTVKcUduUkh3UHI1TnZtV2RrZEhhZ0R4QU5qcXFOSEktX2htN0hEbkxFZFdZYXQ3VmcyR2VGdkFYNmtWU3FyVmVxNDRlTDY5TVFFME83cVRTdFVDdkgwdTJtcS1n?oc=5",
-      "desc": "【商傳媒】Google AI語音大幅躍進 高擬真聲線支援多國語言助產業創新",
+      "newsTitle": "Google AI代理PageBreak找出自家Web應用程式逾500個XSS漏洞",
+      "newsSource": "ithome.com.tw",
+      "newsDate": "Fri, 25 Sep 2026 01:56:43 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LaXF2c1Y3alczM2REZ1R5LXVpaWVqRVk3ZVpKVFpxa3BqUXp4eDZaWjJjTll0NGJlVmNBYmZrM21aOHVJYnF4VnJyZHQ3dw?oc=5",
+      "desc": "【ithome.com.tw】Google AI代理PageBreak找出自家Web應用程式逾500個XSS漏洞",
       "impactTargets": [
         "t_googl"
       ],
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4317.0,
+      "price": 4313.6,
       "currency": "美元",
-      "change_pct": -1.53,
+      "change_pct": -1.6,
       "gold_units": {
-        "oz_usd": 4317.0,
-        "gram_twd": 4408.1,
-        "qian_twd": 16530,
+        "oz_usd": 4313.6,
+        "gram_twd": 4404.7,
+        "qian_twd": 16518,
         "usdtwd": 31.76
       }
     },
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_breaking_4",
