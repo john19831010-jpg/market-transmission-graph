@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-26 01:16",
+  "updatedAt": "2026-09-26 07:14",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電目標價上看5000元！台股5萬點只...",
+      "name": "⚡ 台股下周二準備開噴？台積電連假前「鉅額交...",
       "date": "09-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電目標價上看5000元！台股5萬點只是前菜？杜金龍喊出「長線8萬」這時間別急著追",
+      "newsTitle": "台股下周二準備開噴？台積電連假前「鉅額交易」飆出新天價 離漲停僅差0.73元",
       "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 25 Sep 2026 05:58:07 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWXhGMzZjY3hnNGNvXzFOVWZpcVpUMUNCaGJ1aUk0Q1RfaUVNMmo2YzNnZGJLc05uNXRQWE1fUnBCZS05UUNXQlo4MEdNeUlUMjJQM1FSRjVfdDZ0SGlQdXBBZ1NLZ2JMRDkyZFE4VUdKS1JTSEJxc3kzV0x4aUtLaU9WM1NEcng4YkloX2Zudzg2VksyR2ZFZnF4UjlXQ2Rxcnh5aUlaRDVYRldTa3BacHRhazhDNUlBMDBRdWsyaHliMm0wMVAxQXlmbWo5c3hMbXhUamtTdDFKWDRqUGp1MDZ0Sk93eU1lSmh6Q2RrRGNVUUQ5cmFUaUhDXzIwcFhUeThvcGpUWkFHUm9Yb01CRkEtazdPNzRPenY4bVRKLW4xUFROWWRkUDNwNDJUcHdBcUwyODVTZkxQS1cyVUlibThpdmdyRUN1MDRhTlFFWTlrNUVkR190YVFxMmc2NVlfVWFNT0ZNWEU5SGpaUF9oTWx2UUhlam93U3M5UzhzV0l0YXJsMWxZejJRaGxKUXM3WjFleEtuTDlGV09XbnNCTW1GQ1VXb2Z0NFRwOEVvelFMN18zbG1xUktWX0JuM2NwaWpiUjg0UFNKbzY3UE1yaFBVMXFEUjQ1ZWhsVzdPSkJEREdWMWxTeg?oc=5",
-      "desc": "【Yahoo股市】台積電目標價上看5000元！台股5萬點只是前菜？杜金龍喊出「長線8萬」這時間別急著追",
+      "newsDate": "Sat, 26 Sep 2026 04:50:40 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNYlhzSHc3QWNzMnJZRFUtREJwNzRaejJUbENxRHFnT1BMR2NPMWhHZjRYb1RaXzB4WkZWbkhlc3NuenNMdlNSMkdPM3dXSTJSTHdrak9KalVQMFEwRm1nM0YyWUxudVJsNERTbFV1ekhDaHgwQ2dKYUR6OExDQXpCdk00VFlSQjU2aUpPeTViUlRwZ0kwZW9EWVpyRlFuMnE3TEFRU1F3dHBqU2pWOHpubHpqWW94TExlUmpBUzF5MWJjd21ENGNxV0laa3E3d2lIMEdGUm5rRmh0X3JoVlFGZmlfNUoyVmdDNXpmaWZlM1FRWFp3UEZMaEtaYUtackdwbE9UZ2RleERfT1ZkcHVaYlk1U2RaOHU1Zkxwa285NVo4dEZHd0FoVnpMcDhCbWd6MkowNi1GTEpQY0pVRzdTVi1RUWx4T254ZUdpUVhtbEJfcHQwQ296bUZMUnpKMUNSSDFSNzRKSDJ3Yi13T0pxRFdZeFpSTFhQVl9nZ2kzZ1R3ZUR5Y0dhLXpTeldsWXowel9IM05uYWM3eHNYbU16VU85VVFMZTRPZjdzZzVvQ1FjQVJrRHBKNzVOSDdBUQ?oc=5",
+      "desc": "【Yahoo股市】台股下周二準備開噴？台積電連假前「鉅額交易」飆出新天價 離漲停僅差0.73元",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 【台積電赴美投資7度核准440億美元 經...",
+      "name": "⚡ 台積電 A16 製程將量產 法人預期這幾...",
       "date": "09-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【台積電赴美投資7度核准440億美元 經部曝「後面還有案」】 （#大表哥）",
-      "newsSource": "facebook.com",
-      "newsDate": "Fri, 25 Sep 2026 23:02:52 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOOVFkblBuS05EOU1XV24xQ04wN1NTS2tWTXg0Ny1hZ2htcUpmanUwSDA3Uk0yVnRTODlpcFR3TTFyUWtnanAwMUhnWHJEMEl0elpaN2dEVm5qQ09oc1hGRzh3blc0R0x3SlJmdXZIaDhOTkJvcTdtSTVtbUpleDVtSWVOaXZIQldMeTRZdTQxOFhXLUJtdzN3anExRmJ6SDE5TkM5TldhMjVpSzhJNnU5TUJnZXMtYzkzZzBrZm5yU05GRUpyUFA0SFdUTFh4eDF6SVRTSHhxc2Q2WDhmRG8yQzJ5bnlDR0Itd3NoVGx1ZjZVV0NPcUxNUlZxeTBrODdEeWZyYmFRMDhXaDFiY083UHc1RUVMWE9BS0pCWjI2N0tiUGM1TzlzWjZ3bDRrdlNjUVF5VlBjd1dYZ0dDRldCbUx1ckRvbDJvV242RnFWWVU4MF8weWtNd1A1QmpuVXVBcU5lQnljQkdrQVpERl9WRVp1Z2FpeTc0RDd2TkJUUzZPR0tMRExHa2tLYmNGLXM?oc=5",
-      "desc": "【facebook.com】【台積電赴美投資7度核准440億美元 經部曝「後面還有案」】 （#大表哥）",
+      "newsTitle": "台積電 A16 製程將量產 法人預期這幾檔供應鏈可望受惠",
+      "newsSource": "UDN",
+      "newsDate": "Sat, 26 Sep 2026 04:01:35 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94d0xDMkN1a29OdmtjdXd2NGtXQVI2dkRHZVJhcTZjMTZHczJXV2s0d0pBU2kyMUhQSHJ5VWJrclFzZ3hDUDJvS2pUYmtWMFVN0gFWQVVfeXFMTlJfY1E0STBiMThvbU5ST2I4QmpOZmlDVkRRM1k3c09Vai1UQW9XLWVlaXZsLV9CbnB2N3pWWmhxVm9iSzBNZm5UOE9xbDBkd2dMUU9pT1E?oc=5",
+      "desc": "【UDN】台積電 A16 製程將量產 法人預期這幾檔供應鏈可望受惠",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 川習會落幕、美伊談判露曙光？美股4指數反...",
+      "name": "⚡ 台積電超猛！外媒「關鍵理由」曝：漲幅跑贏...",
       "date": "09-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "川習會落幕、美伊談判露曙光？美股4指數反彈收紅 台積電ADR跌0.12%",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 25 Sep 2026 23:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQQXNOMEJ5M1QtbmpWVVVlWGVQeTZYM1BEYWwtRWs1Y3FDRVdvNjRiX3BOVjJKLU5MZ285VmJoVV9TLUJEYU5lWmJxNWRzUkJfQ08xa3RockpWU29NeWFJbXg4QnItU0l1UGkwV1RIcnB0djNzWUtkNEV3WmtUWVpid0tLaEFXcUlkbXY1azk3VVJZc0ItOGZob1ZYSDVCalVrbzdSbEM1ay04Q05FTmVZTWthZlItWm1adTBtVXJfTk1CM2pMVkNERlZGUWdlVjBQdGpqaGRWVklSVkFubDZHMVFZVWZYUEtuMktJZFhGSGhOMjd2Skdjc2dYdHhPeTl4Y3NVc3pMNEwtQ0V4OHEwclNKcUdhSHlXTjhCQUhGdXp4SmFNVFMwRzU3X0dwQnA5dXhSVW9uMDJQN0dGVElZakFyRW5JTExqbkZuazhiOU9kdzlPQjNmZ1FmVDI5dUlBQTJkZ1ctWVlXazVQRlF4eWczYm94dmd0bVd0UW5STndmNVk3XzM5eHZB?oc=5",
-      "desc": "【Yahoo股市】川習會落幕、美伊談判露曙光？美股4指數反彈收紅 台積電ADR跌0.12%",
+      "newsTitle": "台積電超猛！外媒「關鍵理由」曝：漲幅跑贏全球市值王",
+      "newsSource": "自由財經",
+      "newsDate": "Sat, 26 Sep 2026 03:28:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKd0lacnZURlBrY1N3R29wQ2d5MFZxZlZxb2dyR2hsS1lWaVZqNzBhU29KSXktRzlWQzd6cHlpVFptdVJiZXppRy1aWDlEeHJ3QTFpQzEtOXIzX2w2UXFF0gFkQVVfeXFMTU5CU1NabXdBdmlOUzd0SU1zd09nTWlnUEkxSzd5dk92Nl9hZFFwaThrTV9KaXdDZC1uZl9Yc0E2U2FydXRYMkFlUk5LX1RHX2xNMEY1RzlqV3dyeUh6UTJYSGRzVA?oc=5",
+      "desc": "【自由財經】台積電超猛！外媒「關鍵理由」曝：漲幅跑贏全球市值王",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美股收盤》油價回落AI熱！美股全收紅 台...",
+      "name": "⚡ 英特爾改口「14A相差台積電僅5%」　科...",
       "date": "09-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股收盤》油價回落AI熱！美股全收紅 台積電ADR小跌0.12％",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 25 Sep 2026 22:29:14 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93RkpQWUJpLWJZZEhrcUVZdnBMUTEyMHowQl9uVGhRSnotLVNYY3hlTjhMa0h2cVRKeXZ3bWttd2IzOEtabGNQWVAwMFdDUnk4cU1SOWNwcThkWjNFa3Mw0gFkQVVfeXFMT2oxaWdTRXROczRienpkZW5lLVNySm16X2dKdXNZY1RxZjZOektYU0hVVHI3UE5DZWY0dnhmVktyTlByRS1XVTZVSWpON25mYUdsX1VPOExacTVBX21SMm1PdnVJZQ?oc=5",
-      "desc": "【自由財經】美股收盤》油價回落AI熱！美股全收紅 台積電ADR小跌0.12％",
+      "newsTitle": "英特爾改口「14A相差台積電僅5%」　科技外媒揪數據矛盾",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Sat, 26 Sep 2026 02:30:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kdDVOUVUxR19yb09iNXh0RDR5TEJOczdtRUxfRUpKU25kYmJqYlFoWk5JY1N3Nkt0bE1wbDliS2VILWFweHJMajZfX21KNjRHLVHSAVBBVV95cUxQanpiVDRPMnJ6aWtHb2ZaRHBuZXlVN0VqaFFTamY1ZHZRNlZ3TmRfTGNfWVVDWDJJZnVwNlEwRnMwajFPQV9hTGJCNzdFOUNJQQ?oc=5",
+      "desc": "【ETtoday財經雲】英特爾改口「14A相差台積電僅5%」　科技外媒揪數據矛盾",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4320.5,
+      "price": 4321.2,
       "currency": "美元",
-      "change_pct": -1.45,
+      "change_pct": -1.43,
       "gold_units": {
-        "oz_usd": 4320.5,
-        "gram_twd": 4403.4,
-        "qian_twd": 16513,
+        "oz_usd": 4321.2,
+        "gram_twd": 4404.1,
+        "qian_twd": 16515,
         "usdtwd": 31.7
       }
     },
