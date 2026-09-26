@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26 07:14",
+  "updatedAt": "2026-09-26 12:46",
   "events": [
     {
       "id": "e_breaking_1",
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電超猛！外媒「關鍵理由」曝：漲幅跑贏...",
+      "name": "⚡ 不是台積電！外媒欽點AI＋量子運算最佳投...",
       "date": "09-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電超猛！外媒「關鍵理由」曝：漲幅跑贏全球市值王",
+      "newsTitle": "不是台積電！外媒欽點AI＋量子運算最佳投資標的是「它」",
       "newsSource": "自由財經",
-      "newsDate": "Sat, 26 Sep 2026 03:28:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKd0lacnZURlBrY1N3R29wQ2d5MFZxZlZxb2dyR2hsS1lWaVZqNzBhU29KSXktRzlWQzd6cHlpVFptdVJiZXppRy1aWDlEeHJ3QTFpQzEtOXIzX2w2UXFF0gFkQVVfeXFMTU5CU1NabXdBdmlOUzd0SU1zd09nTWlnUEkxSzd5dk92Nl9hZFFwaThrTV9KaXdDZC1uZl9Yc0E2U2FydXRYMkFlUk5LX1RHX2xNMEY1RzlqV3dyeUh6UTJYSGRzVA?oc=5",
-      "desc": "【自由財經】台積電超猛！外媒「關鍵理由」曝：漲幅跑贏全球市值王",
+      "newsDate": "Sat, 26 Sep 2026 12:27:28 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43clBLclhUQ0dpTklHQUJaVWhNdzJMWXJuUHMwaVg2V1NFRkQtYjNDeGc4MktpdHdFUlhKeENWY25PVjkyb0RLbUhEbnpJSzlLY09VajFRMG5Uc01NYWhV0gFkQVVfeXFMT0hqWkRJelk0SnVGdHVxdmVkcDN1RkhDeHJEc1BVRUNyLUhQQ2tBVTFGM19IeU00LWMxZ2FTOUtOcG5jS2lXSE1fRXZoUzBNVnR2Z0VHWUJfUGREcnJub3NrM1h2VQ?oc=5",
+      "desc": "【自由財經】不是台積電！外媒欽點AI＋量子運算最佳投資標的是「它」",
       "impactTargets": [
         "t_2330"
       ],
@@ -65,10 +65,10 @@
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "英特爾改口「14A相差台積電僅5%」　科技外媒揪數據矛盾",
-      "newsSource": "ETtoday財經雲",
+      "newsSource": "finance.ettoday.net",
       "newsDate": "Sat, 26 Sep 2026 02:30:00 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kdDVOUVUxR19yb09iNXh0RDR5TEJOczdtRUxfRUpKU25kYmJqYlFoWk5JY1N3Nkt0bE1wbDliS2VILWFweHJMajZfX21KNjRHLVHSAVBBVV95cUxQanpiVDRPMnJ6aWtHb2ZaRHBuZXlVN0VqaFFTamY1ZHZRNlZ3TmRfTGNfWVVDWDJJZnVwNlEwRnMwajFPQV9hTGJCNzdFOUNJQQ?oc=5",
-      "desc": "【ETtoday財經雲】英特爾改口「14A相差台積電僅5%」　科技外媒揪數據矛盾",
+      "desc": "【finance.ettoday.net】英特爾改口「14A相差台積電僅5%」　科技外媒揪數據矛盾",
       "impactTargets": [
         "t_2330"
       ],
