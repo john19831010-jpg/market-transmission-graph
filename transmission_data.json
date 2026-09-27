@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27 07:46",
+  "updatedAt": "2026-09-27 13:38",
   "events": [
     {
       "id": "e_breaking_1",
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ AI大單持續湧入！台積電、聯發科、鴻海、...",
+      "name": "⚡ 嘉科三期起跑 傳台積電再加碼5座先進封裝廠",
       "date": "09-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "AI大單持續湧入！台積電、聯發科、鴻海、台達電怎麼買？",
-      "newsSource": "Yahoo新聞",
-      "newsDate": "Sun, 27 Sep 2026 04:39:30 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZ2ZpOGg5WUgzZW1TQUUwYjZOWjl4ZThTaVBrM3ItUkszMVRNVzE0QzlLR3JDWEU4LUwyTG45Z1lhQlJFcU1ianRtZ2xBWEJsUkZTXzhoMXV1YW1JTzdDRWdjRUJDdmp0cU9qN3FnR3gxQmRVaExKank3TW9XTy14ZFJWVkM2VGpVSVpvS2pONVdpejhjTWh3anZYcHFIUEIyUHh5eC1PMm1KWWNWNUl1Yms1WDVIV21VcDJGajlOLVUzMkhRRmhYXzAzaHFqR2tobEpHajdDZFVycnNMU1NtaTVBVjdfLVBsbnRiMVliZDlreU11ME10QWYyQy1heUVKQzY0dmJ2R0RBZFZpelBsU3ZXVm5rcExHZVlGOEpNcVYzVUVFVWhxaVFBNkJxWkRnQmZrUkdGLVBOQnJRVm9yT0swMjhENHRaYl9v?oc=5",
-      "desc": "【Yahoo新聞】AI大單持續湧入！台積電、聯發科、鴻海、台達電怎麼買？",
+      "newsTitle": "嘉科三期起跑 傳台積電再加碼5座先進封裝廠",
+      "newsSource": "epochtimes.com",
+      "newsDate": "Sun, 27 Sep 2026 12:54:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FTG5PRHBkQUtuVldBVlhiNThGZjlBR1pURmUxS3pvZkROd3NibDQzTk91bVExTy1lSEZFQ3lNTm15bGh3SVZwTDZDT2tPTE5LWVpiRTBUbEpJWUlwMU9JNNIBZkFVX3lxTFBRaDlLUTNYLVhoZHJLSmIyb3ZtWVJabXphdnpPdWNsR0duZ3JBU19DT3BKal9GYlhDXzRwLWJ4aWRFUjR0ZjVLN19fcGhvX0hUMThJTHB6b3VDRUVqQlotT3BVeEpOdw?oc=5",
+      "desc": "【epochtimes.com】嘉科三期起跑 傳台積電再加碼5座先進封裝廠",
       "impactTargets": [
         "t_2330"
       ],
@@ -65,10 +65,10 @@
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
-      "newsSource": "TechNews 科技新報",
+      "newsSource": "technews.tw",
       "newsDate": "Sun, 27 Sep 2026 03:09:50 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oUUpZOUJsMkVrLXhuMk44ZTdHcWxfY05fcktDQmZ0R3NwV1NPWl85X2pfVG5UeXU2U2F6VlUxbG5ab0JFaWVmV2VEdDlEc2htb2c?oc=5",
-      "desc": "【TechNews 科技新報】台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
+      "desc": "【technews.tw】台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
       "impactTargets": [
         "t_2330"
       ],
