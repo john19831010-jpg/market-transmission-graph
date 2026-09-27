@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-27 01:10",
+  "updatedAt": "2026-09-27 07:46",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 【白埔動土3-3】產業專家：台積電領軍供...",
+      "name": "⚡ 台積電又有漲價題材！「含積量」成焦點 0...",
       "date": "09-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【白埔動土3-3】產業專家：台積電領軍供應鏈！打造半導體國產試車場",
-      "newsSource": "tw.news.yahoo.com",
-      "newsDate": "Sat, 26 Sep 2026 23:20:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOS1pLbDJ1OHZ1NFFZVmszY2JLY1B0NDFpODl5dndGTVgtRDIyU293NHlKcm5ST19oNjlNNlpDOFZLNGRwanlsckxjMHBtRlkyZXJTdDlrN1FEYjEtMFpPX3c3clVWYy1ZLTd3YVYxUXJvTG9aYnNFVWc1S3BsOEZMUFVSZlc5RUY2ZlJ4eXFTUlVKTUpRQXJDbmtRWVFHUjZnVDQwaTBmUGZLZjZrUFRhVi1KdlhGdnNjQ1BteDNkVC1aSEZLU2xXTDJQQVhPdkxlejdWajBvV0FCWE1sVENjR2hHWUh6cXZfaE5MRUhTZzZ5MHFCdHpTZlh1SUY0TXhmcGdITUJ4bmtRdWtqcURxOWhieVBDR2tNRnJ1b0V0dkczUGNJbXpjVE1SR3dpM2ljQ2hVb1VUSnRwakZMNllycXZ5RVhjUUpMdXlnYjlweDJGeHRIX1RBa0hEQjJjbWNpWThQS2p2V21VdW5BS0tILVo1RWNFbEpfQ1lsOV9Hc1FxVWFidXYwV2RHdFJWYWFia2hz?oc=5",
-      "desc": "【tw.news.yahoo.com】【白埔動土3-3】產業專家：台積電領軍供應鏈！打造半導體國產試車場",
+      "newsTitle": "台積電又有漲價題材！「含積量」成焦點 00881包下AI四大電子族群",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Sun, 27 Sep 2026 03:25:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wMndWQUZ3bVVvTWFYUnlyQ2wzUVJtT1ZOWC1Bb0NHbU1pdzlERDY2Uk1iNHBKZlp2VG5kckJmQ0RBOTdWQnRqV2w3QzYxb0U?oc=5",
+      "desc": "【news.cnyes.com】台積電又有漲價題材！「含積量」成焦點 00881包下AI四大電子族群",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,34 +41,34 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 16檔法人認錯回補悍 台達電、漢唐等有望...",
+      "name": "⚡ AI大單持續湧入！台積電、聯發科、鴻海、...",
       "date": "09-27",
-      "category": "突發基建",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "16檔法人認錯回補悍 台達電、漢唐等有望扮行情領航員 | 市場焦點 | 證券",
-      "newsSource": "經濟日報",
-      "newsDate": "Sat, 26 Sep 2026 19:45:16 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5feVFYc09jTGNVZDhoU3U3QnBOcUJPS2syRFBwV09wOHl2cnc1N0hoTWZWN0dEUTZ5SWdRTm4xLXVfT0dCYVVyTGlPcnJvaF9wS3NxQ2dGSXlfQQ?oc=5",
-      "desc": "【經濟日報】16檔法人認錯回補悍 台達電、漢唐等有望扮行情領航員 | 市場焦點 | 證券",
+      "newsTitle": "AI大單持續湧入！台積電、聯發科、鴻海、台達電怎麼買？",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Sun, 27 Sep 2026 04:39:30 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZ2ZpOGg5WUgzZW1TQUUwYjZOWjl4ZThTaVBrM3ItUkszMVRNVzE0QzlLR3JDWEU4LUwyTG45Z1lhQlJFcU1ianRtZ2xBWEJsUkZTXzhoMXV1YW1JTzdDRWdjRUJDdmp0cU9qN3FnR3gxQmRVaExKank3TW9XTy14ZFJWVkM2VGpVSVpvS2pONVdpejhjTWh3anZYcHFIUEIyUHh5eC1PMm1KWWNWNUl1Yms1WDVIV21VcDJGajlOLVUzMkhRRmhYXzAzaHFqR2tobEpHajdDZFVycnNMU1NtaTVBVjdfLVBsbnRiMVliZDlreU11ME10QWYyQy1heUVKQzY0dmJ2R0RBZFZpelBsU3ZXVm5rcExHZVlGOEpNcVYzVUVFVWhxaVFBNkJxWkRnQmZrUkdGLVBOQnJRVm9yT0swMjhENHRaYl9v?oc=5",
+      "desc": "【Yahoo新聞】AI大單持續湧入！台積電、聯發科、鴻海、台達電怎麼買？",
       "impactTargets": [
-        "t_2308"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 【台積電34職等跑去教書 大三生納悶「錢...",
+      "name": "⚡ 台積電麥寮外海祕密計畫獨家曝光，全新台灣...",
       "date": "09-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【台積電34職等跑去教書 大三生納悶「錢賺夠了？」釣出教授親解答】 （#大表哥）",
-      "newsSource": "facebook.com",
-      "newsDate": "Sun, 27 Sep 2026 01:02:39 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMivANBVV95cUxQME5NYndVb19QQTB4TVBWb0xYdkYxUEc3cUFqblVnckM3VU5kNVJab2ZkUzNNSnVqU25PUnFtUnpMaGJfSTlRZGhkdTZ6VjljM1g1dldRcUlZaUxQc3VRakluTHpmUnNxeGpYVHhrTEdzVVU3Vm5JeTZtSmQ3bUxEWDZQOC1xMEN2WWVDaXBlRHBONkx0d1hIYVR3Y3doMFhVX29RbURVNzlZNlluNTh5RVpzcGRKSWx2dEZXbVVseG1tZHJTUXE4bnJia3BWUDZpNFZFU1VHSzZVamVvTDVvNzdlQ0hxaHlXekdEdHk4UGxlM3F5ZVpNTzdGSXRmb013UF9xbklqU21WbFpDMTFmMF9mZ0lTQ1NaSV91S1VvLXNOUmd1cmd3cnN4aTUya2N4dWFSZWgwTF9McVJfSzJ2ZkNNLWlpWjF1UUpGRGFlaWlSVnhXaGIweE5Sejd4bFZGVVNYdW8yMGpsUmJaOXVYQkdocGxWeXFjajFPRDFwanhjYzJYdlZhU1lSd1J6X3BmTkhHbmpBOVZfUVRuNUZmRi0zdUp4Z29SME1aaXFXRG4xa0pjSmtteE1sWTk?oc=5",
-      "desc": "【facebook.com】【台積電34職等跑去教書 大三生納悶「錢賺夠了？」釣出教授親解答】 （#大表哥）",
+      "newsTitle": "台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
+      "newsSource": "TechNews 科技新報",
+      "newsDate": "Sun, 27 Sep 2026 03:09:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oUUpZOUJsMkVrLXhuMk44ZTdHcWxfY05fcktDQmZ0R3NwV1NPWl85X2pfVG5UeXU2U2F6VlUxbG5ab0JFaWVmV2VEdDlEc2htb2c?oc=5",
+      "desc": "【TechNews 科技新報】台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
       "impactTargets": [
         "t_2330"
       ],
@@ -284,7 +284,7 @@
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
       "price": 4321.2,
       "currency": "美元",
-      "change_pct": -1.43,
+      "change_pct": -1.26,
       "gold_units": {
         "oz_usd": 4321.2,
         "gram_twd": 4404.1,
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_server_power",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
