@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-28 00:23",
+  "updatedAt": "2026-09-28 06:26",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電又有漲價題材！「含積量」成焦點 0...",
+      "name": "⚡ 〈VSMC開幕〉12吋廠正式啟用 方略感...",
       "date": "09-28",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電又有漲價題材！「含積量」成焦點 00881包下AI四大電子族群",
+      "newsTitle": "〈VSMC開幕〉12吋廠正式啟用 方略感謝NXP、台積電 莊子壽現身典禮",
       "newsSource": "news.cnyes.com",
-      "newsDate": "Sun, 27 Sep 2026 03:25:07 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wMndWQUZ3bVVvTWFYUnlyQ2wzUVJtT1ZOWC1Bb0NHbU1pdzlERDY2Uk1iNHBKZlp2VG5kckJmQ0RBOTdWQnRqV2w3QzYxb0U?oc=5",
-      "desc": "【news.cnyes.com】台積電又有漲價題材！「含積量」成焦點 00881包下AI四大電子族群",
+      "newsDate": "Mon, 28 Sep 2026 03:00:16 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DbHRmRWs5TjVsVEs1ZHJZNndjU1JXS3VXWTctbXlyZW9wMFN0VDRlS2lQbkNrZWY3ZXJ6d3lCQ2NwOTdFMjhlRXNKOXRHV0U?oc=5",
+      "desc": "【news.cnyes.com】〈VSMC開幕〉12吋廠正式啟用 方略感謝NXP、台積電 莊子壽現身典禮",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 嘉科三期擴建起跑 台積電再加碼5座先進封裝廠",
+      "name": "⚡ 搶攻半導體、AI商機！黑手變晶圓後盾！ ...",
       "date": "09-28",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "嘉科三期擴建起跑 台積電再加碼5座先進封裝廠",
-      "newsSource": "自由財經",
-      "newsDate": "Sun, 27 Sep 2026 21:30:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81UVFGTGdlUndzOWs5YWZMdGEzWUoySlM2UXVERjh3cFMzTC1pa2lVajZOVGZJMVdZWE1IWDlnYU00Mkx6Z0RFUzZqVDRueEZIUGRPempn0gFbQVVfeXFMT2NDOUhXVTlrclh1WFYtTmdpQ1ZGQ2tURExkUWdtMUdKY0pCdHo5UDNIVXhsVmxtSGdpVzBRUm01eHVWcmN1aFluSTU0SVlLaGhrRVlZZGpuckk0OA?oc=5",
-      "desc": "【自由財經】嘉科三期擴建起跑 台積電再加碼5座先進封裝廠",
+      "newsTitle": "搶攻半導體、AI商機！黑手變晶圓後盾！ 台中市 756家特定工廠具科技供應鏈潛力",
+      "newsSource": "焦點時報",
+      "newsDate": "Mon, 28 Sep 2026 02:27:36 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xc2p6WkhlSEZkQjZveUZfdGNPaHB2V19ORF9uRS16ajB3NFB5bHRYVEpSMmdjdmo5bkJrcFgydVFWS2VLRjM3RzdGWkhHUmhYMHRZck9TSQ?oc=5",
+      "desc": "【焦點時報】搶攻半導體、AI商機！黑手變晶圓後盾！ 台中市 756家特定工廠具科技供應鏈潛力",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,40 +41,40 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電2奈米明年再擴22％！新應材、台特...",
+      "name": "⚡ 全球市場震盪升溫！美債殖利率飆5.20%...",
       "date": "09-28",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "台積電2奈米明年再擴22％！新應材、台特化、達興…法人點3檔特化股：它營收估衝74億",
-      "newsSource": "旺得富理財網",
-      "newsDate": "Sun, 27 Sep 2026 23:08:51 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xQ1llREJHTmhSQmxyV2ZJeHVqMWhwMGR3TjY5TWxXcWxhd3cyNWJ0MllPUV9KTFBiOW10dkE2N0VNNkUwcTZzZ0hmblJkMzFwYldONWZ3MGIzcjhpZlJrcFdZbkZCMElBcmc?oc=5",
-      "desc": "【旺得富理財網】台積電2奈米明年再擴22％！新應材、台特化、達興…法人點3檔特化股：它營收估衝74億",
+      "newsTitle": "全球市場震盪升溫！美債殖利率飆5.20% 美股、油價後市成焦點",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Mon, 28 Sep 2026 02:10:05 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxak04dGo2Y2t6U1pTR05RZEdtLUttTTVVR1R4QlBRN2doQjVEVWllckJtdDYxMWI1WEhRQWVzQnVPUFdScW5XNFVNa0VyUVE?oc=5",
+      "desc": "【news.cnyes.com】全球市場震盪升溫！美債殖利率飆5.20% 美股、油價後市成焦點",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電加速先進製程擴產腳步 供應鏈吃補",
+      "name": "⚡ 〈財經週報-投資觀點〉聯準會新政下海外債...",
       "date": "09-28",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "台積電加速先進製程擴產腳步 供應鏈吃補",
-      "newsSource": "UDN",
-      "newsDate": "Sun, 27 Sep 2026 18:04:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05bVlUQWx1aWwwcV9lNHFNM2U1UUdRRlRXd3ZxYzRtVFphWnYzaWh5V3hfSU9GLW10VV9iWkpETzZIdHV0a19RWHpSRWJxSm5a0gFWQVVfeXFMTVBzZU85Z3EtN1dNZmxOTjdXUG9OWVdxMThsdU5HWGRNalZtcTA3UFM1a3dMVlVWSmM1WVNXT3dGLW91MnRSd2dLclVoanJoYkFiVzU5SXc?oc=5",
-      "desc": "【UDN】台積電加速先進製程擴產腳步 供應鏈吃補",
+      "newsTitle": "〈財經週報-投資觀點〉聯準會新政下海外債券商品的投資策略",
+      "newsSource": "自由時報",
+      "newsDate": "Mon, 28 Sep 2026 02:31:45 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IZ2V4Q2Q1Wm1UY1QydGtjRUt0bmRueHpSdk1yMzlVQWw0UkhhU0lMeE1xS3NGWXQzZzA2dGF5dGNFRFpRUllKQ0VMS1VRbHR2M21zT1BMNXQ?oc=5",
+      "desc": "【自由時報】〈財經週報-投資觀點〉聯準會新政下海外債券商品的投資策略",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4290.2,
+      "price": 4210.7,
       "currency": "美元",
-      "change_pct": -1.97,
+      "change_pct": -2.49,
       "gold_units": {
-        "oz_usd": 4290.2,
-        "gram_twd": 4382.1,
-        "qian_twd": 16433,
+        "oz_usd": 4210.7,
+        "gram_twd": 4300.9,
+        "qian_twd": 16128,
         "usdtwd": 31.77
       }
     },
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
