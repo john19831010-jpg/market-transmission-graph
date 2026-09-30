@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-30 00:07",
+  "updatedAt": "2026-09-30 06:23",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 股價7連噴遭制裁！「台積電好夥伴」股價狂...",
+      "name": "⚡ 台積電驚見8000元劇本！學者揭關鍵算法...",
       "date": "09-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "股價7連噴遭制裁！「台積電好夥伴」股價狂漲3成 攜手聯發科小金雞、一路關到10/6",
+      "newsTitle": "台積電驚見8000元劇本！學者揭關鍵算法 台股「這時」恐衝破10萬點",
       "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 29 Sep 2026 14:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPVzFRekQwNXpzV3NtU09hRC1sSVFqMnFyMktLV1o1cXFwMXI3S3pNR0IyY2FwNnI4VVBNaWJQNnVRYzJ5UXFmX1hCazNHcXhRR0hhWklMLVBaRkl0eGtXXzNKbU5PbXYxMjFQcEtHZGh5ZEMwdTJ2RjZkY05UUW50MHE3c2Y1RnFuSUNRYzVBQU9ZSzB2Vmk4VXEwUTVxeTMwNHZTc2JWblZXS2VfcURqbXFUc203azgyM3I1a1BpQzVkVzl2SkJUVWRwNHYwUGFJMV80MnJlS3dCQjhzTkMxaE9VdTlqTFE2V3FFaUpXXzFRUzFXZVhIWl8yckFUUHpvcTZZc2M0enJRYzJYaUlaMkpGVDctckRLSkpCMlhjSHhQOGZtc1lsZV9VN01FWTFyVU5oakNTQTF4TTRFdkJLWEVZUXI5MFEzN3Bwd2lWWVFJbTVZemJTMVVWTjR2dXd2bldDeHpDUzRhWE5VQVhRYTR5V0FPakZMOFYtbHBnVXFUV19hUlBvd0szc2E5TTN0WU9jdDhPdnZQUzduR2w4NEZSZ0ZPMElKVFFlZnd4OWx6ZUJ5eEtIcHQxLVVmUTJSZ0E?oc=5",
-      "desc": "【Yahoo股市】股價7連噴遭制裁！「台積電好夥伴」股價狂漲3成 攜手聯發科小金雞、一路關到10/6",
+      "newsDate": "Wed, 30 Sep 2026 02:23:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOY2EtUjNwTURKRGtkZ0xJSkIzdnBaWjBjN1VhWVRWVzJjOVJla3BNNUQwU3FBZElaNmFKb2pHMmtHRVpoY1oyWmtpdzZUNy02Mk9mcm9iS19QOTFzZnBabHBfLXJNTVd1cmZZeDlrZXFXWTlhU2EwbTZqb2x4V0NFLWF1YjYtRlNqbHRTZGp1aUE3NC1nTFZHSjRDcWUxdHN0R0lEaGY1eThYekRJbkVGVlJwVVZxNFFKTWVDb0hqbWJOMG1IYXR6RkNhcXNzUXppMXlmU29BSjIyX2kxemdVQTZUaXZFc3JRdVFSeWM4YjJ1aTZaWHFrX0JwbDlXXy11TmlUakJFY2NUbWgwWVE5eFlwMWdrRWZHRV9jbkpCWlFSMXZUTWRUZzNyS0h0bGc3elNBQnd6RzhGLWdVV3RrbG84cnVQN3NzLXh1b1gtZU00amRoZVFoT2JJMUZEeUt2V3gwTkU1eXp6bDVLVXRqSm5KeHZnOHM4YW9YMmlvcmk1Qk5ra0pGSQ?oc=5",
+      "desc": "【Yahoo股市】台積電驚見8000元劇本！學者揭關鍵算法 台股「這時」恐衝破10萬點",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電投資亞利桑那州廠 2,650 億美...",
+      "name": "⚡ 台積電等 14 家企業赴矽谷攬才 國發會...",
       "date": "09-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電投資亞利桑那州廠 2,650 億美元，深化台美經濟與文化鏈結",
-      "newsSource": "TechNews 科技新報",
-      "newsDate": "Wed, 30 Sep 2026 00:05:19 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQa210OE1ZOGM2czUtQnppWk80aDBtUndSSTY4TVRVTGZqSW15Y1ZydUdWSFBQanhwdndMWkVnZ0xXcWdiNmgzQVVPT25fUnhCTEZlNUNLVXBGX1M4Skl0eXloOHExWWwydlRxM3JDaVRib2Jld0lXMzBnUG9WcVFyWGlBbGdINGJEQkZNRk9IWG8zaU5LQ2ZzX2hnY084YWhuT2RuLVdZV2g3NjdScDBVUS1BSVJxMzFkMElaUVUtaW40YnpHWS1qa3NyeThJMXNlLWVkZHV5SzI?oc=5",
-      "desc": "【TechNews 科技新報】台積電投資亞利桑那州廠 2,650 億美元，深化台美經濟與文化鏈結",
+      "newsTitle": "台積電等 14 家企業赴矽谷攬才 國發會 Talent Taiwan 首設海外據點",
+      "newsSource": "CIO Taiwan",
+      "newsDate": "Wed, 30 Sep 2026 02:51:20 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ZZHRPNTc1bmdkUTBpYUM3VHJ3U1Q1X201S0ppblI5eTZJQ1B3ekhYWF9nb2ZNbTBRRE4zNXIzOVc5Q1hn?oc=5",
+      "desc": "【CIO Taiwan】台積電等 14 家企業赴矽谷攬才 國發會 Talent Taiwan 首設海外據點",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 西門子攜台積電 推進AI驅動半導體設計自...",
+      "name": "⚡ 台積電衝上2505元 台股早盤漲逾500...",
       "date": "09-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "西門子攜台積電 推進AI驅動半導體設計自主流程",
-      "newsSource": "台視全球資訊網",
-      "newsDate": "Tue, 29 Sep 2026 11:13:28 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUWM2RG9HZGVJQnRFX2xuemZhaHdvRFQtQnhlSXV1ajJzQ2JIOTBjLUtHc3F1aDZCQWxhOTdlNEFSSlB0NkRSakE4VkhsWWlDRG1jaWdlWXlyR0RkbEVGWV95UTNUUnVsUWFPaTBQU1FNRW5xNmxnNkx1QU9YSXJJeFBTMjhjak1PTEN5SWM5eGR2Z1NSc2Yzc2V3b2ZvbTJVYmRGN2RsUGlveDg?oc=5",
-      "desc": "【台視全球資訊網】西門子攜台積電 推進AI驅動半導體設計自主流程",
+      "newsTitle": "台積電衝上2505元 台股早盤漲逾500點站回48000點",
+      "newsSource": "中央社 CNA",
+      "newsDate": "Wed, 30 Sep 2026 01:14:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXeFJCZVhUeWpfMERVekg5bkhRUTFXb1lORERyNWRiNkpRd3pqbzJ2NW0xRTRZM2pVMV9ESWJYcUhyeWV2SFdpWjMzcFU3cmwxdXZtWUJkY2lSNFExQ0E?oc=5",
+      "desc": "【中央社 CNA】台積電衝上2505元 台股早盤漲逾500點站回48000點",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4218.4,
+      "price": 4215.0,
       "currency": "美元",
-      "change_pct": -1.85,
+      "change_pct": -2.46,
       "gold_units": {
-        "oz_usd": 4218.4,
-        "gram_twd": 4319.6,
-        "qian_twd": 16199,
-        "usdtwd": 31.85
+        "oz_usd": 4215.0,
+        "gram_twd": 4313.5,
+        "qian_twd": 16176,
+        "usdtwd": 31.83
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2475.0,
+      "price": 2480.0,
       "currency": "台幣",
-      "change_pct": -0.2
+      "change_pct": 0.81
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1835.0,
+      "price": 1890.0,
       "currency": "台幣",
-      "change_pct": -2.13
+      "change_pct": -0.53
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 111.3,
+      "price": 112.05,
       "currency": "台幣",
-      "change_pct": -0.04
+      "change_pct": 0.18
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 60.4,
+      "price": 60.95,
       "currency": "台幣",
-      "change_pct": 0.83
+      "change_pct": -0.08
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 25.3,
+      "price": 26.3,
       "currency": "台幣",
-      "change_pct": 4.76
+      "change_pct": 7.13
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 48.85,
+      "price": 49.15,
       "currency": "台幣",
-      "change_pct": -0.81
+      "change_pct": -1.11
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 43.9,
+      "price": 44.25,
       "currency": "台幣",
-      "change_pct": -3.94
+      "change_pct": -2.53
     }
   ],
   "links": [
