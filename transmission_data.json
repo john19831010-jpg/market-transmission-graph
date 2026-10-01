@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01 16:07",
+  "updatedAt": "2026-10-01 21:38",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ AI 浪潮無極限！外資齊唱旺 台積電股價...",
+      "name": "⚡ 台積電15日法說 聚焦六議題",
       "date": "10-01",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "AI 浪潮無極限！外資齊唱旺 台積電股價具有顯著「重新評級」潛力 | 市場焦點 | 證券",
+      "newsTitle": "台積電15日法說 聚焦六議題",
       "newsSource": "經濟日報",
-      "newsDate": "Thu, 01 Oct 2026 09:32:20 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GclZTcmNobkY4YmlpQldMWEt4ZGhoeFRYRktsVjBTN0RjZU04aWRvWnZnMUhpZEF3c0V6aWR0YmxIcjZqUUY5bkxSc0JpR2ZVblB5dVJCdnJ6QQ?oc=5",
-      "desc": "【經濟日報】AI 浪潮無極限！外資齊唱旺 台積電股價具有顯著「重新評級」潛力 | 市場焦點 | 證券",
+      "newsDate": "Thu, 01 Oct 2026 19:01:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fVTFyZ2gtMmVkOEh6MlptVjA4MWlTbWd3SnFGenpjTkQ4ZFBtSGpzWjlGZ1FxMldGT0E3eGNLNjFOVDNtMGJSWkRnb2hXd3BQRWE3YTlwTWF1d9IBX0FVX3lxTE9QRHhjM0VLSkNYY1l6V2pzaUtRRWhDT0VfN0hwNGdEVjh2alVMenVLYTZPUkpHQzIzSk1vb2w0M3hiNmVYWjFKN0pqRUQ5bENRakplWEpCSnZMSlpJQTdr?oc=5",
+      "desc": "【經濟日報】台積電15日法說 聚焦六議題",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 一座至少200億美元！台積電德州擴產構想...",
+      "name": "⚡ 台積電變更強！晶圓代工2.0市占衝42％...",
       "date": "10-01",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "一座至少200億美元！台積電德州擴產構想曝光 租稅優惠成關鍵",
-      "newsSource": "news.cnyes.com",
-      "newsDate": "Thu, 01 Oct 2026 11:15:55 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85MnBaQV9iX2hoT00xSk9uR3VXck15Z1I0Z2hnZnVsakJYYVZ0WE5BMm5CVlFETTFGVmdhSGlJemN6Njk4d2p6ZXBUeEtiRzA?oc=5",
-      "desc": "【news.cnyes.com】一座至少200億美元！台積電德州擴產構想曝光 租稅優惠成關鍵",
+      "newsTitle": "台積電變更強！晶圓代工2.0市占衝42％ 三星僅4％",
+      "newsSource": "自由財經",
+      "newsDate": "Wed, 30 Sep 2026 15:42:08 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mbGsyS0NxX01iZmw2ODNFb0RSTGoxUDZTN3kzekR0bmNPX3p5S3ZiNVQwNFJ1UnlzUlRUSjMycnZiYl9vQ2NNeEdFU0hhWFN6bDI5cXJDRjM3Q3ZYOV9r0gFkQVVfeXFMUDU4Mk4zVjh4bHBRVUtXTnlDN0ZCYXI4MFZzd3VtMW1WN1BueTlzWXc0QU9BeTZyRmNfby1mUGY4ZzVlSFlNVU9vQjNBWi1NOUlDdG9lakpEYVRLMW5nVVhJSlU5Tw?oc=5",
+      "desc": "【自由財經】台積電變更強！晶圓代工2.0市占衝42％ 三星僅4％",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4198.3,
+      "price": 4207.8,
       "currency": "美元",
-      "change_pct": 0.72,
+      "change_pct": 0.95,
       "gold_units": {
-        "oz_usd": 4198.3,
-        "gram_twd": 4309.9,
-        "qian_twd": 16162,
-        "usdtwd": 31.93
+        "oz_usd": 4207.8,
+        "gram_twd": 4314.2,
+        "qian_twd": 16178,
+        "usdtwd": 31.89
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 738.79,
+      "price": 742.03,
       "currency": "美元",
-      "change_pct": -0.31
+      "change_pct": 0.13
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 699.71,
+      "price": 702.35,
       "currency": "美元",
-      "change_pct": -1.03
+      "change_pct": -0.66
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 340.28,
+      "price": 338.24,
       "currency": "美元",
-      "change_pct": -0.61
+      "change_pct": -1.2
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 357.88,
+      "price": 354.11,
       "currency": "美元",
-      "change_pct": -5.31
+      "change_pct": -6.31
     },
     {
       "id": "t_spacex",
