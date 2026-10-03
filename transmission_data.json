@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-03 06:10",
+  "updatedAt": "2026-10-03 12:19",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 【不愧是護國神山！台積電曾投資「0營收晶...",
+      "name": "⚡ 傳台積電正評估與Terafab合作在德州...",
       "date": "10-03",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【不愧是護國神山！台積電曾投資「0營收晶片廠」 今成美國大咖】 眼光真是不一樣！！！（#豬頭皮）",
-      "newsSource": "facebook.com",
-      "newsDate": "Sat, 03 Oct 2026 04:54:59 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPQU8yZUg4LUZWWUJjb1VTdmJyTi0tWFEyTFNTLTBFZVlGanE3ZkpPd3BQU2FFRjVuTkJBSFRqTmlCNVFSeTNjaG9EY091TS1kYks2ZHZoZU5MQ2F6QjV5VHFFQzN1SERuc01WWjF6cmtFX2NHczlfaGRTT0ZwTm5QREkwNnhOeXlFelFSZ0dKcDFuT2x6dEgzOGJVRnVmTHVibWZzbnNvX0FWYnpWeU1ISWZQcXJaQUxXYzFrS3NjWHB2VXpaZ05rTzRyMjRxdjZfN0xSN0xwbjVXanNiSGNJT01Na0VyNjRjU0VvUlZJZzVMd3h1VkZranlfRm9KSDZGQ1d4NlBYQ1poZ1M5ZWRDX2VyM2tFbEJobTZvS0pUaXg4S0lDdjk4czNoU1Ria25WVklYTGExdThUWjIyT0EtR1Zta3BIVHY1eUM3SUFmeWdzZ1hCMlJUWC16aHFpUzE5ZGpoTkppX0JFUmx2ZW82RmtmWWhzQ2t2YmVpZFBaNjJKOTNCdFFpOGNjRk9SMzExQmI3V3ZyOUhhMDVhbXVtTDRVd2pJSERJX0dfNms1NFlja3RhTmhrazlpSnE4UmpleDRqQTdmVEh0OUV3eThvYURhQWdueDNHUmtkN0FXSnpCLW5kbkVHZ3BTLWRVZENhRmtBaWRhS3VpTzRPVTY2Y1loTQ?oc=5",
-      "desc": "【facebook.com】【不愧是護國神山！台積電曾投資「0營收晶片廠」 今成美國大咖】 眼光真是不一樣！！！（#豬頭皮）",
+      "newsTitle": "傳台積電正評估與Terafab合作在德州設廠馬斯克回應了| 全球財經| 全球",
+      "newsSource": "UDN",
+      "newsDate": "Sat, 03 Oct 2026 08:50:45 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01anRqb0pjaFIxaDd2ZXRPX0VoLW5TV0FNTHNVTGVYM2J1WTd1ZUprWm9fOWhUMk5FNm9FMGJkaFpHUC02N1hHS295N3NuNURQ?oc=5",
+      "desc": "【UDN】傳台積電正評估與Terafab合作在德州設廠馬斯克回應了| 全球財經| 全球",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電法說前外資唱大戲| 產經",
+      "name": "⚡ 前彭博作家驚爆台積電正探索與Terafa...",
       "date": "10-03",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電法說前外資唱大戲| 產經",
-      "newsSource": "非凡新聞台",
-      "newsDate": "Fri, 02 Oct 2026 21:14:29 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tQTJkV2VCNDlrQks3elExbmUtdjVhb0lmR2dUdFVFa21za2d6alYxYXZHMkNvM1dMbFZUV0FUQkh2Z2lCNjg2aWVFTW93WnBhNnBTLW1TVE5lcGQ1Tk9F?oc=5",
-      "desc": "【非凡新聞台】台積電法說前外資唱大戲| 產經",
+      "newsTitle": "前彭博作家驚爆台積電正探索與Terafab合作事宜 馬斯克證實了",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 03 Oct 2026 09:13:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPM1B5MW5fOVF5dTY2bGZ3dElucXljSzMwNUE4QlYzY0FybHJqX191djU2YmtpUG0zRFVxTTdLeXdSdmREcC0tb1lHdHhmdHpOSzFMTGJmNElUMThTY3c2ZFVNSjNCUEFndzdXQWV5TV84THJ4RExTaXRack81Rzh2RFNkUkpDTExEbHpnNV9Fc2RNSDh2dm93aVZtV1dZVlQ3bG5iblVfNWVQNmM5T2pHYmVEUUlFbHBBdWFSZzh4eDNPLXQ1c281enpadExSSFVVSFdhWjlYSWZRazY2Wi1uMVgzYWJTQjBOX0xHeXBNakdqZDZYRXI0YjQ0d183OFdxYXVBTFV1NVRmUzRYS2stTi1HUE5Fd0NFYl9ELTlNTW13MVVIeFZGUkVVLTNKQ1hWLWFlc2xzck9vX29aYXA4eGUwWlMyZUNyT0NfU283VXF1ajRqVk5oOUlQLS1IZ2Q3Qno1Y3ZnRzFocHBvcmg4T0MycjNzZGpmeG1uWGFTNHB0WU1ZVXc?oc=5",
+      "desc": "【Yahoo股市】前彭博作家驚爆台積電正探索與Terafab合作事宜 馬斯克證實了",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 點名台積電！外媒曝必抱「2檔」長期投資 ...",
+      "name": "⚡ 台積電將成2027年最大贏家！外媒分析曝...",
       "date": "10-03",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "點名台積電！外媒曝必抱「2檔」長期投資 半導體關鍵命脈難被取代",
+      "newsTitle": "台積電將成2027年最大贏家！外媒分析曝驚人理由 股價上看這數字",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 02 Oct 2026 03:12:34 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZOVFwREpjM09JR2FaQzlqY3UyZWxvdEFhamVhVGpIU213VUFmcUEyUnZZYk1CU0VFTUZpelJIc1FGZXZRVFpRTmdncndDQ3FsZXFVd1hmeW1SREhmVHV30gFkQVVfeXFMTmxOYzNaYkxTd0VvMzJTNkVWaTZLbHhjSTlpZ2FFa3RYU0JDX1gxMEMtNlhXdXRGTEZoeUJxWG1mY3NpZnA3bHRaeEVnamRTOXdza2hjVk1VcTdlUGh3SUJIVHYwSQ?oc=5",
-      "desc": "【自由財經】點名台積電！外媒曝必抱「2檔」長期投資 半導體關鍵命脈難被取代",
+      "newsDate": "Sat, 03 Oct 2026 12:01:06 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mMHpVVHF3YzI5b3Jtb3MzTDZkMS1hMUhha1hIY0RfMTk3QzUxWFR1TGFtVUllb3hhTUZGdGN0V1RDV25jb0FEMXRUSTY5OTlHamdOTUtNVC1DU0hJWjc00gFkQVVfeXFMTjFFMGRSWXZ5YkNVVVcxZTdZTTNpN0YtZWZFN1N6Z21tWmpSbEpYalpHTmJXVzU3U2N6RFpWVzlDUFVKckc4Ylc0WklNbElud3gwNGlRWWVTYTdtMEgxMWJ5cUl5Vw?oc=5",
+      "desc": "【自由財經】台積電將成2027年最大贏家！外媒分析曝驚人理由 股價上看這數字",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 不是單押台積電就好！擁群山ETF也跑贏大...",
+      "name": "⚡ 分析｜傳台積電砸千億赴德州蓋廠？ 專家解...",
       "date": "10-03",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "不是單押台積電就好！擁群山ETF也跑贏大盤 2檔單月漲破10%",
-      "newsSource": "TVBS新聞網",
-      "newsDate": "Sat, 03 Oct 2026 02:31:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JVGQyejBZVzJQUWU5aVBEWkVTTUVTRjR4dHhMaWNRbXZaNlVPeU5zekdHM3Bsb3p1QVlyeVN5UWFSUHZHRE45MDZtdi1vWHc?oc=5",
-      "desc": "【TVBS新聞網】不是單押台積電就好！擁群山ETF也跑贏大盤 2檔單月漲破10%",
+      "newsTitle": "分析｜傳台積電砸千億赴德州蓋廠？ 專家解讀：恐成爭取美方支持談判籌碼",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 03 Oct 2026 06:10:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNQkJueHFlNXJnODFOTWpMNF9rZDBlOENkREZOVmpnRzljU1VzUmhvNGRHdTdvNG8yNjlvTk5GclJfQ2d2ZlBWb1psTTd3U1REby1ELVlmMW43ZWQzenFDTFlXSHlGVWJnYVZkWEhYQWtsZU5vb3pOdS16V3pyZDVwMXZ6ZnNPMzRnV01Pb0VMS0x3Q3NPckNGV0MtLVhLX0dFWWVaSmFPSmt1WE4zTG5VT3pmRHYzUm1JU3Y4aElpVHQzcDdKNTZRMXhJREtMTzJ4R0puVHRBYmZtdzBkM1Y2YUVOanZUUl82X1dCQXFZMTZ2Zm5LaFM3VERrX2ljZDM4WVNaNEZ0SUYtREtJSWRqWVpvODlfOS1hejViLWdFSUoyaGJ6WnhaV0VvLS1mRUZoZmQ1bXZWQzZsR1gxRVJQRVBxQkJTcGdZYy05OVhKUXVJNnJiNHBNZEZZS3NKOGo4andPLWhjM3BGcS12X2VuaXRnOFE4ejc3X0dZbV9TakZNNEJmX1dqUFVkcWtLZThvOVBUYmNIbUxHSS0wb09TSl9zaGxGV19JcnJGZlp6TWhVZVJNWGtlRHdCeFdxUEhReHRCVWxmQQ?oc=5",
+      "desc": "【Yahoo股市】分析｜傳台積電砸千億赴德州蓋廠？ 專家解讀：恐成爭取美方支持談判籌碼",
       "impactTargets": [
         "t_2330"
       ],
