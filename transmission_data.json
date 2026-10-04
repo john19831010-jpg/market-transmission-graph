@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-04 16:37",
+  "updatedAt": "2026-10-04 19:55",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 聯發科「快跑一陣子」輪到台積電？謝金河：...",
+      "name": "⚡ 台股下周一衝歷史新高？台積電ADR飆近3...",
       "date": "10-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "聯發科「快跑一陣子」輪到台積電？謝金河：可能奮起",
+      "newsTitle": "台股下周一衝歷史新高？台積電ADR飆近3% 專家點名「這檔」接棒",
       "newsSource": "Yahoo股市",
-      "newsDate": "Sun, 04 Oct 2026 10:42:05 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZjFPdlI0bGlGVXlLcHI4Q0hiYmM3YnZnM2hrR1k0VXhCLXFqTWV2UHh1dGV2QVFTTDNLckxWQU8tbzI2U2xMdXR6ZTE2RlJ0LWFjSkQyVU01WUluY2NIVlN1OEJBb2VMQVZ0R3ExcTEybEJPRkI3U3VWU0EteU1JMTNONG9sR2l0ZkMyX3FjdFhnVWNEd0l1bHZXUVZpQXp6Tm45cXRILXdhRGc5ODZVZUhBc1BkSmt2b3E1TXhlQVdoaWQwLTNJYmF1SjdFZ291SzZTTTRyRE9HNHBiTWdkVDFBbHhGZXM2N2xwdWM1NF84eW5Mc0YyVFFqcW1XajNTMXhPTmhicHBqR0JhRUR3VlYwQzk?oc=5",
-      "desc": "【Yahoo股市】聯發科「快跑一陣子」輪到台積電？謝金河：可能奮起",
+      "newsDate": "Sun, 04 Oct 2026 10:15:10 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPaENXbWhMYlUydEJ5UHgzVXdiTnNDN29OZmlMRkxCbWI1U1l4TFF4ejFIYVBXdFBVdHRZRzBkUFdVOVZrOXZ3LUtuN3JienowR19lT0RBX1k3NzB0Y0VnREpKZFQ5R0ZDUUFpanJMU3RFUDZHYmlDMnBOdzhXcmZtdzZKdjVoc2ZTUkxScUo2MkhXNzdVQVVISmlXUVpGcHBPOEV3YVdCR2wtOVh2TmJyS2hfU2JTbzliZGtKLVJqUVdETnpxdTgzWDBIQjk5Mkl5b2czWG1ObHV6eXJxbWZDTWROdUdvdmcyU3AyZS1hUTRUUXlINUlpd2lHVkVnUzFxczVGbEo0ZHF0ckFOWXFRQ195U1pCeWpoT1YwdnRMLTRWeWc4WWw1enRkSzZJMUFfTkRtS3VkT3lDR3diLXRZRzVwY0lBTVR6OXFFdGx6dFpENmlXd1E?oc=5",
+      "desc": "【Yahoo股市】台股下周一衝歷史新高？台積電ADR飆近3% 專家點名「這檔」接棒",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,6 +22,25 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 半導體設備、矽晶圓帶勁| 股市要聞| 股市",
+      "date": "10-04",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "半導體設備、矽晶圓帶勁| 股市要聞| 股市",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 04 Oct 2026 16:37:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oQVRHZkUwUnAtem5WTGI3TzRCeEFMZWFVSndobTlXbGY0cm9oaVBkRVpsSF9TSWMtYlJfX2EtUU5ISDBrNnF2WFFyclhQWDBV?oc=5",
+      "desc": "【UDN】半導體設備、矽晶圓帶勁| 股市要聞| 股市",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電在內！AI支出預計狂飆 外媒點名「...",
       "date": "10-04",
       "category": "突發半導體",
@@ -40,41 +59,22 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 高通2奈米傳黑屏重啟波及台積電 業界：熱...",
+      "id": "e_breaking_4",
+      "name": "⚡ 台積電千億美元投資登全球第一！2025跨...",
       "date": "10-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "高通2奈米傳黑屏重啟波及台積電 業界：熱當機率大",
-      "newsSource": "中時新聞網",
-      "newsDate": "Sun, 04 Oct 2026 12:39:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfcUViM3Rydy1YbjFvLWRlOWxrWml6alVmUVFIUG1XYmdJMVFxcDI1M1RiRVhKS0RERFd3Qmt0b0Y5ejc3WFBndW10YlFUME9ZaFgySFQtUk9NUGNxNF9QUF9uSU5wZXBIWnBxZzVR?oc=5",
-      "desc": "【中時新聞網】高通2奈米傳黑屏重啟波及台積電 業界：熱當機率大",
+      "newsTitle": "台積電千億美元投資登全球第一！2025跨國投資破1.3兆美元、AI資料中心成焦點",
+      "newsSource": "news.cnyes.com",
+      "newsDate": "Sun, 04 Oct 2026 11:20:05 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rWkNDOTI4ZWxVT3FiYXl6RklTcm12VDZVQXFKQ0NycWdCbHlscGVZa3MtSF9MNm9VYzNiM2syX0NaX2RaQ0dobGhpbnl6NHM?oc=5",
+      "desc": "【news.cnyes.com】台積電千億美元投資登全球第一！2025跨國投資破1.3兆美元、AI資料中心成焦點",
       "impactTargets": [
         "t_2330"
       ],
       "primaryChain": [
         "f_foundry",
         "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 本週操盤筆記：美股Q4迎AI考驗、債券殖...",
-      "date": "10-04",
-      "category": "突發總經",
-      "isBreaking": true,
-      "newsTitle": "本週操盤筆記：美股Q4迎AI考驗、債券殖利率飆升、Fed會議紀要",
-      "newsSource": "news.cnyes.com",
-      "newsDate": "Sun, 04 Oct 2026 13:50:02 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJNDhrbHlNdFAwUk1aTENNUnUycjJDY2UzMHR5SXN3RmdBbjVxNTdWSG5ScEpndE1uNTNkTENVbng5blBCZEtpdTlkY1pNd00?oc=5",
-      "desc": "【news.cnyes.com】本週操盤筆記：美股Q4迎AI考驗、債券殖利率飆升、Fed會議紀要",
-      "impactTargets": [
-        "t_gold"
-      ],
-      "primaryChain": [
-        "f_rates",
-        "t_gold"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
