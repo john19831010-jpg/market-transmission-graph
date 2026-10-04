@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-04 04:55",
+  "updatedAt": "2026-10-04 11:01",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 合作案曝光！台積電傳攜手Terafab打...",
+      "name": "⚡ 台積電在內！AI支出預計狂飆 外媒點名「...",
       "date": "10-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "合作案曝光！台積電傳攜手Terafab打造德州晶圓廠 馬斯克親證實：目前仍在討論",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sat, 03 Oct 2026 14:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQQUFiQjhIcGdEUEJrbWNGNllaZHZnbFo2T2YwSFktQWh4UndUX3RqZmFkdjZFLTh6TFpNRTAzVHlzWVM4bnhqLUpraDZsNWJSb3VWSUpjQW9CeUlreFRjdTVoZ01TWDlMcEJYRlZpem9SdXBEaklIblUtWWs1YlJ5ODNNd0FBVmo1MVBZTTIzQlBCRkZpY25OeHR2OXA5ZDMxUHhnbzBia1lUQzdPSW90MjU0dWZiVVNGZnZLM3BaNS15ZnQyVXBfRGhqd2htWk42SnJheEVhSmFGRWNOcE9oa1JNUlZnTG5Mdk8tTFNCa25rUWhSc29KSlVkNkotWDBwODR2SHdEbFpNSFBsbmhjYWp2UzhiSlBoemN1bFNfd21qdkNqbFBZMy15ekpiRkQwT1Rqc1c5OFFKMWNGcUZPZDZ5U24yUzRnLTBLVUdoRTRYOGFTQ2ctX2VQa1B5aUxQRDhVYTU3MU9KLW9DWDJaZ2dpZklpbnJCWWFZSjdvTDBNb2dMbEc1NDVIRld5V0JLSUdlN0NRdzhNd3pvTy01MDVSOEF3N29xN3laS1dBT1cyMDA2djFhbW9QMEZtSGdpdG5Vak80WTZaNko2a1hNcA?oc=5",
-      "desc": "【Yahoo股市】合作案曝光！台積電傳攜手Terafab打造德州晶圓廠 馬斯克親證實：目前仍在討論",
+      "newsTitle": "台積電在內！AI支出預計狂飆 外媒點名「這3檔」現在不買恐後悔",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 04 Oct 2026 04:52:56 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11RUttU0xFZnA1ZDBucWk4d1lOaFlsZkFhY3VGeFY0Wm1SaFg1Ungyb1JSdjRWTHRDNzY2M0F5Ynd4Vi1fd21UWnFKYVFpS1pyVXdlRE9hVHREcmUyU0Vr0gFkQVVfeXFMT01MSVF3T3VqU0tmdTNOS3VZWGptTmlqd000cEM2dzlwRUpFSFRmTjAycXNfUGhxWXZUZk1ZQmR4TG1FWDZDOHJDQ2NNQURfNktlc0RtUFBGcGw5dHJYVlV6YmF4UQ?oc=5",
+      "desc": "【自由財經】台積電在內！AI支出預計狂飆 外媒點名「這3檔」現在不買恐後悔",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電將成2027年最大贏家！外媒分析曝...",
+      "name": "⚡ 重量級半導體法說接力登場！南亞科新廠落腳...",
       "date": "10-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電將成2027年最大贏家！外媒分析曝驚人理由 股價上看這數字",
-      "newsSource": "自由財經",
-      "newsDate": "Sat, 03 Oct 2026 12:01:06 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mMHpVVHF3YzI5b3Jtb3MzTDZkMS1hMUhha1hIY0RfMTk3QzUxWFR1TGFtVUllb3hhTUZGdGN0V1RDV25jb0FEMXRUSTY5OTlHamdOTUtNVC1DU0hJWjc00gFkQVVfeXFMTjFFMGRSWXZ5YkNVVVcxZTdZTTNpN0YtZWZFN1N6Z21tWmpSbEpYalpHTmJXVzU3U2N6RFpWVzlDUFVKckc4Ylc0WklNbElud3gwNGlRWWVTYTdtMEgxMWJ5cUl5Vw?oc=5",
-      "desc": "【自由財經】台積電將成2027年最大贏家！外媒分析曝驚人理由 股價上看這數字",
+      "newsTitle": "重量級半導體法說接力登場！南亞科新廠落腳屏東 台積電加碼美國建廠成市場焦點",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 04 Oct 2026 10:05:44 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiggRBVV95cUxOQTFhU3JXSHNvaE1fVExhVk5iR3NSLVhPWF95RktRU0Y3dDNfRjNvTE9PQ1ozM2E4RDhma1pJYUZZZVk0UkE4SXRrdV9FYnFvLWhFYlNNaXNQZFVRc05wV0pLcmtrWExGQmo2WUhuYVdnNlc5SzRIYi1KLVdNMjNoX2lsYVRYck82SE03bEdSaXozbHoxVFNXXzVGdi1WalMtRmt5ZWJJQ2xudnBrXy1yLUJ1R0lRdjR3QjRDVWpkenJkYlJDNjhFV2FNNmpGRVpETm5sYlp6THhRYWVNem9mSWxHaEp3S3FRVzVvTkVXMm1fRGpMUGd5aDM0Yk52WExuZzNGVmNqbk9RMjRraVQwcWpCWmJ2U1BaTmpOXzhPQ3dURUxWbkFYSEtMd1BBZ3c3QWFRMjdyLTczakFscW8xM2FkWVZ0UTQ1X05jdmxrWHU3VGJlSWIwYjF2VEl0c3RNRDNkbkRNcXFUTUQxYVJmc2s1X0lRZVFGS3dYMl9uay1QUkVYSEpGZU1ibmRuV2pleC0zXzY3RHI0UW1XTmkzNjhVcHM2YkF3UHc2RzFHZ0dHeE94RkliREJxR3ZyTU1QSnBrdHliTFRVV3J6RnhVOTVQa2lKdjYxOUVBSkp0eXBaUVA5SkdIcVdqLUhiOEJtV0JWTFZ3VTdiaGdyZHhOd0ln?oc=5",
+      "desc": "【Yahoo股市】重量級半導體法說接力登場！南亞科新廠落腳屏東 台積電加碼美國建廠成市場焦點",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電攜手馬斯克？ 下周開盤前五件值得回...",
+      "name": "⚡ 台積電10/15第3季法說會 外界關注是...",
       "date": "10-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電攜手馬斯克？ 下周開盤前五件值得回顧的國際大事| 全球財經| 全球",
-      "newsSource": "UDN",
-      "newsDate": "Sat, 03 Oct 2026 08:44:47 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tMy1JZTI3cVQwQUk4Vi1SRmMxUjdaOFhEM0N2MHl1NkhMbkp3R1IyVWg4cmFPWWF6X2pNVDE1UWM0Y0pnNmdVeGg1R0Q2bWQt?oc=5",
-      "desc": "【UDN】台積電攜手馬斯克？ 下周開盤前五件值得回顧的國際大事| 全球財經| 全球",
+      "newsTitle": "台積電10/15第3季法說會 外界關注是否會與馬斯克合作",
+      "newsSource": "你的公共電視",
+      "newsDate": "Sun, 04 Oct 2026 04:09:39 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WbHVPT0dhekNJXzg3ZTdpZ2xHaFM1TGphbmhwNllKXzVRdnRGQXJMWXloMGt6RG1xdEh1Nl9WTXNVQVczRjRaMk1iS2xncmc?oc=5",
+      "desc": "【你的公共電視】台積電10/15第3季法說會 外界關注是否會與馬斯克合作",
       "impactTargets": [
         "t_2330"
       ],
