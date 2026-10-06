@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-05 18:05",
+  "updatedAt": "2026-10-06 00:39",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 【台積電飆天價】一年暴增140萬股東！堅...",
-      "date": "10-05",
+      "date": "10-06",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "【台積電飆天價】一年暴增140萬股東！堅持抱緊「1張賺破百萬元」",
@@ -22,32 +22,13 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電再創天價 下一個難題也浮出檯面",
-      "date": "10-05",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電再創天價 下一個難題也浮出檯面",
-      "newsSource": "ec.ltn.com.tw",
-      "newsDate": "Mon, 05 Oct 2026 06:32:47 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Lcm1OTTg2TjdPQ1JDWkM4bElzeEM5UVZxQkpzY2tIdlBUcHJZZGFlRDB3VHduS21XSzdCcld6SWxJREJybV8yWHA5M1dwc3lvYk1DRm4tc25TZEx5RGZF0gFkQVVfeXFMTWdlQnAxYllCSGhnUWR6UEgzQ0pqN1FJWGpxeC0zUC1kSFZUWXVrYUVMNzVQeE1ST3BuZFhDakNTY0gwM1BZejA4Y2ZyRlJEbEJUMVdEQkwxNWF0QlZUZ2xhcFZsTA?oc=5",
-      "desc": "【ec.ltn.com.tw】台積電再創天價 下一個難題也浮出檯面",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 三大法人買賣超 – 外資買超(2330)...",
-      "date": "10-05",
+      "date": "10-06",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "三大法人買賣超 – 外資買超(2330)台積電、(2308)台達電，投信買超(3081)聯亞、(2327)國巨*，法人合計買超764.5億元",
       "newsSource": "sinotrade.com.tw",
-      "newsDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "newsDate": "Mon, 05 Oct 2026 20:18:29 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxNdDRQWlNmcTAwdFdJeXAxQzcwMjRSX0c1dk55WmxLbEhhYi1leURZc2hfbExXQmE5VGllSVh4Q0d1cEpVajV4MFBiLUdmbkcxSnlmTHh2UkJTcDBEYS03UGZLbmtRVEwtOVhsUXZWOFZzTU9iS0dJSVJLbk5xX1RmcmlhX2tFVXBmU0daY0d1ZTJyblVEOVV4VXRSUDhWUWFWcFE1OGlLdU9qRGg3eXIyNTZYOWRvOWVSUDZtMnZHSkpxUUxCc1BVNUpSbUtET0tUaG0zM2RFZlFkWUtVazdpX0tOMExqYWVuNU4xRm9ZSzMzMWlrWHJtTGZNOUNyR3RnMHNUUFhhTE9SUUh0NF94eFE1b0RpLWtDNkhuQ3dwN3FUMUlGYlo3SU5rTEI1V2t3V2NyZGxORmdFRDVJSWhMc1RGNTdOZldwcWtPcm1feHQ1NTBac0ZhZm5UMDk1N3RKT1pRNlJIcHhJaTdpTmRneS1WTTZTb2kyVFRjdWt1UXFpcXZjZDB4MUlaYWF3MEx0SE9BMzV2TmxBQ2RvMG15TFdzamJoNEZscnU2UHZVekNaZEt0NmxudlFxa1FXaHV0SjY2SnJMcDRWdms3UkxEWTNuUzhxNGlUdDI4RVlEN2hwNEswSkh1RXdmTnNHX1Npc3ZwRGNNT3gtMmY5eHJ1cUhReTRoVkFBbTktU19IRy12NWJkTTd1eHNsY1JycjdSWEc4cHZmM1NEd3hlTEQ0eFRlWmcwY2hiM3JtNU9NWUcwOGFKNHRXcVdmY3hmU3lZM0sw?oc=5",
       "desc": "【sinotrade.com.tw】三大法人買賣超 – 外資買超(2330)台積電、(2308)台達電，投信買超(3081)聯亞、(2327)國巨*，法人合計買超764.5億元",
       "impactTargets": [
@@ -59,22 +40,41 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ 【美股盤前1005】非農爆冷！升息預期降...",
-      "date": "10-05",
-      "category": "突發總經",
+      "id": "e_breaking_3",
+      "name": "⚡ 台積電再創天價 下一個難題也浮出檯面",
+      "date": "10-06",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月",
-      "newsSource": "sinotrade.com.tw",
-      "newsDate": "Mon, 05 Oct 2026 15:25:14 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPcFM5MmtPMXA1bEt5X0d4N1BEaWxxSTk1bi1mTHlWU1NHVVhDUmg2ODlzU2NZdms1Wm5TX0VaTTk2dVloZDRnRjhhRFdxU2EwUDZFSEhVU1VEaGc3ek1NNFNfSWpUbkV0T2Q5dE5mMFNreHN3VXY4MnZBZjB6Q21FZkk0UlhfN0drMmsxWF9YRmVVa2I1Yld2dG1lclVEc0FXXzR6X2VwNHB2dHJsdGhNSFpQNHN1VFVKa2o3UVVrLWk2RVowY2QwLUVHOUlkRkFaeXk5WWFtTmhJZUpURmhiQ0hyV3djTFNzY09nTDdOb0wxa0hRelRCTmpiU2VxWktwMFctVXdtWmVKeUJVMXB3MDlZb0ZKaEo3b2dYMVdPXzdMZC1WeWtXQ2lOWjVrYmZmbm1VRzQ2NmtEa0p4dUdJVU9CaVJGNzg5d3o3YVBjbE5BeVhrcURyUm02enhZY1BsOVRFS3lEUER2SGtGNnFuQWctU3h4SDBWcTM0Rm4tLUp2RFFoR0hQMS1LS3FmRy1TcUVyVVAwNzdHdlFOU1dub2xWem9xS2NPWVd2QmY1WFZmNElZUDVheThaRWVGME05NGo0TG5OYmNwbmZvV09kUXNHMmU0RTJNUXVTaHB6M245WkJmNGtLOUZPTTU4YUNiREZmMXJqd0czRlVC?oc=5",
-      "desc": "【sinotrade.com.tw】【美股盤前1005】非農爆冷！升息預期降溫帶動美股全面反彈，本週聚焦FOMC會議紀要｜豐雲學堂2026 年 10 月",
+      "newsTitle": "台積電再創天價 下一個難題也浮出檯面",
+      "newsSource": "自由財經",
+      "newsDate": "Mon, 05 Oct 2026 06:32:47 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Lcm1OTTg2TjdPQ1JDWkM4bElzeEM5UVZxQkpzY2tIdlBUcHJZZGFlRDB3VHduS21XSzdCcld6SWxJREJybV8yWHA5M1dwc3lvYk1DRm4tc25TZEx5RGZF0gFkQVVfeXFMTWdlQnAxYllCSGhnUWR6UEgzQ0pqN1FJWGpxeC0zUC1kSFZUWXVrYUVMNzVQeE1ST3BuZFhDakNTY0gwM1BZejA4Y2ZyRlJEbEJUMVdEQkwxNWF0QlZUZ2xhcFZsTA?oc=5",
+      "desc": "【自由財經】台積電再創天價 下一個難題也浮出檯面",
       "impactTargets": [
-        "t_gold"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 台股明天就能上五萬點？外資大買台積電、台...",
+      "date": "10-06",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台股明天就能上五萬點？外資大買台積電、台達電 雙雙近期最大筆",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Mon, 05 Oct 2026 12:22:06 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOSnhRVEdveWl6cmVsWUJURG9iU01pX3Fid1BfSlRkS3MxaV9pbEcwZFViVVZvN0g2RUwwbzBYcHJhN2dxaU9ET3ByQTJzMkVleTc2a0FDQmpreHZhd3c3bmJmaXVoWExOcWdYcUhHSm1RZWdwZlpoVGdMRU01TjZodmJXSGFuVi1KMGFYQVM0Ujlnd3VkdXBoNnh0SzN2ZTk4bGpuTHFTdzgyZFYxRXZBalJDMmtWZzJnTUNyWE1BcXNFUnQ0bUdSRTRlYmVTUFd2VjBPOWo3blpKUUdnQXE2em9xOWh5UzVLR0h4WC1YbUpibUN0VDVSaG1XWUU3VDRBajFhZUNrbWVPcDAxMWxOelIybEVaY2tCSFFvRElwcENwX19NM0lRRHlnV0RzSm1YRGk0NFJ1dXFCSVZLUjNvaHlRX0xhNzZpa2NNeWFJX211YWdSSmxLSWpUV1VXcm1LeUFQU0gzOEZSVjVmdFhXbHFrS3FQbFd4NklDdlBXRVJvN1I0ZkQ2bERrcnZHY0dZeTZhQ0NXSlZKTms?oc=5",
+      "desc": "【Yahoo新聞】台股明天就能上五萬點？外資大買台積電、台達電 雙雙近期最大筆",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4163.6,
+      "price": 4168.4,
       "currency": "美元",
-      "change_pct": -0.55,
+      "change_pct": -0.44,
       "gold_units": {
-        "oz_usd": 4163.6,
-        "gram_twd": 4246.1,
-        "qian_twd": 15923,
-        "usdtwd": 31.72
+        "oz_usd": 4168.4,
+        "gram_twd": 4260.4,
+        "qian_twd": 15976,
+        "usdtwd": 31.79
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 754.85,
+      "price": 756.2,
       "currency": "美元",
-      "change_pct": 2.49
+      "change_pct": 2.67
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 712.0,
+      "price": 712.32,
       "currency": "美元",
-      "change_pct": 1.19
+      "change_pct": 1.24
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 347.06,
+      "price": 346.47,
       "currency": "美元",
-      "change_pct": 1.26
+      "change_pct": 1.09
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 379.55,
+      "price": 378.73,
       "currency": "美元",
-      "change_pct": 6.18
+      "change_pct": 5.95
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
