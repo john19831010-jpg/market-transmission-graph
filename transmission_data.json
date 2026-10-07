@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-07 06:58",
+  "updatedAt": "2026-10-07 14:24",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電親兒子EPS上看214 法人喊下一...",
+      "name": "⚡ 台積電負責經營Terafab晶圓廠？ 馬...",
       "date": "10-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電親兒子EPS上看214 法人喊下一檔萬金股",
-      "newsSource": "Yahoo新聞",
-      "newsDate": "Tue, 06 Oct 2026 21:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMingJBVV95cUxPelZ4SThqakdtbWhXc0V4N0dfNDl6dnBtOUJXS3hnblRzSXU4MVluc2x5U1BEWTE3eXRqMHoxZmxYdy05WUhSdjBtXzZWQmFKeVlyaHFWZHQ4NF9TZWd2bHZnS0VFVEJRMlpfX1FrdFBNelJiYUtfV24ydEZVb3pnN0k4c09mYnRjMFJ0eWpUTmU1MlNXNXc2Q0pMR0FTaEotUWt3bkcxT0RPN3drMFMxUFpFdks1cnJjc2pxY0V0VnFKUlhsd1g4RS1KUlRIS3pCNUEwSmE3WlpRZ0x6aWhMTW9fYkhwVVh6VmFHZEtfU3YxcW8yUWlyaHVFdGFkRWlPd1pFXzZ1Z3h5eFFkMmxzVzZncThpeVVpUmdUZDl3?oc=5",
-      "desc": "【Yahoo新聞】台積電親兒子EPS上看214 法人喊下一檔萬金股",
+      "newsTitle": "台積電負責經營Terafab晶圓廠？ 馬斯克發聲澄清：僅考慮分租可能| 全球財經| 全球",
+      "newsSource": "UDN",
+      "newsDate": "Wed, 07 Oct 2026 13:32:59 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1dGpkSjBtZ1RJZTV3N09ueHZFUkVrWWVjeHhBZ3pmcnY4YlV2X2p3Uk5tMlZyQVRnX3MyTjRtS0RiRnU4dlZrUHpaLVdRbjAt?oc=5",
+      "desc": "【UDN】台積電負責經營Terafab晶圓廠？ 馬斯克發聲澄清：僅考慮分租可能| 全球財經| 全球",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 點名台積電！如果只能買1檔股票長抱 外媒...",
+      "name": "⚡ 台積電連衝2天煞車！盤中跌25元 「25...",
       "date": "10-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "點名台積電！如果只能買1檔股票長抱 外媒答案揭曉",
-      "newsSource": "自由財經",
-      "newsDate": "Wed, 07 Oct 2026 02:18:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wa2NZQUcwcEJCRTBDVVRjTFdSRG5MdHJmQk9vWS04cENkVkNRanFCcVh4UTZ1dFluWXpjMXdGUHgyX3AxUzVPc3Zpc0hnSHlBeXlPWG83U2ZWTFM3c2ZJ0gFkQVVfeXFMUDNRWGtzbXFLR0hlNVJMVDA1eDRpUExINnl2VTNscGNjU3NzZmhBU3ZpSFdVQ1BGazk5X3ZGZUgydG9ULVZVZ3VsRjZieHUtRTZhNGpyZzIwREY3OTJTTGQ1NzFjTg?oc=5",
-      "desc": "【自由財經】點名台積電！如果只能買1檔股票長抱 外媒答案揭曉",
+      "newsTitle": "台積電連衝2天煞車！盤中跌25元 「2590梯次」會套多久分析師解答",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Wed, 07 Oct 2026 01:36:51 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZE5qM2JnR3NUNFJxZmJQb0NQdzdpX1JZcFJRcnNYem9Xb0Z6V1RqWjczZnVLRzZRMnZLang1MnFRNzROMkQ4NF9NZWFTTXg1ZC1uS3k1d3hQN2o5ajN6MmJ2bE1lNjlBMXZSTjBNRkZoaWZObmk2UGQwR2NtYWRTOWw5NE5nUUttTDlLYjZWQWFZYUk5UDJpUkNSem80Y0V0MHEycnhfTDhNT0I0R0kyazBvMjJUTVl3V0RwVHBxU0RucjdxMWJ4S3ZWb2tiVXVjSER3b2V3U0JLWlZjQmpCNXlzS0VYYjZwQVdwNFhqYnZ3ZlQ2MUFhSTc0VUZidGNXWDRjZXZGZkhPMTJjdGE0WnkwTUl4RGxrbUFUd0NKR3RyU1Q0V2FSOGlVNXE5Vmhjb1BoS0J3Uk9DMjRxaVF6MjdqQzQ4WENia2FHcTQwa0FmZm81c0pobnZvNU02bWR2TlZrc3prVEdkcGdsdVRfbGxKZlV2blhURjdtRkRQWHVQTlBKcFhJMUlmcnhIUElSYnBBb3NmWl9BVTU2WGc?oc=5",
+      "desc": "【Yahoo股市】台積電連衝2天煞車！盤中跌25元 「2590梯次」會套多久分析師解答",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 被動元件聚人氣 台股收跌16點 台積電持平",
+      "name": "⚡ 馬斯克澄清：排除台積電主導Terafab...",
       "date": "10-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "被動元件聚人氣 台股收跌16點 台積電持平",
-      "newsSource": "UDN",
-      "newsDate": "Wed, 07 Oct 2026 05:53:08 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrZEhfdncxdDlrZWxlN1NLd2RXN3Z2RFlZREoxRC0zX21KNF9JVGNDYmsyOW92UEdGaUs1TjRBY282X084OGdNdjYwTU1TbDJO0gFWQVVfeXFMTUtmQnQzRXJVdHJJV1lOUDl5bUVGczc4elg2N3FKZlZUSlZTbXFVWVZlSFZRSm4yZW9zcWEyVUZCcENldVVtbm5WbWRGaC0zSmgyVmRrWGc?oc=5",
-      "desc": "【UDN】被動元件聚人氣 台股收跌16點 台積電持平",
+      "newsTitle": "馬斯克澄清：排除台積電主導Terafab營運 英特爾利多",
+      "newsSource": "鉅亨網",
+      "newsDate": "Wed, 07 Oct 2026 11:30:54 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QkxITVdTaFFLSGZaYVl5dkk0YmtZRmpxdWJMVl9TSWcyTXotS2dOOFZMdXZnNzBtcXFMdm1udEpwdUh0SkF3UGtlSjhrSDQ?oc=5",
+      "desc": "【鉅亨網】馬斯克澄清：排除台積電主導Terafab營運 英特爾利多",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 三大法人買賣超 – 外資買超(2330)...",
+      "name": "⚡ 台積電承建Terafab晶片廠？馬斯克說...",
       "date": "10-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "三大法人買賣超 – 外資買超(2330)台積電、(2308)台達電，投信買超(3081)聯亞、(2327)國巨*，法人合計買超764.5億元",
-      "newsSource": "永豐金證券",
-      "newsDate": "Tue, 06 Oct 2026 17:48:45 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxNdDRQWlNmcTAwdFdJeXAxQzcwMjRSX0c1dk55WmxLbEhhYi1leURZc2hfbExXQmE5VGllSVh4Q0d1cEpVajV4MFBiLUdmbkcxSnlmTHh2UkJTcDBEYS03UGZLbmtRVEwtOVhsUXZWOFZzTU9iS0dJSVJLbk5xX1RmcmlhX2tFVXBmU0daY0d1ZTJyblVEOVV4VXRSUDhWUWFWcFE1OGlLdU9qRGg3eXIyNTZYOWRvOWVSUDZtMnZHSkpxUUxCc1BVNUpSbUtET0tUaG0zM2RFZlFkWUtVazdpX0tOMExqYWVuNU4xRm9ZSzMzMWlrWHJtTGZNOUNyR3RnMHNUUFhhTE9SUUh0NF94eFE1b0RpLWtDNkhuQ3dwN3FUMUlGYlo3SU5rTEI1V2t3V2NyZGxORmdFRDVJSWhMc1RGNTdOZldwcWtPcm1feHQ1NTBac0ZhZm5UMDk1N3RKT1pRNlJIcHhJaTdpTmRneS1WTTZTb2kyVFRjdWt1UXFpcXZjZDB4MUlaYWF3MEx0SE9BMzV2TmxBQ2RvMG15TFdzamJoNEZscnU2UHZVekNaZEt0NmxudlFxa1FXaHV0SjY2SnJMcDRWdms3UkxEWTNuUzhxNGlUdDI4RVlEN2hwNEswSkh1RXdmTnNHX1Npc3ZwRGNNT3gtMmY5eHJ1cUhReTRoVkFBbTktU19IRy12NWJkTTd1eHNsY1JycjdSWEc4cHZmM1NEd3hlTEQ0eFRlWmcwY2hiM3JtNU9NWUcwOGFKNHRXcVdmY3hmU3lZM0sw?oc=5",
-      "desc": "【永豐金證券】三大法人買賣超 – 外資買超(2330)台積電、(2308)台達電，投信買超(3081)聯亞、(2327)國巨*，法人合計買超764.5億元",
+      "newsTitle": "台積電承建Terafab晶片廠？馬斯克說「不」！英特爾放話卡位",
+      "newsSource": "自由財經",
+      "newsDate": "Wed, 07 Oct 2026 08:11:13 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZWU9OOHBoYjA2WFV6OFFCSEU1TlgyRHhaNnR5S2JseTBUa2xTVUdEVUhVVEs4bDNjZlBXOTc2N25sN1NnbDgxSlJTd20wSlV1a053T2liTWhmc2c4Rzl30gFkQVVfeXFMTlUtY0lWaTI1VjdwYXpKelZ0VC15eWZXZ1NEcHJZODlORUU3c2hNd1QzTkowWTVRZy1DbHRuUWZLcTg3QmVjZElsTG9PcURzTmtVRjlKYTJjTERqbmRVSUIyRWxVdw?oc=5",
+      "desc": "【自由財經】台積電承建Terafab晶片廠？馬斯克說「不」！英特爾放話卡位",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4160.0,
+      "price": 4123.2,
       "currency": "美元",
-      "change_pct": -0.06,
+      "change_pct": -0.94,
       "gold_units": {
-        "oz_usd": 4160.0,
-        "gram_twd": 4261.2,
-        "qian_twd": 15980,
-        "usdtwd": 31.86
+        "oz_usd": 4123.2,
+        "gram_twd": 4222.2,
+        "qian_twd": 15833,
+        "usdtwd": 31.85
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 759.66,
+      "price": 754.602,
       "currency": "美元",
-      "change_pct": 2.94
+      "change_pct": 2.0
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 716.2,
+      "price": 712.098,
       "currency": "美元",
-      "change_pct": 1.96
+      "change_pct": 1.6
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 347.68,
+      "price": 344.455,
       "currency": "美元",
-      "change_pct": 1.98
+      "change_pct": 0.11
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 380.68,
+      "price": 375.435,
       "currency": "美元",
-      "change_pct": 7.89
+      "change_pct": 5.81
     },
     {
       "id": "t_spacex",
