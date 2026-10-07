@@ -1,82 +1,6 @@
 {
-  "updatedAt": "2026-10-06 20:03",
+  "updatedAt": "2026-10-07 00:27",
   "events": [
-    {
-      "id": "e_breaking_1",
-      "name": "⚡ 台積電衝2590元新高！4萬多「2510...",
-      "date": "10-06",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電衝2590元新高！4萬多「2510梯次」學長姐集體解套",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 06 Oct 2026 03:00:10 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPN2l6dnN5RnNCeDMtTGpnX2h1bDNRS0h5NS1OaGY1RDlfRTF2ekNjVE5FN0RXRGJ2UHc4Q2R1RzhtR3VUZU9WYjNjSVRHRFprZDd6bHJpTkFPMVdtekxxZEMtNTQ0VXQwX3ltLWtFekUwQkdObi0yS0F0ekpvVWpNNV9GLWVaSk8yanBuSzlLeERQRmQ1RmdlSnpJM2dzQk5oN3llMlMtV3JCWlJUSmlUQjFEd1V2dzR5aXEtX09XMEg1alN3VFNPU1JOU2locXhmR20xdGtRUFhTaVJxLXpBc0hFY2pHei1TTXlIM1g2UEZ0WVhKSy0wcDdwZ0psNUo2V0ZaTUNwM0FLWXBPdkNFQXZkTG9fUXd6U1BBeGtkVmIwSkVxT3JqR3pqdjdpU1g2Y2VPWXpfS3BhZXBES1hkSkIxMVU0TFlWQ1hKa0VlM0Z1a0ZEU0dJMWJwU21IWXNNZy1F?oc=5",
-      "desc": "【Yahoo股市】台積電衝2590元新高！4萬多「2510梯次」學長姐集體解套",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 馬斯克證實洽談Terafab合作 台積電...",
-      "date": "10-06",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "馬斯克證實洽談Terafab合作 台積電ADR漲近3% 創收盤新高",
-      "newsSource": "鉅亨網",
-      "newsDate": "Tue, 06 Oct 2026 01:20:55 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CM2dibmJDR1F4Y2pJTC1GcGROTzF6T3pPa3FmamNDeUhGWS1HZ09jajB2QVA0RlRmTnR3MW40ZmRRZ09mejNDckpYdFVMM2s?oc=5",
-      "desc": "【鉅亨網】馬斯克證實洽談Terafab合作 台積電ADR漲近3% 創收盤新高",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 0050、台積電（2330）讓他3年賺4...",
-      "date": "10-06",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "0050、台積電（2330）讓他3年賺4000萬！卻照常上班：錢好像沒改變什麼",
-      "newsSource": "UDN",
-      "newsDate": "Tue, 06 Oct 2026 00:28:38 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xYWdOa2NxbktYc0xpQ0hvTFA0TE1YV1NGb1pmRVRYNE1WVjFweF9HVENTc3NWNVlTcldxX1VyaFhBT0p6a1gtNWluMHdzdVZIVVVB0gFYQVVfeXFMTlV0b1p3cDJkai1INTJ1bFBIajVCcU5iQnZMVlVudERfT2EzbS0xaUY3TU92M1MwLWRtYy1TQ0NkZVNSVjVCYTNseFQ4NzVZTlpMMnFQYXlMZQ?oc=5",
-      "desc": "【UDN】0050、台積電（2330）讓他3年賺4000萬！卻照常上班：錢好像沒改變什麼",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電2奈米擴產點火特化股！需求不缺、缺...",
-      "date": "10-06",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電2奈米擴產點火特化股！需求不缺、缺的是產能？特用化學受惠股一次看｜豐雲學堂2026 年 10 月",
-      "newsSource": "永豐金證券",
-      "newsDate": "Sun, 04 Oct 2026 07:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNUlZseWY5VWRVRnlFU29NZ05NODRFTGNmWVBXUjBMMmJGQjg4STh3aGd4dUZNVThFZE5TbmZCX0R5Tmx3UTF5YkRmU0NVUmpWcWEtWlVGNnlYQWtGTHJsRndDeVdiNS1lemVVQTl5LU1PTXVWU1lISExMaVc0RmR2UVM5bXIyNjVZZTZmeV9scWR2aWlpY2FTU0xzaEJuOHFsMmNRV2lpRkh0dklZcGhRdE1xZXNhcktsRm5wZC1XMGxGc0dSM3RKcU96MDZ6bVBhcDlvMTJsN2tGN0JkRWpHNXAzQmNJVFlEUWZSMWtZajVTbmpmbXlBQjVfZmlSQUR3U3g1ZElqOWFfN0NsTEFHMlE0UXpjSWUyOWJuT3B3RWJILTRnWXVpLVU1QlFKakxQRl9PbWUyVFQ5UDlzS3VkQzdsZDdLTjRZQ1BIR19TeENoeG9YQ1dJSkJxUGRZeWdQdC1YWXI1SEJIUVZna3M4VkR5c0RFVDNoeDJpeUpoN0tzb0VOdkdPNzBfbHJmcVhCaWtWOFc3THBrUFJYa3VkbExHMVdTUUJKOTcydENVNEgyWUllelFOTkliRE1FZjBpQzNmNm5EN216VUt5aE45cEJ1Y1QzSXo0MmZlWDdoR0hTLTBXUkRicTY3alJ0cjZGWG9xSWJR?oc=5",
-      "desc": "【永豐金證券】台積電2奈米擴產點火特化股！需求不缺、缺的是產能？特用化學受惠股一次看｜豐雲學堂2026 年 10 月",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
     {
       "id": "e_fomc",
       "name": "FOMC 利率決議",
@@ -282,14 +206,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4195.4,
+      "price": 4195.0,
       "currency": "美元",
-      "change_pct": -0.16,
+      "change_pct": -0.17,
       "gold_units": {
-        "oz_usd": 4195.4,
-        "gram_twd": 4288.0,
-        "qian_twd": 16080,
-        "usdtwd": 31.79
+        "oz_usd": 4195.0,
+        "gram_twd": 4284.9,
+        "qian_twd": 16068,
+        "usdtwd": 31.77
       }
     },
     {
@@ -314,9 +238,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 716.17,
+      "price": 716.2,
       "currency": "美元",
-      "change_pct": 1.95
+      "change_pct": 1.96
     },
     {
       "id": "t_googl",
@@ -446,34 +370,10 @@
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
       "price": 45.4,
       "currency": "台幣",
-      "change_pct": 2.6
+      "change_pct": 3.38
     }
   ],
   "links": [
-    {
-      "source": "e_breaking_1",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_2",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_3",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_4",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
     {
       "source": "e_fomc",
       "target": "f_rates",
