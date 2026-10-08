@@ -1,10 +1,29 @@
 {
-  "updatedAt": "2026-10-07 20:28",
+  "updatedAt": "2026-10-08 00:47",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 不是台積電！ 外資10月狂買15檔它才是第一",
+      "date": "10-08",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "不是台積電！ 外資10月狂買15檔它才是第一",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Wed, 07 Oct 2026 22:50:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYzYzeWVvN09ZLXRsR3hrZmN6NjdWaUZfcjVpbGZ1a3hPeXJQTm9kYUJrWFdCVEZDTVdFeTEtX1plc3BveFVYUFpyY1dZV3p5VUZ5RFlzbjJfMGdQM0JTY0QwZDAxVWlGQno0ZDY3NHlLWUc2blRHQjJOckZNVTVxRjV2dUQ3c3FTQlNETDNCNUlfNjllOEJpdUtwdzV3c1Z6bG9keGtfeGY1aEc2WWdIbnBnbXE4T2FWTlR5bUMwWnljUWluejdtNm5ndzZEWC1YRzdvb0MtZlRHMERMZ2FucWFHMmQxSkZnejJXWXF2YVBTdW9wSEZsZS1DVTRRWkctQ2hsb2hKTUkwTjlEaFE?oc=5",
+      "desc": "【Yahoo新聞】不是台積電！ 外資10月狂買15檔它才是第一",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電負責經營Terafab晶圓廠？ 馬...",
-      "date": "10-07",
+      "date": "10-08",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電負責經營Terafab晶圓廠？ 馬斯克發聲澄清：僅考慮分租可能| 全球財經| 全球",
@@ -21,28 +40,9 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 馬斯克澄清：排除台積電主導Terafab...",
-      "date": "10-07",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "馬斯克澄清：排除台積電主導Terafab營運 英特爾利多",
-      "newsSource": "鉅亨網",
-      "newsDate": "Wed, 07 Oct 2026 11:30:54 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01QkxITVdTaFFLSGZaYVl5dkk0YmtZRmpxdWJMVl9TSWcyTXotS2dOOFZMdXZnNzBtcXFMdm1udEpwdUh0SkF3UGtlSjhrSDQ?oc=5",
-      "desc": "【鉅亨網】馬斯克澄清：排除台積電主導Terafab營運 英特爾利多",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
       "name": "⚡ 台積電主導營運Terafab？馬斯克說「...",
-      "date": "10-07",
+      "date": "10-08",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電主導營運Terafab？馬斯克說「不」！英特爾搶著卡位",
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 滿足科技人才居住需求 嘉義縣台積電旁重劃...",
-      "date": "10-07",
+      "name": "⚡ 台積電豪發1815億股利大紅包！「最大股...",
+      "date": "10-08",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "滿足科技人才居住需求 嘉義縣台積電旁重劃案動土|發展臺灣",
-      "newsSource": "僑新聞",
-      "newsDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50N1cxMGFGOTRSdFNoelo4azZKR08teEJSM2YtM2ZPX0dnSE1ldzE1blRoTGZTczA4aEhxa3psdzMwdDdxTUdEb0pMZw?oc=5",
-      "desc": "【僑新聞】滿足科技人才居住需求 嘉義縣台積電旁重劃案動土|發展臺灣",
+      "newsTitle": "台積電豪發1815億股利大紅包！「最大股東」爽領115億 比張忠謀8.75億多",
+      "newsSource": "三立新聞",
+      "newsDate": "Wed, 07 Oct 2026 22:19:28 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOOGRhU3BiSWt4WFBlQjRrVjJ2YXRYeXFac19xWUNaVWczVkwxVEZvYzVqUGJBeldubU9JWUZqS3lEUFp5ckNEaUZ5Yw?oc=5",
+      "desc": "【三立新聞】台積電豪發1815億股利大紅包！「最大股東」爽領115億 比張忠謀8.75億多",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4133.9,
+      "price": 4133.7,
       "currency": "美元",
-      "change_pct": -0.68,
+      "change_pct": -0.69,
       "gold_units": {
-        "oz_usd": 4133.9,
-        "gram_twd": 4233.1,
-        "qian_twd": 15874,
-        "usdtwd": 31.85
+        "oz_usd": 4133.7,
+        "gram_twd": 4231.6,
+        "qian_twd": 15869,
+        "usdtwd": 31.84
       }
     },
     {
