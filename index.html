@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-10-08 15:20 實時更新</span>
+        <span id="lastUpdateBadge">2026-10-08 21:07 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,10 +336,29 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-10-08 15:20",
+  "updatedAt": "2026-10-08 21:07",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
+      "date": "10-08",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "newsSource": "永豐金證券",
+      "newsDate": "Thu, 08 Oct 2026 08:23:58 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQMnVHUVNwQWFmZHo1U2ZKNkQ0WXBPVXQ0RElTRnNCQzkxOGFyS0JNZV9mUmEyOWZhVWFyd2pfdVAtdXEtZ1ZEcUhXRnFnNkNBOUZBbHN3YndRZmVzMUVsWkhrMzBsU1REM2d1NElWUG51UHI4LUwtekdYX3BwMGprVU9ELXpvMUJxemZ2TXZ6X1JGa0d2UVhobTMtN0VERWp2ZV9LNjVqQ1k0M2lGZUotY1M3X0tiazl1SDEwVVJmY1BGdnRCb3JfaU9JMjNLU21YNUZQWVpsc29mUWt0Y2pLcHpnZFlxV3VCTGV0MlVSdWxob1BWdXp3VHRSRi12a3hqN0E2SVpOUFA1YThUV0NBd3l6Njk4WllvMy1Jd0lkUVFaRHZIZ0FrRGNfUEJ2NTJQaUxicnk5bnVhQkR1YU9Bb0hPS0pFLXRTeFhUSmFSc2xXbVhYMUFtQWFJRkwzVHVUd2tMdFZObU00M2VYalV1dGRUZk1SOHBhZlJxZ21lb0RVc2lmTThxMTFKby1LMHZwYS1sMm5xUElDbEFNbTVPZldIbk5yZTZKOFB2NWptaE5ndkh0dkt1YjkxQl9pNXpISWZITUlYV0ttVUZOZWhPLVFpby1LRmV3bE9xSEtmYW5sLWFDYjZqR2tfN2ltMVNjU0JjeDFxUW9VWDloTXlFc19PNkgxZXIzMmhNSElmb1cwempzR0xvSWM5WmJQT3VXNXFMN3hHeTF3NW5GS2ZaQXplcWFNX0lZcy1rMk5mQW1jd0RjcXpFcnM2XzJLemJ1cVE?oc=5",
+      "desc": "【永豐金證券】台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電營收衝近3.9兆新高！網見「月減」...",
       "date": "10-08",
       "category": "突發半導體",
@@ -358,7 +377,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
+      "id": "e_breaking_3",
       "name": "⚡ 台積電營收／9月逾5,118億元 創歷年...",
       "date": "10-08",
       "category": "突發半導體",
@@ -377,7 +396,7 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 快訊／台積電9月營收5118.57億元　...",
       "date": "10-08",
       "category": "突發半導體",
@@ -387,25 +406,6 @@
       "newsDate": "Thu, 08 Oct 2026 05:37:00 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfM0ZST21DU0prc1FURFlxMXlDX1I3VjN0TjN4Y0V5X2FMMmQxRkpEYlNENmxwNVEtTmh2ZzJLbmxTak5McVVmZWZKdWRmMzUtX3fSAVBBVV95cUxPTWc2SVFsTnphUHE1ZFlUSlZTRmF1TV85QVpLTFpXLWVmbWxTWDJhelM3amZKSW9mZWE2dUpQNFVxaWRRRjdLV3BCZ2JIM282cg?oc=5",
       "desc": "【ETtoday財經雲】快訊／台積電9月營收5118.57億元　月減0.6%仍刷史上次高",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電發重訊",
-      "date": "10-08",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電發重訊",
-      "newsSource": "東森新聞",
-      "newsDate": "Thu, 08 Oct 2026 07:07:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoOUFldHVTX1lmSHFXb2paa0xfQ1RWclQ2SXBTUEhyUFBaa2VhTkdObGNTcjByUjllYWM3NzdfeXd6bzdLYlJzZzlmMG9KcHZHRFU0Znhqcw?oc=5",
-      "desc": "【東森新聞】台積電發重訊",
       "impactTargets": [
         "t_2330"
       ],
@@ -619,14 +619,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4140.6,
+      "price": 4158.1,
       "currency": "美元",
-      "change_pct": -0.39,
+      "change_pct": 0.03,
       "gold_units": {
-        "oz_usd": 4140.6,
-        "gram_twd": 4253.3,
-        "qian_twd": 15950,
-        "usdtwd": 31.95
+        "oz_usd": 4158.1,
+        "gram_twd": 4267.3,
+        "qian_twd": 16002,
+        "usdtwd": 31.92
       }
     },
     {
@@ -638,9 +638,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 754.07,
+      "price": 747.58,
       "currency": "美元",
-      "change_pct": 1.62
+      "change_pct": 0.75
     },
     {
       "id": "t_voo",
@@ -651,9 +651,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 711.94,
+      "price": 711.28,
       "currency": "美元",
-      "change_pct": 1.37
+      "change_pct": 1.27
     },
     {
       "id": "t_googl",
@@ -664,9 +664,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 350.569,
+      "price": 348.29,
       "currency": "美元",
-      "change_pct": 3.65
+      "change_pct": 2.97
     },
     {
       "id": "t_tsla",
@@ -677,9 +677,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 372.74,
+      "price": 375.0,
       "currency": "美元",
-      "change_pct": 5.26
+      "change_pct": 5.9
     },
     {
       "id": "t_spacex",
