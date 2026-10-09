@@ -1,10 +1,29 @@
 {
-  "updatedAt": "2026-10-08 21:07",
+  "updatedAt": "2026-10-09 01:48",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台股連假後挫咧等？美股3指數收黑、半導體...",
+      "date": "10-09",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Thu, 08 Oct 2026 23:05:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNSVBnNVJCdXNQT1ZpeEFwZGJvWFhZRFNZYTk5OF82YkpoWU51MWViUjgyU0RXMkwtdUZSQ1owYWhUSE1GQkRjVEswNl8tSVUzYTFENTNmYlBlV0lDZjVJNzRuTENjdDJpSGZoNU1TTldvRGI5V0ZPSVRmVFZaVDVoN1luTTRSMnY3SC11cmJyaDJHazROMkNUUFpmUEllY2RabF9nc0tYbGxDUGg0ZFlMX1VOTkZ6ZG9sZXJtaEhZNVdRT1BlRzgzVkQzWFN1aUhZd0hMbU5ZSEotWmZFRlI3Wk5TQTF3M1MzRUo2Wkp6WnR1NzhNa0J5TXdDZWlYWHNvbnpvQWd0MGRHMGRzQV9zMzhBbElueEhJZ1oxeExTT1dZQ0dEcU95UTBCMEdwWUp0Z3lOSFRRa19kd2w0WWZuZC1CaFBlMnpCWThxWnpxRDZmN3NCaHF2dnhIY3FMaHoxN294MjR2cl95ZmY4UFZIdDNIcXVXTU45MlVrT3UwSmJTMGx4VmpXd0tVRDVudG13Q29vWFBrVEZ0WWR6bjA1UGVNTnJiMTJFa1o1bFdjcEcxdkFBY3p5dXlOLXdNcW5BS3ZIZElvRU0xTllKZTFYekhVclNBUkFaZm9Vc3ZZZnhGYUFzLTFEeVJtUlA3cG5uNVhxRnpR?oc=5",
+      "desc": "【Yahoo股市】台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
-      "date": "10-08",
+      "date": "10-09",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
@@ -21,28 +40,9 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 台積電營收衝近3.9兆新高！網見「月減」...",
-      "date": "10-08",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電營收衝近3.9兆新高！網見「月減」戰翻 他喊：下周一彎腰撿鑽石",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Thu, 08 Oct 2026 06:30:49 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPMHlmWUhKd3RadFl2VFdHUFdoMEhuWXNldmpwU0VtSXR3V0RnV2JrbWtOOXViSXpBVVZFV0ZUb2cyU2tFOFdWRVRvUm9zOGZkSTNKdmh4dzdydUVNbF9reHg5V3R0UlFGeWVZQjRGR2FOQ2hxSkpsQ2VwMzAxTFJPa2JzWXBvV3BQS1ZIbnQ4eWRsRE9jcm9ORmZncTE3aWJfbXNyRy04elJkMEhWUUFRQTRHcUtfQ29Wc3Y0ZHU3c3RHTGhLMHpqUTRNRmZlSVV5cXEyZ21hRTg4SFlKOUtLLWlDQjlTWlNrQ2hzNDlNT05EOHluS2lXU2lPMndyVDBDWFphZGVGNEV1QlY5QkYzNFFzUXpyM0tqNTNUTzV6dmpLRVhYNnFTWUNDS3owS0lOd1lOQmQtSW82NG1PNGQyN1dkMTBQWjdOVDlYR0hITU9wbXJVTndOajNfR2pkUG5XclpMMlhCLXVWMkVOMkR4LWpuU091Nm5CS2kxN2dRVTJpV2NteDhGclVFX0hyM1hNWlZ6VVhCNkllOHVVVldFLXI3SWJ1OTdpNDJtZE5zT1k3TXAyaEs3WFpvSWhvamFKTUV6aEg1UQ?oc=5",
-      "desc": "【Yahoo股市】台積電營收衝近3.9兆新高！網見「月減」戰翻 他喊：下周一彎腰撿鑽石",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
       "name": "⚡ 台積電營收／9月逾5,118億元 創歷年...",
-      "date": "10-08",
+      "date": "10-09",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電營收／9月逾5,118億元 創歷年同期新高 優於法人第3季預期",
@@ -61,7 +61,7 @@
     {
       "id": "e_breaking_4",
       "name": "⚡ 快訊／台積電9月營收5118.57億元　...",
-      "date": "10-08",
+      "date": "10-09",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "快訊／台積電9月營收5118.57億元　月減0.6%仍刷史上次高",
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4158.1,
+      "price": 4193.1,
       "currency": "美元",
-      "change_pct": 0.03,
+      "change_pct": 0.87,
       "gold_units": {
-        "oz_usd": 4158.1,
-        "gram_twd": 4267.3,
-        "qian_twd": 16002,
-        "usdtwd": 31.92
+        "oz_usd": 4193.1,
+        "gram_twd": 4300.5,
+        "qian_twd": 16127,
+        "usdtwd": 31.9
       }
     },
     {
