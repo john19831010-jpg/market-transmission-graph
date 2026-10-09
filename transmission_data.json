@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09 15:55",
+  "updatedAt": "2026-10-09 20:39",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 與馬斯克合作有戲？台積電法說會10/15...",
+      "name": "⚡ Rapidus拚明年2奈米量產 搶台積電...",
       "date": "10-09",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看",
+      "newsTitle": "Rapidus拚明年2奈米量產 搶台積電外溢訂單成頭號挑戰",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 09 Oct 2026 11:22:29 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IQ092T1h4Tk5hSnN0cjQyM3RUVndtNG5kdTYyTnBnc0RlSzBobE9wNWYtbjk2SHVfSGNzM00xRG81cS1vU3VSb3JLeEFEcjJESkduUTl1b0JlcDhBT2N30gFkQVVfeXFMUHNSVWM0WEQ4aXphVU5NTEkwWDZqTXhCaTVmeTd4WHlTT2pBS3o0WVlMRkJoSldhaklqZEdydTk3VHc1aU9XNkRkSW5DLWEyamp4R2p4NmRfUVliWEhMUnBfclhweA?oc=5",
-      "desc": "【自由財經】與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看",
+      "newsDate": "Fri, 09 Oct 2026 15:08:26 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTlVZ1RpM1R2Z3kzQ2tUcmhQWjd0ZUNRNTlsdjg1TVpzdzYwRXJIbnFEU2dLT19aVFFFelREa0R0VlVIeXQ4d3A4VDc1VGpDZXlkSzdwRnR6d3ZOeGhB0gFkQVVfeXFMTkR2bFVKYS1iRENJcm1PdjVZMGVxUlI5aHB1UlBpLVRsTFQ2cU1ZRnJKU0Q2S3VWNDlGUWlZR042Q20zNDB1R2NzcnVzUzM0N0FqTnBZSTNoSjJ6N2N2QnVucGZReQ?oc=5",
+      "desc": "【自由財經】Rapidus拚明年2奈米量產 搶台積電外溢訂單成頭號挑戰",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,25 +22,6 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 蘇威元：大山吃台電.台積電AI電纜商機 ...",
-      "date": "10-09",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "蘇威元：大山吃台電.台積電AI電纜商機 營收獲利創歷史新高",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 09 Oct 2026 11:44:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQTGE5TVZRTDZ0Zk5lWmZSYzBoYmhTc3g4WF8xQ0ZNWDdWX3g5UkN5M3hUcDhpTV9YcjhxZ2taX096a0RRZkNRYTItdGNBeHloMVhBU0lYZjAwbTV1Mzl6ckI4NjZ6dU9pMDVmeE0zN0lXN2dpd0gxNHlZel8zQUNNMWE5U0Y5TFhQdk1nNk9ocWpyeW8xXzE4d1F3eFF4N3doUktkdU92VHBhWUNzNU1IbUhmb3BLMTkzeXA2WHcyNnVuR2k0aUNRYWowYWJHZ3BXR3ZnLUw5WHN4Rmh4VDBwbUI2d3VhdmN3YklXX0FabXg3cFVMaHJXbHE1d25nMmNzeWpQbU9xMy1peGliRnhQU0cza2NuVXJRenN6WHNrUk9XQ1cxNnUwOGNFZUZUT2d0VGxrUWVQUFZhdFdqWVR4eWU0aVlQNkYwSmVDSk16cFppSEVqZFB0ZTdZOU5yVDU2dmlhZ3c3T1hEckttOWp0YkhwODQyc0o1MW9saXdLUnlFUQ?oc=5",
-      "desc": "【Yahoo股市】蘇威元：大山吃台電.台積電AI電纜商機 營收獲利創歷史新高",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 美股漲多跌少！道瓊、標普、那斯達克領漲唯...",
       "date": "10-09",
       "category": "突發半導體",
@@ -59,7 +40,7 @@
       ]
     },
     {
-      "id": "e_breaking_4",
+      "id": "e_breaking_3",
       "name": "⚡ Google公布能在本地運作的AI會議筆...",
       "date": "10-09",
       "category": "突發AI",
@@ -69,6 +50,25 @@
       "newsDate": "Fri, 09 Oct 2026 06:06:18 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OXZldWl3UEw4RE5XTmFCeXFfZlFRWXYtanB2eWZqbDI4eGdwRkJLX1gxN1F2TlctcUdGUVBpVV93QUV0VmVNNTB5THI3QQ?oc=5",
       "desc": "【iThome】Google公布能在本地運作的AI會議筆記App",
+      "impactTargets": [
+        "t_googl"
+      ],
+      "primaryChain": [
+        "f_ai_cloud",
+        "t_googl"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ Google加入AI代理戰場",
+      "date": "10-09",
+      "category": "突發AI",
+      "isBreaking": true,
+      "newsTitle": "Google加入AI代理戰場",
+      "newsSource": "經濟日報",
+      "newsDate": "Fri, 09 Oct 2026 18:23:40 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZWdLVndIaThtc3RGVnd5d19PT1BvY01iMUc3WTBBWkRLcTJycmk3cHZYRlBMVWZoZzZXSTljLTc3b3JFY3c5NlpJS2tHX2o5OEhRd1d5VmxhUdIBX0FVX3lxTE9wcHk0VnZuVGNaNHBaV2JxZFNTTmFHUkd0SDBxb3UxaVdsekMtVzR6M3Q2YTRWOVVhVzJEdkRNRFpHUEhCTG9GSnhNZ21fREo3TThMUDVyUDY5MjVsdG5R?oc=5",
+      "desc": "【經濟日報】Google加入AI代理戰場",
       "impactTargets": [
         "t_googl"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4214.1,
+      "price": 4221.6,
       "currency": "美元",
-      "change_pct": 1.38,
+      "change_pct": 1.56,
       "gold_units": {
-        "oz_usd": 4214.1,
-        "gram_twd": 4327.4,
-        "qian_twd": 16228,
-        "usdtwd": 31.94
+        "oz_usd": 4221.6,
+        "gram_twd": 4329.7,
+        "qian_twd": 16236,
+        "usdtwd": 31.9
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 750.47,
+      "price": 751.27,
       "currency": "美元",
-      "change_pct": 0.12
+      "change_pct": 0.23
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 714.605,
+      "price": 715.59,
       "currency": "美元",
-      "change_pct": 1.0
+      "change_pct": 1.14
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 353.571,
+      "price": 351.66,
       "currency": "美元",
-      "change_pct": 2.93
+      "change_pct": 2.38
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 382.995,
+      "price": 382.7,
       "currency": "美元",
-      "change_pct": 3.35
+      "change_pct": 3.27
     },
     {
       "id": "t_spacex",
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_breaking_4",
