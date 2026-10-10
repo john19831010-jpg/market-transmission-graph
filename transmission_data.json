@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10 13:22",
+  "updatedAt": "2026-10-10 18:17",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,6 +22,25 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 南亞科、台積電法說接力登場 誰是台股衝上...",
+      "date": "10-10",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？",
+      "newsSource": "UDN",
+      "newsDate": "Sat, 10 Oct 2026 17:35:08 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01Y3FYYzlTTGtJYWxqVmRqbGRKUEJma185eDM0eVM5SGptcWJ2REJ1c2VWLU1pa2s3Q0o1THkyNW56aXBoeFdnYVFtaXpRRUFr0gFWQVVfeXFMTXMwTGxNTDdlZk9FWVZNcVRxUjdOZU1DU2F0RmxiNGJ3UzdqczhnNXBqQWZlUWpYRldQM0N5WkxDY084T0hycGRGVDhmNU43VEVGUGN4RlE?oc=5",
+      "desc": "【UDN】南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 別只盯著輝達！外媒點名「台積電」是背後最...",
       "date": "10-10",
       "category": "突發半導體",
@@ -40,35 +59,16 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 聯合報社論／要台積電自建電廠，台電決定甩...",
-      "date": "10-10",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
-      "newsSource": "UDN",
-      "newsDate": "Fri, 09 Oct 2026 17:20:23 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94XzdxdjFkbFpJTklhVm02cGR1NDZnUTNicnIxZDdIQmdfQzA2V2h3VGNERm5kTW5CQXQ0SUpLc1BBdmo3ZEFPY0FtVVZCYXg00gFWQVVfeXFMTk1Ddm1RSXBVUnNzamlxVUFhVWU3Nm5lUXJwT2RHZ0VGZlJtMEZVLXFyYzhrejQ0Skhjd2ZJYVkwdkRPTWg3SHBBRi1EUndsSnVsODczSHc?oc=5",
-      "desc": "【UDN】聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ 台股國慶周末畫重點！台積電法說三大秀登場...",
+      "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
       "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股國慶周末畫重點！台積電法說三大秀登場、大盤攻克五萬點看三條件| 財經焦點",
-      "newsSource": "太報 TaiSounds",
-      "newsDate": "Sat, 10 Oct 2026 12:05:13 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQUZhc1lQa1NOYXVfRGk2bm9HRF85NGJmeWthdUx5eTR2VXJIRFBHdHRvaFZRb0EwMm9BMVp4ZG94SDJPOTNTNUFHVjRRRkY5Vll2cU02bmlBUWJS?oc=5",
-      "desc": "【太報 TaiSounds】台股國慶周末畫重點！台積電法說三大秀登場、大盤攻克五萬點看三條件| 財經焦點",
+      "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "newsSource": "永豐金證券",
+      "newsDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQMnVHUVNwQWFmZHo1U2ZKNkQ0WXBPVXQ0RElTRnNCQzkxOGFyS0JNZV9mUmEyOWZhVWFyd2pfdVAtdXEtZ1ZEcUhXRnFnNkNBOUZBbHN3YndRZmVzMUVsWkhrMzBsU1REM2d1NElWUG51UHI4LUwtekdYX3BwMGprVU9ELXpvMUJxemZ2TXZ6X1JGa0d2UVhobTMtN0VERWp2ZV9LNjVqQ1k0M2lGZUotY1M3X0tiazl1SDEwVVJmY1BGdnRCb3JfaU9JMjNLU21YNUZQWVpsc29mUWt0Y2pLcHpnZFlxV3VCTGV0MlVSdWxob1BWdXp3VHRSRi12a3hqN0E2SVpOUFA1YThUV0NBd3l6Njk4WllvMy1Jd0lkUVFaRHZIZ0FrRGNfUEJ2NTJQaUxicnk5bnVhQkR1YU9Bb0hPS0pFLXRTeFhUSmFSc2xXbVhYMUFtQWFJRkwzVHVUd2tMdFZObU00M2VYalV1dGRUZk1SOHBhZlJxZ21lb0RVc2lmTThxMTFKby1LMHZwYS1sMm5xUElDbEFNbTVPZldIbk5yZTZKOFB2NWptaE5ndkh0dkt1YjkxQl9pNXpISWZITUlYV0ttVUZOZWhPLVFpby1LRmV3bE9xSEtmYW5sLWFDYjZqR2tfN2ltMVNjU0JjeDFxUW9VWDloTXlFc19PNkgxZXIzMmhNSElmb1cwempzR0xvSWM5WmJQT3VXNXFMN3hHeTF3NW5GS2ZaQXplcWFNX0lZcy1rMk5mQW1jd0RjcXpFcnM2XzJLemJ1cVE?oc=5",
+      "desc": "【永豐金證券】台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
       "impactTargets": [
         "t_2330"
       ],
