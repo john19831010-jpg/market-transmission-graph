@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-09 20:39",
+  "updatedAt": "2026-10-10 00:33",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ Rapidus拚明年2奈米量產 搶台積電...",
-      "date": "10-09",
+      "name": "⚡ 美股收盤》道瓊上漲423點 台積電ADR...",
+      "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Rapidus拚明年2奈米量產 搶台積電外溢訂單成頭號挑戰",
+      "newsTitle": "美股收盤》道瓊上漲423點 台積電ADR跌逾1％",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 09 Oct 2026 15:08:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pQTlVZ1RpM1R2Z3kzQ2tUcmhQWjd0ZUNRNTlsdjg1TVpzdzYwRXJIbnFEU2dLT19aVFFFelREa0R0VlVIeXQ4d3A4VDc1VGpDZXlkSzdwRnR6d3ZOeGhB0gFkQVVfeXFMTkR2bFVKYS1iRENJcm1PdjVZMGVxUlI5aHB1UlBpLVRsTFQ2cU1ZRnJKU0Q2S3VWNDlGUWlZR042Q20zNDB1R2NzcnVzUzM0N0FqTnBZSTNoSjJ6N2N2QnVucGZReQ?oc=5",
-      "desc": "【自由財經】Rapidus拚明年2奈米量產 搶台積電外溢訂單成頭號挑戰",
+      "newsDate": "Fri, 09 Oct 2026 22:08:04 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NOGhUdXpkams2SjFjbW03dVRjT3o5MGc0bVpMTlhhSVhwOGRZM0RkZURmRDdzLS1OdHNvdXNrZkM4NXExZEZSZUxvQXpfLTBucUpObDNrVHkzTUJoUHRN0gFkQVVfeXFMTjFYSE9mblU1dFNCdUlfZl9rZS1BNzdXVlZ4VDdTRTdBUDRtWDVQdEVHRzdlTWN3Q25qQ254aV8tRldMcDdJSmE2ZTUxLXR5emFnMUpRSm1pUUQ5MjI1SG1Vb0ZCZg?oc=5",
+      "desc": "【自由財經】美股收盤》道瓊上漲423點 台積電ADR跌逾1％",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,8 +22,27 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 聯合報社論／要台積電自建電廠，台電決定甩...",
+      "date": "10-10",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
+      "newsSource": "UDN",
+      "newsDate": "Fri, 09 Oct 2026 17:20:23 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94XzdxdjFkbFpJTklhVm02cGR1NDZnUTNicnIxZDdIQmdfQzA2V2h3VGNERm5kTW5CQXQ0SUpLc1BBdmo3ZEFPY0FtVVZCYXg00gFWQVVfeXFMTk1Ddm1RSXBVUnNzamlxVUFhVWU3Nm5lUXJwT2RHZ0VGZlJtMEZVLXFyYzhrejQ0Skhjd2ZJYVkwdkRPTWg3SHBBRi1EUndsSnVsODczSHc?oc=5",
+      "desc": "【UDN】聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 美股漲多跌少！道瓊、標普、那斯達克領漲唯...",
-      "date": "10-09",
+      "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "美股漲多跌少！道瓊、標普、那斯達克領漲唯費半下挫0.33% 台積電ADR跌近1%、台指期夜盤跌逾650點",
@@ -40,9 +59,9 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ Google公布能在本地運作的AI會議筆...",
-      "date": "10-09",
+      "date": "10-10",
       "category": "突發AI",
       "isBreaking": true,
       "newsTitle": "Google公布能在本地運作的AI會議筆記App",
@@ -50,25 +69,6 @@
       "newsDate": "Fri, 09 Oct 2026 06:06:18 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OXZldWl3UEw4RE5XTmFCeXFfZlFRWXYtanB2eWZqbDI4eGdwRkJLX1gxN1F2TlctcUdGUVBpVV93QUV0VmVNNTB5THI3QQ?oc=5",
       "desc": "【iThome】Google公布能在本地運作的AI會議筆記App",
-      "impactTargets": [
-        "t_googl"
-      ],
-      "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ Google加入AI代理戰場",
-      "date": "10-09",
-      "category": "突發AI",
-      "isBreaking": true,
-      "newsTitle": "Google加入AI代理戰場",
-      "newsSource": "經濟日報",
-      "newsDate": "Fri, 09 Oct 2026 18:23:40 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NZWdLVndIaThtc3RGVnd5d19PT1BvY01iMUc3WTBBWkRLcTJycmk3cHZYRlBMVWZoZzZXSTljLTc3b3JFY3c5NlpJS2tHX2o5OEhRd1d5VmxhUdIBX0FVX3lxTE9wcHk0VnZuVGNaNHBaV2JxZFNTTmFHUkd0SDBxb3UxaVdsekMtVzR6M3Q2YTRWOVVhVzJEdkRNRFpHUEhCTG9GSnhNZ21fREo3TThMUDVyUDY5MjVsdG5R?oc=5",
-      "desc": "【經濟日報】Google加入AI代理戰場",
       "impactTargets": [
         "t_googl"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4221.6,
+      "price": 4220.3,
       "currency": "美元",
-      "change_pct": 1.56,
+      "change_pct": 1.53,
       "gold_units": {
-        "oz_usd": 4221.6,
+        "oz_usd": 4220.3,
         "gram_twd": 4329.7,
         "qian_twd": 16236,
-        "usdtwd": 31.9
+        "usdtwd": 31.91
       }
     },
     {
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
