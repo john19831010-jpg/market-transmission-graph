@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10 06:47",
+  "updatedAt": "2026-10-10 13:22",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電10/15財報前該進場嗎？外媒分析...",
+      "name": "⚡ 怕台積電買在高點？大咖法人再升目標價20...",
       "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電10/15財報前該進場嗎？外媒分析曝答案 關鍵要看這",
-      "newsSource": "自由財經",
-      "newsDate": "Sat, 10 Oct 2026 04:54:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjb1Z6eks4WWlFRkpKaDlHMTQ3Z1EybGVmQ1pTUlNMZHFkd2tVclRWSkRIdHl1Zk83N0luMnZ4UmNVMV8tUDJiaHZXX3drUTdiSHlROWU3ZjJtVDVxR2Zz0gFkQVVfeXFMUEFuSzB6WlJ1ZGVpVE1nXzZtbFJMVWNrMkE0MXYtWWxjYUZLRlotejZmWkVnaTEwN0VYZDk3Ri0tRWFsRVREVWJ3YzNjRXF2YVhxWHNWUFc2MW51aGFpZG56TXFDcg?oc=5",
-      "desc": "【自由財經】台積電10/15財報前該進場嗎？外媒分析曝答案 關鍵要看這",
+      "newsTitle": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 10 Oct 2026 10:45:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNeWViT2xtQnh5N1Nsb2RIUnRBSWZ6REpjS3ZBR1NjR1FTbWxUcFZrMXJnNFJDd0R4UWN5alF6RlFYVElwNjctOWJUZEUzWFh2NWNFc1hUdDREX2FnRHRlWXFZbXZ2TFdQUEJ0RzJKX19fNjdHV2Zfa29lSTVhdkxxeGpXUmJTNVk1QWF1M3FTMkJhOGVmMjJiN0E1QVlxYzdIOFgxSkFROVNKT19Wa1NuZVdCZmhYaTVfU1ZDbGlIMzJPeFc3aGFYSF9nQ3Fja1FsQTZYNFI2VFdoVVJQRHFRdDNBM3ZYakR1bHplZDVJT04xT1JmQjl2SFpZYkZZWXQ1ZW5VR2hpRC1TSzRoWmREVnVFa3gzU3lYdnpQZmJvYnNZcnFGNGNZMk54WGJyRm1PeEZ2X1htUG9GQ3FDMzcwQnVBc1NiZERGNHpyZ3pkb3RBRXJWV2RyRTExTG5jVTlaZnEwUmlOVWNWMmkteFVlbEtIYmlfVDJPTmI0cmRaMnUyT3BwYkRVOUt6Z3JCM0NfWGlUY1pwN0xrQ05lcFhkWGd3cDZxOF9h?oc=5",
+      "desc": "【Yahoo股市】怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 美股收盤》道瓊上漲423點 台積電ADR...",
+      "name": "⚡ 別只盯著輝達！外媒點名「台積電」是背後最...",
       "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股收盤》道瓊上漲423點 台積電ADR跌逾1％",
+      "newsTitle": "別只盯著輝達！外媒點名「台積電」是背後最大贏家 曝股價成長空間",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 09 Oct 2026 22:08:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NOGhUdXpkams2SjFjbW03dVRjT3o5MGc0bVpMTlhhSVhwOGRZM0RkZURmRDdzLS1OdHNvdXNrZkM4NXExZEZSZUxvQXpfLTBucUpObDNrVHkzTUJoUHRN0gFkQVVfeXFMTjFYSE9mblU1dFNCdUlfZl9rZS1BNzdXVlZ4VDdTRTdBUDRtWDVQdEVHRzdlTWN3Q25qQ254aV8tRldMcDdJSmE2ZTUxLXR5emFnMUpRSm1pUUQ5MjI1SG1Vb0ZCZg?oc=5",
-      "desc": "【自由財經】美股收盤》道瓊上漲423點 台積電ADR跌逾1％",
+      "newsDate": "Sat, 10 Oct 2026 07:22:39 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBianRPZzlNbGJBLUU0X3hZLVJqUVlMSjNpcDh2MGlPdjJFZTA5TXVZcFkwQnp1RHo0ODFGSjVWT214ck1mb3dMUWJBcDA2Y19zd3ZaTEtpODM4Z2NTRVBB0gFkQVVfeXFMTktOeGJPdURPblVnQ0ZjQzlvbVN1MXhxdFNQVWpXRm9sSllWR0J6eWFycEtsY1p0U0g0Q3FDUEZjQ1VZWVZBQ05jRXh0amtod1N5aFBaZHBrWFB3MWEzcjVlY3JEcw?oc=5",
+      "desc": "【自由財經】別只盯著輝達！外媒點名「台積電」是背後最大贏家 曝股價成長空間",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 美股漲多跌少！道瓊、標普、那斯達克領漲唯...",
+      "name": "⚡ 聯合報社論／要台積電自建電廠，台電決定甩...",
       "date": "10-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股漲多跌少！道瓊、標普、那斯達克領漲唯費半下挫0.33% 台積電ADR跌近1%、台指期夜盤跌逾650點",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 09 Oct 2026 14:40:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQd0RGMkM2SXJrOE82RS1IUU1VMXhSYWRORmYwQURMYm5RLVRZcTIyOUVhR0VOb3hrOVptVmNnTTNHOERFU1dVOFR0WXBneU1jWUd1NWxmOGU2bGNrZ1gxdFIyS01mNFhzOXREZm9QS2tBWS0wQ0lfeEQ2bjd0SDNTazFDbG16bnltSGNtemdfdzhmMkZ5TXpHMjVGZUpyNFZfdGNUUW1zUUNCSnYxU2VuaHBZR0FteEtGT1BwNTN2NmltOXZxRzZGQnB5Zkd5SXJ1OVQ4aVp4ODRmMUpkY2ttQTlkeVNGS21TWTNZYnlvNHRFRG1QNGY5NGNCcVZJRVoyeFJVa1Nxd1hfcENMZ05MUW1KQ3hLS0JTalBjMm8wSlJncjg2R05MMWdtOEVCd0hmNVlTR05kVjhLOHp6SzRkVHBBNklNME5VdmN5d2VKQ29kVXFGZmY0bmsxck5TN2lz?oc=5",
-      "desc": "【Yahoo股市】美股漲多跌少！道瓊、標普、那斯達克領漲唯費半下挫0.33% 台積電ADR跌近1%、台指期夜盤跌逾650點",
+      "newsTitle": "聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
+      "newsSource": "UDN",
+      "newsDate": "Fri, 09 Oct 2026 17:20:23 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94XzdxdjFkbFpJTklhVm02cGR1NDZnUTNicnIxZDdIQmdfQzA2V2h3VGNERm5kTW5CQXQ0SUpLc1BBdmo3ZEFPY0FtVVZCYXg00gFWQVVfeXFMTk1Ddm1RSXBVUnNzamlxVUFhVWU3Nm5lUXJwT2RHZ0VGZlJtMEZVLXFyYzhrejQ0Skhjd2ZJYVkwdkRPTWg3SHBBRi1EUndsSnVsODczSHc?oc=5",
+      "desc": "【UDN】聯合報社論／要台積電自建電廠，台電決定甩鍋了嗎？",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google加入AI代理戰場",
+      "name": "⚡ 台股國慶周末畫重點！台積電法說三大秀登場...",
       "date": "10-10",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Google加入AI代理戰場",
-      "newsSource": "UDN",
-      "newsDate": "Fri, 09 Oct 2026 18:23:40 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxaDVWNVdodkV6R1BaY1hoY1FjYkNDZlhBNjh3LUVRMkZZbG56YjNSS3lCeWMwdEZ1cnVvOGduVUU4ZThpOTl2ei11N0lWSEp30gFWQVVfeXFMUENEN004Mm1RdlNvNUJCRE8ycnJBZTdVZ3FlS01FbmxKbk5FYnYwSTJRNFVtWWcxc3NZLVhURXdRZmxqb1AtaWJpMGR0Ulg0YlVWckZadkE?oc=5",
-      "desc": "【UDN】Google加入AI代理戰場",
+      "newsTitle": "台股國慶周末畫重點！台積電法說三大秀登場、大盤攻克五萬點看三條件| 財經焦點",
+      "newsSource": "太報 TaiSounds",
+      "newsDate": "Sat, 10 Oct 2026 12:05:13 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQUZhc1lQa1NOYXVfRGk2bm9HRF85NGJmeWthdUx5eTR2VXJIRFBHdHRvaFZRb0EwMm9BMVp4ZG94SDJPOTNTNUFHVjRRRkY5Vll2cU02bmlBUWJS?oc=5",
+      "desc": "【太報 TaiSounds】台股國慶周末畫重點！台積電法說三大秀登場、大盤攻克五萬點看三條件| 財經焦點",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
