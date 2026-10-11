@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-11 15:25",
+  "updatedAt": "2026-10-11 20:00",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電押寶矽中介層 聯電、力積電跟著發達了",
+      "date": "10-11",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電押寶矽中介層 聯電、力積電跟著發達了",
+      "newsSource": "經濟日報",
+      "newsDate": "Sun, 11 Oct 2026 14:12:11 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITFhsQkI3RklqamY3NHZfeWpFckNwd2FNRzhkNGNRYUl4NW5HRndlRFEyV1BQWTR5V0gzeGVBRnB0OFFHSHppSFVZYURxZEY3bGI0eEN2TWVCQdIBX0FVX3lxTE9uRWhHamVWcG9wb2YxQ0ppMUNDVlQ1TTRPQzRzeVM3MXgzVTlqVkYzTnB0UDNZeDFwZFpZaHJfLWZxdmkyRkJidThUekdMNXZ4cldLeDVlWTFOa2NCUi1n?oc=5",
+      "desc": "【經濟日報】台積電押寶矽中介層 聯電、力積電跟著發達了",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 只會存錢真的吃虧嗎？「每月1萬元」對比0...",
       "date": "10-11",
       "category": "突發半導體",
@@ -21,7 +40,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
+      "id": "e_breaking_3",
       "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
       "date": "10-11",
       "category": "突發半導體",
@@ -40,7 +59,7 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 台積電ADR跌4%「台股明開盤有硬仗」！...",
       "date": "10-11",
       "category": "突發半導體",
@@ -50,25 +69,6 @@
       "newsDate": "Sun, 11 Oct 2026 04:58:00 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QcGlPSG9xUU1nWDk1U1R4T1hEakwtMzNaWi1DOTFQN2tkUlZ4bC1hc0Z5eGdMX1hkVmRHbTNXQkdob2JpR3JIRjdyWjlXc0lSMVHSAVBBVV95cUxQWHA4Y1RYSEpURktveEh2TW9qZTVvcGc0MC15SHFMLVVmTDRmaHlCS1dvZmRmY21TbmY2VXhZMG9jTW8tZzhzemZQcWlIQl9iUQ?oc=5",
       "desc": "【ETtoday財經雲】台積電ADR跌4%「台股明開盤有硬仗」！他揭3大壓力：恐跌破千點",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電押寶矽中介層 聯電、力積電跟著發達了",
-      "date": "10-11",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電押寶矽中介層 聯電、力積電跟著發達了",
-      "newsSource": "經濟日報",
-      "newsDate": "Sun, 11 Oct 2026 14:12:11 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITFhsQkI3RklqamY3NHZfeWpFckNwd2FNRzhkNGNRYUl4NW5HRndlRFEyV1BQWTR5V0gzeGVBRnB0OFFHSHppSFVZYURxZEY3bGI0eEN2TWVCQdIBX0FVX3lxTE9uRWhHamVWcG9wb2YxQ0ppMUNDVlQ1TTRPQzRzeVM3MXgzVTlqVkYzTnB0UDNZeDFwZFpZaHJfLWZxdmkyRkJidThUekdMNXZ4cldLeDVlWTFOa2NCUi1n?oc=5",
-      "desc": "【經濟日報】台積電押寶矽中介層 聯電、力積電跟著發達了",
       "impactTargets": [
         "t_2330"
       ],
@@ -287,9 +287,9 @@
       "change_pct": 0.7,
       "gold_units": {
         "oz_usd": 4216.3,
-        "gram_twd": 4327.0,
-        "qian_twd": 16226,
-        "usdtwd": 31.92
+        "gram_twd": 4331.1,
+        "qian_twd": 16242,
+        "usdtwd": 31.95
       }
     },
     {
