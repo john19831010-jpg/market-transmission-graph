@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-10 22:18",
+  "updatedAt": "2026-10-11 01:38",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 怕台積電買在高點？大咖法人再升目標價20...",
-      "date": "10-10",
+      "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
+      "date": "10-11",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sat, 10 Oct 2026 10:45:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNeWViT2xtQnh5N1Nsb2RIUnRBSWZ6REpjS3ZBR1NjR1FTbWxUcFZrMXJnNFJDd0R4UWN5alF6RlFYVElwNjctOWJUZEUzWFh2NWNFc1hUdDREX2FnRHRlWXFZbXZ2TFdQUEJ0RzJKX19fNjdHV2Zfa29lSTVhdkxxeGpXUmJTNVk1QWF1M3FTMkJhOGVmMjJiN0E1QVlxYzdIOFgxSkFROVNKT19Wa1NuZVdCZmhYaTVfU1ZDbGlIMzJPeFc3aGFYSF9nQ3Fja1FsQTZYNFI2VFdoVVJQRHFRdDNBM3ZYakR1bHplZDVJT04xT1JmQjl2SFpZYkZZWXQ1ZW5VR2hpRC1TSzRoWmREVnVFa3gzU3lYdnpQZmJvYnNZcnFGNGNZMk54WGJyRm1PeEZ2X1htUG9GQ3FDMzcwQnVBc1NiZERGNHpyZ3pkb3RBRXJWV2RyRTExTG5jVTlaZnEwUmlOVWNWMmkteFVlbEtIYmlfVDJPTmI0cmRaMnUyT3BwYkRVOUt6Z3JCM0NfWGlUY1pwN0xrQ05lcFhkWGd3cDZxOF9h?oc=5",
-      "desc": "【Yahoo股市】怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位",
+      "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "newsSource": "永豐金證券",
+      "newsDate": "Sun, 11 Oct 2026 01:31:31 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQMnVHUVNwQWFmZHo1U2ZKNkQ0WXBPVXQ0RElTRnNCQzkxOGFyS0JNZV9mUmEyOWZhVWFyd2pfdVAtdXEtZ1ZEcUhXRnFnNkNBOUZBbHN3YndRZmVzMUVsWkhrMzBsU1REM2d1NElWUG51UHI4LUwtekdYX3BwMGprVU9ELXpvMUJxemZ2TXZ6X1JGa0d2UVhobTMtN0VERWp2ZV9LNjVqQ1k0M2lGZUotY1M3X0tiazl1SDEwVVJmY1BGdnRCb3JfaU9JMjNLU21YNUZQWVpsc29mUWt0Y2pLcHpnZFlxV3VCTGV0MlVSdWxob1BWdXp3VHRSRi12a3hqN0E2SVpOUFA1YThUV0NBd3l6Njk4WllvMy1Jd0lkUVFaRHZIZ0FrRGNfUEJ2NTJQaUxicnk5bnVhQkR1YU9Bb0hPS0pFLXRTeFhUSmFSc2xXbVhYMUFtQWFJRkwzVHVUd2tMdFZObU00M2VYalV1dGRUZk1SOHBhZlJxZ21lb0RVc2lmTThxMTFKby1LMHZwYS1sMm5xUElDbEFNbTVPZldIbk5yZTZKOFB2NWptaE5ndkh0dkt1YjkxQl9pNXpISWZITUlYV0ttVUZOZWhPLVFpby1LRmV3bE9xSEtmYW5sLWFDYjZqR2tfN2ltMVNjU0JjeDFxUW9VWDloTXlFc19PNkgxZXIzMmhNSElmb1cwempzR0xvSWM5WmJQT3VXNXFMN3hHeTF3NW5GS2ZaQXplcWFNX0lZcy1rMk5mQW1jd0RjcXpFcnM2XzJLemJ1cVE?oc=5",
+      "desc": "【永豐金證券】台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,8 +22,27 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 美債5％搶錢、台股怎麼選？台積電、嘉澤、...",
+      "date": "10-11",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "美債5％搶錢、台股怎麼選？台積電、嘉澤、聯陽等10檔好股出列靠高息與成長力突圍- 證券",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 10 Oct 2026 23:32:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX0w2eFpSUG1GNVZnaUpVcVFzeDd2Tkd5a3ZPZVB1bF9HVm1pMUsxX01fRWQ5bWgyUnZ0dkJxeTRqeUliZWhsTFZyOEVNRFA4THJTbFY2UmQ2cVhPYXQw?oc=5",
+      "desc": "【工商時報】美債5％搶錢、台股怎麼選？台積電、嘉澤、聯陽等10檔好股出列靠高息與成長力突圍- 證券",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 南亞科、台積電法說接力登場 誰是台股衝上...",
-      "date": "10-10",
+      "date": "10-11",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？",
@@ -40,41 +59,22 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 別只盯著輝達！外媒點名「台積電」是背後最...",
-      "date": "10-10",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "別只盯著輝達！外媒點名「台積電」是背後最大贏家 曝股價成長空間",
-      "newsSource": "自由財經",
-      "newsDate": "Sat, 10 Oct 2026 07:22:39 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBianRPZzlNbGJBLUU0X3hZLVJqUVlMSjNpcDh2MGlPdjJFZTA5TXVZcFkwQnp1RHo0ODFGSjVWT214ck1mb3dMUWJBcDA2Y19zd3ZaTEtpODM4Z2NTRVBB0gFkQVVfeXFMTktOeGJPdURPblVnQ0ZjQzlvbVN1MXhxdFNQVWpXRm9sSllWR0J6eWFycEtsY1p0U0g0Q3FDUEZjQ1VZWVZBQ05jRXh0amtod1N5aFBaZHBrWFB3MWEzcjVlY3JEcw?oc=5",
-      "desc": "【自由財經】別只盯著輝達！外媒點名「台積電」是背後最大贏家 曝股價成長空間",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ 硬起來！川普強求降息 聯準會主席華許「9...",
-      "date": "10-10",
-      "category": "突發總經",
+      "name": "⚡ Google公布能在本地運作的AI會議筆...",
+      "date": "10-11",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "硬起來！川普強求降息 聯準會主席華許「9字真言」回懟",
-      "newsSource": "Yahoo新聞",
-      "newsDate": "Sat, 10 Oct 2026 19:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOU3V6S1pYQXBJcjAzejMwUmlBeU1FeUhNV2kwb18yTUFMYlRiNDJaMWhYUjN2cVlaSEhrOXZ5cDFwRlQ1Rmd1WDFiSFZNYXFQY0x4TzM1WkFqeG5sMm9FRmtUeDRzZzRnQzhTQzdpNDVxTGRSLWg0blhtQVBjQmZTSkQ1d3otX2VIeWdzaFVQWk1RUndzckFueVBCM1Q3a1lkeGhxN2xONmZiTE5mQTkzd2E2LWtTNGZBTms4ekhxcW5qNjVUWE9WcWNiYS12eXBxcDFVVWJrVG4yel91VTZKdTdCaTg4N3plbFRyaHhZYm9Gckp0c1JDQTlOTVlrd2kxOXpUTzdRVXItSmhhU1pmSjNTMm1DTzJWRzhYdE41VGRrZTBVVU4wbTJ4S0NEWTlIUkdzN25SMENCOTI3T3dBTFlmcXBXNE1Od0k1WlVJTzRSblhOX1E?oc=5",
-      "desc": "【Yahoo新聞】硬起來！川普強求降息 聯準會主席華許「9字真言」回懟",
+      "newsTitle": "Google公布能在本地運作的AI會議筆記App",
+      "newsSource": "iThome",
+      "newsDate": "Fri, 09 Oct 2026 06:06:18 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OXZldWl3UEw4RE5XTmFCeXFfZlFRWXYtanB2eWZqbDI4eGdwRkJLX1gxN1F2TlctcUdGUVBpVV93QUV0VmVNNTB5THI3QQ?oc=5",
+      "desc": "【iThome】Google公布能在本地運作的AI會議筆記App",
       "impactTargets": [
-        "t_gold"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
