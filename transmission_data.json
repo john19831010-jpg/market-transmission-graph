@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-11 01:38",
+  "updatedAt": "2026-10-11 08:27",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 明恐跌千點？台積電ADR回檔等利空夾擊 ...",
+      "date": "10-11",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "明恐跌千點？台積電ADR回檔等利空夾擊 連假後迎震撼教育？",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Sun, 11 Oct 2026 03:24:57 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNUUtKRllUYmpGSWJrSVl5UEd3eEN4ZTdZLUlURWh6YmJPaVFfNlRENkFXYU1qenRGU2JlbGU3Q3pXR2FWVlMzbjFiXzlLLXVGTENwaVp2SzNDOHR5aXd0Nld4OEplbEhrc04tcktncWZWTTJsclpPUWg4RFhMclAxaFpleGZDSDNIRGlmR0lSNEtuM0RlMjJnZmdnaDZDSy1rRF9vOU5SaU92YXhET3hTTFhkMW9ZckxiWWR3S0dkWFBoTEVjSzc4X3NpQVZ3M01Kd3pINEc1YmhPNF93cklWOGZuNDNfMFdGbEFiaGNWWWFBRjhKREpYbDJRdW9aR1ZCQ0pfU3JWUlU1eERGcXJQOTBjSndCWXJ6Y1hwRXc4YUdRZWJXX1oybmJBWC1Mc0dERzZIYVVnMEJEaUR1WVJiSlFSWDVTQjN6U2RkeXVUZ1NpbmFMRW1iNEF3RmNsWW5iR1ZUM0JtVFZKQk9VYkE?oc=5",
+      "desc": "【Yahoo新聞】明恐跌千點？台積電ADR回檔等利空夾擊 連假後迎震撼教育？",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
       "date": "10-11",
       "category": "突發半導體",
@@ -21,35 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 美債5％搶錢、台股怎麼選？台積電、嘉澤、...",
-      "date": "10-11",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "美債5％搶錢、台股怎麼選？台積電、嘉澤、聯陽等10檔好股出列靠高息與成長力突圍- 證券",
-      "newsSource": "工商時報",
-      "newsDate": "Sat, 10 Oct 2026 23:32:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SX0w2eFpSUG1GNVZnaUpVcVFzeDd2Tkd5a3ZPZVB1bF9HVm1pMUsxX01fRWQ5bWgyUnZ0dkJxeTRqeUliZWhsTFZyOEVNRFA4THJTbFY2UmQ2cVhPYXQw?oc=5",
-      "desc": "【工商時報】美債5％搶錢、台股怎麼選？台積電、嘉澤、聯陽等10檔好股出列靠高息與成長力突圍- 證券",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 南亞科、台積電法說接力登場 誰是台股衝上...",
+      "name": "⚡ 台積電ADR跌4%「台股明開盤有硬仗」！...",
       "date": "10-11",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？",
-      "newsSource": "經濟日報",
-      "newsDate": "Sat, 10 Oct 2026 17:35:09 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pcE1nRkIxQkNMOEF5MTZNMldiUTYtc1VPUFVaU2JhS29yRWpTSWRSRnhOa1ZBTjBUTno5R1h2V1hUNEpaenRXdUw0WTdGMzNKZE5iczJndmxVQdIBX0FVX3lxTE8yRXQ3V1dlVWVHZWd1em9Yd0k0N2FJd0RiaHJZcnpwMld3eTRTa0xQNEZ5Zjh5MWl1ZjFOWGFBVU45RHY4T0JubExBejEzUjdCcFhSOUQ5NWh3SlFKVi13?oc=5",
-      "desc": "【經濟日報】南亞科、台積電法說接力登場 誰是台股衝上5萬點推手？",
+      "newsTitle": "台積電ADR跌4%「台股明開盤有硬仗」！他揭3大壓力：恐跌破千點",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Sun, 11 Oct 2026 04:58:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QcGlPSG9xUU1nWDk1U1R4T1hEakwtMzNaWi1DOTFQN2tkUlZ4bC1hc0Z5eGdMX1hkVmRHbTNXQkdob2JpR3JIRjdyWjlXc0lSMVHSAVBBVV95cUxQWHA4Y1RYSEpURktveEh2TW9qZTVvcGc0MC15SHFMLVVmTDRmaHlCS1dvZmRmY21TbmY2VXhZMG9jTW8tZzhzemZQcWlIQl9iUQ?oc=5",
+      "desc": "【ETtoday財經雲】台積電ADR跌4%「台股明開盤有硬仗」！他揭3大壓力：恐跌破千點",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google公布能在本地運作的AI會議筆...",
+      "name": "⚡ 台積電15日法說 元大投顧上調目標價35...",
       "date": "10-11",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Google公布能在本地運作的AI會議筆記App",
-      "newsSource": "iThome",
-      "newsDate": "Fri, 09 Oct 2026 06:06:18 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4OXZldWl3UEw4RE5XTmFCeXFfZlFRWXYtanB2eWZqbDI4eGdwRkJLX1gxN1F2TlctcUdGUVBpVV93QUV0VmVNNTB5THI3QQ?oc=5",
-      "desc": "【iThome】Google公布能在本地運作的AI會議筆記App",
+      "newsTitle": "台積電15日法說 元大投顧上調目標價3500元、明年毛利率挑戰70％",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 11 Oct 2026 04:52:39 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YRnRFN1hRU3VQeElHemw1UjR2Y0dWb2VtVWw3NXNaNEx3NmpGM0lCeUZfZmx0MllNMDc0ZkJ5TmZxVmpCdmwtcHpEckpkQ2V4em1Pck5MRHhBMmFFUUg40gFkQVVfeXFMT0Y3WXVjckkwRHotM0lHTldNbnh1STBKZ1lLMmZ4Q0VGQ3drRUpLS0lMNm9sWXo0OXp2bnlkaENFZlhjTzVidEtwdmNWQ1VhMXN5c1FadThQRzFyS01CTk9ubHFWQg?oc=5",
+      "desc": "【自由財經】台積電15日法說 元大投顧上調目標價3500元、明年毛利率挑戰70％",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -284,7 +284,7 @@
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
       "price": 4216.3,
       "currency": "美元",
-      "change_pct": 1.43,
+      "change_pct": 0.7,
       "gold_units": {
         "oz_usd": 4216.3,
         "gram_twd": 4327.0,
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
