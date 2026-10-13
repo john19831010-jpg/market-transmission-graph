@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-13 19:01",
+  "updatedAt": "2026-10-13 23:38",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 晶片股拋售潮！美股4大指數全收黑 台積電...",
+      "date": "10-13",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "晶片股拋售潮！美股4大指數全收黑 台積電ADR逆勢上漲",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Tue, 13 Oct 2026 22:08:46 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQa3J2cHE2NEg4Y1JURHd1cWpzZUNma1doR1lUd0Y4U0Zqd2NzWFdhSXlNbzEtdi1qb0phb0huZVdqb2RBQm9yc1pSZ3Y2cmZ3ZkdmUmFJdmNXVF9MRVhrOF84TDdjY2FrWnVwQ3hzU1FTWUYxVDJpeVVTWmNqLU9xTmlHYWhOa2paOUZHeEZhOXZ2dHYyZC1sSDJERGZOQ0pBeUpPSW1qdDNnTmJ3RF9tZGxpcVpvRUp4ejNUeHB6TzVhVWZxVDRnWXo0Zk5JNUNkcEQ4XzZ5UkJlX1pGRDBkUW9xcjhtWmN6Y2FnbkRiamdFZG9TU0FnV2lOcVJzYjFrVEFtT1Q4NWcxb1Fxa2UxaXk4QldZVzNqQ3M1ZVF2eXYyYy1DLU1vVEVYRWIwaENfNHpIaDI5RDgtQkhTN291SDBMbURsVzVORGx2aENmajJ6QlBoOG10RHhQVzdhY0E?oc=5",
+      "desc": "【Yahoo股市】晶片股拋售潮！美股4大指數全收黑 台積電ADR逆勢上漲",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電法說前藏大驚喜！外媒「從這」看出端...",
       "date": "10-13",
       "category": "突發半導體",
@@ -21,35 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 外資連4天提款、台積電連跌3天！已拖累大...",
-      "date": "10-13",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "外資連4天提款、台積電連跌3天！已拖累大盤680點 分析師：是好事",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 13 Oct 2026 01:33:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNYVZJVk1IRFhSbU54STZjN3plQ1U3U3Q2ZWdjYW5PX0l1UUNwVkJRV2ZMMEM4Ti1OZUhqLUVBZC14dzh5R09FYlRJMjR5S0pBbUFyS1pPVVFNQ2ZsQjNtQzJ6WjlTbDdXTGRLRHJILS1RMnNhZVd0dVVyVEVWYTN4TDcyME13SVNGNk95RFlRTnN1WnB4NVk4OVFBZ3RqOGZ2SUhZSEhqUGE3UmF2R2dXamFUYk5SWF81TXluRHg1aUhnN1RtcC1JQlh2RDB2RFNVemlLVW5sbkFmdU53WmFnNjlxVWlUNEM0dEhXYWxrMzh4QVhkajFRdVVMZ1hkbG01U2xMZTRxUWNEMnJWZy1GeUxUMWpCbU5mOGtRZVJsMG5YYm1XellQVHBXSGhPVHViaWpHeTd5X0FubWNxaUI1VWtmdEc2N1ljVjI3bVdQNlZyTWZlRkVYUnpFUVBMdUxfMkhKTE9hZE0wNVJpRDkxUDV5a2ZRc18wUDdrdkZCUlNOT0Q0ZnpXWGVIeHRidmVBNzNFS0l1dWtzN09Qd1VJd3hoMEpUd2c?oc=5",
-      "desc": "【Yahoo股市】外資連4天提款、台積電連跌3天！已拖累大盤680點 分析師：是好事",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 美銀喊「台積電估值太便宜」 目標價升至3...",
+      "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
       "date": "10-13",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美銀喊「台積電估值太便宜」 目標價升至3,260元",
-      "newsSource": "經濟日報",
-      "newsDate": "Tue, 13 Oct 2026 09:40:18 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56UHlhOFlQcnZSSDVySnlsaV9nRkdZOF9nY0k0a2J5MkpldXlkdjQ3anEwYmZZQ042dkkwSXBUWXhYQTQyQU5GTDVxcWNZeUpjc25xZm5RVkpKUdIBX0FVX3lxTE93OWNrV0pQSXJSdk11WExyLUg2X1Z3NlVNODloQTREcFRYR3lSaFBVUUg3dlcxR2YzZ0dXZXpwRUJRdC1qbVNscEJ6U2RNR3lFd25qMG1KOUFfOUNzNGlj?oc=5",
-      "desc": "【經濟日報】美銀喊「台積電估值太便宜」 目標價升至3,260元",
+      "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "newsSource": "永豐金證券",
+      "newsDate": "Mon, 12 Oct 2026 06:19:30 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQMnVHUVNwQWFmZHo1U2ZKNkQ0WXBPVXQ0RElTRnNCQzkxOGFyS0JNZV9mUmEyOWZhVWFyd2pfdVAtdXEtZ1ZEcUhXRnFnNkNBOUZBbHN3YndRZmVzMUVsWkhrMzBsU1REM2d1NElWUG51UHI4LUwtekdYX3BwMGprVU9ELXpvMUJxemZ2TXZ6X1JGa0d2UVhobTMtN0VERWp2ZV9LNjVqQ1k0M2lGZUotY1M3X0tiazl1SDEwVVJmY1BGdnRCb3JfaU9JMjNLU21YNUZQWVpsc29mUWt0Y2pLcHpnZFlxV3VCTGV0MlVSdWxob1BWdXp3VHRSRi12a3hqN0E2SVpOUFA1YThUV0NBd3l6Njk4WllvMy1Jd0lkUVFaRHZIZ0FrRGNfUEJ2NTJQaUxicnk5bnVhQkR1YU9Bb0hPS0pFLXRTeFhUSmFSc2xXbVhYMUFtQWFJRkwzVHVUd2tMdFZObU00M2VYalV1dGRUZk1SOHBhZlJxZ21lb0RVc2lmTThxMTFKby1LMHZwYS1sMm5xUElDbEFNbTVPZldIbk5yZTZKOFB2NWptaE5ndkh0dkt1YjkxQl9pNXpISWZITUlYV0ttVUZOZWhPLVFpby1LRmV3bE9xSEtmYW5sLWFDYjZqR2tfN2ltMVNjU0JjeDFxUW9VWDloTXlFc19PNkgxZXIzMmhNSElmb1cwempzR0xvSWM5WmJQT3VXNXFMN3hHeTF3NW5GS2ZaQXplcWFNX0lZcy1rMk5mQW1jd0RjcXpFcnM2XzJLemJ1cVE?oc=5",
+      "desc": "【永豐金證券】台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電營收／月減0.6%、年增54.6%...",
+      "name": "⚡ 數說科技：承諾不與民搶水，台積電卻悄悄拿...",
       "date": "10-13",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
-      "newsSource": "永豐金證券",
-      "newsDate": "Mon, 12 Oct 2026 06:19:30 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxQMnVHUVNwQWFmZHo1U2ZKNkQ0WXBPVXQ0RElTRnNCQzkxOGFyS0JNZV9mUmEyOWZhVWFyd2pfdVAtdXEtZ1ZEcUhXRnFnNkNBOUZBbHN3YndRZmVzMUVsWkhrMzBsU1REM2d1NElWUG51UHI4LUwtekdYX3BwMGprVU9ELXpvMUJxemZ2TXZ6X1JGa0d2UVhobTMtN0VERWp2ZV9LNjVqQ1k0M2lGZUotY1M3X0tiazl1SDEwVVJmY1BGdnRCb3JfaU9JMjNLU21YNUZQWVpsc29mUWt0Y2pLcHpnZFlxV3VCTGV0MlVSdWxob1BWdXp3VHRSRi12a3hqN0E2SVpOUFA1YThUV0NBd3l6Njk4WllvMy1Jd0lkUVFaRHZIZ0FrRGNfUEJ2NTJQaUxicnk5bnVhQkR1YU9Bb0hPS0pFLXRTeFhUSmFSc2xXbVhYMUFtQWFJRkwzVHVUd2tMdFZObU00M2VYalV1dGRUZk1SOHBhZlJxZ21lb0RVc2lmTThxMTFKby1LMHZwYS1sMm5xUElDbEFNbTVPZldIbk5yZTZKOFB2NWptaE5ndkh0dkt1YjkxQl9pNXpISWZITUlYV0ttVUZOZWhPLVFpby1LRmV3bE9xSEtmYW5sLWFDYjZqR2tfN2ltMVNjU0JjeDFxUW9VWDloTXlFc19PNkgxZXIzMmhNSElmb1cwempzR0xvSWM5WmJQT3VXNXFMN3hHeTF3NW5GS2ZaQXplcWFNX0lZcy1rMk5mQW1jd0RjcXpFcnM2XzJLemJ1cVE?oc=5",
-      "desc": "【永豐金證券】台積電營收／月減0.6%、年增54.6%，前九月營收3.90兆、年增41.1%，第三季營收突破1.49兆元超越財測高標｜股市話題",
+      "newsTitle": "數說科技：承諾不與民搶水，台積電卻悄悄拿掉 60% 再生水目標",
+      "newsSource": "端傳媒Initium Media",
+      "newsDate": "Tue, 13 Oct 2026 23:02:31 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOC1fMzZYc0lsbWZ3T0JxRkpYc0V2clVydFpRZHZPT3cyb05mYzhPM3F1QXE4a3RROEJlVnY3Sm9kMU1LaUJyT2ZXOWQwZEp0b3c2bXVsU1FIRnNSRVk3bkxmT0xVTzh4T3ZWN3l4TEhqRGNZYXhuSExfWV9OaUJseDQ2LVVCOGpGWExr?oc=5",
+      "desc": "【端傳媒Initium Media】數說科技：承諾不與民搶水，台積電卻悄悄拿掉 60% 再生水目標",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4186.4,
+      "price": 4178.8,
       "currency": "美元",
-      "change_pct": 0.71,
+      "change_pct": 0.52,
       "gold_units": {
-        "oz_usd": 4186.4,
-        "gram_twd": 4325.9,
-        "qian_twd": 16222,
-        "usdtwd": 32.14
+        "oz_usd": 4178.8,
+        "gram_twd": 4312.7,
+        "qian_twd": 16173,
+        "usdtwd": 32.1
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 742.43,
+      "price": 743.57,
       "currency": "美元",
-      "change_pct": -2.27
+      "change_pct": -2.12
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 714.9,
+      "price": 715.2,
       "currency": "美元",
-      "change_pct": -0.18
+      "change_pct": -0.14
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 354.52,
+      "price": 353.78,
       "currency": "美元",
-      "change_pct": 1.97
+      "change_pct": 1.75
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 373.78,
+      "price": 375.23,
       "currency": "美元",
-      "change_pct": -1.81
+      "change_pct": -1.43
     },
     {
       "id": "t_spacex",
