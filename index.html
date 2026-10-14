@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-10-14 09:58 實時更新</span>
+        <span id="lastUpdateBadge">2026-10-14 15:00 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,10 +336,29 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-10-14 09:58",
+  "updatedAt": "2026-10-14 15:00",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電面臨2.57兆元獲利變數 法說會後...",
+      "date": "10-14",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電面臨2.57兆元獲利變數 法說會後股價「波動幅度」預曝",
+      "newsSource": "自由財經",
+      "newsDate": "Wed, 14 Oct 2026 12:51:42 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HVTdsaFZWeVB6VjZxWEdxNGZXR3p3Mk1DNXplZ0ZqMlc0YXUwRElacXhTWmxYV3VlM2VrTW05UDhXWG5zTTEwbDVELXJGSlRYbXJlRG43ak1FSzgyQTU00gFkQVVfeXFMTVVyRklEbHN0cFJXbWdEVDZONE0wZGRfT1BmRnplMlFGNTVwdXE2MUJGSFRnSHB4X1VITndNQ3ZkQzFSMVFwYVhuU1FKT0FoaExGNGlCUThReXZPUkZUa2R5MVJDdQ?oc=5",
+      "desc": "【自由財經】台積電面臨2.57兆元獲利變數 法說會後股價「波動幅度」預曝",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 外資專挑尾盤殺？台積電最後一單遭提款近2...",
       "date": "10-14",
       "category": "突發半導體",
@@ -358,7 +377,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
+      "id": "e_breaking_3",
       "name": "⚡ 台積電法說會4大焦點！明年營收再成長40...",
       "date": "10-14",
       "category": "突發半導體",
@@ -368,25 +387,6 @@
       "newsDate": "Wed, 14 Oct 2026 07:42:00 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PTGU4RElDWE5aQkg1dWZPLVR6djZrQ0dkcV92Q1VaYWRWakVfMnQwRUJCZU9iSjFzQ1hVeUJUNnZlU0JOQlVDQl9tSnYyTXg2NUVNSDFlZ1dlZ2hjQWU3d0VMb2hOdGxvTlNoN002U1U4MTE1NHEw?oc=5",
       "desc": "【數位時代】台積電法說會4大焦點！明年營收再成長40%？德州設廠、晶圓漲價與CoWoS擴產進度一次看",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 台積電明開法說會！股民憂變「法會」掀網友熱議",
-      "date": "10-14",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電明開法說會！股民憂變「法會」掀網友熱議",
-      "newsSource": "自由財經",
-      "newsDate": "Wed, 14 Oct 2026 06:50:55 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13VGo4MVJzTUtuNkNZUjB1ajhuMy1aeEFHc0g5TUcxMGdET0kxeHZuNE56RVZjcG1TcEtmdXU0alVxNXVqV1ZIREd2SVg2UGF0TWxPRmJ4dWcwSDNvbjVz0gFkQVVfeXFMT0xYNGpScTgxYmN4d2FUbW1oTFEtZTVrOEFNNkM5QkZodHhtVVNsVEIwYXdHTS1BVl9xLWhCbzRDemhtVDBYY2t1YTR2VUNZdlR0Y3dyeTZTT19TQmU4U3ozTVUtQQ?oc=5",
-      "desc": "【自由財經】台積電明開法說會！股民憂變「法會」掀網友熱議",
       "impactTargets": [
         "t_2330"
       ],
@@ -619,14 +619,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4165.6,
+      "price": 4119.6,
       "currency": "美元",
-      "change_pct": -1.2,
+      "change_pct": -2.29,
       "gold_units": {
-        "oz_usd": 4165.6,
-        "gram_twd": 4301.7,
-        "qian_twd": 16131,
-        "usdtwd": 32.12
+        "oz_usd": 4119.6,
+        "gram_twd": 4255.6,
+        "qian_twd": 15959,
+        "usdtwd": 32.13
       }
     },
     {
@@ -638,9 +638,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 743.57,
+      "price": 736.328,
       "currency": "美元",
-      "change_pct": -2.12
+      "change_pct": -2.82
     },
     {
       "id": "t_voo",
@@ -651,9 +651,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 715.2,
+      "price": 710.081,
       "currency": "美元",
-      "change_pct": -0.14
+      "change_pct": -0.6
     },
     {
       "id": "t_googl",
@@ -664,9 +664,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 353.78,
+      "price": 354.1,
       "currency": "美元",
-      "change_pct": 1.75
+      "change_pct": 1.03
     },
     {
       "id": "t_tsla",
@@ -677,9 +677,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 375.23,
+      "price": 368.705,
       "currency": "美元",
-      "change_pct": -1.43
+      "change_pct": -2.41
     },
     {
       "id": "t_spacex",
