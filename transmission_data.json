@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16 20:39",
+  "updatedAt": "2026-10-16 23:18",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台股下週小心？台積電ADR又跌了 台指期...",
+      "name": "⚡ 美股收盤》恐慌飆升！費半連8黑 台積電A...",
       "date": "10-16",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
+      "newsTitle": "美股收盤》恐慌飆升！費半連8黑 台積電ADR續跌逾2％",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 16 Oct 2026 14:46:16 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Uek9lU2laS2FhVlFQeUg0dV8wY2FSRTNOTkhEaEhvaDdIYWZTR2lYb1RxUF9CYjluY0t6NXJUYUJGMXA0SUp0c2dyVWIyNURUdEZRMXhwYXFMWG5ORlFn0gFkQVVfeXFMT1JGUlM4RXhJZjlrUUV1SjBNdnY5Q0JoOVExUVpJellYYnZPQTFMbHZWRFlFamFfNm9yN2VLb192OHZiWDlhVTNMMENyenN6Mmk4VlVoQVN5OG4wOHpLY1ZYT01mSA?oc=5",
-      "desc": "【自由財經】台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
+      "newsDate": "Fri, 16 Oct 2026 21:45:29 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CLW5jN3BoLVh5VUhaVHdOT0EtUHItMkpXSDBYUVRwUTRLVXpBNlctLWU5M2o1dktRNkh1V2YyVnhUQVg3a2ppLXRDMFZpVkJkNUJNdldxRzBSNDg2eHZB0gFkQVVfeXFMTS1uTGZXX0JBLXBUSlZQQjZyWDRPOTJvMHpySGxUU3FDYThtdUdhLWJnVWdxWVlRbmowX3FuRFZlMENJX2g5dEtGWVA3N0M4MzhFRC1GT0ZwMmdSZy1URVFZOWU4MA?oc=5",
+      "desc": "【自由財經】美股收盤》恐慌飆升！費半連8黑 台積電ADR續跌逾2％",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電法說後照樣賣！外資再倒貨2.2萬張...",
+      "name": "⚡ 台股下週小心？台積電ADR又跌了 台指期...",
       "date": "10-16",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電法說後照樣賣！外資再倒貨2.2萬張國家隊砸66億「硬接刀」 南亞、台塑、群創…入列護盤名單- 上市櫃",
-      "newsSource": "旺得富理財網",
-      "newsDate": "Fri, 16 Oct 2026 13:27:25 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OdjFpNjJRUmhuVGJLWnFZSDdyWjN6MTEzTnB5c1FXRmhQVlpDSnJHZ1o0ZFlWbThpSllsT2NBOFdJN19ScFBmT2ZoRVpkaGpWOTRKZUlfOHBlb3R3ZjRWUVZfem93Mm9odVE?oc=5",
-      "desc": "【旺得富理財網】台積電法說後照樣賣！外資再倒貨2.2萬張國家隊砸66億「硬接刀」 南亞、台塑、群創…入列護盤名單- 上市櫃",
+      "newsTitle": "台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
+      "newsSource": "自由財經",
+      "newsDate": "Fri, 16 Oct 2026 14:46:16 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Uek9lU2laS2FhVlFQeUg0dV8wY2FSRTNOTkhEaEhvaDdIYWZTR2lYb1RxUF9CYjluY0t6NXJUYUJGMXA0SUp0c2dyVWIyNURUdEZRMXhwYXFMWG5ORlFn0gFkQVVfeXFMT1JGUlM4RXhJZjlrUUV1SjBNdnY5Q0JoOVExUVpJellYYnZPQTFMbHZWRFlFamFfNm9yN2VLb192OHZiWDlhVTNMMENyenN6Mmk4VlVoQVN5OG4wOHpLY1ZYT01mSA?oc=5",
+      "desc": "【自由財經】台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4190.0,
+      "price": 4186.7,
       "currency": "美元",
-      "change_pct": -0.01,
+      "change_pct": -0.09,
       "gold_units": {
-        "oz_usd": 4190.0,
-        "gram_twd": 4370.0,
-        "qian_twd": 16388,
-        "usdtwd": 32.44
+        "oz_usd": 4186.7,
+        "gram_twd": 4365.3,
+        "qian_twd": 16370,
+        "usdtwd": 32.43
       }
     },
     {
