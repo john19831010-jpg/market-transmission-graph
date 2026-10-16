@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-16 12:09",
+  "updatedAt": "2026-10-16 17:12",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電魏哲家：法說會後股價真的跌了 心情...",
+      "name": "⚡ 台股下週小心？台積電ADR又跌了 台指期...",
       "date": "10-16",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電魏哲家：法說會後股價真的跌了 心情不太好",
+      "newsTitle": "台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 16 Oct 2026 09:58:50 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiM0MyYUtNWU9OQUFHNmNmS1VMZXdCWjFLMng3Q01KMnpzZXR6MXItR0d0RlVSUEN0YWpuXzdlcnhUZ2gxRG1IZGVRWkx5ckF6bVRKa1ZjbW41VGtkamdR0gFkQVVfeXFMTkE0ajBlb01Xd1hod2Y4RmlZWnlsdTFPR3k2M2FzLWl1Q1d0bHVqNGFoejdGNWxXdkxvUUIwVHZQbm04TVNCLUZxN3k5SjNIUEsxcHNQT1dnd0pBNy1ENXhQLTdvTw?oc=5",
-      "desc": "【自由財經】台積電魏哲家：法說會後股價真的跌了 心情不太好",
+      "newsDate": "Fri, 16 Oct 2026 14:46:16 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Uek9lU2laS2FhVlFQeUg0dV8wY2FSRTNOTkhEaEhvaDdIYWZTR2lYb1RxUF9CYjluY0t6NXJUYUJGMXA0SUp0c2dyVWIyNURUdEZRMXhwYXFMWG5ORlFn0gFkQVVfeXFMT1JGUlM4RXhJZjlrUUV1SjBNdnY5Q0JoOVExUVpJellYYnZPQTFMbHZWRFlFamFfNm9yN2VLb192OHZiWDlhVTNMMENyenN6Mmk4VlVoQVN5OG4wOHpLY1ZYT01mSA?oc=5",
+      "desc": "【自由財經】台股下週小心？台積電ADR又跌了 台指期夜盤一度狂殺逾500點",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ CPI高於預期美元殖利率卻反跌 市場為何...",
+      "name": "⚡ 美股早盤／科技股賣壓重、費半跌逾2% 特...",
       "date": "10-16",
-      "category": "突發總經",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "CPI高於預期美元殖利率卻反跌 市場為何意外轉向？",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Thu, 15 Oct 2026 22:59:28 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUTBUeGw4bU9nMzZUSlZ3RmNZMG5Sc1JDM1BraUpFUTBhUE92YVlFMGpBQ2V2NUFIYmY2c2dZUEs1dnVkLTZSUFEzY0hDM0IxeGxZa2d3eENXUmFjWF9BVXhpekpsUHlkWEJxVHBrdFlSMkoyT296cHVQeTJ1c0w5ZlZWU0F2YzZFbWtURlBaM2p4Uk5oOUREN0ZPRktfTUNrRU85ZnE4cWtpN19VOEdDM0Z6UmpoU01GZkVjdHVMMWxBX0gyWVF4SWZnZ1VSaGlRc20yTlMwOFoyMzZyZm41WlA5VlNXYmhPbEVYQjRXUk9RM3JuYnNZaDVib1ViSV8tMlNUQjA3MW9zeVZ1UVZHZncyMkhDVXRuNG56NnBxTDlBT3VRTWJHU2J4MUlDWkJYeHhFVDAzQU83dVpnZDQyT3RNQ0xONXljQ25rOHFnRFI?oc=5",
-      "desc": "【Yahoo股市】CPI高於預期美元殖利率卻反跌 市場為何意外轉向？",
+      "newsTitle": "美股早盤／科技股賣壓重、費半跌逾2% 特斯拉靠飛天車逆勢漲| 全球財經| 全球",
+      "newsSource": "UDN",
+      "newsDate": "Fri, 16 Oct 2026 16:57:26 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MYmxONjA0dHZIU0poUUNjZzY4YTlvVS11OFZ5bDZHdHFCZ3cteWN2QVUtUnhKU3pWekRIbWdzNTE2M2RTVldvcHhMLVVaLWVT?oc=5",
+      "desc": "【UDN】美股早盤／科技股賣壓重、費半跌逾2% 特斯拉靠飛天車逆勢漲| 全球財經| 全球",
       "impactTargets": [
-        "t_gold"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_rates",
-        "t_gold"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4192.7,
+      "price": 4178.4,
       "currency": "美元",
-      "change_pct": 0.05,
+      "change_pct": -0.29,
       "gold_units": {
-        "oz_usd": 4192.7,
-        "gram_twd": 4366.1,
-        "qian_twd": 16373,
-        "usdtwd": 32.39
+        "oz_usd": 4178.4,
+        "gram_twd": 4355.3,
+        "qian_twd": 16332,
+        "usdtwd": 32.42
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 728.0,
+      "price": 712.93,
       "currency": "美元",
-      "change_pct": -2.62
+      "change_pct": -5.1
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 709.43,
+      "price": 702.19,
       "currency": "美元",
-      "change_pct": -0.26
+      "change_pct": -1.87
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 349.22,
+      "price": 341.24,
       "currency": "美元",
-      "change_pct": 0.27
+      "change_pct": -2.96
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 362.44,
+      "price": 352.49,
       "currency": "美元",
-      "change_pct": -3.35
+      "change_pct": -7.89
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_rates",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發總經"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_fomc",
