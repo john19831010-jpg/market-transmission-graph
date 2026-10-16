@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-16 06:50",
+  "updatedAt": "2026-10-16 12:09",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電魏哲家：法說會後股價真的跌了 心情...",
+      "date": "10-16",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電魏哲家：法說會後股價真的跌了 心情不太好",
+      "newsSource": "自由財經",
+      "newsDate": "Fri, 16 Oct 2026 09:58:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiM0MyYUtNWU9OQUFHNmNmS1VMZXdCWjFLMng3Q01KMnpzZXR6MXItR0d0RlVSUEN0YWpuXzdlcnhUZ2gxRG1IZGVRWkx5ckF6bVRKa1ZjbW41VGtkamdR0gFkQVVfeXFMTkE0ajBlb01Xd1hod2Y4RmlZWnlsdTFPR3k2M2FzLWl1Q1d0bHVqNGFoejdGNWxXdkxvUUIwVHZQbm04TVNCLUZxN3k5SjNIUEsxcHNQT1dnd0pBNy1ENXhQLTdvTw?oc=5",
+      "desc": "【自由財經】台積電魏哲家：法說會後股價真的跌了 心情不太好",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電法說會後為何平平淡淡？分析師曝原因...",
       "date": "10-16",
       "category": "突發半導體",
@@ -21,35 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 魏哲家「台積電法說會後」吐心聲：早就知道...",
-      "date": "10-16",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "魏哲家「台積電法說會後」吐心聲：早就知道股票會跌 腦袋有點空",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 16 Oct 2026 03:33:53 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQSFJWVUpscDZSNHkxRlpDRFlMa1VBYTJwRzlKaHFHYk5hU0FyZzYzdFp3a0dFbE5fVkhZUEZiMl90dC1YTkstSXlVV1RNbUlRSWc1Z1ZJYzE1b2dXdzd4NmRUdnJkRUdFVEhXZkVkVnhVY25LekZhOUZYVzJvZ2hCZ2xIem5QVUUtTmprTzRoM3lHRjlMaTU5VjNLUUJYb3pYWTNKMHQ2Sy1MWmJHaDJvRlBTcGlXVmgwRWhXOXNiM25JSHBHdTUwUFlSMmNqcEkzbEU1OWpyck5tcW1sNDFPV0tPUDhpZ2c4bnZlZlk0QU5sbW5UUkYzRDNFQjJoQ0tKUlhsWlV5b19KLVpkVzlsRHpWcFdMalMzZm11YTYxQWlpNG5GY3lvdkZsaUsyMVBZaktNM2JXRmoza1Bmd1NsZFNvOGt5M0FzQS1xT3d3ZEF6a1lXbmhQTzdxYWlOd3VHaXJNN0hNd2FOcmpYNUU4NXYwTTMwZHdaT25yVktzeXh6Y1N4V084OE5jYkZtazU0ZTVTZ2poQkJTZ1g1NnlwVHQ4MzhyRTZ6aUozSE8wR0ZmOGQ5OEtLQw?oc=5",
-      "desc": "【Yahoo股市】魏哲家「台積電法說會後」吐心聲：早就知道股票會跌 腦袋有點空",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電魏哲家：法說會後股價真的跌了 心情...",
+      "name": "⚡ 台積電法說會後行情失靈！股價跌10元 分...",
       "date": "10-16",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電魏哲家：法說會後股價真的跌了 心情不太好",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 16 Oct 2026 03:56:32 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiM0MyYUtNWU9OQUFHNmNmS1VMZXdCWjFLMng3Q01KMnpzZXR6MXItR0d0RlVSUEN0YWpuXzdlcnhUZ2gxRG1IZGVRWkx5ckF6bVRKa1ZjbW41VGtkamdR0gFkQVVfeXFMTkE0ajBlb01Xd1hod2Y4RmlZWnlsdTFPR3k2M2FzLWl1Q1d0bHVqNGFoejdGNWxXdkxvUUIwVHZQbm04TVNCLUZxN3k5SjNIUEsxcHNQT1dnd0pBNy1ENXhQLTdvTw?oc=5",
-      "desc": "【自由財經】台積電魏哲家：法說會後股價真的跌了 心情不太好",
+      "newsTitle": "台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Fri, 16 Oct 2026 01:23:03 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQU2NiQ203c3NPelVKOWZfWWZLZy1OdWZyUnl2WHEyS0h6ZV9aVFdscV9JTk96emFWcVpPOHQ4eGF2S0FwbUxHdWgyVDF2WmNfa0o2bzBFRDdObkRoVE5ObFN2WnhuS01HbUZNSl9pY1hUZGRuOEwzaFdfQk5RR0VmNHJaUUdZTHdobjFlaFJCdXVYU3ppQ2dQdmdKLXpLdmU5eU03aE1uWHVBV05SX3hxRm1UZFA4dlYxbm8ydzMyZElRYzgySjJhRXBkM1BOWm4xdi1obHR1NVc2Q0x6MUY5V1lSZHlUYW44aUk2QnhfNzlkM05TYndCRVpDb2lpR3NOeDVPQ3BSc3RzQ2YxZHFKLTB3NnNnMnlxNWVFXzZibHp5NWlmLWptdFNTU2FscjlrRDRXWGxJZldCY3F6VmJKRGcxSXlaREs2d1BCUWxRWmF0ZFB5a3hETzR5YmJOZUlQVk5maGVTbTF4STRjbXJXMXBHbDkzWm5WckQ3YnlQa2RISlV4cHl0Nm1QTGZESE5ndHpnZ3JjNzFLOUlFV1AtVVNfRmxwNTBEQVdkTFJaTVI3OFlEOG4zeEpkcTZPc01r?oc=5",
+      "desc": "【Yahoo股市】台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 每天至少10通電話追產能！AI大廠搶台積...",
+      "name": "⚡ CPI高於預期美元殖利率卻反跌 市場為何...",
       "date": "10-16",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "每天至少10通電話追產能！AI大廠搶台積電 擴張計畫恐受限",
-      "newsSource": "鉅亨網",
-      "newsDate": "Thu, 15 Oct 2026 16:31:15 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pamJhOThUUFBKM1dOSy1RVGRkSW1WOUtzVHRUN2NHRko5bVRGOUk1bmJZZ1NWREpZT0hNaF9jT3dkLUQzSnVIQWNCNXdHazg?oc=5",
-      "desc": "【鉅亨網】每天至少10通電話追產能！AI大廠搶台積電 擴張計畫恐受限",
+      "newsTitle": "CPI高於預期美元殖利率卻反跌 市場為何意外轉向？",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Thu, 15 Oct 2026 22:59:28 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNUTBUeGw4bU9nMzZUSlZ3RmNZMG5Sc1JDM1BraUpFUTBhUE92YVlFMGpBQ2V2NUFIYmY2c2dZUEs1dnVkLTZSUFEzY0hDM0IxeGxZa2d3eENXUmFjWF9BVXhpekpsUHlkWEJxVHBrdFlSMkoyT296cHVQeTJ1c0w5ZlZWU0F2YzZFbWtURlBaM2p4Uk5oOUREN0ZPRktfTUNrRU85ZnE4cWtpN19VOEdDM0Z6UmpoU01GZkVjdHVMMWxBX0gyWVF4SWZnZ1VSaGlRc20yTlMwOFoyMzZyZm41WlA5VlNXYmhPbEVYQjRXUk9RM3JuYnNZaDVib1ViSV8tMlNUQjA3MW9zeVZ1UVZHZncyMkhDVXRuNG56NnBxTDlBT3VRTWJHU2J4MUlDWkJYeHhFVDAzQU83dVpnZDQyT3RNQ0xONXljQ25rOHFnRFI?oc=5",
+      "desc": "【Yahoo股市】CPI高於預期美元殖利率卻反跌 市場為何意外轉向？",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4199.8,
+      "price": 4192.7,
       "currency": "美元",
-      "change_pct": 0.22,
+      "change_pct": 0.05,
       "gold_units": {
-        "oz_usd": 4199.8,
-        "gram_twd": 4376.2,
-        "qian_twd": 16411,
-        "usdtwd": 32.41
+        "oz_usd": 4192.7,
+        "gram_twd": 4366.1,
+        "qian_twd": 16373,
+        "usdtwd": 32.39
       }
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
