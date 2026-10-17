@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-17 08:20",
+  "updatedAt": "2026-10-17 12:45",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 半導體股9月營收仍旺 法人優選台積電等11檔",
+      "name": "⚡ 台股週一慘了？他剛買1張台積電好剉 網笑...",
       "date": "10-17",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "半導體股9月營收仍旺 法人優選台積電等11檔",
-      "newsSource": "UDN",
-      "newsDate": "Sat, 17 Oct 2026 05:47:36 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbG9wbHF1MHRQUmVmS2p2ekE3X1F3clJaN09HVV84UlBsMFNSenhSN3p6dFh0SmtVWVA3NDVTSlc5RW9NNFBONjA1bUp1Mndq0gFWQVVfeXFMUFc4MHphM0E2ZlBtMnd1VFVoUnUyVVNWTU5vc19zcEpGXzVsZUNQSGZGVG80VGx6eW00N29PZDhfVGh3eHByYlJNTmtsUHI0MTU3LWJ4S3c?oc=5",
-      "desc": "【UDN】半導體股9月營收仍旺 法人優選台積電等11檔",
+      "newsTitle": "台股週一慘了？他剛買1張台積電好剉 網笑：抱這檔才要哭",
+      "newsSource": "自由財經",
+      "newsDate": "Sat, 17 Oct 2026 09:17:12 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBueFNiWnI1LXp2Z19aS3JTM0pNT0lqb2E0UVVUWGNYcmlhWUZYSFZKcGFYNmdIY3lLS0Y1aVJvWGYxRXdXQVQySzRiNHY4bWNWRElKRHozejF0Zko0U1JJ0gFkQVVfeXFMTVBncVpJaVBiNDBTWDF5SGFpWmtaWFhmM3g1Vll6UWducmJ2aWhrYVdVT1drbGI5UldTaVNtOFg0a2NLZkZJdVcwLVpRVC01U21uYjA2cFNOam5ZdGc1WkJNNmpxOA?oc=5",
+      "desc": "【自由財經】台股週一慘了？他剛買1張台積電好剉 網笑：抱這檔才要哭",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 美股收盤》恐慌飆升！費半連8黑 台積電A...",
+      "name": "⚡ 台股季線保衛戰開打！「週年慶來了」台積電...",
       "date": "10-17",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股收盤》恐慌飆升！費半連8黑 台積電ADR續跌逾2％",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 16 Oct 2026 21:45:29 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CLW5jN3BoLVh5VUhaVHdOT0EtUHItMkpXSDBYUVRwUTRLVXpBNlctLWU5M2o1dktRNkh1V2YyVnhUQVg3a2ppLXRDMFZpVkJkNUJNdldxRzBSNDg2eHZB0gFkQVVfeXFMTS1uTGZXX0JBLXBUSlZQQjZyWDRPOTJvMHpySGxUU3FDYThtdUdhLWJnVWdxWVlRbmowX3FuRFZlMENJX2g5dEtGWVA3N0M4MzhFRC1GT0ZwMmdSZy1URVFZOWU4MA?oc=5",
-      "desc": "【自由財經】美股收盤》恐慌飆升！費半連8黑 台積電ADR續跌逾2％",
+      "newsTitle": "台股季線保衛戰開打！「週年慶來了」台積電、聯發科等指標股迎打折潮分析師：別錯過、1年才1次",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 17 Oct 2026 04:47:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNG5LV2VyZWtGazI1N2YxbW1lSHA4Ujc2RGFuUVFiVExFTWMwRi1JVnZ3UlFfdm9tX1d0dzN4NjRmXy15ay1kRVM5SHdYZjdQRXJkdWJCaEtNSXg3dEU4OGQ1SDZWRDBzTm9LSlNjZS0xalZTUkVfNm5BM01RZ1Yyby1KcVI2bkZxYTlpbXZIZ0VudVNaQXlsUTRVUnd6c1dibHJ5Q1cxVnRXTmtweHBQXzUzS19takJia1Q3cm5hU3lPOWFJcXdVZ2ZZR1RPbTlQczhBQlZHcU9rYVQwV29FUTdxS201QjhUWVBtWGdHWlBlQThGUmZ3SVFTVXR0NXhocDg1dkJoOGRINm0zWk9oUXdSWXBQLTNuVGFGNWJCVjFyYjhVWWJfczdXd25PZVUyZlAwMFBRaFNOcE9TVXRjMC0xVzUwS09Seno0b1FLLXRHMVlQOEthQXRBakdxaDg3dHFGYTBCUENibFBsWGk4QXBPUVVYU0dTRURZelgzNzBfaFBJRmh6OXNrVlpQSEVpWVFxc1FCSDhmWG9DeVVrVzN3eXJPanpCNHQyN1J3X1pRUUJFdUEyQVMzWXV4Y1FJVV9GdjUzVXlrTWNCS1V5Nk1NaGQ?oc=5",
+      "desc": "【Yahoo股市】台股季線保衛戰開打！「週年慶來了」台積電、聯發科等指標股迎打折潮分析師：別錯過、1年才1次",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,40 +41,40 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 美股早盤／科技股賣壓重 費半跌逾2% 特...",
+      "name": "⚡ 台積電甜甜價！　專家揭布局時機：這2天最關鍵",
       "date": "10-17",
-      "category": "突發自駕",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲",
-      "newsSource": "經濟日報",
-      "newsDate": "Fri, 16 Oct 2026 13:57:52 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNk9BTEFVa0NPSVdlLUE3X0FVeEwtSEpNUDZtWWlfY0FNb3pxSUlqSE1DVW1WbzdiYk1mbmtfN2xkeG14dnNPTTd4RFY5LVotRVpHLWRGS2VuQlR20gFiQVVfeXFMUGhiczZqRGgyMkJSdnZ0aDBpVVBWNmtSQkxhUjIwdWd1TE9OTlpWSFJtV1hNd1RSUzhicEtBdnUyd0IyNGNaUTBWU3JQWHNvNWJ4SFlRVF9sVmU1WHZUQlg2M1E?oc=5",
-      "desc": "【經濟日報】美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲",
+      "newsTitle": "台積電甜甜價！　專家揭布局時機：這2天最關鍵",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Sat, 17 Oct 2026 00:25:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15MDA4Z1BFZWNlWHUwaHZEb0RQNUMzMTF4VjRLQjQ1aXE3MW04d3dYa2IzVkM0Y1RDT1NWdy1MTTZ3V1NLa1hXa2ZkZHQyUWY2MGfSAVBBVV95cUxPYzVPWjBLaU94UzBYcnp0bVRPRXdPeFktY2FadWJsTUw0R2daZEhCamI1MEUxZWdLVmp3YUo0aDZYdkFDamZ2WlNXb2ZOdHpkbA?oc=5",
+      "desc": "【ETtoday財經雲】台積電甜甜價！　專家揭布局時機：這2天最關鍵",
       "impactTargets": [
-        "t_tsla"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ev_auto",
-        "t_tsla"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Pixel用戶傻眼！買手機送的Googl...",
+      "name": "⚡ 為何美股恐慌指數急拉？VIX 狂飆22%...",
       "date": "10-17",
-      "category": "突發AI",
+      "category": "突發貴金屬",
       "isBreaking": true,
-      "newsTitle": "Pixel用戶傻眼！買手機送的Google AI Pro竟是縮水版",
-      "newsSource": "自由電子報3C科技",
-      "newsDate": "Sat, 17 Oct 2026 07:20:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0S29naFBzVW1LZENYOFgtU2NrMlBTTVV4bkJzekZMTHVTMmVDY2JfQTRpeWMxdVdnNVVMdm1HSDBaamFNRTJz0gFMQVVfeXFMT0VreFVqNjJWei03UHJpNGRPakNsVFo1TkxId05NSDd1dUVqb0J6WG9KRk5WMVlQa2pyME8taGNpemZHWGZLSm1oOTdIaw?oc=5",
-      "desc": "【自由電子報3C科技】Pixel用戶傻眼！買手機送的Google AI Pro竟是縮水版",
+      "newsTitle": "為何美股恐慌指數急拉？VIX 狂飆22% 大型避險基金傳爆倉+AI 股遭血洗 | 美股動態 | 國際",
+      "newsSource": "經濟日報",
+      "newsDate": "Sat, 17 Oct 2026 10:20:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5za0NpQ3FGb3U1aFFwd1N1N2xjVDEyTEZHTzhwX2MtT3BVdnBuUjYyNzJXY2V0VFdpMkFtakVkWHBORExhVTFCOUM5bWlCTHJoRVBORHZFQUJjb0li?oc=5",
+      "desc": "【經濟日報】為何美股恐慌指數急拉？VIX 狂飆22% 大型避險基金傳爆倉+AI 股遭血洗 | 美股動態 | 國際",
       "impactTargets": [
-        "t_googl"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_dollar",
+        "t_gold"
       ]
     },
     {
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ev_auto",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發自駕"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_dollar",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發貴金屬"
     },
     {
       "source": "e_fomc",
