@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-17 03:32",
+  "updatedAt": "2026-10-17 08:20",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 半導體股9月營收仍旺 法人優選台積電等11檔",
+      "date": "10-17",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "半導體股9月營收仍旺 法人優選台積電等11檔",
+      "newsSource": "UDN",
+      "newsDate": "Sat, 17 Oct 2026 05:47:36 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxbG9wbHF1MHRQUmVmS2p2ekE3X1F3clJaN09HVV84UlBsMFNSenhSN3p6dFh0SmtVWVA3NDVTSlc5RW9NNFBONjA1bUp1Mndq0gFWQVVfeXFMUFc4MHphM0E2ZlBtMnd1VFVoUnUyVVNWTU5vc19zcEpGXzVsZUNQSGZGVG80VGx6eW00N29PZDhfVGh3eHByYlJNTmtsUHI0MTU3LWJ4S3c?oc=5",
+      "desc": "【UDN】半導體股9月營收仍旺 法人優選台積電等11檔",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 美股收盤》恐慌飆升！費半連8黑 台積電A...",
       "date": "10-17",
       "category": "突發半導體",
@@ -21,60 +40,41 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 台積電法說會後行情失靈！股價跌10元 分...",
-      "date": "10-17",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 16 Oct 2026 01:23:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQU2NiQ203c3NPelVKOWZfWWZLZy1OdWZyUnl2WHEyS0h6ZV9aVFdscV9JTk96emFWcVpPOHQ4eGF2S0FwbUxHdWgyVDF2WmNfa0o2bzBFRDdObkRoVE5ObFN2WnhuS01HbUZNSl9pY1hUZGRuOEwzaFdfQk5RR0VmNHJaUUdZTHdobjFlaFJCdXVYU3ppQ2dQdmdKLXpLdmU5eU03aE1uWHVBV05SX3hxRm1UZFA4dlYxbm8ydzMyZElRYzgySjJhRXBkM1BOWm4xdi1obHR1NVc2Q0x6MUY5V1lSZHlUYW44aUk2QnhfNzlkM05TYndCRVpDb2lpR3NOeDVPQ3BSc3RzQ2YxZHFKLTB3NnNnMnlxNWVFXzZibHp5NWlmLWptdFNTU2FscjlrRDRXWGxJZldCY3F6VmJKRGcxSXlaREs2d1BCUWxRWmF0ZFB5a3hETzR5YmJOZUlQVk5maGVTbTF4STRjbXJXMXBHbDkzWm5WckQ3YnlQa2RISlV4cHl0Nm1QTGZESE5ndHpnZ3JjNzFLOUlFV1AtVVNfRmxwNTBEQVdkTFJaTVI3OFlEOG4zeEpkcTZPc01r?oc=5",
-      "desc": "【Yahoo股市】台積電法說會後行情失靈！股價跌10元 分析師：守住「2450元」就會偏多",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電甜甜價！　專家揭布局時機：這2天最關鍵",
+      "name": "⚡ 美股早盤／科技股賣壓重 費半跌逾2% 特...",
       "date": "10-17",
-      "category": "突發半導體",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "台積電甜甜價！　專家揭布局時機：這2天最關鍵",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Sat, 17 Oct 2026 00:25:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15MDA4Z1BFZWNlWHUwaHZEb0RQNUMzMTF4VjRLQjQ1aXE3MW04d3dYa2IzVkM0Y1RDT1NWdy1MTTZ3V1NLa1hXa2ZkZHQyUWY2MGfSAVBBVV95cUxPYzVPWjBLaU94UzBYcnp0bVRPRXdPeFktY2FadWJsTUw0R2daZEhCamI1MEUxZWdLVmp3YUo0aDZYdkFDamZ2WlNXb2ZOdHpkbA?oc=5",
-      "desc": "【ETtoday財經雲】台積電甜甜價！　專家揭布局時機：這2天最關鍵",
+      "newsTitle": "美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲",
+      "newsSource": "經濟日報",
+      "newsDate": "Fri, 16 Oct 2026 13:57:52 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPNk9BTEFVa0NPSVdlLUE3X0FVeEwtSEpNUDZtWWlfY0FNb3pxSUlqSE1DVW1WbzdiYk1mbmtfN2xkeG14dnNPTTd4RFY5LVotRVpHLWRGS2VuQlR20gFiQVVfeXFMUGhiczZqRGgyMkJSdnZ0aDBpVVBWNmtSQkxhUjIwdWd1TE9OTlpWSFJtV1hNd1RSUzhicEtBdnUyd0IyNGNaUTBWU3JQWHNvNWJ4SFlRVF9sVmU1WHZUQlg2M1E?oc=5",
+      "desc": "【經濟日報】美股早盤／科技股賣壓重 費半跌逾2% 特斯拉憑飛天車逆勢漲",
       "impactTargets": [
-        "t_2330"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電法說會後為何平平淡淡？分析師曝原因...",
+      "name": "⚡ Pixel用戶傻眼！買手機送的Googl...",
       "date": "10-17",
-      "category": "突發半導體",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "台積電法說會後為何平平淡淡？分析師曝原因但強調買點來了",
-      "newsSource": "經濟日報",
-      "newsDate": "Fri, 16 Oct 2026 04:26:22 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NOWdkQzZOeG8taG5LNjlVR1h5elI4cTBQUS01MkxWd2kzTmpjcjE5ZjJHT0Z4WWxhZ2NEMnZfNjZfbWxTZkFwakJaX0tPUUh2VWJJZUw0R1ZqQdIBX0FVX3lxTFB4ZkNrVExHU1hCMDFrSjV3Q1JubjNva1Y3aWZNeWMwTXZrV3FEdWl4QVRvOGt4dU5mOTdtVE5yZGp6QXNneFJ1ejktM1lucjlIVGx1allXbFo2RnctSzYw?oc=5",
-      "desc": "【經濟日報】台積電法說會後為何平平淡淡？分析師曝原因但強調買點來了",
+      "newsTitle": "Pixel用戶傻眼！買手機送的Google AI Pro竟是縮水版",
+      "newsSource": "自由電子報3C科技",
+      "newsDate": "Sat, 17 Oct 2026 07:20:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0S29naFBzVW1LZENYOFgtU2NrMlBTTVV4bkJzekZMTHVTMmVDY2JfQTRpeWMxdVdnNVVMdm1HSDBaamFNRTJz0gFMQVVfeXFMT0VreFVqNjJWei03UHJpNGRPakNsVFo1TkxId05NSDd1dUVqb0J6WG9KRk5WMVlQa2pyME8taGNpemZHWGZLSm1oOTdIaw?oc=5",
+      "desc": "【自由電子報3C科技】Pixel用戶傻眼！買手機送的Google AI Pro竟是縮水版",
       "impactTargets": [
-        "t_2330"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4186.7,
+      "price": 4181.1,
       "currency": "美元",
-      "change_pct": -0.09,
+      "change_pct": -0.23,
       "gold_units": {
-        "oz_usd": 4186.7,
-        "gram_twd": 4365.3,
-        "qian_twd": 16370,
+        "oz_usd": 4181.1,
+        "gram_twd": 4359.4,
+        "qian_twd": 16348,
         "usdtwd": 32.43
       }
     },
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
