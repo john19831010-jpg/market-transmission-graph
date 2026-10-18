@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-17 22:01",
+  "updatedAt": "2026-10-18 00:42",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 台股週一慘了？他剛買1張台積電好剉 網笑...",
-      "date": "10-17",
+      "date": "10-18",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台股週一慘了？他剛買1張台積電好剉 網笑：抱這檔才要哭",
@@ -23,7 +23,7 @@
     {
       "id": "e_breaking_2",
       "name": "⚡ 台股季線保衛戰開打！「週年慶來了」台積電...",
-      "date": "10-17",
+      "date": "10-18",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台股季線保衛戰開打！「週年慶來了」台積電、聯發科等指標股迎打折潮分析師：別錯過、1年才1次",
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電甜甜價！　專家揭布局時機：這2天最關鍵",
-      "date": "10-17",
+      "name": "⚡ 台積電熊本二廠日本准生產3奈米- 日報",
+      "date": "10-18",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電甜甜價！　專家揭布局時機：這2天最關鍵",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Sat, 17 Oct 2026 00:25:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15MDA4Z1BFZWNlWHUwaHZEb0RQNUMzMTF4VjRLQjQ1aXE3MW04d3dYa2IzVkM0Y1RDT1NWdy1MTTZ3V1NLa1hXa2ZkZHQyUWY2MGfSAVBBVV95cUxPYzVPWjBLaU94UzBYcnp0bVRPRXdPeFktY2FadWJsTUw0R2daZEhCamI1MEUxZWdLVmp3YUo0aDZYdkFDamZ2WlNXb2ZOdHpkbA?oc=5",
-      "desc": "【ETtoday財經雲】台積電甜甜價！　專家揭布局時機：這2天最關鍵",
+      "newsTitle": "台積電熊本二廠日本准生產3奈米- 日報",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 17 Oct 2026 19:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNzI1dTFuLXJhclFMWjFWNFlHcEFHa29fLWpBMzZwQTlpNDRaNDh4UTJDZnJmMW1QLWhac1RoOHdCbXZqY05sdHA3bzlBVVNMWWszcmdBNS1MM0Z6cGJv?oc=5",
+      "desc": "【工商時報】台積電熊本二廠日本准生產3奈米- 日報",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 【台積電熊本二廠升級！日本首座「3奈米晶...",
-      "date": "10-17",
-      "category": "突發半導體",
+      "name": "⚡ Gemini 4 Argon：為解決你最...",
+      "date": "10-18",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "【台積電熊本二廠升級！日本首座「3奈米晶片廠」 確定獲日政府補助】 進入全新階段。(#起啵)",
-      "newsSource": "Facebook",
-      "newsDate": "Sat, 17 Oct 2026 17:20:16 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMigwRBVV95cUxNNVl4cU43T0ZyRHF6bE01NWhET3NjdVh1Tjk4X29DT1pKWWg4WnJsM0RRV1Itcjg3SmNuMDFyNG5XZ1U0R28tbGxlS3pNSWd4al8xOHBfTHVnUm9oTGp4dDJCSHV6blliX21UbFlDTnd1UDlobXNHR0h0UWpIUmQ2RUl1WnFqVDBrVVAyb256RkxEMU5uZ19QTlJoTWlKTzZqSy13ZjBaOGJDMC1YWHNaZXpJS2RvT0FBdlFEZGtTcmdGVjhkdF93cE9aSGV5VHpRbHV1U2F5SFFxenlZOEp1NmdzN2FORVRTQ1ZJSFV6RzR6YUJ4QnpVVEtaaHVnVlhkbko0WmZfOG80NFBSNDdOTHZqM3VOUW5XQVYwMmp4T1dRMV9LblNJMU42VHVCYjBzbU1TRzkzMExzZ1lLZkNfVFc4aEs0M0RPaU9wYVRudzlyZjAwZkc2d0JERXdUaVA1ZU5JWG5sOVJZYWhqZVFILTN0eW0waTl4aF83R1Y2TER3NnRhMzZyNnpTWnFlc0dkcFZNMTFSWEdMWlZPQ1J6dGYxWWJacW5ibjBQNjQtWWlHckJUVzA0dHp2c255UHBCUWpHQVVzYl92M1h5NFNtLUNfcXZkTHhUemwyZXZJUkJSbFBxOTdKR3ZSTzhBenBMbHVuRWNjd0g2R0hKRHpPTFBHUQ?oc=5",
-      "desc": "【Facebook】【台積電熊本二廠升級！日本首座「3奈米晶片廠」 確定獲日政府補助】 進入全新階段。(#起啵)",
+      "newsTitle": "Gemini 4 Argon：為解決你最棘手的難題而生",
+      "newsSource": "blog.google",
+      "newsDate": "Sat, 17 Oct 2026 18:25:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkh1TWdtV29lRkptcS1hal9PZ25qcDROc0JyQ3dyQ29yaW4zUVQwNXlIU0JUeFdPc2lHNG9jOEFjQ0pIUm1fUlVHZzdRTjVYV284MnlEeVg4czZjTklQS2VORUVvd3dZY01lSDVKczhUbTlvUU1fblZPSkJRM1dIeVZDNmhqRjRNTHh1aDhiZGc?oc=5",
+      "desc": "【blog.google】Gemini 4 Argon：為解決你最棘手的難題而生",
       "impactTargets": [
-        "t_2330"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
