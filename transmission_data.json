@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18 17:52",
+  "updatedAt": "2026-10-18 20:17",
   "events": [
     {
       "id": "e_breaking_1",
@@ -41,6 +41,25 @@
     },
     {
       "id": "e_breaking_3",
+      "name": "⚡ 【三星首度找上台積電造基礎晶粒 原因曝光...",
+      "date": "10-18",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "【三星首度找上台積電造基礎晶粒 原因曝光】 與台積電合作。(#起啵)",
+      "newsSource": "Facebook",
+      "newsDate": "Sun, 18 Oct 2026 18:40:02 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOS3pXS2R0VHNKRTVJTUdPRnJGdmQ1QXJTZEVVTVpFN2x5WVZjOGN5aHdIU0pmbmU4Q082Y29ZWFE2U2JJUk95Q2xMV252eW5mSFFUSzZveHJmd3NwaTdwOHNaTlVhTDZldi1MTjVHTlBDVnk0TVRkMEFJT0lybE4yWUpLZWFfMHBkakZQdGpsNmNHaVU2ZGdtODFTMFlLV3JEZjdyVl9KY1pXdldpVVZuZzItMVRRaDA4bWVqcXJ6NG45c2d4dWYtVm4zREQ0YzZqNENZQkpUOVVIVXNhVFk3MF81Nk1Jd3NKTnN0RVVuWlBWWldwSWd6ektUMDdXNER4dEF2Nmg2X3FibXpPaUFWX3dMQjg0N2h0enhLaFRJVlBrQ29aMWVuT2FkQ3lzM3U2SzBVY2V0clVzSjlzUGtvU1I1MVBtLVZReHZXdUhXQlBlT2Q0endhVGl1bUdBTEUyaldmalVjSGc5TWl5ZU5DUEdmVEE0ZGRDdkpiUzdYWGN6elFQQ0JvbFk2c2VPdmNmcnNmNEhlLXNObmYzaDBneGNn?oc=5",
+      "desc": "【Facebook】【三星首度找上台積電造基礎晶粒 原因曝光】 與台積電合作。(#起啵)",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
       "name": "⚡ Google讓一般人用AI自製Andro...",
       "date": "10-18",
       "category": "突發AI",
@@ -56,25 +75,6 @@
       "primaryChain": [
         "f_ai_cloud",
         "t_googl"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 【即時新聞】Meta(META)AI發酵...",
-      "date": "10-18",
-      "category": "突發自駕",
-      "isBreaking": true,
-      "newsTitle": "【即時新聞】Meta(META)AI發酵狂飆15%，特斯拉等7巨頭財報接棒牽動美股走向！",
-      "newsSource": "CMoney投資網誌",
-      "newsDate": "Sun, 18 Oct 2026 14:27:19 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMkE0Y3U2Y0h6S0NBOGdQb1FXWG1rbUZQWU5kYklUNXpBR2hrbWdCbDZyeUs5QWtuMGxIV05CX28ydmhmY1U1a3k4OTM3V3otT0hGcXI4VlNnTXVlMm05bERENzc3enlsUFMyc1lrQVZya3dxM0JBTUh1SWFTeTMzb1d1eno5XzBjTVY3SDloU18?oc=5",
-      "desc": "【CMoney投資網誌】【即時新聞】Meta(META)AI發酵狂飆15%，特斯拉等7巨頭財報接棒牽動美股走向！",
-      "impactTargets": [
-        "t_tsla"
-      ],
-      "primaryChain": [
-        "f_ev_auto",
-        "t_tsla"
       ]
     },
     {
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ev_auto",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發自駕"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
