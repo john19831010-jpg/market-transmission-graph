@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-18 00:42",
+  "updatedAt": "2026-10-18 05:31",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台股週一慘了？他剛買1張台積電好剉 網笑...",
+      "name": "⚡ AI股慘遭拋售！台積電卻被外媒點名「現在...",
       "date": "10-18",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股週一慘了？他剛買1張台積電好剉 網笑：抱這檔才要哭",
+      "newsTitle": "AI股慘遭拋售！台積電卻被外媒點名「現在該買了」 揭背後致勝底氣",
       "newsSource": "自由財經",
-      "newsDate": "Sat, 17 Oct 2026 09:17:12 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBueFNiWnI1LXp2Z19aS3JTM0pNT0lqb2E0UVVUWGNYcmlhWUZYSFZKcGFYNmdIY3lLS0Y1aVJvWGYxRXdXQVQySzRiNHY4bWNWRElKRHozejF0Zko0U1JJ0gFkQVVfeXFMTVBncVpJaVBiNDBTWDF5SGFpWmtaWFhmM3g1Vll6UWducmJ2aWhrYVdVT1drbGI5UldTaVNtOFg0a2NLZkZJdVcwLVpRVC01U21uYjA2cFNOam5ZdGc1WkJNNmpxOA?oc=5",
-      "desc": "【自由財經】台股週一慘了？他剛買1張台積電好剉 網笑：抱這檔才要哭",
+      "newsDate": "Sun, 18 Oct 2026 04:52:53 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jZVJkOU5oMEQ5MnBDSlhTZXQ3UUNMQ2lQb1l6eEVaZTl3bEFrS1lwNGotdmhWWnJ1RWpKQXE0NjRJSlBhWG9CaGtXVVlYZlZQU0p4enhKWVVaNmktbnpz0gFkQVVfeXFMT3RTSE42VzZiWW9DTTcxejZsbWtocm1KWDBDcUxGNEg1aDdMR25rNk13Qmxvak1LU0taYWRNY1RGYnZXNTlScmxUZFRxOGJRNmtENC00TEJ6U3U0cTJyQlk1Z05KdA?oc=5",
+      "desc": "【自由財經】AI股慘遭拋售！台積電卻被外媒點名「現在該買了」 揭背後致勝底氣",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,25 +22,6 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台股季線保衛戰開打！「週年慶來了」台積電...",
-      "date": "10-18",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台股季線保衛戰開打！「週年慶來了」台積電、聯發科等指標股迎打折潮分析師：別錯過、1年才1次",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sat, 17 Oct 2026 04:47:07 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNNG5LV2VyZWtGazI1N2YxbW1lSHA4Ujc2RGFuUVFiVExFTWMwRi1JVnZ3UlFfdm9tX1d0dzN4NjRmXy15ay1kRVM5SHdYZjdQRXJkdWJCaEtNSXg3dEU4OGQ1SDZWRDBzTm9LSlNjZS0xalZTUkVfNm5BM01RZ1Yyby1KcVI2bkZxYTlpbXZIZ0VudVNaQXlsUTRVUnd6c1dibHJ5Q1cxVnRXTmtweHBQXzUzS19takJia1Q3cm5hU3lPOWFJcXdVZ2ZZR1RPbTlQczhBQlZHcU9rYVQwV29FUTdxS201QjhUWVBtWGdHWlBlQThGUmZ3SVFTVXR0NXhocDg1dkJoOGRINm0zWk9oUXdSWXBQLTNuVGFGNWJCVjFyYjhVWWJfczdXd25PZVUyZlAwMFBRaFNOcE9TVXRjMC0xVzUwS09Seno0b1FLLXRHMVlQOEthQXRBakdxaDg3dHFGYTBCUENibFBsWGk4QXBPUVVYU0dTRURZelgzNzBfaFBJRmh6OXNrVlpQSEVpWVFxc1FCSDhmWG9DeVVrVzN3eXJPanpCNHQyN1J3X1pRUUJFdUEyQVMzWXV4Y1FJVV9GdjUzVXlrTWNCS1V5Nk1NaGQ?oc=5",
-      "desc": "【Yahoo股市】台股季線保衛戰開打！「週年慶來了」台積電、聯發科等指標股迎打折潮分析師：別錯過、1年才1次",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 台積電熊本二廠日本准生產3奈米- 日報",
       "date": "10-18",
       "category": "突發半導體",
@@ -59,16 +40,35 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ Gemini 4 Argon：為解決你最...",
+      "id": "e_breaking_3",
+      "name": "⚡ Google AI最新預測！強颱薔琵「7...",
       "date": "10-18",
       "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "Gemini 4 Argon：為解決你最棘手的難題而生",
-      "newsSource": "blog.google",
-      "newsDate": "Sat, 17 Oct 2026 18:25:33 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkh1TWdtV29lRkptcS1hal9PZ25qcDROc0JyQ3dyQ29yaW4zUVQwNXlIU0JUeFdPc2lHNG9jOEFjQ0pIUm1fUlVHZzdRTjVYV284MnlEeVg4czZjTklQS2VORUVvd3dZY01lSDVKczhUbTlvUU1fblZPSkJRM1dIeVZDNmhqRjRNTHh1aDhiZGc?oc=5",
-      "desc": "【blog.google】Gemini 4 Argon：為解決你最棘手的難題而生",
+      "newsTitle": "Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
+      "newsSource": "TVBS新聞網",
+      "newsDate": "Sun, 18 Oct 2026 04:10:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5STWZ2UTdZWnA2RWlIai1mZUhQMHVYdFVXX2F2ZGZTY3lzUUs0UFRRSHZwdTdreUJoVExab1dCRVlKZVlLcXd1VWhoYk1XUQ?oc=5",
+      "desc": "【TVBS新聞網】Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
+      "impactTargets": [
+        "t_googl"
+      ],
+      "primaryChain": [
+        "f_ai_cloud",
+        "t_googl"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ Google讓一般人用AI自製Andro...",
+      "date": "10-18",
+      "category": "突發AI",
+      "isBreaking": true,
+      "newsTitle": "Google讓一般人用AI自製Android App，並直接安裝到手機",
+      "newsSource": "iThome",
+      "newsDate": "Wed, 14 Oct 2026 03:04:24 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVjNpZ1JyQXQxRThCb1FhNkF0b3R2WWVWZ0pEREtsUEdlUlJrVnVlaVJhR0dHUklvaVllV1pJU2h3bWt1OG9yOEpxel9JQQ?oc=5",
+      "desc": "【iThome】Google讓一般人用AI自製Android App，並直接安裝到手機",
       "impactTargets": [
         "t_googl"
       ],
@@ -284,7 +284,7 @@
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
       "price": 4181.1,
       "currency": "美元",
-      "change_pct": -0.23,
+      "change_pct": 0.09,
       "gold_units": {
         "oz_usd": 4181.1,
         "gram_twd": 4359.4,
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_breaking_4",
