@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-10-18 05:31 實時更新</span>
+        <span id="lastUpdateBadge">2026-10-18 10:35 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,10 +336,29 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-10-18 05:31",
+  "updatedAt": "2026-10-18 10:35",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 日媒：台積電熊本廠嘉惠經濟但也帶來挑戰|...",
+      "date": "10-18",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "日媒：台積電熊本廠嘉惠經濟但也帶來挑戰| 全球財經| 全球",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 18 Oct 2026 09:18:56 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02NHNZZ2t2ZlZKRmZ0dGV3Zmo5NU80Y003akRTYkZMSENBZjJYRUxsVldmbmlMeHJHR0tUdWgwQlFiREpZVjNUT0sxZ2RFa2tL?oc=5",
+      "desc": "【UDN】日媒：台積電熊本廠嘉惠經濟但也帶來挑戰| 全球財經| 全球",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ AI股慘遭拋售！台積電卻被外媒點名「現在...",
       "date": "10-18",
       "category": "突發半導體",
@@ -358,16 +377,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 台積電熊本二廠日本准生產3奈米- 日報",
+      "id": "e_breaking_3",
+      "name": "⚡ 薔琵近逼！台積電10／24運動會添變數　...",
       "date": "10-18",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電熊本二廠日本准生產3奈米- 日報",
-      "newsSource": "工商時報",
-      "newsDate": "Sat, 17 Oct 2026 19:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jNzI1dTFuLXJhclFMWjFWNFlHcEFHa29fLWpBMzZwQTlpNDRaNDh4UTJDZnJmMW1QLWhac1RoOHdCbXZqY05sdHA3bzlBVVNMWWszcmdBNS1MM0Z6cGJv?oc=5",
-      "desc": "【工商時報】台積電熊本二廠日本准生產3奈米- 日報",
+      "newsTitle": "薔琵近逼！台積電10／24運動會添變數　員工敲碗2件事",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Sun, 18 Oct 2026 09:23:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BczFYdTViYVRDSjdTRE82Q0x1X2hkZ3Nsb3VCNGRSU19yNWxaQlM0UU9UU2dfTWRqTDJRQUh1MUYtSlA2UmFmY1pRU3hPc05CUVHSAVBBVV95cUxOdE9jc1BtVjFkYkZWZmptUm5EdUx5WVhrZnRLT09MQVdSQVpISGgwUzZmY0hQQjFoRWY2blhtakh1TTVhb1EzREtBT2VIRzM2QQ?oc=5",
+      "desc": "【ETtoday財經雲】薔琵近逼！台積電10／24運動會添變數　員工敲碗2件事",
       "impactTargets": [
         "t_2330"
       ],
@@ -377,41 +396,22 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ Google AI最新預測！強颱薔琵「7...",
-      "date": "10-18",
-      "category": "突發AI",
-      "isBreaking": true,
-      "newsTitle": "Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
-      "newsSource": "TVBS新聞網",
-      "newsDate": "Sun, 18 Oct 2026 04:10:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5STWZ2UTdZWnA2RWlIai1mZUhQMHVYdFVXX2F2ZGZTY3lzUUs0UFRRSHZwdTdreUJoVExab1dCRVlKZVlLcXd1VWhoYk1XUQ?oc=5",
-      "desc": "【TVBS新聞網】Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
-      "impactTargets": [
-        "t_googl"
-      ],
-      "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ Google讓一般人用AI自製Andro...",
+      "name": "⚡ 承認DOGE失敗 馬斯克：解決國家赤字要...",
       "date": "10-18",
-      "category": "突發AI",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "Google讓一般人用AI自製Android App，並直接安裝到手機",
-      "newsSource": "iThome",
-      "newsDate": "Wed, 14 Oct 2026 03:04:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVjNpZ1JyQXQxRThCb1FhNkF0b3R2WWVWZ0pEREtsUEdlUlJrVnVlaVJhR0dHUklvaVllV1pJU2h3bWt1OG9yOEpxel9JQQ?oc=5",
-      "desc": "【iThome】Google讓一般人用AI自製Android App，並直接安裝到手機",
+      "newsTitle": "承認DOGE失敗 馬斯克：解決國家赤字要靠AI",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 18 Oct 2026 06:28:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lOW9tU1d2aGZ5Z0JkbExjVElESndfUmdKQUhFNnd4ci1QeXU3ZHotcFY3UWtOazYtNldXV1RXLTVmS0NodUJjSDBoQ2tZM2160gFWQVVfeXFMUE8za1UyeU1HVHhGWHZGNm1ldkhyeXQ4T3p5TDdmQnByaFF2UlE4ZDZaLUZwUDFZODR4ZXBWN25BQU9KNGRTcTBjWU5BckZSYXZxX2NjRXc?oc=5",
+      "desc": "【UDN】承認DOGE失敗 馬斯克：解決國家赤字要靠AI",
       "impactTargets": [
-        "t_googl"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
@@ -801,15 +801,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_fomc",
