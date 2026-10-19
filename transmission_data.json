@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-18 22:51",
+  "updatedAt": "2026-10-19 00:55",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 薔琵近逼！台積電10／24運動會添變數　...",
-      "date": "10-18",
+      "date": "10-19",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "薔琵近逼！台積電10／24運動會添變數　員工敲碗2件事",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 【三星首度找上台積電造基礎晶粒 原因曝光...",
-      "date": "10-18",
+      "name": "⚡ 台股暴跌3000點是危險還是機會？ASM...",
+      "date": "10-19",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【三星首度找上台積電造基礎晶粒 原因曝光】 與台積電合作。(#起啵)",
-      "newsSource": "Facebook",
-      "newsDate": "Sun, 18 Oct 2026 18:40:02 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiogNBVV95cUxOS3pXS2R0VHNKRTVJTUdPRnJGdmQ1QXJTZEVVTVpFN2x5WVZjOGN5aHdIU0pmbmU4Q082Y29ZWFE2U2JJUk95Q2xMV252eW5mSFFUSzZveHJmd3NwaTdwOHNaTlVhTDZldi1MTjVHTlBDVnk0TVRkMEFJT0lybE4yWUpLZWFfMHBkakZQdGpsNmNHaVU2ZGdtODFTMFlLV3JEZjdyVl9KY1pXdldpVVZuZzItMVRRaDA4bWVqcXJ6NG45c2d4dWYtVm4zREQ0YzZqNENZQkpUOVVIVXNhVFk3MF81Nk1Jd3NKTnN0RVVuWlBWWldwSWd6ektUMDdXNER4dEF2Nmg2X3FibXpPaUFWX3dMQjg0N2h0enhLaFRJVlBrQ29aMWVuT2FkQ3lzM3U2SzBVY2V0clVzSjlzUGtvU1I1MVBtLVZReHZXdUhXQlBlT2Q0endhVGl1bUdBTEUyaldmalVjSGc5TWl5ZU5DUEdmVEE0ZGRDdkpiUzdYWGN6elFQQ0JvbFk2c2VPdmNmcnNmNEhlLXNObmYzaDBneGNn?oc=5",
-      "desc": "【Facebook】【三星首度找上台積電造基礎晶粒 原因曝光】 與台積電合作。(#起啵)",
+      "newsTitle": "台股暴跌3000點是危險還是機會？ASML與台積電指引半導體大趨勢，必看『關鍵供應鏈』名單！",
+      "newsSource": "鉅亨網",
+      "newsDate": "Mon, 19 Oct 2026 00:30:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qa1dHT1gxcmt3Q2ZXRXIydlhPd042RS1iV3RWVVZBTWVMeEVjR29FdXdyUmNvOFk5WUJPTmdyTzltTG13OGhLOFdNX3lvSXM?oc=5",
+      "desc": "【鉅亨網】台股暴跌3000點是危險還是機會？ASML與台積電指引半導體大趨勢，必看『關鍵供應鏈』名單！",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ Google讓一般人用AI自製Andro...",
-      "date": "10-18",
+      "name": "⚡ AI ASIC掀搶單大戰不只聯發科手握G...",
+      "date": "10-19",
       "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "Google讓一般人用AI自製Android App，並直接安裝到手機",
-      "newsSource": "iThome",
-      "newsDate": "Wed, 14 Oct 2026 03:04:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVjNpZ1JyQXQxRThCb1FhNkF0b3R2WWVWZ0pEREtsUEdlUlJrVnVlaVJhR0dHUklvaVllV1pJU2h3bWt1OG9yOEpxel9JQQ?oc=5",
-      "desc": "【iThome】Google讓一般人用AI自製Android App，並直接安裝到手機",
+      "newsTitle": "AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報",
+      "newsSource": "工商時報",
+      "newsDate": "Sun, 18 Oct 2026 19:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uamhOaTFwZkt5UlhQQzY2UUFDaTNiVVYxU0JsZExJMmJaV21DRnNUN3VxUl85eHQyYWVMbkJqWEtfV0ttQTVhQnkzakl2TUt3Y2lDVmxGaWlORW5TU0Mw?oc=5",
+      "desc": "【工商時報】AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報",
       "impactTargets": [
         "t_googl"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google AI最新預測！強颱薔琵「7...",
-      "date": "10-18",
+      "name": "⚡ Google讓一般人用AI自製Andro...",
+      "date": "10-19",
       "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
-      "newsSource": "TVBS",
-      "newsDate": "Sun, 18 Oct 2026 04:10:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5STWZ2UTdZWnA2RWlIai1mZUhQMHVYdFVXX2F2ZGZTY3lzUUs0UFRRSHZwdTdreUJoVExab1dCRVlKZVlLcXd1VWhoYk1XUQ?oc=5",
-      "desc": "【TVBS】Google AI最新預測！強颱薔琵「7成侵襲台灣」路徑曝光",
+      "newsTitle": "Google讓一般人用AI自製Android App，並直接安裝到手機",
+      "newsSource": "iThome",
+      "newsDate": "Wed, 14 Oct 2026 03:04:24 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVjNpZ1JyQXQxRThCb1FhNkF0b3R2WWVWZ0pEREtsUEdlUlJrVnVlaVJhR0dHUklvaVllV1pJU2h3bWt1OG9yOEpxel9JQQ?oc=5",
+      "desc": "【iThome】Google讓一般人用AI自製Android App，並直接安裝到手機",
       "impactTargets": [
         "t_googl"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4198.2,
+      "price": 4192.5,
       "currency": "美元",
-      "change_pct": 0.5,
+      "change_pct": 0.36,
       "gold_units": {
-        "oz_usd": 4198.2,
-        "gram_twd": 4377.2,
-        "qian_twd": 16414,
-        "usdtwd": 32.43
+        "oz_usd": 4192.5,
+        "gram_twd": 4370.0,
+        "qian_twd": 16388,
+        "usdtwd": 32.42
       }
     },
     {
