@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19 19:07",
+  "updatedAt": "2026-10-19 23:25",
   "events": [
     {
       "id": "e_breaking_1",
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 中美AI出口管制同步升溫，鴻海、廣達、台...",
+      "name": "⚡ 火箭加電動車真要合體？SpaceX、特斯...",
       "date": "10-19",
-      "category": "突發半導體",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "中美AI出口管制同步升溫，鴻海、廣達、台積電面臨哪些合規與訂單風險？｜股市話題｜豐雲學堂2026 年 10 月",
-      "newsSource": "永豐金證券",
-      "newsDate": "Mon, 19 Oct 2026 08:17:43 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPaGRiNm1hem9nVFM4S245YmdCT21RWTg4QUhCV09JNEhYV3ctUXBiSFl0eVhZbmh6U2tpMklDcW82bkNCdGRzck5wYXdXUTNoNXBNVk5fSi1rZ19GNWpoT3Y2S3ppc3J3QVhQTFc1LU85bV9KdDdOeG9xRjFmenZCZlVZS0haMmdWWG43dl9sWEtCTE5kTlZRamRIQTRDeFp2VS1iUHZuVUY3NGJPV0Q5QVBSZzZqRTlyZGtYbURiNVltTXQzZmg1QXlCVWkzd3NSUDZYdGYzcHFTN2xJZmhoN3FFOEhIcWw4ZHJRUlpHODhsUFozLUFuS1duNlJ4N0dncmtmR1lMR3hfVndlWE1HTjZTRVVkMGItb0hncENqXzVKZnBfcVVFVXEyOW5SaGFHLThWQnhZS09LVEEwb2VwRlBpMTBtVXBHb1p0SmpZUmoyV05tYl9RQ01XTHhTdjRDWFFJSkwwVlgzZWtZRXFNTzVJTGZua0FmSktzejFyZ1NrMzBGcjZTajN1QTBFQ0N3V1pSRnYwZmduUzRvV2FGZ3BBX0RfLUdpZ3Z0Q1VXWUwxaG85TVVVYnUxMHEtVkx0VkxsOHRwajdFODdaRXRVVVlVQW5UY0NGTmJtTGFTR280YkxTaXZEbXRwYjNfYkR5bE9xZ2FmQTR3d1I0VFg0YmFXVEZTdw?oc=5",
-      "desc": "【永豐金證券】中美AI出口管制同步升溫，鴻海、廣達、台積電面臨哪些合規與訂單風險？｜股市話題｜豐雲學堂2026 年 10 月",
+      "newsTitle": "火箭加電動車真要合體？SpaceX、特斯拉財報將揭馬斯克AI夢誰買單",
+      "newsSource": "鉅亨網",
+      "newsDate": "Mon, 19 Oct 2026 11:52:41 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2LTJCelBmOUZrQllMa2ZfM1Vud0JNbXVDbzFad29fSjJKb3hZWFRza052bDZDTXhDbW1CWWVES0dONFRna1A3bWp6eDhZMjg?oc=5",
+      "desc": "【鉅亨網】火箭加電動車真要合體？SpaceX、特斯拉財報將揭馬斯克AI夢誰買單",
       "impactTargets": [
-        "t_2330"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4165.3,
+      "price": 4152.5,
       "currency": "美元",
-      "change_pct": 1.4,
+      "change_pct": 1.09,
       "gold_units": {
-        "oz_usd": 4165.3,
-        "gram_twd": 4348.3,
-        "qian_twd": 16306,
-        "usdtwd": 32.47
+        "oz_usd": 4152.5,
+        "gram_twd": 4337.6,
+        "qian_twd": 16266,
+        "usdtwd": 32.49
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 719.78,
+      "price": 718.36,
       "currency": "美元",
-      "change_pct": -3.52
+      "change_pct": -3.71
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 705.817,
+      "price": 704.6,
       "currency": "美元",
-      "change_pct": -1.3
+      "change_pct": -1.47
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 345.34,
+      "price": 344.18,
       "currency": "美元",
-      "change_pct": -2.09
+      "change_pct": -2.42
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 368.85,
+      "price": 368.06,
       "currency": "美元",
-      "change_pct": -2.43
+      "change_pct": -2.64
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_fomc",
