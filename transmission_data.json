@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-19 00:55",
+  "updatedAt": "2026-10-19 05:51",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 薔琵近逼！台積電10／24運動會添變數　...",
+      "name": "⚡ 2590T學長姐何時解套？台積電今跌30...",
       "date": "10-19",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "薔琵近逼！台積電10／24運動會添變數　員工敲碗2件事",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Sun, 18 Oct 2026 09:23:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BczFYdTViYVRDSjdTRE82Q0x1X2hkZ3Nsb3VCNGRSU19yNWxaQlM0UU9UU2dfTWRqTDJRQUh1MUYtSlA2UmFmY1pRU3hPc05CUVHSAVBBVV95cUxOdE9jc1BtVjFkYkZWZmptUm5EdUx5WVhrZnRLT09MQVdSQVpISGgwUzZmY0hQQjFoRWY2blhtakh1TTVhb1EzREtBT2VIRzM2QQ?oc=5",
-      "desc": "【ETtoday財經雲】薔琵近逼！台積電10／24運動會添變數　員工敲碗2件事",
+      "newsTitle": "2590T學長姐何時解套？台積電今跌30元「失守2400元關卡」 分析師給指標",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Mon, 19 Oct 2026 01:42:16 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQU3lFc1RXREM2bTNqZE5VdGY4blZVVFM3TWwwVUpWWTBWSkI4d2ZoN0dXVVFPZHhwTGg0T05mLWR1NVdCdVNUdXN3Y2NYQ1dXM1BMR085UHdrT2NDMWJYQS00aEpnaEJ4SWVLb0pVXzl5cXBXLWVTYlJKcGFXd19jXzVMQXpqTFVSNVdTeC0yVWR1aWl4V0dacG92cWMxc0dxTkVERUdWMC1Gb0Z4bzJzbjEzMVhEbGU4a2NuelVnajRzcUZ4azc4YnVpWkh6LXZRaW5MbUNnclU5MFBHaC1QSXpfYkFTajRmWTlEbkgxN3pLZk9CeFB2VFFLVHlLeEV0OTNOeXNpd3c5LWZ0dE1wRUx0bkViek5MbmVzWTFKS0xLUnYtR0ZRaWMtOUZsSnhpaXdlOEhSTERoX3VRU2thM0h0ZHQxOHBwRXZhWVc0SjRwUUZUaE1hdFlldVhqUW5KRGlaR0YtdTFQMVZ5TllyMlZ1YUZGTDVFXzJ1a0NqVFZzc3Z0bTQxcHpITm0xckthNk1LUjZibzU0SnJHbTEzY21wSEhFNXFYV1g3ZXZGUQ?oc=5",
+      "desc": "【Yahoo股市】2590T學長姐何時解套？台積電今跌30元「失守2400元關卡」 分析師給指標",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台股暴跌3000點是危險還是機會？ASM...",
+      "name": "⚡ 投資台積電該買台股還是買ADR？證交所董...",
       "date": "10-19",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股暴跌3000點是危險還是機會？ASML與台積電指引半導體大趨勢，必看『關鍵供應鏈』名單！",
-      "newsSource": "鉅亨網",
-      "newsDate": "Mon, 19 Oct 2026 00:30:07 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Qa1dHT1gxcmt3Q2ZXRXIydlhPd042RS1iV3RWVVZBTWVMeEVjR29FdXdyUmNvOFk5WUJPTmdyTzltTG13OGhLOFdNX3lvSXM?oc=5",
-      "desc": "【鉅亨網】台股暴跌3000點是危險還是機會？ASML與台積電指引半導體大趨勢，必看『關鍵供應鏈』名單！",
+      "newsTitle": "投資台積電該買台股還是買ADR？證交所董座這麼說",
+      "newsSource": "UDN",
+      "newsDate": "Mon, 19 Oct 2026 04:13:10 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JNTVzMWEtQXhVSUhmajVMZVMzRHVxNDRRRDhDVTBEQ2lEUzlpdV9DaVJReDdpTmxaVm90T3dTQ3dteFZtdmNuZVozVURodmFP0gFWQVVfeXFMTldxYUNsMlJWQmlvYzA1MDNFY1preVhXLTdPQlRJWWw0R2xTSGcyalhOZV9Yb2dXT3NCelJvUERZMjFUMXdocV9IaHpLU1BiUFFQX2tQUnc?oc=5",
+      "desc": "【UDN】投資台積電該買台股還是買ADR？證交所董座這麼說",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,40 +41,40 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ AI ASIC掀搶單大戰不只聯發科手握G...",
+      "name": "⚡ 點名台積電！超驚人目標價曝光 外資喊「5...",
       "date": "10-19",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報",
-      "newsSource": "工商時報",
-      "newsDate": "Sun, 18 Oct 2026 19:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uamhOaTFwZkt5UlhQQzY2UUFDaTNiVVYxU0JsZExJMmJaV21DRnNUN3VxUl85eHQyYWVMbkJqWEtfV0ttQTVhQnkzakl2TUt3Y2lDVmxGaWlORW5TU0Mw?oc=5",
-      "desc": "【工商時報】AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報",
+      "newsTitle": "點名台積電！超驚人目標價曝光 外資喊「5000元」",
+      "newsSource": "自由財經",
+      "newsDate": "Mon, 19 Oct 2026 02:06:56 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55aVJkUHhPZ0hfTWpOY3dRZU4yZVl3VjQ5ZVJnUDFjTEJ2bkpfbndiSEQ5YVVkcEZ2SW5WUjJDMXRlLUREd05udTNVNFZLMEJ3ZTJJY2sxb1BzOFFQVE8w0gFkQVVfeXFMT3E5U2ZkQXRwTS1Pc2dmcEFaZzJWS3dWWjRkRkdOSGpQaU5ZcWtERG1qTU1mNFdudmR4d2lXUFI3Z2tRUF94OWpMQzVOeDZUdmFoYkVqZ0JOWW02Xy1wNnh2SUxqNA?oc=5",
+      "desc": "【自由財經】點名台積電！超驚人目標價曝光 外資喊「5000元」",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google讓一般人用AI自製Andro...",
+      "name": "⚡ 日政府批准台積電熊本二廠生產3奈米月產能...",
       "date": "10-19",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Google讓一般人用AI自製Android App，並直接安裝到手機",
-      "newsSource": "iThome",
-      "newsDate": "Wed, 14 Oct 2026 03:04:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmVjNpZ1JyQXQxRThCb1FhNkF0b3R2WWVWZ0pEREtsUEdlUlJrVnVlaVJhR0dHUklvaVllV1pJU2h3bWt1OG9yOEpxel9JQQ?oc=5",
-      "desc": "【iThome】Google讓一般人用AI自製Android App，並直接安裝到手機",
+      "newsTitle": "日政府批准台積電熊本二廠生產3奈米月產能6千片- 新聞",
+      "newsSource": "MoneyDJ",
+      "newsDate": "Mon, 19 Oct 2026 02:15:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1hxOXZPWXctbDl6QTVMLWpiZTh3SDRQaUpEOGY5cEp2eXJETWYzaC1Ycy1nQ1QyTkJ4SDJoTUpncmROOWJiQXNiQjlmbkpiUjlHUThWb0lDc1hYV1pmY0lZVHNYU2hEbWZQd0lvWi1hZFdtTlFEeUp0VWFGUlN5eXVaaXRTcHRoanR1MUlrOHdKdw?oc=5",
+      "desc": "【MoneyDJ】日政府批准台積電熊本二廠生產3奈米月產能6千片- 新聞",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4192.5,
+      "price": 4205.2,
       "currency": "美元",
-      "change_pct": 0.36,
+      "change_pct": 2.37,
       "gold_units": {
-        "oz_usd": 4192.5,
-        "gram_twd": 4370.0,
-        "qian_twd": 16388,
-        "usdtwd": 32.42
+        "oz_usd": 4205.2,
+        "gram_twd": 4388.6,
+        "qian_twd": 16457,
+        "usdtwd": 32.46
       }
     },
     {
@@ -368,7 +368,7 @@
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
       "price": 2420.0,
       "currency": "台幣",
-      "change_pct": -4.72
+      "change_pct": -2.81
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1635.0,
+      "price": 1640.0,
       "currency": "台幣",
-      "change_pct": -13.95
+      "change_pct": -7.61
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 109.0,
+      "price": 108.15,
       "currency": "台幣",
-      "change_pct": -5.05
+      "change_pct": -3.78
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 57.0,
+      "price": 56.5,
       "currency": "台幣",
-      "change_pct": -8.06
+      "change_pct": -5.83
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.3,
+      "price": 27.15,
       "currency": "台幣",
-      "change_pct": 1.11
+      "change_pct": 3.04
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 54.3,
+      "price": 54.1,
       "currency": "台幣",
-      "change_pct": 7.74
+      "change_pct": 4.24
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 45.75,
+      "price": 45.25,
       "currency": "台幣",
-      "change_pct": 1.22
+      "change_pct": 1.12
     }
   ],
   "links": [
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
