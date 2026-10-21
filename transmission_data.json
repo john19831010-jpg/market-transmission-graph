@@ -1,15 +1,34 @@
 {
-  "updatedAt": "2026-10-21 07:15",
+  "updatedAt": "2026-10-21 13:34",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電也要跌了？陳嘉偉示警「技術面真的醜...",
+      "date": "10-21",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
+      "newsSource": "UDN",
+      "newsDate": "Wed, 21 Oct 2026 07:45:26 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83ZWZQQ08wbzdEZDh0RFdSX3BFemlENlIyTDI3QXRicEFmSlV3RUdrYzhaTG1xMWV1Y3J5aXBwY1ZodEFaQlV5X0F3eG5xel9YdGfSAVdBVV95cUxOWW12RUtNVWFTYVNRQl9HdUFhY1Jma2dnMXhlalUtd2Q2Y09yWFlsQWxGZ3RkUGU0dHh6SHNxLWxZTUZKYjdITkh2allRTlBINHZUcFhLS00?oc=5",
+      "desc": "【UDN】台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 韓媒認了台積電太強！再點名「3台廠」擴大...",
       "date": "10-21",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
       "newsSource": "Yahoo股市",
-      "newsDate": "Wed, 21 Oct 2026 05:06:50 GMT",
+      "newsDate": "Wed, 21 Oct 2026 05:00:00 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdTJoN2w2YWR2R08tZDlEVVhHRTJPZ3lKYUx1c2I2NmQ0aUh4aHJoazRSNHFsTmFraXQ4SjYzbHpyYms1RVRQSC0tcjdNMUZTZmNQcEsxZHZFQXlKZFlkTmJWWlBCVXpFYThORlpPd0ZBeWRmclpwRl85VmxPY2NWbXg3MGtRNU93QmpVRGdpNkpudjVPM1B6eS13Z2FUa3hlSC1sTmotcy1oSGRQOXBFSzExNVQxY05PNmV2QUYxOFlYRDNOWUhMeksyUWJQaEEtN0dIYUFZYXNwR056TmxPZnhDdlB2Tm5lRkM5cG81b0V2eUNLbS1aeHg5TzdCdmk3M0dJYW9NVTFxUmxvTkNtN0FOZUozdnFYc09BNWlsQ1J6dmRsLTRnM256eFpKQmFsR3NBeXB4TEM1cFpvcWZWRmJPX0ZENTR5OU5wbFNRV2dqV1k0RDUxU2duUDFKeFFTVzNBaVJ6R3FfUGRRaXZ3cXpRckNFX2hOZDZtMmVMazZHQQ?oc=5",
       "desc": "【Yahoo股市】韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
       "impactTargets": [
@@ -21,7 +40,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
+      "id": "e_breaking_3",
       "name": "⚡ 台積電高雄廠工安事故 工人高處墜落釀4死",
       "date": "10-21",
       "category": "突發半導體",
@@ -40,35 +59,16 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 台積電工安4死！同事目睹「整座鋼構垮了」...",
       "date": "10-21",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電工安4死！同事目睹「整座鋼構垮了」嚇傻：綁安全繩也沒用",
       "newsSource": "Facebook",
-      "newsDate": "Wed, 21 Oct 2026 03:52:27 GMT",
+      "newsDate": "Wed, 21 Oct 2026 09:43:58 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNQkZKeEwwVFBHODJGN240eEhpODJXTXVJRXRFSnRNT1RoZVlVdjh1Rnh5RkxtWnJWN0ZwRHp2akRVa09YUkVySEFKTTZDQ1piODFYbVZFNll0bENOaHhFM0lTbC1GdEZJQzl4Q0FJWU5pYjJLYkJ1X3hFRTZpeEl4eERyVm9DcEgySXlXMGpxR2U1bDNkM3pGZXJXNld3YVJaVkJQN2ZSZGpkWEVyZC1mRVFjdXF4S2Nmd3UwQ1dFTWcyOEZBbk1GSWV1Mlg0NXU5WmJVUFRwMWZkUkZQbUxrdGEwTGZRbUhDWUM1QWZYNFowb2JsaGZ6bEoyVXpabHFmMFpaQVNQWVVtUU43a1dDZ3cyTGdxVTFKQzBEWEJRTVlNNjBjdkNyQTZLdFdTWW56dGNFRWtqSXlFUS0yUzRkQXZkSnAzbW52bGFLN0gzTGMxTzZCaVV3N0YxRHkySVR3alZyQ1RHNFJIZWRITkdkMllQWmhxTXBUVWJqRlZjYndzNDlBeEZTRmFTRUJ2VklHajBJSm9B?oc=5",
       "desc": "【Facebook】台積電工安4死！同事目睹「整座鋼構垮了」嚇傻：綁安全繩也沒用",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電楠梓廠重大工安釀第4死 最後一名傷...",
-      "date": "10-21",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電楠梓廠重大工安釀第4死 最後一名傷者搶救昨深夜不治",
-      "newsSource": "UDN",
-      "newsDate": "Wed, 21 Oct 2026 00:56:11 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KRVFvbHBIcmVCeXBfWXB0WE9EQzN5Q25TdkY0SFp5UzJLcHFxWm42aHBScmR4TzkxSTZrWVl2d1VuekdPb0xGbG9nOEhzYzNP0gFWQVVfeXFMT1BYZVRheExpdlczMmd5RVBEZ1VhUDBuX041MGhVR0FZNE1xLU43TzRxMm5qNmx0U2tBRFRHbV9qRFE5SW1fZTR3QUY1bi1SbS1VT0RGd1E?oc=5",
-      "desc": "【UDN】台積電楠梓廠重大工安釀第4死 最後一名傷者搶救昨深夜不治",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4132.3,
+      "price": 4156.9,
       "currency": "美元",
-      "change_pct": -1.17,
+      "change_pct": -0.58,
       "gold_units": {
-        "oz_usd": 4132.3,
-        "gram_twd": 4309.9,
-        "qian_twd": 16162,
-        "usdtwd": 32.44
+        "oz_usd": 4156.9,
+        "gram_twd": 4328.8,
+        "qian_twd": 16233,
+        "usdtwd": 32.39
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 717.63,
+      "price": 722.075,
       "currency": "美元",
-      "change_pct": -3.49
+      "change_pct": -0.94
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 706.8,
+      "price": 707.9,
       "currency": "美元",
-      "change_pct": -1.17
+      "change_pct": 0.07
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 340.275,
+      "price": 331.75,
       "currency": "美元",
-      "change_pct": -3.82
+      "change_pct": -4.57
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 373.71,
+      "price": 384.38,
       "currency": "美元",
-      "change_pct": -0.41
+      "change_pct": 4.69
     },
     {
       "id": "t_spacex",
