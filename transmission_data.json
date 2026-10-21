@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-21 18:29",
+  "updatedAt": "2026-10-21 22:11",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 韓媒認了台積電太強！再點名「3台廠」擴大...",
+      "name": "⚡ 台積電也要跌了？陳嘉偉示警「技術面真的醜...",
       "date": "10-21",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Wed, 21 Oct 2026 05:06:50 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdTJoN2w2YWR2R08tZDlEVVhHRTJPZ3lKYUx1c2I2NmQ0aUh4aHJoazRSNHFsTmFraXQ4SjYzbHpyYms1RVRQSC0tcjdNMUZTZmNQcEsxZHZFQXlKZFlkTmJWWlBCVXpFYThORlpPd0ZBeWRmclpwRl85VmxPY2NWbXg3MGtRNU93QmpVRGdpNkpudjVPM1B6eS13Z2FUa3hlSC1sTmotcy1oSGRQOXBFSzExNVQxY05PNmV2QUYxOFlYRDNOWUhMeksyUWJQaEEtN0dIYUFZYXNwR056TmxPZnhDdlB2Tm5lRkM5cG81b0V2eUNLbS1aeHg5TzdCdmk3M0dJYW9NVTFxUmxvTkNtN0FOZUozdnFYc09BNWlsQ1J6dmRsLTRnM256eFpKQmFsR3NBeXB4TEM1cFpvcWZWRmJPX0ZENTR5OU5wbFNRV2dqV1k0RDUxU2duUDFKeFFTVzNBaVJ6R3FfUGRRaXZ3cXpRckNFX2hOZDZtMmVMazZHQQ?oc=5",
-      "desc": "【Yahoo股市】韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
+      "newsTitle": "台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
+      "newsSource": "UDN",
+      "newsDate": "Wed, 21 Oct 2026 07:45:26 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83ZWZQQ08wbzdEZDh0RFdSX3BFemlENlIyTDI3QXRicEFmSlV3RUdrYzhaTG1xMWV1Y3J5aXBwY1ZodEFaQlV5X0F3eG5xel9YdGfSAVdBVV95cUxOWW12RUtNVWFTYVNRQl9HdUFhY1Jma2dnMXhlalUtd2Q2Y09yWFlsQWxGZ3RkUGU0dHh6SHNxLWxZTUZKYjdITkh2allRTlBINHZUcFhLS00?oc=5",
+      "desc": "【UDN】台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電也要跌了？陳嘉偉示警「技術面真的醜...",
+      "name": "⚡ 韓媒認了台積電太強！再點名「3台廠」擴大...",
       "date": "10-21",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
-      "newsSource": "UDN",
-      "newsDate": "Wed, 21 Oct 2026 07:45:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83ZWZQQ08wbzdEZDh0RFdSX3BFemlENlIyTDI3QXRicEFmSlV3RUdrYzhaTG1xMWV1Y3J5aXBwY1ZodEFaQlV5X0F3eG5xel9YdGfSAVdBVV95cUxOWW12RUtNVWFTYVNRQl9HdUFhY1Jma2dnMXhlalUtd2Q2Y09yWFlsQWxGZ3RkUGU0dHh6SHNxLWxZTUZKYjdITkh2allRTlBINHZUcFhLS00?oc=5",
-      "desc": "【UDN】台積電也要跌了？陳嘉偉示警「技術面真的醜」：想賺錢只能放空電子股",
+      "newsTitle": "韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Wed, 21 Oct 2026 05:06:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPdTJoN2w2YWR2R08tZDlEVVhHRTJPZ3lKYUx1c2I2NmQ0aUh4aHJoazRSNHFsTmFraXQ4SjYzbHpyYms1RVRQSC0tcjdNMUZTZmNQcEsxZHZFQXlKZFlkTmJWWlBCVXpFYThORlpPd0ZBeWRmclpwRl85VmxPY2NWbXg3MGtRNU93QmpVRGdpNkpudjVPM1B6eS13Z2FUa3hlSC1sTmotcy1oSGRQOXBFSzExNVQxY05PNmV2QUYxOFlYRDNOWUhMeksyUWJQaEEtN0dIYUFZYXNwR056TmxPZnhDdlB2Tm5lRkM5cG81b0V2eUNLbS1aeHg5TzdCdmk3M0dJYW9NVTFxUmxvTkNtN0FOZUozdnFYc09BNWlsQ1J6dmRsLTRnM256eFpKQmFsR3NBeXB4TEM1cFpvcWZWRmJPX0ZENTR5OU5wbFNRV2dqV1k0RDUxU2duUDFKeFFTVzNBaVJ6R3FfUGRRaXZ3cXpRckNFX2hOZDZtMmVMazZHQQ?oc=5",
+      "desc": "【Yahoo股市】韓媒認了台積電太強！再點名「3台廠」擴大半導體優勢 嘆三星、SK海力士恐難追上",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4157.8,
+      "price": 4157.6,
       "currency": "美元",
       "change_pct": -0.56,
       "gold_units": {
-        "oz_usd": 4157.8,
-        "gram_twd": 4329.8,
-        "qian_twd": 16237,
+        "oz_usd": 4157.6,
+        "gram_twd": 4329.6,
+        "qian_twd": 16236,
         "usdtwd": 32.39
       }
     },
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 727.187,
+      "price": 725.2,
       "currency": "美元",
-      "change_pct": -0.24
+      "change_pct": -0.51
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 711.759,
+      "price": 710.72,
       "currency": "美元",
-      "change_pct": 0.61
+      "change_pct": 0.47
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 334.91,
+      "price": 334.76,
       "currency": "美元",
-      "change_pct": -3.66
+      "change_pct": -3.7
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 386.92,
+      "price": 386.47,
       "currency": "美元",
-      "change_pct": 5.38
+      "change_pct": 5.26
     },
     {
       "id": "t_spacex",
