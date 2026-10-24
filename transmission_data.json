@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-24 14:20",
+  "updatedAt": "2026-10-24 17:56",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 【台積電運動會取消 基層員工每人「發3萬...",
+      "name": "⚡ 台積電獲利連6季創新高！股價卻不漲反跌 ...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【台積電運動會取消 基層員工每人「發3萬獎金」】 （#大表哥）",
-      "newsSource": "Facebook",
-      "newsDate": "Sat, 24 Oct 2026 03:30:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUy1yMkFjOW1NQ2ZJam5GX1A0ZHdiYW01YzAtT1dUeE5CRjJkcklmLXZuU1Z4SFp3ckUtNFpaM2Vyc05yUWdtNmhZQkhuRENOZmRSS1NjVHNNRjd2R3NYUkE5TERwTzM2NkhtaDlaSnZ0MF9FRUFzeTFVcncyam9UYzBKRFNVNlhtOHoyOG9XaU5IVUtwQ1J3Slo1aGFRLWN0ckxKSXU5Zm5MTmlJM0Ytd3RpZWlQSWZJMXotZUxrdXJJWHdWQUdIMkNsV3VmZWFMMEM2REQyZ2VmaktIeTlrYnVlWk14cW1fcmt0MFBrdkhzb25KaGtySndNZGFfTzNmS3JpVmtsaVp0YThVR1Q0VG9oeVMtQ185bVdFOHJMbTFDaFB4elh3LXNlOWN1bjdiSDB5RHRrZC05dlFvLUl5WEwwWUF3SEc5am11QVJnYkI0XzF3QXBRRnNLQWxsdkk5a0hjOUFkWQ?oc=5",
-      "desc": "【Facebook】【台積電運動會取消 基層員工每人「發3萬獎金」】 （#大表哥）",
+      "newsTitle": "台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sat, 24 Oct 2026 12:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPY0w2VHZKWFNpSGNST1FQYTctM2pwWEZib3dmX0g1OFpUUWxYb2tPd1U0Nnh1WkwzQlZYaWlqNFc0eUxHV0NGbV9aNS1aWDBVZ3JFWXdySE5KNllObDVNSThUaWxKUGdPbFdkaDdTNGZhQlI2RVZqZXZpNzVTRDR5MDI5UF9ROGFISFhmTGFMMEtueUp4VkRleVFXMzJoZ0ZoNVM2YUp1T3llYkJvWnZLU2pPU2YyalIxRGU4ZVBXMk9xRkRYUzRISERReHNvaHpxeW44RUtUWGpydG05RHFIT0F0N3RJVEozczNIYjNUZE1ic3hkX1QxU3hPMVcyRkRtZjlhRy1yRU4zbk1jZzlQeWM4cUg2U0s3ckJzUmtNbFVvMW1uaXlDRXhwUDhYdVNNQmZ6eFJlaEdQcHljZnpsNG1GSHVhaUhFMmN5cS1IQlJXem5JbFJkQlNjdzRYR0tMQmpGYThUZnVSZExaa1hFOHhtdnI1aWlYWDlJeVdRbw?oc=5",
+      "desc": "【Yahoo股市】台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電獲利連6季創新高！股價卻不漲反跌 ...",
+      "name": "⚡ 點名台積電！外媒曝比「這巨頭」更值得投資",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sat, 24 Oct 2026 12:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPY0w2VHZKWFNpSGNST1FQYTctM2pwWEZib3dmX0g1OFpUUWxYb2tPd1U0Nnh1WkwzQlZYaWlqNFc0eUxHV0NGbV9aNS1aWDBVZ3JFWXdySE5KNllObDVNSThUaWxKUGdPbFdkaDdTNGZhQlI2RVZqZXZpNzVTRDR5MDI5UF9ROGFISFhmTGFMMEtueUp4VkRleVFXMzJoZ0ZoNVM2YUp1T3llYkJvWnZLU2pPU2YyalIxRGU4ZVBXMk9xRkRYUzRISERReHNvaHpxeW44RUtUWGpydG05RHFIT0F0N3RJVEozczNIYjNUZE1ic3hkX1QxU3hPMVcyRkRtZjlhRy1yRU4zbk1jZzlQeWM4cUg2U0s3ckJzUmtNbFVvMW1uaXlDRXhwUDhYdVNNQmZ6eFJlaEdQcHljZnpsNG1GSHVhaUhFMmN5cS1IQlJXem5JbFJkQlNjdzRYR0tMQmpGYThUZnVSZExaa1hFOHhtdnI1aWlYWDlJeVdRbw?oc=5",
-      "desc": "【Yahoo股市】台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
+      "newsTitle": "點名台積電！外媒曝比「這巨頭」更值得投資",
+      "newsSource": "自由財經",
+      "newsDate": "Sat, 24 Oct 2026 07:54:44 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZXVLQ2M4ZnNBWnBWUUFJVVRjd3hkZHNTT1QySEZ3bnJoZTJmb2Rla3lmdURxZi0tLVNKV3pIRXlKU2tOQ1ZDdDFZakFzb3UxN3NzTUFjd29YRmFiTXA00gFkQVVfeXFMTkhjck9jVm9OcXJRV0dnSlhDM2ZHV2o3S3c5MVNLdUdwUDZLbUd3Q0J6T1FET0RTUl9VdHlYNktTYV9hMGp0WmduVUh1WWoxTlM5V25tMHEyNnVqX2pXelU1eE1iSA?oc=5",
+      "desc": "【自由財經】點名台積電！外媒曝比「這巨頭」更值得投資",
       "impactTargets": [
         "t_2330"
       ],
