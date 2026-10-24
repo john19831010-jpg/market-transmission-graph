@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 20:34",
+  "updatedAt": "2026-10-24 22:58",
   "events": [
     {
       "id": "e_breaking_1",
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 川普又放話！美股大跌652點　台積電AD...",
+      "name": "⚡ 油價取代AI泡沫成美股頭號風險分析籲下月...",
       "date": "10-24",
-      "category": "突發半導體",
+      "category": "突發貴金屬",
       "isBreaking": true,
-      "newsTitle": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49%",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Fri, 23 Oct 2026 21:54:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5",
-      "desc": "【ETtoday財經雲】川普又放話！美股大跌652點　台積電ADR逆勢漲1.49%",
+      "newsTitle": "油價取代AI泡沫成美股頭號風險分析籲下月中旬前控制倉位戰術性避險- 財經",
+      "newsSource": "香港文匯報",
+      "newsDate": "Sat, 24 Oct 2026 20:26:03 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BVHpaa0t4eXNmcDRmanB0RGlGdUV2WFQ5ZkltcGNqWTJGQzBHMVdvQWM1M01WejAyaWZYYWk3M2FzTThzc1kzcmdqV0FFTXpCaGNDa0ZGR01YRWdKdnpfZVNGMWJJMHNCdGx1eS1xTmItOTI2UWxz?oc=5",
+      "desc": "【香港文匯報】油價取代AI泡沫成美股頭號風險分析籲下月中旬前控制倉位戰術性避險- 財經",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_dollar",
+        "t_gold"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_dollar",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發貴金屬"
     },
     {
       "source": "e_fomc",
