@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 10:31",
+  "updatedAt": "2026-10-24 14:20",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 只要台積電破月線「就買進這檔」？ 他喊全...",
+      "name": "⚡ 台積電獲利連6季創新高！股價卻不漲反跌 ...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
+      "newsTitle": "台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
       "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 23 Oct 2026 14:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPd2xLeGkxTGJOZl9JdHFXMEtjbUdvM0UwcE5QXzZvbFhacFRPTjdORmc5M0hPVllsSExobTBfY2h5NGpPVVVWUjN6ek9wQ0ZJY1FTME5uNDdMZ2xyaTNzV0w5VmlEZlZrTHdaUTVmWXU0NnNkU2ZqSldlQ3pDbFVLMlRncGlJQVZONHhkcWE1Rjh0cEtURkhHMmxMV0Eyb1pFQjhNdmt5aW5rRGdmLXRWTTBnSWtpalU1Znl1djlrOVk1MjVOcUo5MmRRN1lselZvLVJoSDFsbzlTNm9VUlNtUHN1UEUzUjV0RFJyLXhYTUtKbXE0OVVlal9XcFlxZlFkS0dvUjFTbUxfYXJuVGlMZ09nbVIxUVByVC16a1Jkb0txbW9WMUNaRU5GbmtHbmRoRTlZbVp4ZW91bmhRa3R2V0VrUWROU0E3dzF2R2pTWkc4VnZJSTlHWkFRTHE4cmJsQ2VaS2hWc0xMWVB5QVQ2ZWU1eUY?oc=5",
-      "desc": "【Yahoo股市】只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
+      "newsDate": "Sat, 24 Oct 2026 12:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPY0w2VHZKWFNpSGNST1FQYTctM2pwWEZib3dmX0g1OFpUUWxYb2tPd1U0Nnh1WkwzQlZYaWlqNFc0eUxHV0NGbV9aNS1aWDBVZ3JFWXdySE5KNllObDVNSThUaWxKUGdPbFdkaDdTNGZhQlI2RVZqZXZpNzVTRDR5MDI5UF9ROGFISFhmTGFMMEtueUp4VkRleVFXMzJoZ0ZoNVM2YUp1T3llYkJvWnZLU2pPU2YyalIxRGU4ZVBXMk9xRkRYUzRISERReHNvaHpxeW44RUtUWGpydG05RHFIT0F0N3RJVEozczNIYjNUZE1ic3hkX1QxU3hPMVcyRkRtZjlhRy1yRU4zbk1jZzlQeWM4cUg2U0s3ckJzUmtNbFVvMW1uaXlDRXhwUDhYdVNNQmZ6eFJlaEdQcHljZnpsNG1GSHVhaUhFMmN5cS1IQlJXem5JbFJkQlNjdzRYR0tMQmpGYThUZnVSZExaa1hFOHhtdnI1aWlYWDlJeVdRbw?oc=5",
+      "desc": "【Yahoo股市】台積電獲利連6季創新高！股價卻不漲反跌 外媒揭市場擔憂",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 小編下班聊點錢》晶片漲價25％ 半導體噴...",
+      "name": "⚡ 謝金河：台積電營收超越前瞻上限 股價22...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "小編下班聊點錢》晶片漲價25％ 半導體噴到2028！法人必收6檔：台積電、日月光、聯發科、鴻勁…目標價EPS一表看",
-      "newsSource": "旺得富理財網",
-      "newsDate": "Sat, 24 Oct 2026 09:08:57 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUWFVZHhmcldFeXF1LUFVU1c4OTB2cXg0Z2ZnVjRUaFN0RXlPdVktQnV1VGhPSVdHUVgwR2VsdGFtYl9raFVObV9NVHhYdjVMM29jTGwtc05LM2dTeUc1UGNzQ3E3all0VWc?oc=5",
-      "desc": "【旺得富理財網】小編下班聊點錢》晶片漲價25％ 半導體噴到2028！法人必收6檔：台積電、日月光、聯發科、鴻勁…目標價EPS一表看",
+      "newsTitle": "謝金河：台積電營收超越前瞻上限 股價2230元有強支撐 5萬點前先鞏固",
+      "newsSource": "經濟日報",
+      "newsDate": "Sat, 24 Oct 2026 10:31:34 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaTBXZEJONkVjNS1CUWc3Z3BZeTFnMXVlcmxpM1hVWHplQzBTNTlRZzBoREhZcGNLZ085aEMzZWZoaWlTNUUyVUNwR3VEZ29lTkRKUjJuTkZPZ9IBX0FVX3lxTE9EcmpOVjlGTXo1dEtNWXFMQ3dDOGFvUV9qSmhmQlo0a1JGVjRiVlZRbHhxMGR1T0hRY0x1OVlpaXVOOGhoT25qWldyZFpiWEN4RWtsWS1IUmVUd0dmX0o4?oc=5",
+      "desc": "【經濟日報】謝金河：台積電營收超越前瞻上限 股價2230元有強支撐 5萬點前先鞏固",
       "impactTargets": [
         "t_2330"
       ],
