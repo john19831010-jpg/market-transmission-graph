@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24 05:30",
+  "updatedAt": "2026-10-24 10:31",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電明年營收能否破 8 兆？不只看輝達...",
+      "name": "⚡ 只要台積電破月線「就買進這檔」？ 他喊全...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
-      "newsSource": "TechNews 科技新報",
-      "newsDate": "Sat, 24 Oct 2026 02:17:47 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHJLLUNjVWdrSUhYb01rU1VwX0VONDJpRF9oemd3VjlGVkU2NFRibHF5Y05jbnZHblFDaHVNQldRY3FmTUJlYXdhV2I2bXpMQmRQWnFqcS1pMmJpcFhVejNOQURhLVBvTEJWQnZxUU5qTGxXbTBwcjZIOXBsSkItUl9jbkZQa3ZPRmQ3T2g5VWs?oc=5",
-      "desc": "【TechNews 科技新報】台積電明年營收能否破 8 兆？不只看輝達，更要看蘇姿丰",
+      "newsTitle": "只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Fri, 23 Oct 2026 14:15:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPd2xLeGkxTGJOZl9JdHFXMEtjbUdvM0UwcE5QXzZvbFhacFRPTjdORmc5M0hPVllsSExobTBfY2h5NGpPVVVWUjN6ek9wQ0ZJY1FTME5uNDdMZ2xyaTNzV0w5VmlEZlZrTHdaUTVmWXU0NnNkU2ZqSldlQ3pDbFVLMlRncGlJQVZONHhkcWE1Rjh0cEtURkhHMmxMV0Eyb1pFQjhNdmt5aW5rRGdmLXRWTTBnSWtpalU1Znl1djlrOVk1MjVOcUo5MmRRN1lselZvLVJoSDFsbzlTNm9VUlNtUHN1UEUzUjV0RFJyLXhYTUtKbXE0OVVlal9XcFlxZlFkS0dvUjFTbUxfYXJuVGlMZ09nbVIxUVByVC16a1Jkb0txbW9WMUNaRU5GbmtHbmRoRTlZbVp4ZW91bmhRa3R2V0VrUWROU0E3dzF2R2pTWkc4VnZJSTlHWkFRTHE4cmJsQ2VaS2hWc0xMWVB5QVQ2ZWU1eUY?oc=5",
+      "desc": "【Yahoo股市】只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 史上最大包！台積電「員工運動會大紅包」每...",
+      "name": "⚡ 小編下班聊點錢》晶片漲價25％ 半導體噴...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "史上最大包！台積電「員工運動會大紅包」每人平均領3萬元",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 23 Oct 2026 10:00:59 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMilANBVV95cUxPNkR4X0ZES0NrbjJYRkZUWUFTb00xLUtnWnk0ZjlIQ1l4U1ZtV2txTmlpVWhTbWc0cFpyZ3Y5YnpqUGlucEtib1ZXc2xSRUZEZ3lfc0JvWS1Uc2R0bkJXb0NiN0hwZnEyQ2tjaXo4TGo5eVdTLVZTVmFrX2xfa1ZIWGxjRGV3cnl4cjdRS05CeU1lTUVEVDduUTdnbmswZ2t2T09RaHZfU2NWM0RLQklZOEpIdHZKTHFEWkZEVlVsLXdnMFFaam5qT0h4cHZqanJzQ3I2eDVQakhsQUNhNWpnZlBRVmEzeU5NbkY0XzhYYlA2NDR3Y1kzQjc2LUNCM25DQnBaREdSMFNEMGZ1M29RcFpnUHRlRV95di1oaVNPam9FMkMtbnZET1lhUXB4X0RORUVCQ0diLWg5eE5iVjVIdUtmNm82WEttLVQ0YndoSTRMZEpRc05IcDVweFRMa3VMUmo4REJqV1VOVnBlQlhjcWtURVF0d1FuUDFZRFhUaXNMdkM3WTNEM0pEVVRUajgxS3Nmdw?oc=5",
-      "desc": "【Yahoo股市】史上最大包！台積電「員工運動會大紅包」每人平均領3萬元",
+      "newsTitle": "小編下班聊點錢》晶片漲價25％ 半導體噴到2028！法人必收6檔：台積電、日月光、聯發科、鴻勁…目標價EPS一表看",
+      "newsSource": "旺得富理財網",
+      "newsDate": "Sat, 24 Oct 2026 09:08:57 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RUWFVZHhmcldFeXF1LUFVU1c4OTB2cXg0Z2ZnVjRUaFN0RXlPdVktQnV1VGhPSVdHUVgwR2VsdGFtYl9raFVObV9NVHhYdjVMM29jTGwtc05LM2dTeUc1UGNzQ3E3all0VWc?oc=5",
+      "desc": "【旺得富理財網】小編下班聊點錢》晶片漲價25％ 半導體噴到2028！法人必收6檔：台積電、日月光、聯發科、鴻勁…目標價EPS一表看",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電運動會取消　基層員工每人「發3萬獎金」",
+      "name": "⚡ 川普又放話！美股大跌652點　台積電AD...",
       "date": "10-24",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電運動會取消　基層員工每人「發3萬獎金」",
+      "newsTitle": "川普又放話！美股大跌652點　台積電ADR逆勢漲1.49%",
       "newsSource": "ETtoday財經雲",
-      "newsDate": "Fri, 23 Oct 2026 14:47:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQOWRwMnlBelZZTFRhTEExbVI3RTRBUUFfX0VITmJYVzZKRjIyVUNQYm5QaURmOXBwMTVZN1VGR1lYTDBMcWZhVVdzQnhHLVdVWEHSAVBBVV95cUxNVFc0a3dSaENpT3BMNzM4SlRTTDlUR1hsUnNRMXAyeWxPcTVSZjdYMHpmUzlNNlVqZC1SUG00X3JyY2RmYThTUDR5SEFyQU8wdA?oc=5",
-      "desc": "【ETtoday財經雲】台積電運動會取消　基層員工每人「發3萬獎金」",
+      "newsDate": "Fri, 23 Oct 2026 21:54:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWZXQ0UzlXQ3YzbHNYZjMxUTdqaUdTTW96X0liazJtNGlTc09Vbm04azhKMFkxbXBZZ1JKNzJ5Zm9CWGdYSEhVRFY0T1gxa3ZoSUHSAVBBVV95cUxPNWk3SXdWLVE1a3JHRlNrNVNIWVdLdHVNaVExWmVmUE85R09uUUZTR0FyLTVTYVQ5T1YxMzNTODJjTEV4SHBSQzFtR0Y2b3pjbQ?oc=5",
+      "desc": "【ETtoday財經雲】川普又放話！美股大跌652點　台積電ADR逆勢漲1.49%",
       "impactTargets": [
         "t_2330"
       ],
