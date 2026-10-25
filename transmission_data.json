@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25 17:28",
+  "updatedAt": "2026-10-25 20:33",
   "events": [
     {
       "id": "e_breaking_1",
@@ -26,11 +26,11 @@
       "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰| 台股雜談| 股市",
+      "newsTitle": "台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
       "newsSource": "UDN",
       "newsDate": "Sun, 25 Oct 2026 02:50:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZFEweUpNaVBpOWxuRF8zVlJZWk4wQUEzVUg5c3lLMllBWnlNOGExTVNUcUJnYm9xaUFRbUpueEJkMEVweDRTM3NiRUY3ZWpaQUE?oc=5",
-      "desc": "【UDN】台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰| 台股雜談| 股市",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZFEweUpNaVBpOWxuRF8zVlJZWk4wQUEzVUg5c3lLMllBWnlNOGExTVNUcUJnYm9xaUFRbUpueEJkMEVweDRTM3NiRUY3ZWpaQUHSAVdBVV95cUxPMHpuT25veWtuc21leXk3bEx5Q214eGlUaVhFQV9ENDFZYWVZU091V0h6S3FHU2oyczc2OUFIaEdvcHVreDR3MWFrUGxvSS1HTmk0N2xsM2M?oc=5",
+      "desc": "【UDN】台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
       "impactTargets": [
         "t_2330"
       ],
@@ -47,7 +47,7 @@
       "isBreaking": true,
       "newsTitle": "台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
       "newsSource": "今周刊",
-      "newsDate": "Sun, 25 Oct 2026 16:08:46 GMT",
+      "newsDate": "Sun, 25 Oct 2026 19:12:26 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHAyc0RZVDNOaTZrZDBlc3ZzcDBZSHR6RVVzaVU3bWM1SGtJUk5CN1FYdjFWQ3U5NWlLVmhiaEhjLWNvcUtBbFJtTGVKeUF1X2lmanpockMtVTZqd3JXbGlHRmladFBsSUhiSE1NbU9tTTh0MUhZWmI5MzMtNmlXWQ?oc=5",
       "desc": "【今周刊】台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
       "impactTargets": [
