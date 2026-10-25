@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-24 22:58",
+  "updatedAt": "2026-10-25 01:00",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 只要台積電破月線「就買進這檔」？ 他喊全...",
-      "date": "10-24",
+      "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
@@ -23,7 +23,7 @@
     {
       "id": "e_breaking_2",
       "name": "⚡ 點名台積電！外媒曝比「這巨頭」更值得投資",
-      "date": "10-24",
+      "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "點名台積電！外媒曝比「這巨頭」更值得投資",
@@ -42,7 +42,7 @@
     {
       "id": "e_breaking_3",
       "name": "⚡ 台積電運動會取消 員工小禮物加碼每人3萬...",
-      "date": "10-24",
+      "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電運動會取消 員工小禮物加碼每人3萬元創新高",
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 油價取代AI泡沫成美股頭號風險分析籲下月...",
-      "date": "10-24",
-      "category": "突發貴金屬",
+      "name": "⚡ 台積電「2,500元以下隨便買」？股市獅...",
+      "date": "10-25",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "油價取代AI泡沫成美股頭號風險分析籲下月中旬前控制倉位戰術性避險- 財經",
-      "newsSource": "香港文匯報",
-      "newsDate": "Sat, 24 Oct 2026 20:26:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BVHpaa0t4eXNmcDRmanB0RGlGdUV2WFQ5ZkltcGNqWTJGQzBHMVdvQWM1M01WejAyaWZYYWk3M2FzTThzc1kzcmdqV0FFTXpCaGNDa0ZGR01YRWdKdnpfZVNGMWJJMHNCdGx1eS1xTmItOTI2UWxz?oc=5",
-      "desc": "【香港文匯報】油價取代AI泡沫成美股頭號風險分析籲下月中旬前控制倉位戰術性避險- 財經",
+      "newsTitle": "台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 24 Oct 2026 23:30:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TU0NTLVZrU1liTkUzZE1EbTdhY3JmWldFVjZyT1Q2bVlMYjJmUDBiSUZJYW1maFpFOHE3N29NaG10RmVXazdLOVVmTG5kVG4xTVRWRnJzZEgzTzZKZjBZ?oc=5",
+      "desc": "【工商時報】台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
       "impactTargets": [
-        "t_gold"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_dollar",
-        "t_gold"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_dollar",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發貴金屬"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
