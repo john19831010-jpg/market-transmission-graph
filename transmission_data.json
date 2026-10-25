@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-25 01:00",
+  "updatedAt": "2026-10-25 07:23",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 只要台積電破月線「就買進這檔」？ 他喊全...",
+      "name": "⚡ 台股恐崩回3萬3000點？網友用AI推估...",
       "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
+      "newsTitle": "台股恐崩回3萬3000點？網友用AI推估台積電跌至1760元 PTT吵翻",
       "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 23 Oct 2026 14:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPd2xLeGkxTGJOZl9JdHFXMEtjbUdvM0UwcE5QXzZvbFhacFRPTjdORmc5M0hPVllsSExobTBfY2h5NGpPVVVWUjN6ek9wQ0ZJY1FTME5uNDdMZ2xyaTNzV0w5VmlEZlZrTHdaUTVmWXU0NnNkU2ZqSldlQ3pDbFVLMlRncGlJQVZONHhkcWE1Rjh0cEtURkhHMmxMV0Eyb1pFQjhNdmt5aW5rRGdmLXRWTTBnSWtpalU1Znl1djlrOVk1MjVOcUo5MmRRN1lselZvLVJoSDFsbzlTNm9VUlNtUHN1UEUzUjV0RFJyLXhYTUtKbXE0OVVlal9XcFlxZlFkS0dvUjFTbUxfYXJuVGlMZ09nbVIxUVByVC16a1Jkb0txbW9WMUNaRU5GbmtHbmRoRTlZbVp4ZW91bmhRa3R2V0VrUWROU0E3dzF2R2pTWkc4VnZJSTlHWkFRTHE4cmJsQ2VaS2hWc0xMWVB5QVQ2ZWU1eUY?oc=5",
-      "desc": "【Yahoo股市】只要台積電破月線「就買進這檔」？ 他喊全力做多：勝率逾6成",
+      "newsDate": "Sun, 25 Oct 2026 04:18:37 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPNmNRU3BkMjBBeGhTaGF4YTNTYjNYdlhPZjI0QmtLNzRYU2hKV2RXazI5U1BGREtNRTY1Q3UzN0F2Um5UNGxaT2prZm12dkwyamNNcUhscXdvbkNVdWdHeW1QR2ptWFZGdEozQUlZRWxJTlQwcl96Z0ZpSmNKc0tVOGN4XzFxNUxxY0c0WXV6N3d6bkltVVIydzhzVDBxWUd1VzZzMFY4VTJzbUFBNE9wWjAwcFN3ZW90NGd0bjFrdnZnZ1NqYXZvMDNwX3lFWjFWNm1sdWhpZ3ZTaHdGUW1lR0Q2SWZidjN5NmtNSGFWa0hmMTlydzRheHhlNWxUWENtb01pNWpyUHVzdDhTbEdSUEM1bUdfQi1YSUNiNHVsa2lLQmMwaGZiVnFhM1pwUlNlM1ZvR19iUjRYT2x2dXZVbmF3MEZYcE96aTRBLUlqdkhUY0Y2bXp5ckNUeC1QbnNJ?oc=5",
+      "desc": "【Yahoo股市】台股恐崩回3萬3000點？網友用AI推估台積電跌至1760元 PTT吵翻",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 點名台積電！外媒曝比「這巨頭」更值得投資",
+      "name": "⚡ 台股跌回3萬3千點、台積電剩1760元？...",
       "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "點名台積電！外媒曝比「這巨頭」更值得投資",
-      "newsSource": "自由財經",
-      "newsDate": "Sat, 24 Oct 2026 07:54:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsZXVLQ2M4ZnNBWnBWUUFJVVRjd3hkZHNTT1QySEZ3bnJoZTJmb2Rla3lmdURxZi0tLVNKV3pIRXlKU2tOQ1ZDdDFZakFzb3UxN3NzTUFjd29YRmFiTXA00gFkQVVfeXFMTkhjck9jVm9OcXJRV0dnSlhDM2ZHV2o3S3c5MVNLdUdwUDZLbUd3Q0J6T1FET0RTUl9VdHlYNktTYV9hMGp0WmduVUh1WWoxTlM5V25tMHEyNnVqX2pXelU1eE1iSA?oc=5",
-      "desc": "【自由財經】點名台積電！外媒曝比「這巨頭」更值得投資",
+      "newsTitle": "台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
+      "newsSource": "udn",
+      "newsDate": "Sun, 25 Oct 2026 06:27:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZFEweUpNaVBpOWxuRF8zVlJZWk4wQUEzVUg5c3lLMllBWnlNOGExTVNUcUJnYm9xaUFRbUpueEJkMEVweDRTM3NiRUY3ZWpaQUHSAVdBVV95cUxPMHpuT25veWtuc21leXk3bEx5Q214eGlUaVhFQV9ENDFZYWVZU091V0h6S3FHU2oyczc2OUFIaEdvcHVreDR3MWFrUGxvSS1HTmk0N2xsM2M?oc=5",
+      "desc": "【udn】台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電運動會取消 員工小禮物加碼每人3萬...",
+      "name": "⚡ 台積電「2,500元以下隨便買」？股市獅...",
       "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電運動會取消 員工小禮物加碼每人3萬元創新高",
-      "newsSource": "經濟日報",
-      "newsDate": "Fri, 23 Oct 2026 09:14:48 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41WXpITEw2OFJ5ams2cGdyQU5pcGROWkwwV1NlSWoxc0RLN09HalpCNEs3WlpZX0o3MVExM2Z3SjFKWkFzYzdOdDdLXzM5RG1icTlsMTl0NUZRQdIBX0FVX3lxTE5YVEMzYmp3MjZ6bXlTZG5JQWR3clVMUHZJa3FmZktGSjRoYTFnRVgwQ1RuQTRpLXBWcTZfSG0wb3ZlSVNSTzJDUV9CNVJBTTh2VTdVdUl1eHV2dlUtdVlN?oc=5",
-      "desc": "【經濟日報】台積電運動會取消 員工小禮物加碼每人3萬元創新高",
+      "newsTitle": "台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 24 Oct 2026 23:30:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TU0NTLVZrU1liTkUzZE1EbTdhY3JmWldFVjZyT1Q2bVlMYjJmUDBiSUZJYW1maFpFOHE3N29NaG10RmVXazdLOVVmTG5kVG4xTVRWRnJzZEgzTzZKZjBZ?oc=5",
+      "desc": "【工商時報】台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電「2,500元以下隨便買」？股市獅...",
+      "name": "⚡ 台積電11張股票領逾7萬！股民哀怨價差快...",
       "date": "10-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
-      "newsSource": "工商時報",
-      "newsDate": "Sat, 24 Oct 2026 23:30:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TU0NTLVZrU1liTkUzZE1EbTdhY3JmWldFVjZyT1Q2bVlMYjJmUDBiSUZJYW1maFpFOHE3N29NaG10RmVXazdLOVVmTG5kVG4xTVRWRnJzZEgzTzZKZjBZ?oc=5",
-      "desc": "【工商時報】台積電「2,500元以下隨便買」？股市獅公喊價3,875元！示警台股融資過熱、拆解熱門AI股去留- 證券",
+      "newsTitle": "台積電11張股票領逾7萬！股民哀怨價差快跌沒 網友羨慕炸鍋",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 25 Oct 2026 02:19:37 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ic1YtdjhlUEdfbGFmWlhHMndSc2VSNVB1Z2ktbzZrdm8yeWNpWWMxWUJKWTNvUGVfdVp6eE8tLUloZ3c3bHdWQ2R0Sk1DWUREUGtnVVJOWGVLVW5DSl9Z0gFkQVVfeXFMTjdBVXVDZmJJVmtmQVdZeEpoc28tVWhtVFBWNXI3cVk4RlZkU0tRcFRiRk5lMlR4UW5wXzlQbFFOel9seGxPTnFyQW1DYUd1TnhMSUk3djNTWlBVdk5ZYVFqM2RWXw?oc=5",
+      "desc": "【自由財經】台積電11張股票領逾7萬！股民哀怨價差快跌沒 網友羨慕炸鍋",
       "impactTargets": [
         "t_2330"
       ],
@@ -284,7 +284,7 @@
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
       "price": 4007.9,
       "currency": "美元",
-      "change_pct": -3.66,
+      "change_pct": -3.25,
       "gold_units": {
         "oz_usd": 4007.9,
         "gram_twd": 4196.9,
