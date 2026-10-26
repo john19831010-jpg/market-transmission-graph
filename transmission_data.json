@@ -1,82 +1,6 @@
 {
-  "updatedAt": "2026-10-25 23:03",
+  "updatedAt": "2026-10-26 03:51",
   "events": [
-    {
-      "id": "e_breaking_1",
-      "name": "⚡ 台積電目標價喊5000元！投信豪撒184...",
-      "date": "10-25",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電目標價喊5000元！投信豪撒184億掃貨 「記憶體這檔」入列00935、00881狂搶2萬張封王",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sun, 25 Oct 2026 11:10:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNZkxaeVFwYW1jSVFlYS1tT1lqRjdWSjE0WHhJT0lQZ18wVVIyc2xtUU5CMnN4U0hmeFVKLVg1ZzdGYVQ1b0lhZGtRdlhETGkwdkk2S0I2RGRpakNaMHlvd21kMnJGVkhWdnFCaXFmVmVyZEFHME5jaEdYSUNKQkgtR1NVa3owQW5KUl9jT2RodHV0T0pDRWN6UFMxdTRCVDMyZ0kxN0xKTTlRaXVTaWtVdHZHQkFoeUhFS2hPMGZ4VGZfNlV6M3JhUV9vZVNBZHl3X3lFRHo2Q2hzR25VTmRsM1kyaTRFejR5Zm9zd1ZpUF84UWRvanBxRDI4NzlJMC1pRS1XQVIzb2NIVXFvSVB6NVYxbFFmVUdSM0ZWb29KZnNJRjZIbExzMnVfMWg0Y3pqdDVnV0lzckpYWFVHZTViNk1vUE5YVlRELTZ4X3pEMmVBQUgyUk9ZZkdxY0Fla1VQWDRqNENTdVNFd0RTSVg3YmRSTkw2YVpJRmJtNzBMYktpY25JZzNBU1Y1U0czRUpNN2xiU1dBa1hkdmZWbHVCWmJRRld5LUpNbkpqaU5DSlhXcmhMSlpQU0dDQXVTQmZnS0NOUk9DTzk?oc=5",
-      "desc": "【Yahoo股市】台積電目標價喊5000元！投信豪撒184億掃貨 「記憶體這檔」入列00935、00881狂搶2萬張封王",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 台股跌回3萬3千點、台積電剩1760元？...",
-      "date": "10-25",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
-      "newsSource": "UDN",
-      "newsDate": "Sun, 25 Oct 2026 02:50:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iZFEweUpNaVBpOWxuRF8zVlJZWk4wQUEzVUg5c3lLMllBWnlNOGExTVNUcUJnYm9xaUFRbUpueEJkMEVweDRTM3NiRUY3ZWpaQUHSAVdBVV95cUxPMHpuT25veWtuc21leXk3bEx5Q214eGlUaVhFQV9ENDFZYWVZU091V0h6S3FHU2oyczc2OUFIaEdvcHVreDR3MWFrUGxvSS1HTmk0N2xsM2M?oc=5",
-      "desc": "【UDN】台股跌回3萬3千點、台積電剩1760元？國安基金恐提前進場護盤掀論戰",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 台積電聯電、南亞科聯發科…台股開盤再殺撿...",
-      "date": "10-25",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
-      "newsSource": "今周刊",
-      "newsDate": "Sun, 25 Oct 2026 21:17:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHAyc0RZVDNOaTZrZDBlc3ZzcDBZSHR6RVVzaVU3bWM1SGtJUk5CN1FYdjFWQ3U5NWlLVmhiaEhjLWNvcUtBbFJtTGVKeUF1X2lmanpockMtVTZqd3JXbGlHRmladFBsSUhiSE1NbU9tTTh0MUhZWmI5MzMtNmlXWQ?oc=5",
-      "desc": "【今周刊】台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ AI資金緊俏 專家：台積電靠技術與現金流防守",
-      "date": "10-25",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "AI資金緊俏 專家：台積電靠技術與現金流防守",
-      "newsSource": "大紀元",
-      "newsDate": "Sun, 25 Oct 2026 15:02:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iNVpYMDVCWFdmM3ZHUkgzczFVM2ViamVVMHQ2TER4TFg0US1fNl9zbjZnQXNCUDQ1eGFmMVQ1OWREZWNiN01jWXlhMnVaTUlpY0lTWG83N21WLVhRN0tud3dn0gFnQVVfeXFMT0JBOGZ0T09fcUtTSVl0TEMxMjBPcXIwWkV0OUZrbm54QXZPYWZIaWRnM2dGdUJxV01URGtJc29ycjI2SHNDZnktaEFqbERJTlhabmdZZ0pKTFl6c2NCSFB3dVJXR2JDWQ?oc=5",
-      "desc": "【大紀元】AI資金緊俏 專家：台積電靠技術與現金流防守",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
     {
       "id": "e_fomc",
       "name": "FOMC 利率決議",
@@ -282,13 +206,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4015.3,
+      "price": 4024.0,
       "currency": "美元",
-      "change_pct": -3.07,
+      "change_pct": -2.86,
       "gold_units": {
-        "oz_usd": 4015.3,
-        "gram_twd": 4204.6,
-        "qian_twd": 15767,
+        "oz_usd": 4024.0,
+        "gram_twd": 4213.7,
+        "qian_twd": 15801,
         "usdtwd": 32.57
       }
     },
@@ -450,30 +374,6 @@
     }
   ],
   "links": [
-    {
-      "source": "e_breaking_1",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_2",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_3",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
-    {
-      "source": "e_breaking_4",
-      "target": "f_foundry",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
-    },
     {
       "source": "e_fomc",
       "target": "f_rates",
