@@ -1,46 +1,8 @@
 {
-  "updatedAt": "2026-10-26 09:53",
+  "updatedAt": "2026-10-26 16:38",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 別只押台積電！它從晶片一路吃到AI散熱 ...",
-      "date": "10-26",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "別只押台積電！它從晶片一路吃到AI散熱 規模較去年成長118%",
-      "newsSource": "Yahoo新聞",
-      "newsDate": "Sun, 25 Oct 2026 17:25:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQX2JZUnY3YXdiYkc0ZVlYMkZuMGFHVTJmWUpEOHQtRmpaUDdYRENTOFpjXzREZl92cm51aUlaeFRmVGRpZDZYTl9VcnJXRVpvdnpkeXR3UjB3RHkwOGRLcHJSREJNOGMwdnZSQWZsR0FvZXJPbngzT2t3cHhXQ2dxTmEwb2NOTlQ1MGJ2NXMtc2VuZVNySzMzVFdaTlR6cVVVdmJDZ201UWVzS0cxajVYanVyWUFTQlhQZF9sSDVRZlFTejF3NjFHakxjaUpVWlJTYU8xU0M3dUMwU0FGTDh2WkxwdXh0VWx0NXpsNzBMbjhOeXlMamcxVVRfeVlHbGpqRzB4eVZvRk9IZnFpN1RRTEt5UTkxWnM4TUtqeWxOUWoySHdsUnN6ZXE1c0tLekQ5ZGRBbGFmSXpiU0lzOHkxWlRjYUdZU0hSSW1yMDJuR3l1cUpETnRBc3BFT2xHalpkVS1xYVVB?oc=5",
-      "desc": "【Yahoo新聞】別只押台積電！它從晶片一路吃到AI散熱 規模較去年成長118%",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 台積電報喜誰接棒？聯發科、台達電法說拚AI財",
-      "date": "10-26",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電報喜誰接棒？聯發科、台達電法說拚AI財",
-      "newsSource": "民報",
-      "newsDate": "Mon, 26 Oct 2026 01:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05OGtkWVZDaFMzOHJtUWctTHZ1dUNyODNDLUh2ODJtb2l5cUR1SGVWODhHZlpjMkdoakFUb0hYU252enhBbE13b1pCV2p3WG1uQ2ZNdE5WdkY1N2Y1a0dzVkkwNHc?oc=5",
-      "desc": "【民報】台積電報喜誰接棒？聯發科、台達電法說拚AI財",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 看好台積電再大賺一筆！外媒估2030年驚...",
       "date": "10-26",
       "category": "突發半導體",
@@ -59,22 +21,60 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電聯電、南亞科聯發科…台股開盤再殺撿...",
+      "id": "e_breaking_2",
+      "name": "⚡ 每月存3000元「該買0050還台積電？...",
       "date": "10-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
-      "newsSource": "今周刊",
-      "newsDate": "Mon, 26 Oct 2026 09:17:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHAyc0RZVDNOaTZrZDBlc3ZzcDBZSHR6RVVzaVU3bWM1SGtJUk5CN1FYdjFWQ3U5NWlLVmhiaEhjLWNvcUtBbFJtTGVKeUF1X2lmanpockMtVTZqd3JXbGlHRmladFBsSUhiSE1NbU9tTTh0MUhZWmI5MzMtNmlXWQ?oc=5",
-      "desc": "【今周刊】台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」",
+      "newsTitle": "每月存3000元「該買0050還台積電？」 眾狂推這檔：會感謝自己",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Mon, 26 Oct 2026 14:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNa2Z3d1k1YmxmaW9HaDM0RlhGSlo2NnE1VzVkYzdTWkRtV2hFc1JqT21POFBPOHJRR2wxZm16Qk8wOE1uc1RkQkdvc0haQWc1YVEteVBnOFUtRTBfVlJVTnB0aGxFQnZUeVctNXVUdnZZdVF3aEhwcENya0M5LU5HUk8wTl9wQTl3VmlXRGtpNlRnZ0lTRXNzVTBBak12UG1UWjduLTZYOUt5NXVrbjR1VW1HRmtpWENSR2tvTmhpRDB5bm52NTMxTlYxNmY2YkZRN1FzYTYxckZVVFVwUFp6SHBibVExbkkxdVowZ3RLeDBvMkQxYTZtdF9DSUF3QkNySEpMN3ZMajhjdTFpRy1aQno5SWIydThYdEpSRkhXX1BRbE5MS0dOckJ6OXJHTlluR3pGZzdLcWpUVm1TLU1MVjF4eTNFcTA5SXV1ZmRrbUJzUQ?oc=5",
+      "desc": "【Yahoo新聞】每月存3000元「該買0050還台積電？」 眾狂推這檔：會感謝自己",
       "impactTargets": [
         "t_2330"
       ],
       "primaryChain": [
         "f_foundry",
         "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 現在買台積電，4年後有望漲3倍！外媒試算...",
+      "date": "10-26",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "現在買台積電，4年後有望漲3倍！外媒試算驚人結果曝光 | 魏甫丞 | 風生活",
+      "newsSource": "風傳媒",
+      "newsDate": "Mon, 26 Oct 2026 10:48:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tQW1GMUhtSHVoTm1XeWNZOTFGV0FWVWs2UFhaNjh2M19nZllUdV9PblBrUHZVQW90WVRSemxTQmxsUUNMNDVpS2pLeVc2MG0x?oc=5",
+      "desc": "【風傳媒】現在買台積電，4年後有望漲3倍！外媒試算驚人結果曝光 | 魏甫丞 | 風生活",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 美股真的存在“黃金月份”嗎？1950年以...",
+      "date": "10-26",
+      "category": "突發貴金屬",
+      "isBreaking": true,
+      "newsTitle": "美股真的存在“黃金月份”嗎？1950年以來，11月平均表現穩",
+      "newsSource": "群益期貨",
+      "newsDate": "Mon, 26 Oct 2026 09:58:04 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVlKLVJyTDI2bHFGeERvVVhaMnU2SDBEN05rZW9sZ2drX1RPbHM5X2VUN0p6MURsMzIxTTRDQU1Ca01hVnY0RzNuemVteHRCUmgyNWMtdXZabXN1OVhmek1weEQ0UVdReElJZnlsRTZBVGRieVFVT1E1XzRvZy1xck8wb0NLQTJ5OFNwd09ocXZrMTRic2RITXlSWS15N01q?oc=5",
+      "desc": "【群益期貨】美股真的存在“黃金月份”嗎？1950年以來，11月平均表現穩",
+      "impactTargets": [
+        "t_gold"
+      ],
+      "primaryChain": [
+        "f_dollar",
+        "t_gold"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4032.9,
+      "price": 4034.2,
       "currency": "美元",
-      "change_pct": -2.82,
+      "change_pct": -2.79,
       "gold_units": {
-        "oz_usd": 4032.9,
+        "oz_usd": 4034.2,
         "gram_twd": 4223.1,
         "qian_twd": 15837,
-        "usdtwd": 32.57
+        "usdtwd": 32.56
       }
     },
     {
@@ -301,7 +301,7 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 704.4,
+      "price": 712.91,
       "currency": "美元",
       "change_pct": -0.76
     },
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 698.58,
+      "price": 703.52,
       "currency": "美元",
-      "change_pct": -0.43
+      "change_pct": -0.15
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 320.21,
+      "price": 319.06,
       "currency": "美元",
-      "change_pct": -5.98
+      "change_pct": -7.3
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 372.22,
+      "price": 395.038,
       "currency": "美元",
-      "change_pct": 4.93
+      "change_pct": 7.33
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_dollar",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發貴金屬"
     },
     {
       "source": "e_fomc",
