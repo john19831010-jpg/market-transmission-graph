@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27 01:16",
+  "updatedAt": "2026-10-27 07:28",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台股明天開盤有戲？美股迎科技股買氣回溫全...",
+      "name": "⚡ AI基建最大瓶頸是晶片基板！半導體供應恐...",
       "date": "10-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股明天開盤有戲？美股迎科技股買氣回溫全面飆漲 台積電ADR漲逾2%",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Mon, 26 Oct 2026 15:45:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQU1BEYlhrVHFyOGRfZ2tlVV9wTURPNDN4cWpCWWd0dFhSSk1EZTNBWmYwLXcwM2pac01oVHhRX1lHMFl3WkhyRWk2OV93UktrekJha2lFRDhxallpMGpLMC1PUktZU3lUQVFwbF9WVlhJQXVNTE5ka1llZjhhQUdNS2tvTFdJLXJrNWhjdzRsT1FvR2FRY3ViVllSaVdOSEJDajJSeEFJMmJONFBqT1oxdndzVEwxZEc5S0FJQ1VlRDk5UDF3NG4tNFdudW1OdzJGd21rOF9Kbm05ZmJWejNzeWF4Tk8tVXpiWkhONkVadUpoNzdib0tuSFpMX3Y3TkhyalhlRVdXcExDUmEwcWItemsxX25qX0NnZVhiYjlMQnAyMU1tYTVhWngwNUw2SDFfc2xSYlBBazVlUk9ibHhFTzFkUm8zeUh4SDQ2ajRVTENUVC1VdWp6bjRRS2xLY0hPQzI3VnJHeHBWZzExdk9odnJMSUdTZDgxUEh0NmRyM3VRbEk3MzczdkVtZ3NDOXlQS3FwVkwzeFctSEtnd1dEWnhVNERDS1E?oc=5",
-      "desc": "【Yahoo股市】台股明天開盤有戲？美股迎科技股買氣回溫全面飆漲 台積電ADR漲逾2%",
+      "newsTitle": "AI基建最大瓶頸是晶片基板！半導體供應恐緊俏至2028年 輝達CoWoS、HBM資源占比下滑",
+      "newsSource": "鉅亨網",
+      "newsDate": "Tue, 27 Oct 2026 01:20:08 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MVFyM0NXS1BWaWp5aWhoNWxsamx0ZzI2ekhFazNPOG9GYy1rOHlUczlFaXFFaWh2NmU3TkNZZWIwZEZZdEd2b3hCZTczWjg?oc=5",
+      "desc": "【鉅亨網】AI基建最大瓶頸是晶片基板！半導體供應恐緊俏至2028年 輝達CoWoS、HBM資源占比下滑",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 看好台積電再大賺一筆！外媒估2030年驚...",
+      "name": "⚡ 00881、00935重押台積電等3檔權...",
       "date": "10-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
-      "newsSource": "自由財經",
-      "newsDate": "Mon, 26 Oct 2026 08:38:52 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMEdndUNGUnFIWExEU2JHUzFTOWJvV20tLW83M1Z0MFNYRjc3QXZJV2pqbm4xV0RMbWptb2t5U1lKU3lKOE1RaVFTb1lCSXVpaHAyQmVkQzdDUXRCb2dN0gFkQVVfeXFMTm0xclg5WnhadWtvSjAxWE5XWExwQldIZmc3c3lJTzZOem8tVVE2STZpdmFuSG9ZWEVpMmZEa3UzMF9lQVlBcFA1MkRuWW5pUkctdkxET201VUdGUUFiNXg1OWZTTg?oc=5",
-      "desc": "【自由財經】看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
+      "newsTitle": "00881、00935重押台積電等3檔權值股！葉芷娟揭集中投資3理由：明知風險仍續買| 存股族愛ETF | 股市",
+      "newsSource": "UDN",
+      "newsDate": "Tue, 27 Oct 2026 06:51:22 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KTGZOM3BaR05oaFlsVEZENnpkX0UtMjIwVUpablNhLV84bGdlbVdQa2xvRGczQnBJMVNPeVpfOW9GclRzN0c2LV8yWlg3TS1jLXY4?oc=5",
+      "desc": "【UDN】00881、00935重押台積電等3檔權值股！葉芷娟揭集中投資3理由：明知風險仍續買| 存股族愛ETF | 股市",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ Anthropic 上市文件近百頁談風險...",
+      "name": "⚡ Anthropic點名台積電警告先進晶片...",
       "date": "10-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Anthropic 上市文件近百頁談風險 從台積電供應到 AI 威脅人類生存",
-      "newsSource": "經濟日報",
-      "newsDate": "Mon, 26 Oct 2026 23:10:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pN1FBUER0TjNLSk9RNVJaUF9HQ1VYSG1jSWFWM2dCYUItX3k5LVRvaFI5WENCb3NyM3h1RUR3VFR4RVh1UUw5bm1hS1RWaTktZ3oyc181ZVFoUdIBX0FVX3lxTE80bnh4NUxDUmFSbjRuN1F6ZGRPNUVYbGJrVDJuR1c2WXdZdGxyUkVzS2tHaDdTUE1kd1dSbnEzMm1sX3dxdFg3TEdLSU01ZnVQSno5MlRvYUktZDVxamFr?oc=5",
-      "desc": "【經濟日報】Anthropic 上市文件近百頁談風險 從台積電供應到 AI 威脅人類生存",
+      "newsTitle": "Anthropic點名台積電警告先進晶片過度集中台灣- 新聞",
+      "newsSource": "MoneyDJ",
+      "newsDate": "Tue, 27 Oct 2026 01:44:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbmF1R1ZYekUyTlZiVkZvUnlMSnF5RThXSkMybVJvanI5TTh2X2NHOFJZczRvSTNPb0VVOTVhOFdmYWIwTms5TWVMOTVZUXZJbFRUNjFaeUZZdDZfTzF2dG9KNUVjR1JONUNPbHNlR3B5MFkzMDktM2xFMGJkMjJmbnd6R1A4aERieHZRQ2JFMlRPQQ?oc=5",
+      "desc": "【MoneyDJ】Anthropic點名台積電警告先進晶片過度集中台灣- 新聞",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電法說報喜也沒用！費半破底、台股躲崩...",
+      "name": "⚡ 2026年11月台美股行事曆｜聚焦蘋果財...",
       "date": "10-27",
-      "category": "突發半導體",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "台積電法說報喜也沒用！費半破底、台股躲崩還是補跌？ 蔡明翰曝股價反轉關鍵：不是基本面- 上市櫃",
-      "newsSource": "旺得富理財網",
-      "newsDate": "Mon, 26 Oct 2026 22:35:33 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uRnlTd0U1VFdVQTl2UWRDNlRqdk1yVEpIRm9zc2xvZ0dpTVJPRlZ0U3NVRHVsRzlmQlNvTk40MktaNUZxaDVRcnA5OUZDQXlhSktOWnFieTd3R2drRExzWVdRZkRKQmMyWHc?oc=5",
-      "desc": "【旺得富理財網】台積電法說報喜也沒用！費半破底、台股躲崩還是補跌？ 蔡明翰曝股價反轉關鍵：不是基本面- 上市櫃",
+      "newsTitle": "2026年11月台美股行事曆｜聚焦蘋果財報與鴻海法說會！美國通膨數據是否導致聯準會持續升息警報？",
+      "newsSource": "永豐金證券",
+      "newsDate": "Tue, 27 Oct 2026 05:37:30 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxOZGdBNWlZeEZFRk83MERoSE1BT2dZSnlmNFAwckRxQTRCQlVEdnpsSWZ6QnFBNlBrSGwyWnltQnluNVRta2hwbi1RU0Jib1lrOVQxMmFfcjh6cFFmWWxnLWpSeWEzSElwUExIeVRERzRoYmh2cVRjMlBSWVJ4M0JrUW0xRUU1cmNUWFFlZlhsYWd1dzBQcDhnUjZqWDhZMHY5NHB3WWRNWnZrWHRDNG1MWlRPZ2Mxdk1Hcktwc1JiNkltMi1EcW9acVFwcTJORjFtQXNKNDlLR3YzelRUVnFBbWVmRjA5QlBXZ3hRTXI2S0FSaFlSNjM1RGtKQVloc3R2Tmt5SFV1UUNlWTdEMlZFa2hqTVo3WDMwMXA4aS16LS1nNzFVRlMzX3o2cFItZFQwM0daNGVsN1hGeXpZRUd1TDZEMzV1NTI5MGxoRnFkMkhGd29zTUlMaVVNc1loZ0FubTdKN0MzZDhqNEk2SE1XUnhQaHJWTG0tMHlkdWMyNW1nV2ZFaVhmekZiMEN3dGV1MXlOZGVma0tISlIyZWhwWWVvazhTc1pLOHZmS0ExU001aEZISEY3LVZUQVprZ185Z2toZkcwUERsUVZISHNmNmJULXFrZ2RJbUh2V2c4dHZNVlI5SVM0ajRDSmZ5NVktRlo5b2VUZjROWC1mMXBfcWlTbWVDaGR4VE1xVldWSkZkazR6QVRKcFFuSVpndkVxUTVnQXpZa29Ja3FZNWFxbDNPV0tJYlpjOXhzZTZDemJaZHBQaVpCQXpaYkNreDE5X05hMDhXVmxpVmh5?oc=5",
+      "desc": "【永豐金證券】2026年11月台美股行事曆｜聚焦蘋果財報與鴻海法說會！美國通膨數據是否導致聯準會持續升息警報？",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4026.1,
+      "price": 4016.9,
       "currency": "美元",
-      "change_pct": -2.99,
+      "change_pct": -1.07,
       "gold_units": {
-        "oz_usd": 4026.1,
-        "gram_twd": 4210.8,
-        "qian_twd": 15790,
-        "usdtwd": 32.53
+        "oz_usd": 4016.9,
+        "gram_twd": 4194.7,
+        "qian_twd": 15730,
+        "usdtwd": 32.48
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2385.0,
+      "price": 2400.0,
       "currency": "台幣",
-      "change_pct": -0.83
+      "change_pct": -0.21
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1560.0,
+      "price": 1510.0,
       "currency": "台幣",
-      "change_pct": -2.8
+      "change_pct": -5.92
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 106.9,
+      "price": 106.6,
       "currency": "台幣",
-      "change_pct": -0.33
+      "change_pct": -0.61
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 55.1,
+      "price": 54.7,
       "currency": "台幣",
-      "change_pct": -0.99
+      "change_pct": -1.71
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.95,
+      "price": 28.1,
       "currency": "台幣",
-      "change_pct": 4.29
+      "change_pct": 4.85
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 54.6,
+      "price": 55.4,
       "currency": "台幣",
-      "change_pct": 1.68
+      "change_pct": 3.17
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 46.35,
+      "price": 46.25,
       "currency": "台幣",
-      "change_pct": 4.75
+      "change_pct": 4.52
     }
   ],
   "links": [
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
