@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27 14:08",
+  "updatedAt": "2026-10-27 19:54",
   "events": [
     {
       "id": "e_breaking_1",
@@ -47,7 +47,7 @@
       "isBreaking": true,
       "newsTitle": "台達電泰國子公司因應轉型為智慧工廠取得供營業用設備，計約3450萬美元",
       "newsSource": "台視全球資訊網",
-      "newsDate": "Tue, 27 Oct 2026 13:22:00 GMT",
+      "newsDate": "Tue, 27 Oct 2026 15:53:02 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0FjNjJPUGFYNDlaNDNDYi1SdENZNXRtNF9hRklFc1k5R0UyNXk5bTlvWTZCTTBxRkxOQXhEQkZsQ1lDWXYyLWtObTc4V2twNDQtd1RSTEExVHAtQVJiWWVqVW92aUkzUXFkam1fYjlSeEgzWDJqZlpfQ1I0UGtjNjAyTE1GVjFEX0M2Z2I1ZC1FZw?oc=5",
       "desc": "【台視全球資訊網】台達電泰國子公司因應轉型為智慧工廠取得供營業用設備，計約3450萬美元",
       "impactTargets": [
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4041.0,
+      "price": 4076.3,
       "currency": "美元",
-      "change_pct": -0.48,
+      "change_pct": 0.39,
       "gold_units": {
-        "oz_usd": 4041.0,
-        "gram_twd": 4209.4,
-        "qian_twd": 15785,
+        "oz_usd": 4076.3,
+        "gram_twd": 4246.2,
+        "qian_twd": 15923,
         "usdtwd": 32.4
       }
     },
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 715.23,
+      "price": 721.28,
       "currency": "美元",
-      "change_pct": -0.33
+      "change_pct": 0.51
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 704.37,
+      "price": 708.13,
       "currency": "美元",
-      "change_pct": -0.34
+      "change_pct": 0.19
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 317.68,
+      "price": 322.085,
       "currency": "美元",
-      "change_pct": -6.64
+      "change_pct": -5.35
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 402.915,
+      "price": 406.49,
       "currency": "美元",
-      "change_pct": 7.81
+      "change_pct": 8.77
     },
     {
       "id": "t_spacex",
