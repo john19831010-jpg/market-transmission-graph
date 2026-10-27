@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27 19:54",
+  "updatedAt": "2026-10-27 23:37",
   "events": [
     {
       "id": "e_breaking_1",
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台股虛驚一場！台積電、記憶體挑大梁 指數...",
+      "name": "⚡ 美股收盤》AI股提振！費半勁揚3.6％ ...",
       "date": "10-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股虛驚一場！台積電、記憶體挑大梁 指數震盪909點收漲54點",
+      "newsTitle": "美股收盤》AI股提振！費半勁揚3.6％ 台積電ADR漲近3％",
       "newsSource": "自由財經",
-      "newsDate": "Tue, 27 Oct 2026 05:48:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4b1VBaFczNTd4NzVOV0RIczltRVNRcFdmRWJ1cVJWUEZYb05tclJiZTdkdXk1S1JwUzJCN1lucGduRmx5aUFjV1JoOHAzNWJlNS1oSWk1TlNmTlZuQVlB0gFkQVVfeXFMT3dZZzAzaTN5bnlNb2tqTHo3V3NDTF9FVVo0TU1qdDJKZmVQRWJfR1BGalNtYVdwUV9xTTJVNGlkcE1qSDdFRm9IRzJLcWZxb0k0b1FLaGhfeFl0U0pybmczQmg1TA?oc=5",
-      "desc": "【自由財經】台股虛驚一場！台積電、記憶體挑大梁 指數震盪909點收漲54點",
+      "newsDate": "Tue, 27 Oct 2026 22:01:51 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hR3FHOEhpS0VybDh1QllCbFJDcFI2cXVERmptNHpRTktVTVBJOW9IWkJ5VXY1akotUG5Ob2Y1S19nLVVhSVVwUGZyMERXN3RKT1FsT2hqN252SHBfdVVJ0gFkQVVfeXFMT2YzbHU3QXBkMjFkeWpOUUVBeUxiMHdvRzNtUlNpdW9rdzcwYjJhLTB6cDZMeGpCek5BSmhhbk1OZzd0Y3dBZlZMYnRndlZPOWQxNzVZb2pTMUFmOFd5Sm1IQkxoVQ?oc=5",
+      "desc": "【自由財經】美股收盤》AI股提振！費半勁揚3.6％ 台積電ADR漲近3％",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4076.3,
+      "price": 4074.1,
       "currency": "美元",
-      "change_pct": 0.39,
+      "change_pct": 0.34,
       "gold_units": {
-        "oz_usd": 4076.3,
-        "gram_twd": 4246.2,
-        "qian_twd": 15923,
-        "usdtwd": 32.4
+        "oz_usd": 4074.1,
+        "gram_twd": 4250.5,
+        "qian_twd": 15939,
+        "usdtwd": 32.45
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 721.28,
+      "price": 721.25,
       "currency": "美元",
-      "change_pct": 0.51
+      "change_pct": 0.5
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 708.13,
+      "price": 707.52,
       "currency": "美元",
-      "change_pct": 0.19
+      "change_pct": 0.1
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 322.085,
+      "price": 320.58,
       "currency": "美元",
-      "change_pct": -5.35
+      "change_pct": -5.79
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 406.49,
+      "price": 407.46,
       "currency": "美元",
-      "change_pct": 8.77
+      "change_pct": 9.03
     },
     {
       "id": "t_spacex",
