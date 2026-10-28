@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-27 23:37",
+  "updatedAt": "2026-10-28 04:42",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電失守2400元！投顧喊「評價偏低」...",
-      "date": "10-27",
+      "name": "⚡ 台股夜盤狂飆600點！台積電CoWoS傳...",
+      "date": "10-28",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電失守2400元！投顧喊「評價偏低」目標價維持3500元",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 27 Oct 2026 08:12:32 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPMGpGUEVnUzNia2o4SEg1WjlCYXJTaW5tSXFZYTdhdUdhU0VTamVoUmdZdS1mZmdGakNRVm5yekhZNGJBZ2Uwc3BTY01oSlEwUGxGWVdJeDd5ekhid1QxU3BCTjdmT2tPU0RxS3hveGRCWFBrMFF4OHlRT3hOcFJuWmtHeW91TFVnaUU1Z2ZqZjk4MC1JSm1EOENMTW55SklzLUs4UWNJWE9GcWp2c3l0YS1ISERESjAweUN6cXo0M1ZTNmFzUFFkTzBFd1B3cjBXVE53emJvRHYwSVVxQlc4M3UwbExORFRDU25DYlZVdHF5NWNiOE02Y3cxaXZyRWFxYjdXMF83ajZ3VER5SDJxeXVBOEJDY18xZkpkTFp1OE81YWpGNWloQVZ2UC1wWFc2TXFRcDlGV0V5TjhBVVZvdEEzVGhlWDNDakFTdXFn?oc=5",
-      "desc": "【Yahoo股市】台積電失守2400元！投顧喊「評價偏低」目標價維持3500元",
+      "newsTitle": "台股夜盤狂飆600點！台積電CoWoS傳漲價2成 葉育碩直言：終究靠台灣人",
+      "newsSource": "Yahoo新聞",
+      "newsDate": "Tue, 27 Oct 2026 15:58:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNSFdidEZBS1JMd2IxNXlYMHZLX2t5aDRJZnhGLWFpWlU1Ukhkb1NRWFdyRTBNdjRoXzJtWldqZlVVenF1OUNUUVZLUk1WUXdPaEtkYzQ0ZHpfejh2NmJIMXlTRlRBcXdlUEZNc2JVYW5UN1hiMjRHSFFLaGNxSGMwTnBTMzZ3bk81UVYxM1lGcXNNM2RlZHFNMzU2dXRPajdBSk9xUl9OQVR0aWFPWjlpenZKTVU2TjRvRE1ucUt4ejIyYjhYc2pPTzNYNUxGSUJpTG1XdFk4TXZLRU42Y3dXUURKNFZJNjFuOUxjT2otR2xvZUFVYXYxdHR5Z1pFNkVhODliXzlDZ2paaXVsZFM0MFpUZktsYWxxckJDdHoxLXNzVnRINTRIekZOTVNPLWwwcUpQeE9ORC1fdEt5Q25fODdxWlB2TXFuSVdoRk1GQk9meUxMQkQtSmk1RmVhLTVoQ2U4TmtaVTZxb3FWaENoZEoyYUlRU09pRE14MERWRDR0enlpWV9udk1XcjZYMms?oc=5",
+      "desc": "【Yahoo新聞】台股夜盤狂飆600點！台積電CoWoS傳漲價2成 葉育碩直言：終究靠台灣人",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ AI基建最大瓶頸是晶片基板！半導體供應恐...",
-      "date": "10-27",
+      "name": "⚡ 台積電驚傳調漲！CoWoS漲幅曝光 分析...",
+      "date": "10-28",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "AI基建最大瓶頸是晶片基板！半導體供應恐緊俏至2028年 輝達CoWoS、HBM資源占比下滑",
-      "newsSource": "鉅亨網",
-      "newsDate": "Tue, 27 Oct 2026 01:20:08 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15MVFyM0NXS1BWaWp5aWhoNWxsamx0ZzI2ekhFazNPOG9GYy1rOHlUczlFaXFFaWh2NmU3TkNZZWIwZEZZdEd2b3hCZTczWjg?oc=5",
-      "desc": "【鉅亨網】AI基建最大瓶頸是晶片基板！半導體供應恐緊俏至2028年 輝達CoWoS、HBM資源占比下滑",
+      "newsTitle": "台積電驚傳調漲！CoWoS漲幅曝光 分析揭內幕",
+      "newsSource": "自由財經",
+      "newsDate": "Wed, 28 Oct 2026 02:39:25 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZOXJrZVZCM0VralZFWFZnTU92aGxpZ0ZCY1J2cktDR3hJMmlwMEhGN1dlaFhhN0toZWNJUjdoV0JhYnlDMUhXeTloYzJPem1tOUhPYWN0Y3RZMTRoUjNr0gFkQVVfeXFMUDZJeFRGdWE4RXFkYlJFZ081a2RfZ2tIck5nMXpVV1dweEVuSTZyQ1ItVHlaUUJWOW5GdmNvVEFwQ1dGNUNIbWZ1OW9TZ2JnU09NUW9Ka0h4MnprMDVUNE5fZjRacg?oc=5",
+      "desc": "【自由財經】台積電驚傳調漲！CoWoS漲幅曝光 分析揭內幕",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,34 +41,34 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台達電泰國子公司因應轉型為智慧工廠取得供...",
-      "date": "10-27",
-      "category": "突發基建",
+      "name": "⚡ 費半狂飆3.6% 台積電ADR大漲近3%...",
+      "date": "10-28",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台達電泰國子公司因應轉型為智慧工廠取得供營業用設備，計約3450萬美元",
-      "newsSource": "台視全球資訊網",
-      "newsDate": "Tue, 27 Oct 2026 15:53:02 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0FjNjJPUGFYNDlaNDNDYi1SdENZNXRtNF9hRklFc1k5R0UyNXk5bTlvWTZCTTBxRkxOQXhEQkZsQ1lDWXYyLWtObTc4V2twNDQtd1RSTEExVHAtQVJiWWVqVW92aUkzUXFkam1fYjlSeEgzWDJqZlpfQ1I0UGtjNjAyTE1GVjFEX0M2Z2I1ZC1FZw?oc=5",
-      "desc": "【台視全球資訊網】台達電泰國子公司因應轉型為智慧工廠取得供營業用設備，計約3450萬美元",
+      "newsTitle": "費半狂飆3.6% 台積電ADR大漲近3% AI買盤回歸有望點火台股",
+      "newsSource": "理財周刊",
+      "newsDate": "Wed, 28 Oct 2026 00:53:39 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GYWlQYUlpVEJOb1JDMzJGUGtpUmtyc2g0SFI5LWRDUnVOblRoYk9Fcllkd1lweGlIRl9HRUxwb0JtSW8yLUkxRUFQbnpjc1E2MmhnR2RFYU9oRHZTTDBMTHFDb29qUFdhS1plNlBRUQ?oc=5",
+      "desc": "【理財周刊】費半狂飆3.6% 台積電ADR大漲近3% AI買盤回歸有望點火台股",
       "impactTargets": [
-        "t_2308"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美股收盤》AI股提振！費半勁揚3.6％ ...",
-      "date": "10-27",
+      "name": "⚡ 台股殺出雙11「折扣行情」！台積電？聯發...",
+      "date": "10-28",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股收盤》AI股提振！費半勁揚3.6％ 台積電ADR漲近3％",
-      "newsSource": "自由財經",
-      "newsDate": "Tue, 27 Oct 2026 22:01:51 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hR3FHOEhpS0VybDh1QllCbFJDcFI2cXVERmptNHpRTktVTVBJOW9IWkJ5VXY1akotUG5Ob2Y1S19nLVVhSVVwUGZyMERXN3RKT1FsT2hqN252SHBfdVVJ0gFkQVVfeXFMT2YzbHU3QXBkMjFkeWpOUUVBeUxiMHdvRzNtUlNpdW9rdzcwYjJhLTB6cDZMeGpCek5BSmhhbk1OZzd0Y3dBZlZMYnRndlZPOWQxNzVZb2pTMUFmOFd5Sm1IQkxoVQ?oc=5",
-      "desc": "【自由財經】美股收盤》AI股提振！費半勁揚3.6％ 台積電ADR漲近3％",
+      "newsTitle": "台股殺出雙11「折扣行情」！台積電？聯發科？誰有機會脫穎而出？",
+      "newsSource": "鉅亨網",
+      "newsDate": "Wed, 28 Oct 2026 00:19:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Znc2Q3ZxaXB0QWlaVGFzSTZzQUxSdUY5aDFrUDJKYTFhX1pJSFdHOXFqSkNCcjV2eXZnd3l0QW1KWWtZaF9XMXhyWXA4a3M?oc=5",
+      "desc": "【鉅亨網】台股殺出雙11「折扣行情」！台積電？聯發科？誰有機會脫穎而出？",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4074.1,
+      "price": 4054.5,
       "currency": "美元",
-      "change_pct": 0.34,
+      "change_pct": 1.16,
       "gold_units": {
-        "oz_usd": 4074.1,
-        "gram_twd": 4250.5,
-        "qian_twd": 15939,
-        "usdtwd": 32.45
+        "oz_usd": 4054.5,
+        "gram_twd": 4228.7,
+        "qian_twd": 15858,
+        "usdtwd": 32.44
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2400.0,
+      "price": 2410.0,
       "currency": "台幣",
-      "change_pct": -0.21
+      "change_pct": -0.41
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1510.0,
+      "price": 1525.0,
       "currency": "台幣",
-      "change_pct": -5.92
+      "change_pct": -6.15
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 106.6,
+      "price": 108.15,
       "currency": "台幣",
-      "change_pct": -0.61
+      "change_pct": 0.0
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 54.7,
+      "price": 56.4,
       "currency": "台幣",
-      "change_pct": -1.71
+      "change_pct": 0.0
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 28.1,
+      "price": 28.05,
       "currency": "台幣",
-      "change_pct": 4.85
+      "change_pct": 4.66
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 55.4,
+      "price": 54.3,
       "currency": "台幣",
-      "change_pct": 3.17
+      "change_pct": 0.93
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 46.25,
+      "price": 46.55,
       "currency": "台幣",
-      "change_pct": 4.52
+      "change_pct": 2.53
     }
   ],
   "links": [
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_server_power",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
