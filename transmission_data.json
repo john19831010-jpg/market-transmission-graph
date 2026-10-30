@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30 01:40",
+  "updatedAt": "2026-10-30 08:16",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 英特爾盤後狂瀉20%！美股收黑、台積電A...",
+      "name": "⚡ 台積電最後1分鐘被爆買近萬張！誰一次砸2...",
       "date": "10-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "英特爾盤後狂瀉20%！美股收黑、台積電ADR跌1.75% 台指期夜盤失守4萬6",
+      "newsTitle": "台積電最後1分鐘被爆買近萬張！誰一次砸225億元？分析師：外資在賭短線反彈",
       "newsSource": "Yahoo股市",
-      "newsDate": "Thu, 29 Oct 2026 23:15:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNSkFHVWR4a2EyVlpHZ1BQMXA1Xy1Za2VOQ1ZheWJuTmI2Y1FHa0dEd3dYSTZlWWp6dVRaWGlzN2hwUmo4MzhNWFVKTHctM1ZOblBNb09RZkpGWGxVYnFmWXA0azFpaWZDUzNNbGUxRk5PQ3F3WkZWbDJjRHd2cUI3NEQtT2c1UWdNOUthVEdUMnhsWWhaMTFxS1N3aGY4RTZhVlFoTzRTNlhjeVlqem5JbnBFN1l6cnJZX1JnUHNsRHdSM1c3SXdjU0VFWFRDbUFLQlp3LXpkVDlkOHZQaDlpeEM4Z2s1dXc2M1M5WGhRSzJoT3FvNHM3TnRpcjFhX0VJTWVvSmJsRXpDVF94NDRjRmZCUGN2Tzd3N0dCQkloU3ZfTC1FLXU3NUdaZUQ4N3BlN2V3M3hrY2lKcW5aaEhPd3R2QkVGajNoMUw0d1dWSjJDTC1iZjhiUXVLS1dRRHpKUVhIcGZYTzVJU2hIaTdPdzgtWlhWdHBIeEUyempaOUJJUQ?oc=5",
-      "desc": "【Yahoo股市】英特爾盤後狂瀉20%！美股收黑、台積電ADR跌1.75% 台指期夜盤失守4萬6",
+      "newsDate": "Fri, 30 Oct 2026 05:43:21 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPZE9SN3RxbXg1WF9sWHBYR3d6bGd2aW9OeVUwWUFuSHVDQTFJUlRRZW1ZVVlXN0tJQWZfT05PSlU1OE1uSzNTYnJndFdUSUdua1Zxd1pQaFlQczVIdVZVUTNBcDlpNmhyNVFuQTBNWmtzLUY1NnFNQ281MzlsZV9KVm03NmpyQ1VRc3pxempPNlRUZC1QX1pSQnF3OG9VT1hZVm51WFJyQ2lMZUlxcEx6azV2RS1wcFJBWHl2dllUbWRfb0dsbkZpWGt4N1FZU1JHdkhONVBXVmlaRFRPdS13M0lWOHhNbkJTcEp2NUtyWU1TRzA4bkx1d2dmOFRUMks4NUNZWWFGMklTMnpDdFFNMy13RmdfUlhvVV9GUExLVC1aOEdCSGVScmZCcUJ5YkFncEgwazhtY3lUQVA2QUV6dFZvUVo1TzFrNDFld081MHdSVnFXb0RrYlJTTmxFOUUyUXBjanRwWVpsZXdoWl9XSVJqUncxWDdHUUtZbTRmSUVqcFlVZi1EM2lpYkoxdFJReUs2eTBxZ2U5NUg5NmNVZV9lNi1rNXVNU01JdFNzRjdoSEp5QUhwM3RaTFZkY0xNY3NuTXBQcUpOMkJYc0dVdG1DaVpsX1FEdlhGdkZRZkRtVThEaGxhTFp2R3g?oc=5",
+      "desc": "【Yahoo股市】台積電最後1分鐘被爆買近萬張！誰一次砸225億元？分析師：外資在賭短線反彈",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電秦永沛首揭40奈米挫折 成立夜鷹部...",
+      "name": "⚡ 台股開低急殺逾1,600點！大盤、台積電...",
       "date": "10-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電秦永沛首揭40奈米挫折 成立夜鷹部隊半年宣告失敗",
+      "newsTitle": "台股開低急殺逾1,600點！大盤、台積電雙雙失守半年線 台達電觸跌停",
       "newsSource": "UDN",
-      "newsDate": "Thu, 29 Oct 2026 10:11:06 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02NjBtYUwxc1ZuUDFfYkxpMmd1ZGh4UGNsbG9JWVhuME1VLXpJck1qcTVZZG0ySWN5VFJCVW5KSEpfVGkxbGVRajNEQ1hwQzBy0gFWQVVfeXFMT1RGMTJWNElpeVZ0RHNXYy0zY2hfX1gwU1N1UDhiMWJNUGRKTmFDTFRNdzhnMVVlaEM5YzF4d1VQMFV0cFZnNzhoeTlJVTRPYXdBTGVJaUE?oc=5",
-      "desc": "【UDN】台積電秦永沛首揭40奈米挫折 成立夜鷹部隊半年宣告失敗",
+      "newsDate": "Fri, 30 Oct 2026 01:18:15 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkV3RpZ3p3Tk1JUUtlWHZSSVhUcUNGMkNYYlk3T0RqZXVDZkZHTDZRLWlIbmNDT0ptTVp2ZFdFckM0U1AyZjNtclFTOE96N0hK0gFWQVVfeXFMTlBvSm0xTXBNSjBqaDdBOE9wRTJnWFJ2T2ZsbzFFdVRLNjlXblN6ZDVmZkVhWGVyRjNZR1RzcF95alMwa1NNYWQtOGJCbXJCZFpVdDJrZHc?oc=5",
+      "desc": "【UDN】台股開低急殺逾1,600點！大盤、台積電雙雙失守半年線 台達電觸跌停",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電斥資388億元 買下友達中科廠",
+      "name": "⚡ AI股暴跌！　達人揭台積電、川湖、聯發科買點",
       "date": "10-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電斥資388億元 買下友達中科廠",
-      "newsSource": "自由財經",
-      "newsDate": "Thu, 29 Oct 2026 06:33:56 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zcnRYV184bEMtNU51OGpzRGhib0VPSW96UUYyYUZZZzE4TTN1OVRmenlmbHZlSmZSbGx3d3p4VTQ0RmVtSS1ZVkQ1TWZfTi1VY2ZPdjBQQ1NiUkJnRGFZ0gFkQVVfeXFMUE9lM1hBMUtqTmN0dWg2Tk5zVGlibVBVcmF3SnpyU0poM2p1cDlIbzY3QU92Z241SmZiMGUtQ3M0bnRsMDdtelUwYUd6dklEY3NDY1U0RUViSlpuUWRjbGdTNy1iTg?oc=5",
-      "desc": "【自由財經】台積電斥資388億元 買下友達中科廠",
+      "newsTitle": "AI股暴跌！　達人揭台積電、川湖、聯發科買點",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Thu, 29 Oct 2026 23:55:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FSDFLWUlhU3BGWF9FVjBRbmc3amNXMnhUcXR4dVhiYm9ZTGRHYk9BeFc3QndtN0NGZk1YT2R6eWp6bzRIcWFDc3Z0WUJVbG5xM2fSAVBBVV95cUxQWUVjM0tWdTRFRTZ0TnRYZVhIQkZmNzN3cko1emtVSUtnOVdyODNjaFplelVuV01yQ3lFU0c2M01nbGdhTi1oZUwtMjF2WGl2RQ?oc=5",
+      "desc": "【ETtoday財經雲】AI股暴跌！　達人揭台積電、川湖、聯發科買點",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電發布重訊！",
+      "name": "⚡ 公股行庫放款被誰卡死？台積電、鴻海竟成「...",
       "date": "10-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電發布重訊！",
-      "newsSource": "東森新聞",
-      "newsDate": "Thu, 29 Oct 2026 11:51:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1QcUdtZEVDbkZjTzZkejRBQVlmVFhneF93WVVJOXFXeFNrTnFpd0xiUTlxY3ZFRUNjSTlNbExld3c1dWV1Q2x6amRFRl90U2htVUxyQjAtUQ?oc=5",
-      "desc": "【東森新聞】台積電發布重訊！",
+      "newsTitle": "公股行庫放款被誰卡死？台積電、鴻海竟成「隱形銀行」被當金主調錢？",
+      "newsSource": "天下雜誌",
+      "newsDate": "Fri, 30 Oct 2026 06:21:43 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OT0RvZnNxSU9Kb2pLUFhxX1EyN1pOWVhlZHNienpKYVU0b2RjOGN3b0Jrc25OcGllSzJ4WnY5Ulg3UUhDWGowelM5Zjh3UQ?oc=5",
+      "desc": "【天下雜誌】公股行庫放款被誰卡死？台積電、鴻海竟成「隱形銀行」被當金主調錢？",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4016.4,
+      "price": 3991.6,
       "currency": "美元",
-      "change_pct": -0.54,
+      "change_pct": -1.16,
       "gold_units": {
-        "oz_usd": 4016.4,
-        "gram_twd": 4216.1,
-        "qian_twd": 15810,
-        "usdtwd": 32.65
+        "oz_usd": 3991.6,
+        "gram_twd": 4168.3,
+        "qian_twd": 15631,
+        "usdtwd": 32.48
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2365.0,
+      "price": 2370.0,
       "currency": "台幣",
-      "change_pct": -0.84
+      "change_pct": -0.63
     },
     {
       "id": "t_2308",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 103.9,
+      "price": 104.95,
       "currency": "台幣",
-      "change_pct": -2.81
+      "change_pct": -1.82
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 52.45,
+      "price": 53.3,
       "currency": "台幣",
-      "change_pct": -4.81
+      "change_pct": -3.27
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.9,
+      "price": 28.35,
       "currency": "台幣",
-      "change_pct": -0.18
+      "change_pct": 1.43
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 54.0,
+      "price": 54.5,
       "currency": "台幣",
-      "change_pct": -1.1
+      "change_pct": -0.18
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 45.7,
+      "price": 46.5,
       "currency": "台幣",
-      "change_pct": -1.4
+      "change_pct": 0.32
     }
   ],
   "links": [
