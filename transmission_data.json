@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-10-30 08:16",
+  "updatedAt": "2026-10-30 15:41",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電最後1分鐘被爆買近萬張！誰一次砸2...",
+      "name": "⚡ 【Follow法人】外資史上第七大賣超！...",
       "date": "10-30",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電最後1分鐘被爆買近萬張！誰一次砸225億元？分析師：外資在賭短線反彈",
+      "newsTitle": "【Follow法人】外資史上第七大賣超！台積電台達電就提款350億元！再砍國巨破萬張0050淪賣超王",
       "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 30 Oct 2026 05:43:21 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPZE9SN3RxbXg1WF9sWHBYR3d6bGd2aW9OeVUwWUFuSHVDQTFJUlRRZW1ZVVlXN0tJQWZfT05PSlU1OE1uSzNTYnJndFdUSUdua1Zxd1pQaFlQczVIdVZVUTNBcDlpNmhyNVFuQTBNWmtzLUY1NnFNQ281MzlsZV9KVm03NmpyQ1VRc3pxempPNlRUZC1QX1pSQnF3OG9VT1hZVm51WFJyQ2lMZUlxcEx6azV2RS1wcFJBWHl2dllUbWRfb0dsbkZpWGt4N1FZU1JHdkhONVBXVmlaRFRPdS13M0lWOHhNbkJTcEp2NUtyWU1TRzA4bkx1d2dmOFRUMks4NUNZWWFGMklTMnpDdFFNMy13RmdfUlhvVV9GUExLVC1aOEdCSGVScmZCcUJ5YkFncEgwazhtY3lUQVA2QUV6dFZvUVo1TzFrNDFld081MHdSVnFXb0RrYlJTTmxFOUUyUXBjanRwWVpsZXdoWl9XSVJqUncxWDdHUUtZbTRmSUVqcFlVZi1EM2lpYkoxdFJReUs2eTBxZ2U5NUg5NmNVZV9lNi1rNXVNU01JdFNzRjdoSEp5QUhwM3RaTFZkY0xNY3NuTXBQcUpOMkJYc0dVdG1DaVpsX1FEdlhGdkZRZkRtVThEaGxhTFp2R3g?oc=5",
-      "desc": "【Yahoo股市】台積電最後1分鐘被爆買近萬張！誰一次砸225億元？分析師：外資在賭短線反彈",
+      "newsDate": "Fri, 30 Oct 2026 09:00:38 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNM0c4UWpUUVhCNXhnMmV6LUMwOTBKTXl1Z0Y0QnFjc05KT3hzaUtGbXFqRHJYMGpOclA3NTRxR0JNQ0U5YWpSaHBWVC1zNU1SNjA2bl9TeHc1R1hWY1FrWWZQV1phSG1ZM21oRWZST1IwaV84UzhzS1lkRHptcnQ1UVAzT3RPZG1oV2hlMExHZmNOR1NTMF9yOFhVcjllNE1iQVBPby1OeHVYNVZuY2o1VlBuSEVsWWF2aW9LSlo0RXVJVkpNSHN1dVk4RjFSTXgydXU0R0VYMFhWN2lKNmJFMFA3TElRc1ZJd1dFM2xDLXZ6ZlFnbnlZRHlYMVowZndsVG5OQkFCZEhHM1gwbDIwNlBIRGxYWW0xcVpjQ0ExRlpGdUIwOGZaR3JUekNrTE5MMU95MHI5X1R2Uy1McWVQLWI4Zkg1UURPMFM3WHBzSFlzMXJMaWNkOGFSNDU4MVI4NE9CZXFsamdyNDdFT1hXZ1llM25IdU56X3pZVHo4QmJtR2ZDRGdrUDkzbEVsY1JydG03YTgxQkV1TWQ3REh1WmMyTkQ5VEJTOXlaNkl4akZXblZiazhzT3NyeE5ETDdLcVFFX3JoTTVITVh4bnFzLTFhekI4TnQtRmVuel9KYTQwLVJmcUhuU29wLUVHaDVHcmt5RVJoS3FIbk5wU1gydGh1VlNGcTBwbHZnYWJURzZkbS13MjNLS1l3SVpLLUZJQVN1YUE4NHlQQQ?oc=5",
+      "desc": "【Yahoo股市】【Follow法人】外資史上第七大賣超！台積電台達電就提款350億元！再砍國巨破萬張0050淪賣超王",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 公股行庫放款被誰卡死？台積電、鴻海竟成「...",
+      "name": "⚡ 台股重挫》台達電跌停、科技權值股遭殺盤 ...",
       "date": "10-30",
-      "category": "突發半導體",
+      "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "公股行庫放款被誰卡死？台積電、鴻海竟成「隱形銀行」被當金主調錢？",
-      "newsSource": "天下雜誌",
-      "newsDate": "Fri, 30 Oct 2026 06:21:43 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OT0RvZnNxSU9Kb2pLUFhxX1EyN1pOWVhlZHNienpKYVU0b2RjOGN3b0Jrc25OcGllSzJ4WnY5Ulg3UUhDWGowelM5Zjh3UQ?oc=5",
-      "desc": "【天下雜誌】公股行庫放款被誰卡死？台積電、鴻海竟成「隱形銀行」被當金主調錢？",
+      "newsTitle": "台股重挫》台達電跌停、科技權值股遭殺盤 4大原因揭千點跌勢",
+      "newsSource": "民報",
+      "newsDate": "Fri, 30 Oct 2026 10:20:57 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xY3pmWUVXWDZGNzg5WFVWZ2toZk5ITXo4STI2QXJJYWxiRXhydDlfY1UxZGhOcUUtNE9KMGs3TktPdkJ6eVRFejBFaVhYdmpCTV9ROVZzQjZXYWk2YUNZbVcwc08?oc=5",
+      "desc": "【民報】台股重挫》台達電跌停、科技權值股遭殺盤 4大原因揭千點跌勢",
       "impactTargets": [
-        "t_2330"
+        "t_2308"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_server_power",
+        "t_2308"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3991.6,
+      "price": 3915.5,
       "currency": "美元",
-      "change_pct": -1.16,
+      "change_pct": -3.04,
       "gold_units": {
-        "oz_usd": 3991.6,
-        "gram_twd": 4168.3,
-        "qian_twd": 15631,
-        "usdtwd": 32.48
+        "oz_usd": 3915.5,
+        "gram_twd": 4101.4,
+        "qian_twd": 15380,
+        "usdtwd": 32.58
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 715.34,
+      "price": 693.14,
       "currency": "美元",
-      "change_pct": 1.54
+      "change_pct": -1.6
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 707.32,
+      "price": 696.42,
       "currency": "美元",
-      "change_pct": 0.71
+      "change_pct": -0.31
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 283.82,
+      "price": 282.26,
       "currency": "美元",
-      "change_pct": -12.46
+      "change_pct": -11.85
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 403.3,
+      "price": 399.37,
       "currency": "美元",
-      "change_pct": 7.67
+      "change_pct": 7.29
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_fomc",
