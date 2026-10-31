@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-30 20:30",
+  "updatedAt": "2026-10-31 00:32",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 【Follow法人】外資史上第七大賣超！...",
-      "date": "10-30",
+      "date": "10-31",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "【Follow法人】外資史上第七大賣超！台積電台達電就提款350億元！再砍國巨破萬張0050淪賣超王",
@@ -22,8 +22,27 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 快訊／美股費半崩跌逾7% 台積電ADR跳...",
+      "date": "10-31",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "快訊／美股費半崩跌逾7% 台積電ADR跳水、台指期夜盤殺破底",
+      "newsSource": "三立新聞網SETN.com",
+      "newsDate": "Fri, 30 Oct 2026 16:30:24 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXQWNPODE0cU5aeHR1UWV4UEhsOGVJNGtYLVNpaURGV3pHbnFnMnhLaThxMmlpMHNnR05Qc0lXUEhZMjkzWXRqUS13dw?oc=5",
+      "desc": "【三立新聞網SETN.com】快訊／美股費半崩跌逾7% 台積電ADR跳水、台指期夜盤殺破底",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 還得靠台灣！點名台積電是關鍵 美國半導體...",
-      "date": "10-30",
+      "date": "10-31",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "還得靠台灣！點名台積電是關鍵 美國半導體爆致命弱點",
@@ -40,35 +59,16 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 台股開低急殺逾1,600點！大盤、台積電...",
-      "date": "10-30",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台股開低急殺逾1,600點！大盤、台積電雙雙失守半年線 台達電觸跌停",
-      "newsSource": "UDN",
-      "newsDate": "Fri, 30 Oct 2026 01:18:15 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkV3RpZ3p3Tk1JUUtlWHZSSVhUcUNGMkNYYlk3T0RqZXVDZkZHTDZRLWlIbmNDT0ptTVp2ZFdFckM0U1AyZjNtclFTOE96N0hK0gFWQVVfeXFMTlBvSm0xTXBNSjBqaDdBOE9wRTJnWFJ2T2ZsbzFFdVRLNjlXblN6ZDVmZkVhWGVyRjNZR1RzcF95alMwa1NNYWQtOGJCbXJCZFpVdDJrZHc?oc=5",
-      "desc": "【UDN】台股開低急殺逾1,600點！大盤、台積電雙雙失守半年線 台達電觸跌停",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_4",
-      "name": "⚡ AI股暴跌！　達人揭台積電、川湖、聯發科買點",
-      "date": "10-30",
+      "name": "⚡ 美股賣壓未減！費城半導體重挫5.69% ...",
+      "date": "10-31",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "AI股暴跌！　達人揭台積電、川湖、聯發科買點",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Thu, 29 Oct 2026 23:55:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FSDFLWUlhU3BGWF9FVjBRbmc3amNXMnhUcXR4dVhiYm9ZTGRHYk9BeFc3QndtN0NGZk1YT2R6eWp6bzRIcWFDc3Z0WUJVbG5xM2fSAVBBVV95cUxQWUVjM0tWdTRFRTZ0TnRYZVhIQkZmNzN3cko1emtVSUtnOVdyODNjaFplelVuV01yQ3lFU0c2M01nbGdhTi1oZUwtMjF2WGl2RQ?oc=5",
-      "desc": "【ETtoday財經雲】AI股暴跌！　達人揭台積電、川湖、聯發科買點",
+      "newsTitle": "美股賣壓未減！費城半導體重挫5.69% 台積電ADR下跌15.33美元",
+      "newsSource": "壹蘋新聞網",
+      "newsDate": "Fri, 30 Oct 2026 14:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalVRSjZGUU1naDBlbEJPTTVKREprM01OdzUxTFh5OV9tSjZDamxWaHRLaWhMd0MxSWNhaGhOVG5fb2owMG1mckY3b0JicHM4MmRfd0lGYlllRnBmNUkySmtHRU1NTnBnQUkxQ1poSjZUemhCTERock9acVJxU1dpYWtR?oc=5",
+      "desc": "【壹蘋新聞網】美股賣壓未減！費城半導體重挫5.69% 台積電ADR下跌15.33美元",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3889.3,
+      "price": 3884.9,
       "currency": "美元",
-      "change_pct": -3.69,
+      "change_pct": -3.8,
       "gold_units": {
-        "oz_usd": 3889.3,
-        "gram_twd": 4075.2,
-        "qian_twd": 15282,
-        "usdtwd": 32.59
+        "oz_usd": 3884.9,
+        "gram_twd": 4071.8,
+        "qian_twd": 15269,
+        "usdtwd": 32.6
       }
     },
     {
