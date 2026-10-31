@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-31 06:45",
+  "updatedAt": "2026-10-31 13:26",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 錯過先前大漲？外媒精算「台積電2030年...",
+      "date": "10-31",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "錯過先前大漲？外媒精算「台積電2030年驚人股價」 現在進場還來得及",
+      "newsSource": "自由財經",
+      "newsDate": "Sat, 31 Oct 2026 11:07:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95b2tXV3dGVVl3b3piVTZqLURkbzh6T2ltWUhpaXdRLUtvM0d3UkJvYUdSSWJsdnRCVVBHYlY2TVpRTHA0T2hWZDMzLWRqLWJqcjQyVUVPTnhyTkxGdnlR0gFkQVVfeXFMUHJ0WHJRaVJ5SEdUNGNfT2dPTmRpZUtkOW5NaXgzM3NIc29Gd2tFQUx6TjBQXzNmcFp5eXhTV21iMDBLakJUeV80Vkw3bV9Pa1QzMk5TaG9PQ09lUF9LTXJGZEtUZw?oc=5",
+      "desc": "【自由財經】錯過先前大漲？外媒精算「台積電2030年驚人股價」 現在進場還來得及",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 台積電獲利穩　台指期卻狂跌！他嚇「有大事...",
       "date": "10-31",
       "category": "突發半導體",
@@ -21,35 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 【Follow法人】外資史上第七大賣超！...",
-      "date": "10-31",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "【Follow法人】外資史上第七大賣超！台積電台達電就提款350億元！再砍國巨破萬張0050淪賣超王",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 30 Oct 2026 09:00:38 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiqgRBVV95cUxNM0c4UWpUUVhCNXhnMmV6LUMwOTBKTXl1Z0Y0QnFjc05KT3hzaUtGbXFqRHJYMGpOclA3NTRxR0JNQ0U5YWpSaHBWVC1zNU1SNjA2bl9TeHc1R1hWY1FrWWZQV1phSG1ZM21oRWZST1IwaV84UzhzS1lkRHptcnQ1UVAzT3RPZG1oV2hlMExHZmNOR1NTMF9yOFhVcjllNE1iQVBPby1OeHVYNVZuY2o1VlBuSEVsWWF2aW9LSlo0RXVJVkpNSHN1dVk4RjFSTXgydXU0R0VYMFhWN2lKNmJFMFA3TElRc1ZJd1dFM2xDLXZ6ZlFnbnlZRHlYMVowZndsVG5OQkFCZEhHM1gwbDIwNlBIRGxYWW0xcVpjQ0ExRlpGdUIwOGZaR3JUekNrTE5MMU95MHI5X1R2Uy1McWVQLWI4Zkg1UURPMFM3WHBzSFlzMXJMaWNkOGFSNDU4MVI4NE9CZXFsamdyNDdFT1hXZ1llM25IdU56X3pZVHo4QmJtR2ZDRGdrUDkzbEVsY1JydG03YTgxQkV1TWQ3REh1WmMyTkQ5VEJTOXlaNkl4akZXblZiazhzT3NyeE5ETDdLcVFFX3JoTTVITVh4bnFzLTFhekI4TnQtRmVuel9KYTQwLVJmcUhuU29wLUVHaDVHcmt5RVJoS3FIbk5wU1gydGh1VlNGcTBwbHZnYWJURzZkbS13MjNLS1l3SVpLLUZJQVN1YUE4NHlQQQ?oc=5",
-      "desc": "【Yahoo股市】【Follow法人】外資史上第七大賣超！台積電台達電就提款350億元！再砍國巨破萬張0050淪賣超王",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 看好台積電再大賺一筆！外媒估2030年驚...",
+      "name": "⚡ 美股大跌！費半重挫7.2% 輝達、台積電...",
       "date": "10-31",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
-      "newsSource": "自由財經",
-      "newsDate": "Mon, 26 Oct 2026 08:38:52 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMEdndUNGUnFIWExEU2JHUzFTOWJvV20tLW83M1Z0MFNYRjc3QXZJV2pqbm4xV0RMbWptb2t5U1lKU3lKOE1RaVFTb1lCSXVpaHAyQmVkQzdDUXRCb2dN0gFkQVVfeXFMTm0xclg5WnhadWtvSjAxWE5XWExwQldIZmc3c3lJTzZOem8tVVE2STZpdmFuSG9ZWEVpMmZEa3UzMF9lQVlBcFA1MkRuWW5pUkctdkxET201VUdGUUFiNXg1OWZTTg?oc=5",
-      "desc": "【自由財經】看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
+      "newsTitle": "美股大跌！費半重挫7.2% 輝達、台積電ADR下殺",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Fri, 30 Oct 2026 22:05:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQYXd4TzlGdkI0M2VBdHMyREl5Q1o3ckg1WlZIMDZKODZGM3hsaFNkd1pZSnk0Y0xvYnBoUk5pR0dJUUl6WHdOZkZNbXV6RFNJekhqUzVDSTRrNU1RN0MxOHNLclNKbmpSSWtBZzFsTnk3QzBXNUpiejNtM2dYWEVRV1JyZm1ZZ1BJRGdJVHUydkM1M3NZVkpQNllRYTY3M0ptZi1yejZkenRkYkJKYl91SGRBWUpJZFhhSy1jY1lwNTVsZDZYdS1jY3R6NUZvS19kTFdlNHBxQy1iUUtwTXkzZmxRaHFiT0xNbTBqOGZqNXRxekRjMHRkQktJNE9tbHlSSS1hTURoUW55UVVaRUtmOGtya0Y1QTBYU3Nn?oc=5",
+      "desc": "【Yahoo股市】美股大跌！費半重挫7.2% 輝達、台積電ADR下殺",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台達電慘跌近4成！現在是撿便宜還是接刀？...",
+      "name": "⚡ 【台積電獲利穩 台指期卻狂跌！他嚇「有大...",
       "date": "10-31",
-      "category": "突發基建",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台達電慘跌近4成！現在是撿便宜還是接刀？不敗教主揭甜甜價- 財經",
-      "newsSource": "中時新聞網",
-      "newsDate": "Mon, 26 Oct 2026 02:36:33 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWGRnVWlfT19SODd6VUs2aG5pRi1qWVJKT2N5ajM0aVBVREt0U0xoWElGWkNjWGMtUXAzRm9pTU1wLVBWcU9rZnlyQXFoWjJqS2Q5d1d3X0RwWVBTdllHVEl2VWdvWmFJUmNMeEVB?oc=5",
-      "desc": "【中時新聞網】台達電慘跌近4成！現在是撿便宜還是接刀？不敗教主揭甜甜價- 財經",
+      "newsTitle": "【台積電獲利穩 台指期卻狂跌！他嚇「有大事要發生？」一票樂觀】 低了我就撿！ （#01J）",
+      "newsSource": "Facebook",
+      "newsDate": "Sat, 31 Oct 2026 09:36:34 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPcVlreVVQUUpfVDZJclREU3ZhblhaWGQ1WDV5Yng4Sm5sMlRscjlZakhjampPU3hySGNQWWZXS1gxX0NkX3pPMTNsQ3pUTXBWN0JDa0pxb3lJRDRzeTVNTy1ZQUpDMjlvNGN4OUxqVmtHc3JCdjRhYzlWOXl5dV9sQUFuNk1ac2lhS19NQWNqOGpKdFNQLUI5RHJfSjBmOG9BcWh6ZF9lT3dFX1dtU2FBdXBrek44NkRuNlp1VUhyZ0poZnZXSV90T1hFZkgzai1LZHB6c2dUTDJIWFFsWUpweDdZaV9ZVnRwZVpWanR5eHdDS0ZIY1FMN3ZkQUpCeml5UWIzb0w2OTN3M2FvR0YwNmZoLTRRMEd2c1FVemNldGZwampabzFQdl84QS1ya012b3FoVGp1NE5OQ0lCNHV1YnI5TzJBTmllYXc4N3BBWko2X0hka2t5UkxEZFFLY2h0QmVBQ2N5TWZBLWhlRjhwcW5GTmI5a1pKSW9jdUp1NGIyd0VUZDdSSVZzTV9qU0tqb2ZGUmR0SUJZeVJRd3FMa1pENHFqSzBtdXQxeE8yS0wwQ0FPc29sWDc2c3Y4REtDeFpaNnJMQThnY0k?oc=5",
+      "desc": "【Facebook】【台積電獲利穩 台指期卻狂跌！他嚇「有大事要發生？」一票樂觀】 低了我就撿！ （#01J）",
       "impactTargets": [
-        "t_2308"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_server_power",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
