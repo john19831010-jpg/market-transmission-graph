@@ -1,8 +1,27 @@
 {
-  "updatedAt": "2026-10-31 00:32",
+  "updatedAt": "2026-10-31 06:45",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電獲利穩　台指期卻狂跌！他嚇「有大事...",
+      "date": "10-31",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電獲利穩　台指期卻狂跌！他嚇「有大事要發生？」一票樂觀",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Sat, 31 Oct 2026 02:25:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmWUgtZ1JXdzNPRUdxUEowWWw4YllUZ3prSTgyb3JiUERLUGl1NVN2TDhWZ2JSNTVOamVqNGxFeDNKOU5vLWJFLWtkNExRSVRtLVHSAVBBVV95cUxNelFfaVhRam5HTXU5cG4zb0ZkeGxFcnp3VERjUkEwVmU5RDlKYWJVR0hPUGxndFlyemxZM25vUHhsUHMyc2NQbjBsWHI5UzMtag?oc=5",
+      "desc": "【ETtoday財經雲】台積電獲利穩　台指期卻狂跌！他嚇「有大事要發生？」一票樂觀",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
       "name": "⚡ 【Follow法人】外資史上第七大賣超！...",
       "date": "10-31",
       "category": "突發半導體",
@@ -21,35 +40,16 @@
       ]
     },
     {
-      "id": "e_breaking_2",
-      "name": "⚡ 快訊／美股費半崩跌逾7% 台積電ADR跳...",
-      "date": "10-31",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "快訊／美股費半崩跌逾7% 台積電ADR跳水、台指期夜盤殺破底",
-      "newsSource": "三立新聞網SETN.com",
-      "newsDate": "Fri, 30 Oct 2026 16:30:24 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXQWNPODE0cU5aeHR1UWV4UEhsOGVJNGtYLVNpaURGV3pHbnFnMnhLaThxMmlpMHNnR05Qc0lXUEhZMjkzWXRqUS13dw?oc=5",
-      "desc": "【三立新聞網SETN.com】快訊／美股費半崩跌逾7% 台積電ADR跳水、台指期夜盤殺破底",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
       "id": "e_breaking_3",
-      "name": "⚡ 還得靠台灣！點名台積電是關鍵 美國半導體...",
+      "name": "⚡ 看好台積電再大賺一筆！外媒估2030年驚...",
       "date": "10-31",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "還得靠台灣！點名台積電是關鍵 美國半導體爆致命弱點",
+      "newsTitle": "看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
       "newsSource": "自由財經",
-      "newsDate": "Fri, 30 Oct 2026 03:03:41 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nVEFuYWJhS01ZTmxLQ2ZZd24wWE1qblVINTJ0RWg0UDVxNkNZQ2t0bVhSZmFJVmJiUUxpeDNVb2FTYU5xYjVLZ2R0bWFoOGZtM2lGSDlwNllHaVhrVEpR0gFkQVVfeXFMTkdkWE1uN1k3Y0dEeHlFb2NsX0lOaURjTldwVWt6TkxtUU9TQXZzc25LczVTUXF0R0k3WGMzNVNFdlphTnJlbUhUX2tzaU1rYjU5V1hCSlVvc2psaFNsNE5FcEhJOQ?oc=5",
-      "desc": "【自由財經】還得靠台灣！點名台積電是關鍵 美國半導體爆致命弱點",
+      "newsDate": "Mon, 26 Oct 2026 08:38:52 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMEdndUNGUnFIWExEU2JHUzFTOWJvV20tLW83M1Z0MFNYRjc3QXZJV2pqbm4xV0RMbWptb2t5U1lKU3lKOE1RaVFTb1lCSXVpaHAyQmVkQzdDUXRCb2dN0gFkQVVfeXFMTm0xclg5WnhadWtvSjAxWE5XWExwQldIZmc3c3lJTzZOem8tVVE2STZpdmFuSG9ZWEVpMmZEa3UzMF9lQVlBcFA1MkRuWW5pUkctdkxET201VUdGUUFiNXg1OWZTTg?oc=5",
+      "desc": "【自由財經】看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美股賣壓未減！費城半導體重挫5.69% ...",
+      "name": "⚡ 台達電慘跌近4成！現在是撿便宜還是接刀？...",
       "date": "10-31",
-      "category": "突發半導體",
+      "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "美股賣壓未減！費城半導體重挫5.69% 台積電ADR下跌15.33美元",
-      "newsSource": "壹蘋新聞網",
-      "newsDate": "Fri, 30 Oct 2026 14:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalVRSjZGUU1naDBlbEJPTTVKREprM01OdzUxTFh5OV9tSjZDamxWaHRLaWhMd0MxSWNhaGhOVG5fb2owMG1mckY3b0JicHM4MmRfd0lGYlllRnBmNUkySmtHRU1NTnBnQUkxQ1poSjZUemhCTERock9acVJxU1dpYWtR?oc=5",
-      "desc": "【壹蘋新聞網】美股賣壓未減！費城半導體重挫5.69% 台積電ADR下跌15.33美元",
+      "newsTitle": "台達電慘跌近4成！現在是撿便宜還是接刀？不敗教主揭甜甜價- 財經",
+      "newsSource": "中時新聞網",
+      "newsDate": "Mon, 26 Oct 2026 02:36:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWGRnVWlfT19SODd6VUs2aG5pRi1qWVJKT2N5ajM0aVBVREt0U0xoWElGWkNjWGMtUXAzRm9pTU1wLVBWcU9rZnlyQXFoWjJqS2Q5d1d3X0RwWVBTdllHVEl2VWdvWmFJUmNMeEVB?oc=5",
+      "desc": "【中時新聞網】台達電慘跌近4成！現在是撿便宜還是接刀？不敗教主揭甜甜價- 財經",
       "impactTargets": [
-        "t_2330"
+        "t_2308"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_server_power",
+        "t_2308"
       ]
     },
     {
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3884.9,
+      "price": 3898.9,
       "currency": "美元",
-      "change_pct": -3.8,
+      "change_pct": -3.45,
       "gold_units": {
-        "oz_usd": 3884.9,
-        "gram_twd": 4071.8,
-        "qian_twd": 15269,
+        "oz_usd": 3898.9,
+        "gram_twd": 4086.5,
+        "qian_twd": 15324,
         "usdtwd": 32.6
       }
     },
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_fomc",
