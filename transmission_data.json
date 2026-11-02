@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-01 20:59",
+  "updatedAt": "2026-11-02 00:33",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 「別人恐懼我貪婪」錯了嗎？他喊這波下殺不...",
-      "date": "11-01",
+      "name": "⚡ 賣廠給台積電只是開始？友達布局玻璃基板試...",
+      "date": "11-02",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "「別人恐懼我貪婪」錯了嗎？他喊這波下殺不單純 網淡定：台積電都敢加蓋了",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sun, 01 Nov 2026 09:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQWDRXQ0dsem9Yc0N0UlNuVUpfRzJKVURWcVpJX3NkazJlelNSblRGSlFjRzMtS293YUE3ZG9vLVBCbVcxM0gtOXh5eTh4UFdBOVJXT2NiMDdlTFc5dzQ2bkViNkxpQUhVSTZPaFhoYUxCekQxbU5iVlY0eXI2ZlVOcGNHbFB4MDBZQWF4ZkdjX1pMOTNUaTFPYUJlWjk5YUN5a1FLUGhpSUt3ODNWSUktcFpCd2gtS1ltUXVNR3dQZWRHUXpXNG1KMXc2UjNoa1VHY0NIN1FoVU9ld0lFbHJZZVkwU1FPR2xCMTNRN0pWaFQyVlBqV0o2V3ZLQXFjNHBfRTZEdHNzSHpSaE9LdE9oMDB3VHAwQ3liMlVNWjNzU2tNN0VQZnZDVGdKV2JBM3FzdVJJOUc1VzJLRUdEVk1FSjVEZndTcGdkUTBDMTBiRFhHUEc3UFRaM1pNWFJNSDdxMUpMaDlFUHB6QkdKSV95ZWV3Z19mV3VWQlU4MjRia3o0TENGV0l3OVA3S21fSTlONGI2blhVSGpkWk1ZV0VQcFgybDJZSW1acVhwNHJiUDFwdHVBN3B2REtaVjJEcDJoc1lqVEFCVDY?oc=5",
-      "desc": "【Yahoo股市】「別人恐懼我貪婪」錯了嗎？他喊這波下殺不單純 網淡定：台積電都敢加蓋了",
+      "newsTitle": "賣廠給台積電只是開始？友達布局玻璃基板試產線切入CoPoS先進封裝添想像- 日報",
+      "newsSource": "工商時報",
+      "newsDate": "Sun, 01 Nov 2026 19:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWmhCU2I0SktDcGtzeUNQZVNPNUtLTUx1OEpXbkJlT2lHdEdiYjJpM1BveUxGcmVOUVBmbEF0SEhNc1VrWmtUb2ZiUGNTRnlpV0V2Y09OUzMxUkNmMUpJ?oc=5",
+      "desc": "【工商時報】賣廠給台積電只是開始？友達布局玻璃基板試產線切入CoPoS先進封裝添想像- 日報",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電推進CoPoS 面板廠沾光- 日報",
-      "date": "11-01",
+      "name": "⚡ 台積電甜甜價快把握？投顧喊「增加持股」、...",
+      "date": "11-02",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電推進CoPoS 面板廠沾光- 日報",
-      "newsSource": "工商時報",
-      "newsDate": "Sun, 01 Nov 2026 19:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aWmhCU2I0SktDcGtzeUNQZVNPNUtLTUx1OEpXbkJlT2lHdEdiYjJpM1BveUxGcmVOUVBmbEF0SEhNc1VrWmtUb2ZiUGNTRnlpV0V2Y09OUzMxUkNmMUpJ?oc=5",
-      "desc": "【工商時報】台積電推進CoPoS 面板廠沾光- 日報",
+      "newsTitle": "台積電甜甜價快把握？投顧喊「增加持股」、目標價3650元 理由曝光",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 01 Nov 2026 02:56:27 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPcTA4UGYxcEVUODVUSnZjTUhOenRTQ3VJRkFoZ3RfQzQxSk9kamVtQURtcmI2VkpvYk1ZbUxsdEtJQjdjR0YxTmxiZmM2clN3UHJzcWU3TkwweTk2bzYzMXNRRmlvbF9hNEVUMXI0b1libDFGOGFWejBCcnpacUlNb3FlUThsMld6Uml5dV9pbG9sS0xETUZnUDFFNzVLbUdpVG5kWmtFUW1uYkVYVXBuaEFrTG5EbXYzQzY0V1Vldjhsal9lbzRQdmdhSzV2dzFVMGE1cDEyLU1oZENXWmprbWxjTkc5bU1FTVI5SzM4cnZ6NXBkLTRiQ21GYXB1OHdoV3BmcXhXdlB6WGU5a0lmTlJaeGlFTEExdUw0Qkt2ZFdJRHZKcnlFYk5Qb3R5Q0tyRHRHN2UwOUVlNUdWdmM2OXNXelFSMGpHbXdidDRnNWh1NzRHNngtZnp5d3Vna2l1a18zWjJmbW1ZTVZlb3E0YUMwSVd1b3FKb2tZM0tfOWdxSF9wRmc?oc=5",
+      "desc": "【Yahoo股市】台積電甜甜價快把握？投顧喊「增加持股」、目標價3650元 理由曝光",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,40 +41,40 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 美股大跌前跡象？Google、Intel...",
-      "date": "11-01",
-      "category": "突發AI",
+      "name": "⚡ 美國期中選舉牽動亞股 分析師點名台積電等...",
+      "date": "11-02",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "美股大跌前跡象？Google、Intel、Amazon財報連發！35年數據告訴你！｜豐雲學堂2026 年 10 月",
-      "newsSource": "永豐金證券",
-      "newsDate": "Fri, 30 Oct 2026 11:44:26 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOQzVWa0lUQnJiWFJ4aTFOc0U1dFFRYm9wczM5V2Ewa2dqMmxJNzNDZXZOcU5FMHVHemUtX2hQaEFNYzZkYVktYXJhZFZmTENodWczR0FJbXVGejVsZElPQVhBdC1YcGlOTFNWbXIzM3J2X25Nd3c4eVBTVmdkQU9Fd2FSeVFFSXFabnRFaDYyMk13aVZkcnRGdTlxY0tDWjRGeGtUVjlYeEphR2FxU0RYam1pelpFT010amxPeVoxUi1Tbkl2akpYdnMzSW1BQ0ZacWtyMWRHUkwtQm53T3RjYUl5VTdnWDNwRWdMZ0pHNXpEQ3Job0l1MzlQSG5neERjOTRRV3NLZXJWbUVfMTRFbjNMeERDS2FyY3gxa2d6THdMMHlDTkFCODg4Z29iRXk1bjBMLUdCVGpjLThVR044M2czWmRLVjZqR1l4QVdVaDBGOG5uaTduMXU2c3djNmNwWDRDSEpNaXRtamVSMnE5Vw?oc=5",
-      "desc": "【永豐金證券】美股大跌前跡象？Google、Intel、Amazon財報連發！35年數據告訴你！｜豐雲學堂2026 年 10 月",
+      "newsTitle": "美國期中選舉牽動亞股 分析師點名台積電等「4大台廠」具抗震韌性",
+      "newsSource": "民報",
+      "newsDate": "Sun, 01 Nov 2026 23:45:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LNkZoRUpZb1FIRGpFN1BFU1M1RFh1ekgtcG82bEM0Y1luV192MVJBYVY5SFBfZDVYQ1pjemh3VUlDcGhXd0pQYkNvTTN3WU5YamhTdzVCZGtENEM1c1I3clQzQ0U?oc=5",
+      "desc": "【民報】美國期中選舉牽動亞股 分析師點名台積電等「4大台廠」具抗震韌性",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 英特爾暴跌拖累美股！台股危險了？分析師揭...",
-      "date": "11-01",
-      "category": "突發基建",
+      "name": "⚡ 【行情快報】聯準會暫停升息，宣布明年起減...",
+      "date": "11-02",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券",
-      "newsSource": "工商時報",
-      "newsDate": "Sun, 01 Nov 2026 01:20:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2d4VkEyaVpGamdrbG01bWFScDhIZkRMNDdQZVJaZTYyeDl5emN3LXJ5eUlYRDE4Z1RQXzlIRmpGdGhETXhIV2tPejlTcVh3WkxWZkpfSEw3Nl9lWnZR?oc=5",
-      "desc": "【工商時報】英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券",
+      "newsTitle": "【行情快報】聯準會暫停升息，宣布明年起減少利率決策場次！",
+      "newsSource": "MacroMicro",
+      "newsDate": "Thu, 29 Oct 2026 00:08:16 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNNUxUa1NKQ1ZXS3BLbWR0ZExHU2NMTkpmMjFzdmJsMmhKOHZZdldJby1GX19LeEgydHZZU19Xb1hVRkFVcDZfMHdha0huVzlsVW92eGlUMW1FbXk3WVNLVUF1MDNiX1pqTkhpRkVjOU9Wc19mRTZQUmllRFdkSE9jcGhoTzFGZ1BMeUpGR3k5NE9ydFIwZUJvald1RWtqRkM4WUt2emVwSEM3b2NDRWU5VEd1b21HVkVqRy1GWVFnTEc4SElraE8zQlFPd2VPajdXRmx4ZGVkdHhMYy11SXNMdEIyOE5JZjZ5eEREeFpkRW5HcTRjbzYzQm92U2ItbHE2X1hKQV9vaThwS0w5TUZrczZ5empwZ0h3eFBodERZVVM?oc=5",
+      "desc": "【MacroMicro】【行情快報】聯準會暫停升息，宣布明年起減少利率決策場次！",
       "impactTargets": [
-        "t_2308"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3898.9,
+      "price": 3906.9,
       "currency": "美元",
-      "change_pct": -4.31,
+      "change_pct": -4.12,
       "gold_units": {
-        "oz_usd": 3898.9,
-        "gram_twd": 4085.2,
-        "qian_twd": 15320,
-        "usdtwd": 32.59
+        "oz_usd": 3906.9,
+        "gram_twd": 4094.9,
+        "qian_twd": 15356,
+        "usdtwd": 32.6
       }
     },
     {
@@ -464,15 +464,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_server_power",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_fomc",
