@@ -1,27 +1,8 @@
 {
-  "updatedAt": "2026-11-03 00:52",
+  "updatedAt": "2026-11-03 07:41",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電盤後鉅額交易 衝出漲停價",
-      "date": "11-03",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電盤後鉅額交易 衝出漲停價",
-      "newsSource": "經濟日報",
-      "newsDate": "Mon, 02 Nov 2026 19:45:43 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIc3FIODB0MDBfNzhZQjBrTXREUzVybHh3V1lkME5acGYzclhYd2lkNDNTdXhZUE52UUpidGVZdmdWZEFBTks0QnAtMHF5TklzM0pjODJIdWlvQdIBX0FVX3lxTE1CNWdDTDVlVVJGUk5YNzh5Wm5rZjhnWTQtbU80M1JJU1VDek5rc0lJbW10YW9lckMtdzNoX2VzeE0wWDloR3k5ajhxV3hSbXdqUWl4MWJ3VzZObUd6NWZN?oc=5",
-      "desc": "【經濟日報】台積電盤後鉅額交易 衝出漲停價",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
       "name": "⚡ 美股收盤》半導體與科技股全面收黑 台積電...",
       "date": "11-03",
       "category": "突發半導體",
@@ -29,7 +10,7 @@
       "newsTitle": "美股收盤》半導體與科技股全面收黑 台積電ADR下跌1.85％",
       "newsSource": "自由財經",
       "newsDate": "Mon, 02 Nov 2026 22:38:38 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LcWpPMFBRVDBtNHBkVzd2eUtXNlNWRjc0ZExRdHV4MHZWWHY3d2k5NUxkbVllYWhuTDFNamM4TGc1TzhZdEpDemtJZlFpZ3ZhRG1tYm1seWo5SW9OVVBJ?oc=5",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LcWpPMFBRVDBtNHBkVzd2eUtXNlNWRjc0ZExRdHV4MHZWWHY3d2k5NUxkbVllYWhuTDFNamM4TGc1TzhZdEpDemtJZlFpZ3ZhRG1tYm1seWo5SW9OVVBJ0gFkQVVfeXFMUEFkcTNSRnNVRVVFNnN5UmpEWmNfOEJqQ3p6ZGVsUXJtR2F1Q3ZPWi1jWXRxeTlLTFU3VjJFNnUxdnVzclJZX1hneGtQR0NaSGJqeS1LU3VoOThadDduY2JkOUtQYQ?oc=5",
       "desc": "【自由財經】美股收盤》半導體與科技股全面收黑 台積電ADR下跌1.85％",
       "impactTargets": [
         "t_2330"
@@ -40,16 +21,35 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 本來只想把台積電當「分包商」！傳馬斯克態...",
+      "id": "e_breaking_2",
+      "name": "⚡ 美股早盤稍止跌！台積電ADR股價疲軟",
       "date": "11-03",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "本來只想把台積電當「分包商」！傳馬斯克態度軟化了：重新協商營運主導權",
+      "newsTitle": "美股早盤稍止跌！台積電ADR股價疲軟",
       "newsSource": "Yahoo新聞",
-      "newsDate": "Mon, 02 Nov 2026 16:30:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNQVJ1QmFUd2F6dWNrYXBSMFJwcjJNbFh3bW5lZEJ0TW1SeWdGMGhWR3E5U1hkTmFrUDFCN19zbS1Pb0ZzT0JxamtXUmRqZ2stZmFNb0tjLXZ2azlrUzcxNi0ySWl5dHg2dGxzWm1mTmNWRUZ2X2NiaXd3Ny0tUk51QmVRZFktWEhPS0w5Vmh1Z1E5emVlR3ozbVBJTzVsWjNBcTJPM0lNNWhRcEFEbHZUU1BTekxZenRkdlVreDdlbkNkM2t3czBUS0wtRzFtblVmU09fdzNFOGN0Wm5wU0IzNlFaQmxmbkdUWmxBOUZuT0x2ajl6RXZGQ3ZfWnNsY01TYTRTWXBmSDdlckRfZjkwYjhaU2tobThOOGJ5WlNLdEhXRXNwQ3JfZC03UFMyUnJJTjJrMkNBTFNPUHdSOXk4SHVqVVZRMHFRc1JDVkM4UENMY0l2S3JteFVBY003d3dzYUxxS3U2b0VIWWJINGFpTW9SNmJXM09BRlRFbk43VDJtZ3FJOGwteVRQZlpjWC14ZlBRcmdJb3VCQmVRb1VuTzFRY3hSTGpYVzZHUE10bnVkU1RIeTJpNnp4LWJwNzQ?oc=5",
-      "desc": "【Yahoo新聞】本來只想把台積電當「分包商」！傳馬斯克態度軟化了：重新協商營運主導權",
+      "newsDate": "Mon, 02 Nov 2026 14:56:37 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbXZ1cGFWNzl5dVhjRktvaXBRdzBaaVhsNi01SGdCNmREclpxTGE0YXdPSHJJVHZuRlljRWdLMXNRNS04aEFNa1RtMjFxSTVFbDA1UHh3dlczNHZPcXg4Sm41b1FPMFNrUTlXeHQ2dkJGM2hpZ2pSYVdSQXEwR1dlakdrNEh1ZjBYX1ZzX1N3cnNTb0tPN1JBN0dwX19OOUV2ZnVsNk9FMHRORUFyVXl4RFhXX3RkM1pUa0FaVENpOTJRMm5FbGJYRV9yY2J6UzhUVDRIMFF0LTJjOGdiV0h1WEt5V09sXzR6cFNQVUFVNXhScFY5ZlJoVXFHUVhpYmR3?oc=5",
+      "desc": "【Yahoo新聞】美股早盤稍止跌！台積電ADR股價疲軟",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 台積電7年發生15起職災釀19死 工傷團...",
+      "date": "11-03",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電7年發生15起職災釀19死 工傷團體促政府基金建監督機制",
+      "newsSource": "公視新聞",
+      "newsDate": "Tue, 03 Nov 2026 06:31:07 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uWFkybWZWNm00bnRiY1M1SG5TM0ZkSmVBZzBibVlDUWtQS2c5TldLVlgxZWRmVW5UaWI5S1RfbWdsdDdXQXlXMjFDaGRrZzQ?oc=5",
+      "desc": "【公視新聞】台積電7年發生15起職災釀19死 工傷團體促政府基金建監督機制",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 1圖懂》聯發科、鴻海、台達電...電子3...",
+      "name": "⚡ 台達電跌跌不休！痛失市值3哥寶座　慘遭鴻...",
       "date": "11-03",
       "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "1圖懂》聯發科、鴻海、台達電...電子3王翻紅台股警報除？老手曝還欠「這隻腳」：43K可能還會來- 上市櫃",
-      "newsSource": "旺得富理財網",
-      "newsDate": "Mon, 02 Nov 2026 21:12:51 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hMHdQU2s3RmxWRnBCTU5qNDFvc1VzN0NzaHZXNnNqMFlhRHhORHFoV3NKWjNZMk1TRk1CMG84aV9NandveFNGZUJzNUdVWjhFRVlvQ183Y0x1a2ZUYXhEWVl1ZEo4Z2lqSnc?oc=5",
-      "desc": "【旺得富理財網】1圖懂》聯發科、鴻海、台達電...電子3王翻紅台股警報除？老手曝還欠「這隻腳」：43K可能還會來- 上市櫃",
+      "newsTitle": "台達電跌跌不休！痛失市值3哥寶座　慘遭鴻海奪位",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Tue, 03 Nov 2026 01:31:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zeGVkdGVUbm5Zblp5TXhDeklmVTBKbEdSWU9zeUdIYWNTZjQ3c0NCbGM4QmR2UkI4bFZjd1prdDRxTVZwRGhBc0YtVVI1UkR6bWfSAVBBVV95cUxOVnRmVTRuUWVMaDZLNFh4NFRhLUlrYzBveW9BMmpIeUhMLXlyc0pCQWt2MHFCdFV2cmM0MGVxRXF0enRnZ2JJbUN3ODlLdHpNbg?oc=5",
+      "desc": "【ETtoday財經雲】台達電跌跌不休！痛失市值3哥寶座　慘遭鴻海奪位",
       "impactTargets": [
         "t_2308"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3960.8,
+      "price": 3920.4,
       "currency": "美元",
-      "change_pct": -2.24,
+      "change_pct": -2.75,
       "gold_units": {
-        "oz_usd": 3960.8,
-        "gram_twd": 4151.4,
-        "qian_twd": 15568,
-        "usdtwd": 32.6
+        "oz_usd": 3920.4,
+        "gram_twd": 4134.2,
+        "qian_twd": 15503,
+        "usdtwd": 32.8
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2330.0,
+      "price": 2295.0,
       "currency": "台幣",
-      "change_pct": -2.92
+      "change_pct": -5.36
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1355.0,
+      "price": 1270.0,
       "currency": "台幣",
-      "change_pct": -10.26
+      "change_pct": -18.06
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 104.1,
+      "price": 100.6,
       "currency": "台幣",
-      "change_pct": -2.35
+      "change_pct": -7.41
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 53.15,
+      "price": 50.1,
       "currency": "台幣",
-      "change_pct": -2.83
+      "change_pct": -11.48
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 28.1,
+      "price": 27.7,
       "currency": "台幣",
-      "change_pct": 0.0
+      "change_pct": -1.07
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 54.3,
+      "price": 52.6,
       "currency": "台幣",
-      "change_pct": -1.99
+      "change_pct": -2.23
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 45.8,
+      "price": 44.4,
       "currency": "台幣",
-      "change_pct": -0.97
+      "change_pct": -4.1
     }
   ],
   "links": [
