@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-04 17:03",
+  "updatedAt": "2026-11-04 23:22",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電終結連4跌！漲25元站回2300元...",
+      "name": "⚡ 台股殺破4萬2「還沒見底」！ 台積電「這...",
       "date": "11-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電終結連4跌！漲25元站回2300元關卡 分析師：股價還是很便宜",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Wed, 04 Nov 2026 01:30:10 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMingNBVV95cUxOZEFOMDg0Rmg5ZF9UZjhCdTdPUWg3azRISkYwX3JLdU1uR3pPeFNtMGVWcGxIVWdCcjVGSmJiX3U1Y2d1T0cyZUl0T1hiaVBjdmoxRGRtVk5UX29tVWtfS0phVUpjVnFQaEItT1lsY3NObV9FTDkzNDVVbk5zelcxMlRGV2J2MlJrbkZEb0gzNG11S2pWUmNKbTZmdElDdE8wNllmczBrNWNQazJaSnY0RU5LdEtUb2tHU3laTjhPeTJ6MWNtU3ZIZjV0ZFA0OFBxWlhPRzF5bTFzQ2szaW9vMFVBVTRzV1pWTHNsQ3UxUnVCYXU2YVA1M2V4ME1iWXhQUWJfRlpFVWwxdXFVbXRZSnMta3N1N29WNWpVbDQwQjB0S0ZrZmN5eHFNajBfLU1Fc3NtYWhBYlhWRXhjM05YamJRUkhQYkdfc3FkOE1ySFU5YnVyR3A2N0ZSd2g5M2NXNENDeFkwdDItOVE4eEZUUFpHVWFuUEVXVThOTHItb2d6SUR4ZDIzUm15T1hLYU9sYjRBSW9ZQldyazR1dUE?oc=5",
-      "desc": "【Yahoo股市】台積電終結連4跌！漲25元站回2300元關卡 分析師：股價還是很便宜",
+      "newsTitle": "台股殺破4萬2「還沒見底」！ 台積電「這個價」可無腦買",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Wed, 04 Nov 2026 08:32:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RMHR0ZVlpWWdDXzFJVDdXZDVaY3NWTGptTjFTdG1iRzE5RXp1dEY1SEFZdGpfYlM5UWVwTmZtWTh3MkxMTkl6TnRrcVpvVlBxR2fSAVBBVV95cUxNakE2MWczLW5DczZxZGRmVV9tV1Q4dmE4WF9haFZkTlBiWnVmaXljTHJWWkxzOWJpYXByTGo2ZDVfeUtuR2RFQUJLUEJjWWJ0eQ?oc=5",
+      "desc": "【ETtoday財經雲】台股殺破4萬2「還沒見底」！ 台積電「這個價」可無腦買",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台股殺破4萬2「還沒見底」！ 台積電「這...",
+      "name": "⚡ 不只輝達！三星、台積電與美光第三季自由現...",
       "date": "11-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台股殺破4萬2「還沒見底」！ 台積電「這個價」可無腦買",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Wed, 04 Nov 2026 08:32:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RMHR0ZVlpWWdDXzFJVDdXZDVaY3NWTGptTjFTdG1iRzE5RXp1dEY1SEFZdGpfYlM5UWVwTmZtWTh3MkxMTkl6TnRrcVpvVlBxR2fSAVBBVV95cUxNakE2MWczLW5DczZxZGRmVV9tV1Q4dmE4WF9haFZkTlBiWnVmaXljTHJWWkxzOWJpYXByTGo2ZDVfeUtuR2RFQUJLUEJjWWJ0eQ?oc=5",
-      "desc": "【ETtoday財經雲】台股殺破4萬2「還沒見底」！ 台積電「這個價」可無腦買",
+      "newsTitle": "不只輝達！三星、台積電與美光第三季自由現金流更勝一籌",
+      "newsSource": "鉅亨網",
+      "newsDate": "Wed, 04 Nov 2026 21:45:15 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaTGhqYjR2VEJoLVlCYWMtT3ZqSGlJVzZDZzBrWnltSDZrWXBjUVh4ZVlGVGVWaFFHLXB1a0tXRG9YM3g3TGtCWFlZaHFNSTA?oc=5",
+      "desc": "【鉅亨網】不只輝達！三星、台積電與美光第三季自由現金流更勝一籌",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台積電最慘恐腰斬50％？分析師警告台股大...",
+      "name": "⚡ 美股收盤》道瓊狂漲1569點！費半下挫3...",
       "date": "11-04",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電最慘恐腰斬50％？分析師警告台股大空頭要反轉了- 財經",
-      "newsSource": "中時新聞網",
-      "newsDate": "Wed, 04 Nov 2026 01:51:12 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MUGxEc0pVMVJuWEdNRUZiUExZQWgzcHU3ODBaREs4UkwwXzMtTktHQnE5X1dvLXRTdTV6R0NuM3UwYV95YkhUMDBfcjYwelphUjBHLVdrMERYNFExU2dSNXhNMElsT2F3N1lPcGpR?oc=5",
-      "desc": "【中時新聞網】台積電最慘恐腰斬50％？分析師警告台股大空頭要反轉了- 財經",
+      "newsTitle": "美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％",
+      "newsSource": "自由財經",
+      "newsDate": "Wed, 04 Nov 2026 22:09:01 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTFNjTUtmcjhnYTJfS3IxTE5uemVNR0daYlJYcnhKeWZLXzc1VVMyVkxYZ3Y2cUhnRlljZlVVcEl0ZEk0VkNCMUVNeEtGY1lFTy1kbWxBMzN5Wk5mLWQ40gFkQVVfeXFMTk1IdlNhNTk2bjdyV3pudVBfNnRoTzVsQXZJVGdIMHU4ZWpkWVhkUGV2T041NlE2RS1Hdjh0SXhFSWhvd0cxMkN3dWNvU2RQQnRRQjFkaXJsQ2FmQkVzWGkxM0F4eA?oc=5",
+      "desc": "【自由財經】美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4071.4,
+      "price": 4069.8,
       "currency": "美元",
-      "change_pct": 4.42,
+      "change_pct": 4.38,
       "gold_units": {
-        "oz_usd": 4071.4,
-        "gram_twd": 4298.7,
-        "qian_twd": 16120,
-        "usdtwd": 32.84
+        "oz_usd": 4069.8,
+        "gram_twd": 4294.4,
+        "qian_twd": 16104,
+        "usdtwd": 32.82
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 694.54,
+      "price": 691.95,
       "currency": "美元",
-      "change_pct": -4.28
+      "change_pct": -4.64
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 705.575,
+      "price": 704.78,
       "currency": "美元",
-      "change_pct": -0.61
+      "change_pct": -0.72
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 291.588,
+      "price": 288.93,
       "currency": "美元",
-      "change_pct": -10.25
+      "change_pct": -11.07
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 384.854,
+      "price": 385.19,
       "currency": "美元",
-      "change_pct": -4.79
+      "change_pct": -4.71
     },
     {
       "id": "t_spacex",
