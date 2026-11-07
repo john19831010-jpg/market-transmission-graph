@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-06 22:50",
+  "updatedAt": "2026-11-07 02:36",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 重大戰略轉型！傳台積電將進軍先進記憶體 ...",
-      "date": "11-06",
+      "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "重大戰略轉型！傳台積電將進軍先進記憶體 為輝達生產3D DRAM",
@@ -23,7 +23,7 @@
     {
       "id": "e_breaking_2",
       "name": "⚡ 今年最大！台積電爆近10.9萬張巨量 金...",
-      "date": "11-06",
+      "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "今年最大！台積電爆近10.9萬張巨量 金額2281億元堪比沙國、倫敦股市",
@@ -42,7 +42,7 @@
     {
       "id": "e_breaking_3",
       "name": "⚡ 不給韓廠賺了？傳台積電考慮進軍先進記憶體...",
-      "date": "11-06",
+      "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片可能建新廠或收購| 全球財經| 全球",
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 諷刺砍在阿呆谷？他狂敲「87張台積電」逾...",
-      "date": "11-06",
+      "name": "⚡ 輝達點名台積電操刀3D DRAM 記憶體...",
+      "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "諷刺砍在阿呆谷？他狂敲「87張台積電」逾20筆　賺2.3億",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Fri, 06 Nov 2026 07:17:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vbHk1ekFoMS0xUlh4cUNVVmFScENsNWpGYUxKeXk4RWVxMHVOSU9tRXBHQVpiS1dwWnREN1lwUmFmSjJsOWlwQlh3Yl8wTlRQaHfSAVBBVV95cUxQdzBiX3VNX05BWUhIQUtpcVpkTUxaQ0wtcmpZTjZWc3lOMUxtZlVLTVM5ajNkcjVFQXQ4WGVJaFFpY3hnQnVaeDVQM2RjaElxaQ?oc=5",
-      "desc": "【ETtoday財經雲】諷刺砍在阿呆谷？他狂敲「87張台積電」逾20筆　賺2.3億",
+      "newsTitle": "輝達點名台積電操刀3D DRAM 記憶體供應鏈版圖恐重洗",
+      "newsSource": "BigGo 財經",
+      "newsDate": "Fri, 06 Nov 2026 15:25:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13RnM0TWVmNEpEWnV0V2E4S1M5VlYyR1lidEFqeDIxM1B6YWZ4SzF4ekl3MWxyQU1VWlV3X3B5MWNVM3V0WG9PQU16YTN3d2kwUmpJTm94ZXFTZjZhRjQ5c0ZBaEloT2NWcTlweTZCMUZJOUZ1RlhyRGRn?oc=5",
+      "desc": "【BigGo 財經】輝達點名台積電操刀3D DRAM 記憶體供應鏈版圖恐重洗",
       "impactTargets": [
         "t_2330"
       ],
