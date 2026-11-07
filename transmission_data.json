@@ -1,46 +1,8 @@
 {
-  "updatedAt": "2026-11-07 16:10",
+  "updatedAt": "2026-11-07 20:42",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電進軍先進記憶體市場？傳應輝達要求研...",
-      "date": "11-07",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
-      "newsSource": "工商時報",
-      "newsDate": "Sat, 07 Nov 2026 00:16:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkcmZtRFdjVWw2T2dqVEtnMjVWMnJzMUxRbi1pQThPNnFaRGxrZXh6VW16LUlEVXRlOU5neXVrcWhiOTRtMER6M1R0c3lfck9JVmVjUS1TbzRzV2F5VzVV?oc=5",
-      "desc": "【工商時報】台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_2",
-      "name": "⚡ 重大戰略轉型！傳台積電將進軍先進記憶體 ...",
-      "date": "11-07",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "重大戰略轉型！傳台積電將進軍先進記憶體 為輝達生產3D DRAM",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 06 Nov 2026 21:50:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FNGVUVjJXOTY3U2kweG03dHNLZ3BuVld6UFlEVnc3UWg3TGdLU0wybl9iVXJjRWdhU1d2VHhkZDJvSG5ISG8zWkV0NTd2Ri1hMHVxakFlMFA2UnZFTGFv0gFkQVVfeXFMUHA1c01TUjlZVUVqNW1jZzl0dWlIWEI0Z2ttN3JxMWs0S1VaS01ENGZCQXFXamR2d0JkdGFnN3FaNXZRRlZZUTZxNXIzdlFDNVlHRWZJTFl2MWhpalZfLUU2aWJvZw?oc=5",
-      "desc": "【自由財經】重大戰略轉型！傳台積電將進軍先進記憶體 為輝達生產3D DRAM",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 比台積電更威？外媒點名「這1檔」：股價再...",
       "date": "11-07",
       "category": "突發半導體",
@@ -59,16 +21,54 @@
       ]
     },
     {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電搶進3D DRAM？華邦電焦佑鈞直...",
+      "id": "e_breaking_2",
+      "name": "⚡ 台積電進軍先進記憶體市場？傳應輝達要求研...",
       "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電搶進3D DRAM？華邦電焦佑鈞直言機率低：恐與3大記憶體廠競爭",
-      "newsSource": "財訊",
-      "newsDate": "Sat, 07 Nov 2026 09:22:30 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tc29sUkxwU040Tm1fdHVBQTBLUWJNeWJFMVRHYkpGWnI2OXh6czlJVEdHb0hVQ3RBYmIyZmUzRHJ3NVJIdFJqOFFuOFpSWWswMmZGS2U0d3RGbWRhWHdURHFiWXh3NlB2Y1d4bzRSaUVGZVZtMHNVVWs5cw?oc=5",
-      "desc": "【財訊】台積電搶進3D DRAM？華邦電焦佑鈞直言機率低：恐與3大記憶體廠競爭",
+      "newsTitle": "台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 07 Nov 2026 00:16:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkcmZtRFdjVWw2T2dqVEtnMjVWMnJzMUxRbi1pQThPNnFaRGxrZXh6VW16LUlEVXRlOU5neXVrcWhiOTRtMER6M1R0c3lfck9JVmVjUS1TbzRzV2F5VzVV?oc=5",
+      "desc": "【工商時報】台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
+      "name": "⚡ 韓廠壓力大！韓媒：台積電跨足記憶體恐全碗...",
+      "date": "11-07",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "韓廠壓力大！韓媒：台積電跨足記憶體恐全碗端走AI晶片供應業務",
+      "newsSource": "自由財經",
+      "newsDate": "Sat, 07 Nov 2026 16:03:25 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CZG1nR09RaWRsMzg4T3hjcmg0VHBBZHNNZGdRSlpZZFBXUVBvU1lOWGw3c0x5ZUpLQ3Voa2ZXV05aNmNMVW1GNUpoMlloWmhJckxxdjl0YldfSXE3TzNn0gFkQVVfeXFMUHdSOTNzZjVoNFlaZ0tJY20zUnFCRGQxQUp1S3Y0d1ZVdTBORU9uTGE0aGJTS2Z5TWJta3Y1RWdndmltLWZjamRXVkNuaDlwRTFsb1F5LVRFU3FLdWhsYUJoZlh2Rg?oc=5",
+      "desc": "【自由財經】韓廠壓力大！韓媒：台積電跨足記憶體恐全碗端走AI晶片供應業務",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 不給韓廠賺了？傳台積電考慮進軍先進記憶體...",
+      "date": "11-07",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片可能建新廠或收購| 全球財經| 全球",
+      "newsSource": "UDN",
+      "newsDate": "Fri, 06 Nov 2026 14:20:12 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PdzZTOXFiLW1Pc21ZbGNBYVNMSjRJVEg3alJYSEJEeXZnWGpHeEtWRmpCR0hBa0g5S3UxQm13bGtZeVZQZWQ3VTNobjFuSGhn?oc=5",
+      "desc": "【UDN】不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片可能建新廠或收購| 全球財經| 全球",
       "impactTargets": [
         "t_2330"
       ],
