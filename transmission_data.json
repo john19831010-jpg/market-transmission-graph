@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07 02:36",
+  "updatedAt": "2026-11-07 09:43",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 今年最大！台積電爆近10.9萬張巨量 金...",
+      "name": "⚡ 台積電進軍先進記憶體市場？傳應輝達要求研...",
       "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "今年最大！台積電爆近10.9萬張巨量 金額2281億元堪比沙國、倫敦股市",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Fri, 06 Nov 2026 07:46:23 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPVllaZ09PdFhNNmJ5WjlGazB6Y0VZMnpYRUhqanQ4N2lYaWJCd285QWZObFRuLW9JcW9EcEdmUzhzbGFiYlRPOXNhQk44czVSdS1XT3FucnZKdXU4cnBvc2lIalZrcWt5ZDNrUFhKRm9yaTZzdnJpQW5BZEVCOWp1Tmd4Ukl1U2h6UDV2ckhiYUlxelF2VzdlU3BDdGR3LXpoOHZiUTJQRkc5SEgwWXZsSkF4UlZleFZVQU5DeDlFYlJIN1NzOVFjOTd1LU0yOUhTQ0NXbHp4QWNlYXB1Ui15YzhtdDBXejgtdk5TWWNFdGNYcUNGV1E0aWhWTUR6bk1CUEJoN0FpOHZvNXNvYjZYejFBWDRReExfVlZ5U3U4T2xuamxLM0xyUWdkaENmaTk3djNzd0NPU2Z2TTEtZzhLbVRMb0UyRGFYTXdhTFF2S3lBcW1vUEhNZ082bzFXeHVzNmh5OWVnT0JHS05UT3dINUF6a0JKcHR0U2wwbUl3WDd3RGFJTExWaUVqUGJPbVd3M0RFNkJVZzM1clItY3RCaF9OQS16SElTYXc?oc=5",
-      "desc": "【Yahoo股市】今年最大！台積電爆近10.9萬張巨量 金額2281億元堪比沙國、倫敦股市",
+      "newsTitle": "台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 07 Nov 2026 00:16:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkcmZtRFdjVWw2T2dqVEtnMjVWMnJzMUxRbi1pQThPNnFaRGxrZXh6VW16LUlEVXRlOU5neXVrcWhiOTRtMER6M1R0c3lfck9JVmVjUS1TbzRzV2F5VzVV?oc=5",
+      "desc": "【工商時報】台積電進軍先進記憶體市場？傳應輝達要求研擬生產3D DRAM",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 輝達點名台積電操刀3D DRAM 記憶體...",
+      "name": "⚡ 【台積電ADR飆逾6%「下週一會漲多少？...",
       "date": "11-07",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "輝達點名台積電操刀3D DRAM 記憶體供應鏈版圖恐重洗",
-      "newsSource": "BigGo 財經",
-      "newsDate": "Fri, 06 Nov 2026 15:25:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13RnM0TWVmNEpEWnV0V2E4S1M5VlYyR1lidEFqeDIxM1B6YWZ4SzF4ekl3MWxyQU1VWlV3X3B5MWNVM3V0WG9PQU16YTN3d2kwUmpJTm94ZXFTZjZhRjQ5c0ZBaEloT2NWcTlweTZCMUZJOUZ1RlhyRGRn?oc=5",
-      "desc": "【BigGo 財經】輝達點名台積電操刀3D DRAM 記憶體供應鏈版圖恐重洗",
+      "newsTitle": "【台積電ADR飆逾6%「下週一會漲多少？」股民怕1陷阱：週二下殺】 太難猜測了！ （#01J）",
+      "newsSource": "Facebook",
+      "newsDate": "Sat, 07 Nov 2026 07:48:01 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMirANBVV95cUxOQUt4VFowaDFxc0ltTVV4Z3lXZVZBTldiWE41b19jWDlNdDlZV3BCdmRxZ3lmclBSM1pqZlRpVXRMUmZYbzZfU2UxV3VObjFRWkxOUExiaW1RSnBPcHdqSVM1VWJBRnlFVGx1bjVSTlVVcnNPU2s4ZnBqUUR6NTdjcGNIMlplQW9MLWNVaEc2VXJBYUtIei1saDFmY1FuY0hhVEwxeHJLakttb0hFcEh5d2FReUNDMEZVMjUwRFRINjB0U2hhcXpQdXZXTDBseWE4M2dSOGFpSWF5YmdXNFJhNGZUQUpoMGNXM00yd3p5Qk4xMGVUM1lrWWxIQ2k3cXItZnRJTXVFbWRoN0Y0VzdLV25MQlV2azVUcjYwaXNoZzI4bTlnek81c0VkdzZVa25HYUh1SzFrQzlCNHkweTFCdXQwWHhXbTlaUnpvM0pwaW1DTWs5QmNoYnRFOE5kbDBQU29TU1N5a3RyNVBobnA5SFFfdTFfaG1tekRCR1hicHpXb3BoajZFQkxhcnVrb2NyUzZENXBMUW1DS2JIVXgtSENiYnpZS0l5U19MYg?oc=5",
+      "desc": "【Facebook】【台積電ADR飆逾6%「下週一會漲多少？」股民怕1陷阱：週二下殺】 太難猜測了！ （#01J）",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4079.5,
+      "price": 4074.9,
       "currency": "美元",
-      "change_pct": 2.77,
+      "change_pct": 2.65,
       "gold_units": {
-        "oz_usd": 4079.5,
-        "gram_twd": 4298.1,
-        "qian_twd": 16118,
+        "oz_usd": 4074.9,
+        "gram_twd": 4293.2,
+        "qian_twd": 16100,
         "usdtwd": 32.77
       }
     },
