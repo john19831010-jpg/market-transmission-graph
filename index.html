@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-11-08 19:24 實時更新</span>
+        <span id="lastUpdateBadge">2026-11-08 23:28 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,7 +336,7 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-11-08 19:24",
+  "updatedAt": "2026-11-08 23:28",
   "events": [
     {
       "id": "e_breaking_1",
@@ -359,6 +359,25 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 應輝達要求揮軍3D DRAM？台積電回應了",
+      "date": "11-08",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "應輝達要求揮軍3D DRAM？台積電回應了",
+      "newsSource": "自由財經",
+      "newsDate": "Sun, 08 Nov 2026 06:09:54 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wVkJNS2NnemJfSlQ1MjV5MFA0VFFJOVlJWmFXRHV3VWxZaUM2X21aeGlaNUdxU0Job2lURHVpQ3Jnd3pLakh0VVFpTFlhNGh4NmVfSThiMlY3bnJsQk1z0gFkQVVfeXFMUC0yclRhVlFpVzVLXzJiSFd0UGtOd2hGZmRSNG0teW1FQnFzY0RvMEVsSHg2NUQwYnRnTEo5Mno1Uk44T2dIbEJmVzF6QmUwaDMwUEt4MUNiWVc4aW4xTF9VaDRyQg?oc=5",
+      "desc": "【自由財經】應輝達要求揮軍3D DRAM？台積電回應了",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電到底要不要做記憶體？公司回應強調這...",
       "date": "11-08",
       "category": "突發半導體",
@@ -377,7 +396,7 @@
       ]
     },
     {
-      "id": "e_breaking_3",
+      "id": "e_breaking_4",
       "name": "⚡ 台達電期 可留意",
       "date": "11-08",
       "category": "突發基建",
@@ -393,25 +412,6 @@
       "primaryChain": [
         "f_server_power",
         "t_2308"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台積電在內！AGI掀起新一波淘金潮 外媒...",
-      "date": "11-08",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電在內！AGI掀起新一波淘金潮 外媒點名看好「3檔受惠股」",
-      "newsSource": "自由財經",
-      "newsDate": "Sun, 08 Nov 2026 06:57:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZkc3bmlRXzlMQ3ZlRlJGUWNrV1c1QkxrcjEtVElrWEtfVHZzN2ZOeU9EU1ppVDJqaTk0dUc0S2tWeTlRTlQ4WGxSY2M2WnFpWVUyLVpDVGdRcUxNQzBz?oc=5",
-      "desc": "【自由財經】台積電在內！AGI掀起新一波淘金潮 外媒點名看好「3檔受惠股」",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
       ]
     },
     {
@@ -619,13 +619,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4074.9,
+      "price": 4078.5,
       "currency": "美元",
-      "change_pct": 3.41,
+      "change_pct": 3.5,
       "gold_units": {
-        "oz_usd": 4074.9,
-        "gram_twd": 4293.2,
-        "qian_twd": 16100,
+        "oz_usd": 4078.5,
+        "gram_twd": 4297.0,
+        "qian_twd": 16114,
         "usdtwd": 32.77
       }
     },
@@ -801,15 +801,15 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_server_power",
-      "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
-    },
-    {
-      "source": "e_breaking_4",
       "target": "f_foundry",
       "weight": 92,
       "desc": "突發快訊即時牽動市場預期：突發半導體"
+    },
+    {
+      "source": "e_breaking_4",
+      "target": "f_server_power",
+      "weight": 92,
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_fomc",
