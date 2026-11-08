@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-11-08 14:14 實時更新</span>
+        <span id="lastUpdateBadge">2026-11-08 19:24 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,7 +336,7 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-11-08 14:14",
+  "updatedAt": "2026-11-08 19:24",
   "events": [
     {
       "id": "e_breaking_1",
@@ -378,6 +378,25 @@
     },
     {
       "id": "e_breaking_3",
+      "name": "⚡ 台達電期 可留意",
+      "date": "11-08",
+      "category": "突發基建",
+      "isBreaking": true,
+      "newsTitle": "台達電期 可留意",
+      "newsSource": "UDN",
+      "newsDate": "Sun, 08 Nov 2026 18:03:28 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjbE1EWEVQTnlweTlTV21YVlFiTUp3T0VjQXh0QlhOVnlKMDdiT0hzUGdaNF9WSWVwZ1RQNUNYcmhNU1M2MlVFQmdIVTk1VEt50gFWQVVfeXFMTmY2dEJWd0JFU042UW41b2hNT1BSSUVqMWs5aC13YzFRYXp0ZHZLSDZIRXd6dEVDZk9WLTU3V202UTQ3TnVwR043OGRTVVF4ZTFTcVkza0E?oc=5",
+      "desc": "【UDN】台達電期 可留意",
+      "impactTargets": [
+        "t_2308"
+      ],
+      "primaryChain": [
+        "f_server_power",
+        "t_2308"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
       "name": "⚡ 台積電在內！AGI掀起新一波淘金潮 外媒...",
       "date": "11-08",
       "category": "突發半導體",
@@ -385,27 +404,8 @@
       "newsTitle": "台積電在內！AGI掀起新一波淘金潮 外媒點名看好「3檔受惠股」",
       "newsSource": "自由財經",
       "newsDate": "Sun, 08 Nov 2026 06:57:44 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZkc3bmlRXzlMQ3ZlRlJGUWNrV1c1QkxrcjEtVElrWEtfVHZzN2ZOeU9EU1ppVDJqaTk0dUc0S2tWeTlRTlQ4WGxSY2M2WnFpWVUyLVpDVGdRcUxNQzBz0gFkQVVfeXFMTml6NnN6MjVoUzQ4a2ZVV0ZOZG1DQWRQeWpMOWN5WDh2ejhpQy01dUhoUFd2OFRLR1RmRkZ6cktSdlhTLTdjZTNfMWpZVzFUWmVtZVZnUUh2YVlrNlBXd3B3SXpoMg?oc=5",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSZkc3bmlRXzlMQ3ZlRlJGUWNrV1c1QkxrcjEtVElrWEtfVHZzN2ZOeU9EU1ppVDJqaTk0dUc0S2tWeTlRTlQ4WGxSY2M2WnFpWVUyLVpDVGdRcUxNQzBz?oc=5",
       "desc": "【自由財經】台積電在內！AGI掀起新一波淘金潮 外媒點名看好「3檔受惠股」",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 台股史上最大崩跌！台積電一度跌停 卓揆喊...",
-      "date": "11-08",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台股史上最大崩跌！台積電一度跌停 卓揆喊話金管會因應 國安基金也待命",
-      "newsSource": "鉅亨網",
-      "newsDate": "Fri, 06 Nov 2026 03:49:42 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MalRzMWtTUGlnUkgtelJoUmF1dE1nUXNoVkRCTi16NkNFQWtiQTNfUXJrem41Q3R0d0lnZDQyNWd3b3BRWGVVU1Z6RnNCczg?oc=5",
-      "desc": "【鉅亨網】台股史上最大崩跌！台積電一度跌停 卓揆喊話金管會因應 國安基金也待命",
       "impactTargets": [
         "t_2330"
       ],
@@ -801,9 +801,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_4",
