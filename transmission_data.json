@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-09 23:59",
+  "updatedAt": "2026-11-10 07:05",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 當沖客也瘋台積電！單張一天最高賺17.5...",
-      "date": "11-09",
+      "name": "⚡ 台積電10月營收5,868.9億元再創高...",
+      "date": "11-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "當沖客也瘋台積電！單張一天最高賺17.5萬元 爆出880億元新天量",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Mon, 09 Nov 2026 03:17:40 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikANBVV95cUxPbWpTeDhmbmtYY1hwNHdsM3BzdHQ0MzV6bl9QZ1gxWllMZm5KTFJCQ2VydnVmSlR4RUtsSFZ5XzBrSVdNRW5kOExzeEJNXzd6N3JDTUxjMWNuenAxQlFBNjFDV1VrVXVpZk04ZjJIOU0yZUVMbnBBS1pkWUdhOHRXc0REWXIycF9rUWFuSUtheTZxUlBVcVRyNjd3UU1hemE3dEduaVZQNnI4MVJYM3NCTUZ2WXZJdGZ4VEM5TWdTNXk5bEh4dXEzZ1BQY0hiR3llNk1jcTR4c0dLZFl2V2tMendYWTZYWEVxUnF4QzJJOVF2ZWRqMVpRdkJ6aV9fTUNOUmVtVjRUYnJKTUtwc3dfWjc1SUR1WkVTZC1qUmhhRlpRVUdFNmZXZWpvSWQ3U1Q3ZHYyMWZxYXNlZV9yd2RkakxJbEt1S2l0aFNyaVctRVJOTW8xQ0dsRlN4TlFiOUx3cG15cUlGMWpOU2JwVUFmZU5ZOHU4eHZEc0pubmMtMk4wd0p3Um44aGxxNEVRSGha?oc=5",
-      "desc": "【Yahoo股市】當沖客也瘋台積電！單張一天最高賺17.5萬元 爆出880億元新天量",
+      "newsTitle": "台積電10月營收5,868.9億元再創高！AI、2奈米推升Q4開門紅",
+      "newsSource": "工商時報",
+      "newsDate": "Tue, 10 Nov 2026 05:39:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41eFJUbzhTWGF0TExrdVpkSEx1aGJvT2xwT1k5NlZwZE5ka0p4MTVheElZUVFrUzM1UUE4NG1XX3dIRlNwczJWbzBBbFNEZnBwdE1idEp3UVNZZi1CRm9B?oc=5",
+      "desc": "【工商時報】台積電10月營收5,868.9億元再創高！AI、2奈米推升Q4開門紅",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電(2330) 個股概覽 | 個股",
-      "date": "11-09",
+      "name": "⚡ 台積電10月營收再創高 金額逾5868億...",
+      "date": "11-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電(2330) 個股概覽 | 個股",
-      "newsSource": "CMoney",
-      "newsDate": "Mon, 09 Nov 2026 21:33:36 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVkxvYUp1Tnk1ZXpiVjE5NnVGN01xajlQOE9obFZzT1hRLTV3OV94MWxlQWpwNkRQenlmVUJXb1ZScEtlc2xUYWs4WjNnRHhpNzlJ?oc=5",
-      "desc": "【CMoney】台積電(2330) 個股概覽 | 個股",
+      "newsTitle": "台積電10月營收再創高 金額逾5868億元、年增59.7％",
+      "newsSource": "財訊",
+      "newsDate": "Tue, 10 Nov 2026 05:40:21 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zV0RJVFhFQ1pmU2hlOFpocHcwczcxOHVEdTRGR000YzFHVXNlRl9JX0JEX3NMNDVKYXMwcUc1WU1JQTFGVjVuZlA3a19ZVWNybkdyR3JPWEdzejNIclg0YWhRblMtZzhwWW40M3N1dzB3ZFVyRFFWVDBmRQ?oc=5",
+      "desc": "【財訊】台積電10月營收再創高 金額逾5868億元、年增59.7％",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 國安基金進場發威！瑞銀看好21檔半導體股...",
-      "date": "11-09",
+      "name": "⚡ 台積電10月營收破5800億元！年增近6...",
+      "date": "11-10",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "國安基金進場發威！瑞銀看好21檔半導體股台積電、聯發科入列- 日報",
-      "newsSource": "工商時報",
-      "newsDate": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YQWE2N2gySmNwYVJsemUxQ0pOZDNWcnJLR0RKWmRYLVdNVFAzU2VlZlM5RWptSEVDWThFNHVpNGlDb2xCYWhiQWN2OEp0LVhvY1Y2bkk4SEY5b1ZWTzVV?oc=5",
-      "desc": "【工商時報】國安基金進場發威！瑞銀看好21檔半導體股台積電、聯發科入列- 日報",
+      "newsTitle": "台積電10月營收破5800億元！年增近60％ 史上最強",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Tue, 10 Nov 2026 05:37:09 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdDBwcjhpR3VYMnhZUERmRnpRQmhvLVdkZFVrRXcySUY2RENJTFUwNTJhZWM4R1JCOU5ybnVYSFYtLUxobHI0eUNaUlg1dS1nY0dSa1NDTTNIVEJoUW1wekczcGJ1Mk5SVzV1TDN6dS01UzZRc3E3WWJEeHAzYkprcTVWWG9KVUh5UVlkbkcwUG5XcXZqUF8wWHZrcFNzVFBRd2gxVmdjVjdjLWRaQ1MwSWVsb0ppeEs5VmM2RnNBdUt1UGpvNjJJbzd0cVFTcFAtZEFsNTdyWG1XMEFCNC1rMTlneE5PUDMyLXdwS2g1WWpfZHNSdEU2QkUydVdDY3BrcVljTlM3NUtFUVVtNHJWWmRtRHFiMGFKX3BHbC05NmwyeWxLaWdLUVFNVXFZcFJDbzZBam40OG1YeFhkY2tV?oc=5",
+      "desc": "【Yahoo股市】台積電10月營收破5800億元！年增近60％ 史上最強",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 台達電10月營收746億元月增14% 改...",
-      "date": "11-09",
-      "category": "突發基建",
+      "name": "⚡ 快訊／台積電破紀錄！　10月營收5868...",
+      "date": "11-10",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台達電10月營收746億元月增14% 改寫單月歷史新高",
-      "newsSource": "鉅亨網",
-      "newsDate": "Mon, 09 Nov 2026 10:51:29 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sMTRCZFVCeGxKcjdaYlNZXzh6TjN6TDI2QXhDdFF2SlhZVmlkSDg1VG9STHVkMXNWSzdCMURRNUstN256bVlnOXBlNGMxdzA?oc=5",
-      "desc": "【鉅亨網】台達電10月營收746億元月增14% 改寫單月歷史新高",
+      "newsTitle": "快訊／台積電破紀錄！　10月營收5868.9億元年增近6成",
+      "newsSource": "ETtoday財經雲",
+      "newsDate": "Tue, 10 Nov 2026 05:38:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tc19QSF9XOWFPSlhpemJSYzlteHhSaGxBUVNmNkxrMEVSZ3ZsWnZpbHREV25oQzB3MTNnejZpYWFseGpaUEg5UVJIbUR1SUUxUnfSAVBBVV95cUxNMGczMnVKSExkRHFUSmJEdkJiY1FZck83QXpuaXNpUWxZa3pDUU1JLUxFc0MyckR5dTJObUdBUU9NMGhKOHliOFYxdGVDTlZFRQ?oc=5",
+      "desc": "【ETtoday財經雲】快訊／台積電破紀錄！　10月營收5868.9億元年增近6成",
       "impactTargets": [
-        "t_2308"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4147.7,
+      "price": 4128.2,
       "currency": "美元",
-      "change_pct": 1.83,
+      "change_pct": 0.36,
       "gold_units": {
-        "oz_usd": 4147.7,
-        "gram_twd": 4372.6,
-        "qian_twd": 16397,
-        "usdtwd": 32.79
+        "oz_usd": 4128.2,
+        "gram_twd": 4360.0,
+        "qian_twd": 16350,
+        "usdtwd": 32.85
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2235.0,
+      "price": 2285.0,
       "currency": "台幣",
-      "change_pct": -2.61
+      "change_pct": 1.11
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1160.0,
+      "price": 1275.0,
       "currency": "台幣",
-      "change_pct": -8.66
+      "change_pct": 4.51
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 97.45,
+      "price": 99.7,
       "currency": "台幣",
-      "change_pct": -3.13
+      "change_pct": -0.15
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 47.6,
+      "price": 49.45,
       "currency": "台幣",
-      "change_pct": -4.99
+      "change_pct": -0.66
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 26.8,
+      "price": 27.3,
       "currency": "台幣",
-      "change_pct": -3.25
+      "change_pct": 0.18
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 51.4,
+      "price": 51.0,
       "currency": "台幣",
-      "change_pct": -2.28
+      "change_pct": -1.54
     },
     {
       "id": "t_bank_sinopac",
@@ -446,7 +446,7 @@
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
       "price": 42.1,
       "currency": "台幣",
-      "change_pct": -5.18
+      "change_pct": -2.43
     }
   ],
   "links": [
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_server_power",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
