@@ -125,7 +125,7 @@
       </button>
       <div class="hidden lg:flex items-center space-x-2 text-xs text-slate-400 bg-slate-900/80 px-2.5 py-1 rounded-full border border-slate-800">
         <span class="w-2 h-2 rounded-full bg-emerald-400 animate-ping"></span>
-        <span id="lastUpdateBadge">2026-11-10 07:05 實時更新</span>
+        <span id="lastUpdateBadge">2026-11-10 16:13 實時更新</span>
       </div>
       <button id="resetViewBtn" class="text-xs px-2.5 py-1 rounded bg-slate-800 hover:bg-slate-700 text-slate-200 transition flex items-center space-x-1">
         <i data-lucide="rotate-ccw" class="w-3.5 h-3.5"></i>
@@ -336,10 +336,48 @@
 
     // 內嵌完整資料，避免本地 file:// 協議被瀏覽器 CORS 阻擋
     const embeddedGraphData = {
-  "updatedAt": "2026-11-10 07:05",
+  "updatedAt": "2026-11-10 16:13",
   "events": [
     {
       "id": "e_breaking_1",
+      "name": "⚡ 台積電10月營收破紀錄！網友4大熱議 一...",
+      "date": "11-10",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電10月營收破紀錄！網友4大熱議 一票人為股價抱屈：基本面不如泡麵",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Tue, 10 Nov 2026 06:28:33 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNTHhFck53cTNYTkhMSjk4cHRPVFk1eGJuYXVPZXNfNmdHMVQxOVlKUlFMbUtsUFVlZFgxYWtheVA5ZDNfaFNQbXJhTWQ5eTh3aHdiTVFCT3ZzMjA3dzlibTNPTzNwMjNCWDExUUhuczVEeDI4QVFPV0JQVzZRaEtDMVphekR6VDQwUE1VOWh5TUR4b2t1anhvWVZzV0VnZGlBZENVMWRaVE9FZkF1WEVwUlVRWjRRekFibTBTdml6X0ZYbjVhaE5xN01aWDVUV1cya09TUjc5ZXBBUmRUM0NuZFRTaWVpc0xxODRKR0h0aktnLUFYLTY3ekJrckNtak11dDVaSW1pbHRGSlgtVVNtV1cwSnptb3A0ajllbVl4bzY5S0dnWXRhTno3eUZGaFJBYWpzdGduQ1lYSmFtdVBiMWI4Tjl4d3RMRk53Wi12TXliMUt5eHZ3a0dxNUE1U2NfQnQ3OU1IUDc4cDE1TjlFWUg4enBEMXlqcUlyclVzSEtPUURsSHpvcWZUNmtuWkI3ajdUaEYtclEybW14MzZDN0NXdGZRd05Ebk52aWllUTVNRTNRc2VCdXphZGpvYUNUbHZXOTcwTVRpcUV5WXFqN0xCdWg?oc=5",
+      "desc": "【Yahoo股市】台積電10月營收破紀錄！網友4大熱議 一票人為股價抱屈：基本面不如泡麵",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_2",
+      "name": "⚡ 台積電Q3配息調升至每股9元、再創新高 ...",
+      "date": "11-10",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "台積電Q3配息調升至每股9元、再創新高 明年4/8發股利",
+      "newsSource": "自由財經",
+      "newsDate": "Tue, 10 Nov 2026 12:02:22 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vWnhyTjd0WVZPdE45aERpTk5jQ0ZBSHdlb0FYRWlGLXBxVFVTY1VCSHpiM0tqMEVuMzFyNldfT1dmMWR1MEkxZ0s2MUplNTRPdTdHdVF4N3JjT0Q4Q2Vz0gFkQVVfeXFMUGN3Ty0zSUpPdHVRX3hmRFVlVzNPM3hWZjdHbnVJTXVTT1R6QzZ5aTY2d3JzcTAycVIzbTFwZllZZ1Z1Tk9TUDRpS3lFc19KRHc5ckJnY0x4VHJVaEtRRjJ4SjZkTg?oc=5",
+      "desc": "【自由財經】台積電Q3配息調升至每股9元、再創新高 明年4/8發股利",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 台積電10月營收5,868.9億元再創高...",
       "date": "11-10",
       "category": "突發半導體",
@@ -358,7 +396,7 @@
       ]
     },
     {
-      "id": "e_breaking_2",
+      "id": "e_breaking_4",
       "name": "⚡ 台積電10月營收再創高 金額逾5868億...",
       "date": "11-10",
       "category": "突發半導體",
@@ -368,44 +406,6 @@
       "newsDate": "Tue, 10 Nov 2026 05:40:21 GMT",
       "newsUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zV0RJVFhFQ1pmU2hlOFpocHcwczcxOHVEdTRGR000YzFHVXNlRl9JX0JEX3NMNDVKYXMwcUc1WU1JQTFGVjVuZlA3a19ZVWNybkdyR3JPWEdzejNIclg0YWhRblMtZzhwWW40M3N1dzB3ZFVyRFFWVDBmRQ?oc=5",
       "desc": "【財訊】台積電10月營收再創高 金額逾5868億元、年增59.7％",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
-      "name": "⚡ 台積電10月營收破5800億元！年增近6...",
-      "date": "11-10",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電10月營收破5800億元！年增近60％ 史上最強",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Tue, 10 Nov 2026 05:37:09 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdDBwcjhpR3VYMnhZUERmRnpRQmhvLVdkZFVrRXcySUY2RENJTFUwNTJhZWM4R1JCOU5ybnVYSFYtLUxobHI0eUNaUlg1dS1nY0dSa1NDTTNIVEJoUW1wekczcGJ1Mk5SVzV1TDN6dS01UzZRc3E3WWJEeHAzYkprcTVWWG9KVUh5UVlkbkcwUG5XcXZqUF8wWHZrcFNzVFBRd2gxVmdjVjdjLWRaQ1MwSWVsb0ppeEs5VmM2RnNBdUt1UGpvNjJJbzd0cVFTcFAtZEFsNTdyWG1XMEFCNC1rMTlneE5PUDMyLXdwS2g1WWpfZHNSdEU2QkUydVdDY3BrcVljTlM3NUtFUVVtNHJWWmRtRHFiMGFKX3BHbC05NmwyeWxLaWdLUVFNVXFZcFJDbzZBam40OG1YeFhkY2tV?oc=5",
-      "desc": "【Yahoo股市】台積電10月營收破5800億元！年增近60％ 史上最強",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 快訊／台積電破紀錄！　10月營收5868...",
-      "date": "11-10",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "快訊／台積電破紀錄！　10月營收5868.9億元年增近6成",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Tue, 10 Nov 2026 05:38:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tc19QSF9XOWFPSlhpemJSYzlteHhSaGxBUVNmNkxrMEVSZ3ZsWnZpbHREV25oQzB3MTNnejZpYWFseGpaUEg5UVJIbUR1SUUxUnfSAVBBVV95cUxNMGczMnVKSExkRHFUSmJEdkJiY1FZck83QXpuaXNpUWxZa3pDUU1JLUxFc0MyckR5dTJObUdBUU9NMGhKOHliOFYxdGVDTlZFRQ?oc=5",
-      "desc": "【ETtoday財經雲】快訊／台積電破紀錄！　10月營收5868.9億元年增近6成",
       "impactTargets": [
         "t_2330"
       ],
@@ -619,14 +619,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 4128.2,
+      "price": 4049.7,
       "currency": "美元",
-      "change_pct": 0.36,
+      "change_pct": -1.55,
       "gold_units": {
-        "oz_usd": 4128.2,
-        "gram_twd": 4360.0,
-        "qian_twd": 16350,
-        "usdtwd": 32.85
+        "oz_usd": 4049.7,
+        "gram_twd": 4292.7,
+        "qian_twd": 16098,
+        "usdtwd": 32.97
       }
     },
     {
@@ -638,9 +638,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 679.35,
+      "price": 674.15,
       "currency": "美元",
-      "change_pct": -0.26
+      "change_pct": -1.62
     },
     {
       "id": "t_voo",
@@ -651,9 +651,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 691.87,
+      "price": 687.558,
       "currency": "美元",
-      "change_pct": 0.08
+      "change_pct": -0.86
     },
     {
       "id": "t_googl",
@@ -664,9 +664,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 288.15,
+      "price": 288.25,
       "currency": "美元",
-      "change_pct": 3.28
+      "change_pct": 2.94
     },
     {
       "id": "t_tsla",
@@ -677,9 +677,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 378.05,
+      "price": 377.85,
       "currency": "美元",
-      "change_pct": -6.38
+      "change_pct": -5.18
     },
     {
       "id": "t_spacex",
