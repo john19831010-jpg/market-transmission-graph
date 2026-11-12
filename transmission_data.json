@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-11-11 18:26",
+  "updatedAt": "2026-11-12 01:21",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 小摩：台積電第4季營收預估538億美元 ...",
-      "date": "11-11",
-      "category": "突發半導體",
+      "name": "⚡ 台達電教戰2／台達電4度暴跌都重返前高！...",
+      "date": "11-12",
+      "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券",
-      "newsSource": "經濟日報",
-      "newsDate": "Wed, 11 Nov 2026 13:31:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96YlVheHBEUG5hNFUtYUEwRmllb0FFLTl5T3gxWmU5V0pxcTc5dkZ3X2tLSkJnOXZKSEtmLVFuQVdIR2VMZFdqejlxYzRhTmdBWUdPSDF5cUpzQQ?oc=5",
-      "desc": "【經濟日報】小摩：台積電第4季營收預估538億美元 維持3,300元目標價及20倍本益比 | 市場焦點 | 證券",
+      "newsTitle": "台達電教戰2／台達電4度暴跌都重返前高！　股海老牛曝上週股災還加碼零股",
+      "newsSource": "鏡週刊Mirror Media",
+      "newsDate": "Wed, 11 Nov 2026 22:59:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12dzNITGFPZHh2ZkdXQmdNWjRKV2pxM0hKREZ5azFFREE0MzZETDlyS3ZBbFhqbmZLUm1leWU1czVON0pEeHJzczhaaWFzRkZ5RUt4dm43LWdVMnd5TlRmMkdJWjlvUdIBa0FVX3lxTFBRUWtxaERoY2dTM0kwQVJPUGlVTWpEcEhrZGRWYlhqa2ZzWVNzOGRlTlBIM3kydl9ucWd1ekpKOXVoZ2diak5KV21HY3FkcVEwOXp3eTIwVWQ2RHYteFctZkZ5WTRHQ0lXdG1Z?oc=5",
+      "desc": "【鏡週刊Mirror Media】台達電教戰2／台達電4度暴跌都重返前高！　股海老牛曝上週股災還加碼零股",
       "impactTargets": [
-        "t_2330"
+        "t_2308"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_server_power",
+        "t_2308"
       ]
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 〈美股早盤〉CoreWeave財報助攻！...",
-      "date": "11-11",
-      "category": "突發半導體",
+      "name": "⚡ Google預測2027年資安趨勢，AI...",
+      "date": "11-12",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4%",
-      "newsSource": "鉅亨網",
-      "newsDate": "Wed, 11 Nov 2026 14:40:40 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01cC1yVi1yVjcwOVB3endxVEpyZGpPeTJkbUdPSlF3b2JmQ1pVeGx2anRGMFFnNFVzMVF2NWpRNHZqbHdnVnJSWWt0X040Ums?oc=5",
-      "desc": "【鉅亨網】〈美股早盤〉CoreWeave財報助攻！那指領漲 台積電ADR漲逾4%",
+      "newsTitle": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
+      "newsSource": "iThome",
+      "newsDate": "Thu, 12 Nov 2026 00:44:10 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd21XZ2Rua0J6bjhPVjhKeWJFQksxbUE0UW4tRXpPVTVIMlFUYV92S2ZlcWsyQU1jdnRuWmFjZnIxams3eE1GaWpjamhCQQ?oc=5",
+      "desc": "【iThome】Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
       "impactTargets": [
-        "t_2330"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ Google推出醫療版Gemini，可串...",
-      "date": "11-11",
+      "name": "⚡ 【即時新聞】最新宣布！元太奪Google...",
+      "date": "11-12",
       "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
-      "newsSource": "iThome",
-      "newsDate": "Wed, 11 Nov 2026 10:16:25 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PdVRZNE9scC1SdDRHTWEtV3hibGNRLW5jal9FS3FjRGdoUzlkTjhpS1NtZWVaVkxCd3JqeEVwZWljaUo1X2VNSmluZVhnUQ?oc=5",
-      "desc": "【iThome】Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
+      "newsTitle": "【即時新聞】最新宣布！元太奪Google機器人大單，攜手台虹搶攻AI材料市場",
+      "newsSource": "CMoney投資網誌",
+      "newsDate": "Wed, 11 Nov 2026 22:31:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlRZYy16MkhtRHR3d2pqWUN0VjRLcTdlakhieDQ0Qzl6aUZOYWUzcXVidGZyRnlQaFF4TmpwSzBBeXV4MGRIeWZtX21mcmlpektvcjUyNWIwYk1kNno1QUVvdlc0YVFPaXU4WHg4aFhaX2wxd2lISTBOV1pmaTlscTUzSEN0cW9YWDdyTmN5REk?oc=5",
+      "desc": "【CMoney投資網誌】【即時新聞】最新宣布！元太奪Google機器人大單，攜手台虹搶攻AI材料市場",
       "impactTargets": [
         "t_googl"
       ],
@@ -61,7 +61,7 @@
     {
       "id": "e_breaking_4",
       "name": "⚡ Google 讓員工測試名為 Hydro...",
-      "date": "11-11",
+      "date": "11-12",
       "category": "突發AI",
       "isBreaking": true,
       "newsTitle": "Google 讓員工測試名為 Hydrogen 的「快速」全新 Gemini AI 模型",
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3999.0,
+      "price": 3999.5,
       "currency": "美元",
-      "change_pct": -1.86,
+      "change_pct": -1.85,
       "gold_units": {
-        "oz_usd": 3999.0,
-        "gram_twd": 4226.1,
-        "qian_twd": 15848,
-        "usdtwd": 32.87
+        "oz_usd": 3999.5,
+        "gram_twd": 4230.5,
+        "qian_twd": 15864,
+        "usdtwd": 32.9
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 695.25,
+      "price": 690.38,
       "currency": "美元",
-      "change_pct": 0.48
+      "change_pct": -0.23
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 700.525,
+      "price": 698.35,
       "currency": "美元",
-      "change_pct": -0.6
+      "change_pct": -0.91
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 295.34,
+      "price": 293.45,
       "currency": "美元",
-      "change_pct": 2.22
+      "change_pct": 1.56
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 393.505,
+      "price": 390.84,
       "currency": "美元",
-      "change_pct": 2.16
+      "change_pct": 1.47
     },
     {
       "id": "t_spacex",
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2395.0,
+      "price": 2380.0,
       "currency": "台幣",
-      "change_pct": 6.92
+      "change_pct": 11.48
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1295.0,
+      "price": 1325.0,
       "currency": "台幣",
-      "change_pct": 14.6
+      "change_pct": 25.59
     },
     {
       "id": "t_0050",
@@ -394,7 +394,7 @@
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
       "price": 103.2,
       "currency": "台幣",
-      "change_pct": 6.23
+      "change_pct": 11.57
     },
     {
       "id": "t_00935",
@@ -407,7 +407,7 @@
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
       "price": 51.35,
       "currency": "台幣",
-      "change_pct": 9.19
+      "change_pct": 15.58
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.7,
+      "price": 27.6,
       "currency": "台幣",
-      "change_pct": 1.84
+      "change_pct": 3.18
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 51.8,
+      "price": 52.0,
       "currency": "台幣",
-      "change_pct": 0.19
+      "change_pct": 1.96
     },
     {
       "id": "t_bank_sinopac",
@@ -444,23 +444,23 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 42.8,
+      "price": 43.2,
       "currency": "台幣",
-      "change_pct": -0.23
+      "change_pct": 3.6
     }
   ],
   "links": [
     {
       "source": "e_breaking_1",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_breaking_3",
