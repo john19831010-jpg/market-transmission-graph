@@ -1,80 +1,80 @@
 {
-  "updatedAt": "2026-11-12 01:21",
+  "updatedAt": "2026-11-12 09:27",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台達電教戰2／台達電4度暴跌都重返前高！...",
+      "name": "⚡ 台積電資安風暴？驚傳近5萬筆個資遭開價7...",
       "date": "11-12",
-      "category": "突發基建",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台達電教戰2／台達電4度暴跌都重返前高！　股海老牛曝上週股災還加碼零股",
-      "newsSource": "鏡週刊Mirror Media",
-      "newsDate": "Wed, 11 Nov 2026 22:59:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12dzNITGFPZHh2ZkdXQmdNWjRKV2pxM0hKREZ5azFFREE0MzZETDlyS3ZBbFhqbmZLUm1leWU1czVON0pEeHJzczhaaWFzRkZ5RUt4dm43LWdVMnd5TlRmMkdJWjlvUdIBa0FVX3lxTFBRUWtxaERoY2dTM0kwQVJPUGlVTWpEcEhrZGRWYlhqa2ZzWVNzOGRlTlBIM3kydl9ucWd1ekpKOXVoZ2diak5KV21HY3FkcVEwOXp3eTIwVWQ2RHYteFctZkZ5WTRHQ0lXdG1Z?oc=5",
-      "desc": "【鏡週刊Mirror Media】台達電教戰2／台達電4度暴跌都重返前高！　股海老牛曝上週股災還加碼零股",
+      "newsTitle": "台積電資安風暴？驚傳近5萬筆個資遭開價740萬拍賣 官方急聲明",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Thu, 12 Nov 2026 05:09:21 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQdjdtbUg0T2dXQ1hHZTFQOHVpUmtPbkpuMGs5Y0t4OGZDSnpLLThxM1JSMHZfVFFTRm83cFpkZ0N0OXdMd2JHbHF1cjUxYjM1c0phaGtnMFZPVEtXUTNqcEtuSkJSUkZaRnZBUkdtZDZNR0tNUWw5WTNhV043SG1mM2d1TFZjc3M0ekQ4bHVfMGFya2VxTkExQ3JvY0VrNXpjM0tUZTRMOVctc21RS1dCd0VoRzB0TjlSMEowQ2IzbHV2clJJUGc0anFjR3lGRkJEYTZZLVV6NWFzaXo2YmN1UzFTNWhUV3h4OE9iU3RodjdVRlN3eGFaTUpSTmpyMUFrY1FDOEoyWXVMV2pXaVVoSkdGbXUyREg0TDJWeEV0aldBdzV1TnI1YUhsN0NTWFVQNE05cVU0QW54NGpIRllYdUhyVV95NzdRRlFaTV9NS1Z2VVZraFAyb2FCY25KS1c5OC14NTdDTDlhb3RlQjE1Mm04R1R0ckZ3b0dTR0psMi1jM2FIQWhya0ZiYUZTRlkwSkZsalVnOHQ1QQ?oc=5",
+      "desc": "【Yahoo股市】台積電資安風暴？驚傳近5萬筆個資遭開價740萬拍賣 官方急聲明",
       "impactTargets": [
-        "t_2308"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_server_power",
-        "t_2308"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ Google預測2027年資安趨勢，AI...",
+      "name": "⚡ 部分員工資訊遭置外部網站台積電：無證據顯...",
       "date": "11-12",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
-      "newsSource": "iThome",
-      "newsDate": "Thu, 12 Nov 2026 00:44:10 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nd21XZ2Rua0J6bjhPVjhKeWJFQksxbUE0UW4tRXpPVTVIMlFUYV92S2ZlcWsyQU1jdnRuWmFjZnIxams3eE1GaWpjamhCQQ?oc=5",
-      "desc": "【iThome】Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
+      "newsTitle": "部分員工資訊遭置外部網站台積電：無證據顯示系統遭入侵| 產經",
+      "newsSource": "中央社 CNA",
+      "newsDate": "Thu, 12 Nov 2026 04:59:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94OUVSdnRtQjFJMFRDZXJDMkxwREozeGpzZGlMdklyWWhjdmVOMjNaV2tvNnNtellCTjB5ZFRxSEd6TThFWE8yN3hjUTRILUJGTUdudm1NVXpfbGtUT3c?oc=5",
+      "desc": "【中央社 CNA】部分員工資訊遭置外部網站台積電：無證據顯示系統遭入侵| 產經",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 【即時新聞】最新宣布！元太奪Google...",
+      "name": "⚡ 地下論壇有人聲稱兜售4.6萬筆台積電員工...",
       "date": "11-12",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【即時新聞】最新宣布！元太奪Google機器人大單，攜手台虹搶攻AI材料市場",
-      "newsSource": "CMoney投資網誌",
-      "newsDate": "Wed, 11 Nov 2026 22:31:50 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTlRZYy16MkhtRHR3d2pqWUN0VjRLcTdlakhieDQ0Qzl6aUZOYWUzcXVidGZyRnlQaFF4TmpwSzBBeXV4MGRIeWZtX21mcmlpektvcjUyNWIwYk1kNno1QUVvdlc0YVFPaXU4WHg4aFhaX2wxd2lISTBOV1pmaTlscTUzSEN0cW9YWDdyTmN5REk?oc=5",
-      "desc": "【CMoney投資網誌】【即時新聞】最新宣布！元太奪Google機器人大單，攜手台虹搶攻AI材料市場",
+      "newsTitle": "地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
+      "newsSource": "iThome",
+      "newsDate": "Thu, 12 Nov 2026 07:49:37 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GaTYtQ3NGUzcxVFBoellGWFNzMmdrZVI2ZzdabWZzY3pZcC0xQk1BdnZkVXpPc3Vmc3o4SFFhQ2tWNlNDaUdFOGVxWVBxdw?oc=5",
+      "desc": "【iThome】地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ Google 讓員工測試名為 Hydro...",
+      "name": "⚡ 台股大暴走！台積電領1303家大翻車 指...",
       "date": "11-12",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "Google 讓員工測試名為 Hydrogen 的「快速」全新 Gemini AI 模型",
-      "newsSource": "Business Insider Taiwan",
-      "newsDate": "Wed, 11 Nov 2026 16:08:13 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xUmZQdWVfSlFmMTNONDB2QkZTWFBZdWtKc3NNdlQ2QWpxamxqcFlGT2dYenh3MnNFSlRjY0NvUEVSV2R3QkZ5T05KaDdZa2hwdmFqSXlB?oc=5",
-      "desc": "【Business Insider Taiwan】Google 讓員工測試名為 Hydrogen 的「快速」全新 Gemini AI 模型",
+      "newsTitle": "台股大暴走！台積電領1303家大翻車 指數收跌1165點",
+      "newsSource": "自由財經",
+      "newsDate": "Thu, 12 Nov 2026 05:52:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15aW00a29NdmtmSzZnQkZnQmc0bGxlMnNWTVNkbHU3YVdBUGVTSk1jbGxycklGUEVJaFVGZ05VX1RQbmFLQ3hIS242dUZxa3dVbEtHb3NfamZzdXVuN09R0gFkQVVfeXFMUEJOdTNLVnh3bzZvNGpxQ2R5b3h6cksxS2dZRXZ6Xy1XcnFiWU9KWUVmcUZ4aVd1WFRYM2Zvd28tSGJOWFhWUDRNa09lbmZXSDc3VmUtSjZUekpzb2I3WmNNMTFldw?oc=5",
+      "desc": "【自由財經】台股大暴走！台積電領1303家大翻車 指數收跌1165點",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3999.5,
+      "price": 3931.8,
       "currency": "美元",
-      "change_pct": -1.85,
+      "change_pct": -4.44,
       "gold_units": {
-        "oz_usd": 3999.5,
-        "gram_twd": 4230.5,
-        "qian_twd": 15864,
-        "usdtwd": 32.9
+        "oz_usd": 3931.8,
+        "gram_twd": 4162.7,
+        "qian_twd": 15610,
+        "usdtwd": 32.93
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2380.0,
+      "price": 2340.0,
       "currency": "台幣",
-      "change_pct": 11.48
+      "change_pct": 9.6
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1325.0,
+      "price": 1240.0,
       "currency": "台幣",
-      "change_pct": 25.59
+      "change_pct": 17.54
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 103.2,
+      "price": 100.95,
       "currency": "台幣",
-      "change_pct": 11.57
+      "change_pct": 9.14
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 51.35,
+      "price": 49.59,
       "currency": "台幣",
-      "change_pct": 15.58
+      "change_pct": 11.61
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.6,
+      "price": 27.15,
       "currency": "台幣",
-      "change_pct": 3.18
+      "change_pct": 1.5
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 52.0,
+      "price": 52.6,
       "currency": "台幣",
-      "change_pct": 1.96
+      "change_pct": 3.14
     },
     {
       "id": "t_bank_sinopac",
@@ -444,35 +444,35 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 43.2,
+      "price": 43.25,
       "currency": "台幣",
-      "change_pct": 3.6
+      "change_pct": 3.72
     }
   ],
   "links": [
     {
       "source": "e_breaking_1",
-      "target": "f_server_power",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發基建"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_2",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_3",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
