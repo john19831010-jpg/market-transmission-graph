@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-12 23:29",
+  "updatedAt": "2026-11-13 05:41",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 獨家／台積電資安風暴！暗網拍賣4.6萬筆...",
-      "date": "11-12",
+      "name": "⚡ 黃仁勳突請辭！台積電不跌反漲衝2390元...",
+      "date": "11-13",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "獨家／台積電資安風暴！暗網拍賣4.6萬筆員工個資 駭客開價 3 BTC",
+      "newsTitle": "黃仁勳突請辭！台積電不跌反漲衝2390元 3檔AI晶片股同步亮燈",
       "newsSource": "Yahoo股市",
-      "newsDate": "Thu, 12 Nov 2026 08:08:08 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQQ1lUakZkV2RCTFVvc0VoQlNOREZsRVZEOFNuN1ZpcUNOQXdzZjkwbjR2b0J2M3VqUVlTY3R6dmhwU2gzWXVwR0Ezd2hnYjdqSWdBcUdTbGQ4NmR6NGtERTlEWTlpbVlDanZVaDdYVXBVZktIam5zOVRBa2RFTXlYSldyOElyWHU1ckx5aHJTaFJieTB0UUN4UEtLOFlIOTZ2TnVMUmRhMkE3elEzUnMxRm95cUJoR2FmNGh2WnJtdHFxYkgzNm1zcHJYTjNLUkZfUUI1ZTd4ankza0R6UTJ0bkJ6SzBwRmVPaFdjNE9nbUxDMFBxZ1NJbnkzNWg3XzlEbmJQM0Q2eEN2NTVZYVg4bDN5cXJWeWwzX3ZzaTRSeFJJdVhtQVhPck5GemVrRXJzQnNwSGxXb0x5ZlFfbzRiYmttcDBOanB4MDU1c3ljdjRRZFBHN3p0eDg2LWJ5VjRud3cyV1htX3pfNUtiNy1raHZuTlFCNEk?oc=5",
-      "desc": "【Yahoo股市】獨家／台積電資安風暴！暗網拍賣4.6萬筆員工個資 駭客開價 3 BTC",
+      "newsDate": "Fri, 13 Nov 2026 04:39:13 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPMzdfaUJKcFlfOW9Pdl9aRFRiNS1wbVBGNTVEeEFUY3dJN1prOXFoejRET3FLZzBzNUplbXNIdHJHMHFMNkRUY3dSaG1oOGhfM3hlSDRhY1NiUnlGcEtWYVlNMFFsNmNCR2pqYzN0akdweElHZlJrUTdVbUNTenVsVEhBcENQU1dXRzNUMW42R0pkY3RFdHRKeENBbTNSRlFCalZrRlBZaXM3cjVtRVVBYTNOcWZReFpRTVhWa2xzNUlpSXhBei1QNHQwMm1OcFZKZFRzNlhycE41enNTYVJYcWJ4aXVfUUdnUFh6cUFfZFB6Z20yeEx4ZllRTVNnSGc3cHRPTGtwOV9OQ2pCeGthQnU5UlRsRXBETk5FWnJLRzlZSGR3UnpzY1NfdWxUd0x3MTk1MlNmbmpNajRMSUQyOG80NEcteUkxUS0yd1B4SndfTS1tMWowYU13S2J2MU9qNlJLTXJiYlM4bjVQVjROOERCeHhyZnZCOWpB?oc=5",
+      "desc": "【Yahoo股市】黃仁勳突請辭！台積電不跌反漲衝2390元 3檔AI晶片股同步亮燈",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,34 +22,34 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 目標價喊3828元 外資挺台積電2027...",
-      "date": "11-12",
-      "category": "突發半導體",
+      "name": "⚡ 【股市焦點】台達電10月營收創高仍有隱憂...",
+      "date": "11-13",
+      "category": "突發基建",
       "isBreaking": true,
-      "newsTitle": "目標價喊3828元 外資挺台積電2027營收增4成",
-      "newsSource": "非凡新聞台",
-      "newsDate": "Thu, 12 Nov 2026 19:31:54 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jT25sWTdzZGFST011emlSLVFGRmQ3dXQ5NUQ2bHU1aFdaWEUxTzRQd0pTa0s2MGhteDd5ZWJsVWk0T0Z0aUJ4OVNWb3cxUWl2WG9xblY5TDFfRkU?oc=5",
-      "desc": "【非凡新聞台】目標價喊3828元 外資挺台積電2027營收增4成",
+      "newsTitle": "【股市焦點】台達電10月營收創高仍有隱憂！新光證券：外資目標價在這區間",
+      "newsSource": "鉅亨網",
+      "newsDate": "Fri, 13 Nov 2026 00:50:03 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42M2Zld2s4VzNZWUJZOTVhR3FjOFdwVmRmQktXaGhtUmRNT0Ixb3NmM1RUVVdQTEdCd3NpVTAwODgzNTV3V05faEx6N08xTUE?oc=5",
+      "desc": "【鉅亨網】【股市焦點】台達電10月營收創高仍有隱憂！新光證券：外資目標價在這區間",
       "impactTargets": [
-        "t_2330"
+        "t_2308"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_server_power",
+        "t_2308"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 部分員工資訊遭置外部網站台積電：無證據顯...",
-      "date": "11-12",
+      "name": "⚡ 地下論壇有人聲稱兜售4.6萬筆台積電員工...",
+      "date": "11-13",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "部分員工資訊遭置外部網站台積電：無證據顯示系統遭入侵| 產經",
-      "newsSource": "中央社 CNA",
-      "newsDate": "Thu, 12 Nov 2026 04:59:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94OUVSdnRtQjFJMFRDZXJDMkxwREozeGpzZGlMdklyWWhjdmVOMjNaV2tvNnNtellCTjB5ZFRxSEd6TThFWE8yN3hjUTRILUJGTUdudm1NVXpfbGtUT3c?oc=5",
-      "desc": "【中央社 CNA】部分員工資訊遭置外部網站台積電：無證據顯示系統遭入侵| 產經",
+      "newsTitle": "地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
+      "newsSource": "iThome",
+      "newsDate": "Thu, 12 Nov 2026 11:00:05 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GaTYtQ3NGUzcxVFBoellGWFNzMmdrZVI2ZzdabWZzY3pZcC0xQk1BdnZkVXpPc3Vmc3o4SFFhQ2tWNlNDaUdFOGVxWVBxdw?oc=5",
+      "desc": "【iThome】地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,15 +60,15 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 【即時新聞】最新台股受輝達風波重挫，台積...",
-      "date": "11-12",
+      "name": "⚡ 【即時新聞】最新台股強彈！台積電無懼輝達...",
+      "date": "11-13",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "【即時新聞】最新台股受輝達風波重挫，台積電股價下跌55元相對大盤展現韌性！",
+      "newsTitle": "【即時新聞】最新台股強彈！台積電無懼輝達高層異動，今日股價上漲40元漲幅達1.71%",
       "newsSource": "CMoney投資網誌",
-      "newsDate": "Thu, 12 Nov 2026 22:09:06 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLU5sTldoVFc5YktFT21UeXJPY3hfbHRwMGh2RzlLSU1DVEhqTTFkNkl6WktTWWxMTkk3VDZySmZLdTRpYzJXTzZtbTBla25Hb2ROY01XMzZ2SHBtYTVLM2xPcXRONHJVdkNhaHdhMTZfODZXUUNHc3ZZeTM3QnJVRVZHS2ZRUUtjWEtpMFVzQVo?oc=5",
-      "desc": "【CMoney投資網誌】【即時新聞】最新台股受輝達風波重挫，台積電股價下跌55元相對大盤展現韌性！",
+      "newsDate": "Fri, 13 Nov 2026 04:06:31 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXppVTZ5N2dtcDF2ZlREeXpsV2VqYm54ZmF0aHVCQUd0eGFUY09hUWFKSkxpbzdsLXc4OVJXZ0hxS0w3dG1MR1lHQnMxZXJNZENDTTdYcjV4QlQxQU9wNkRWOWFKMWFNaHZ1WTJoa25aQktUWklZaGFEZG9XYktRdDZ2UVk4aFJDUkFFS1B0dEQ?oc=5",
+      "desc": "【CMoney投資網誌】【即時新聞】最新台股強彈！台積電無懼輝達高層異動，今日股價上漲40元漲幅達1.71%",
       "impactTargets": [
         "t_2330"
       ],
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3881.4,
+      "price": 3921.0,
       "currency": "美元",
-      "change_pct": -5.67,
+      "change_pct": -4.7,
       "gold_units": {
-        "oz_usd": 3881.4,
-        "gram_twd": 4110.6,
-        "qian_twd": 15415,
-        "usdtwd": 32.94
+        "oz_usd": 3921.0,
+        "gram_twd": 4141.2,
+        "qian_twd": 15530,
+        "usdtwd": 32.85
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2340.0,
+      "price": 2365.0,
       "currency": "台幣",
-      "change_pct": 9.6
+      "change_pct": 5.82
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1240.0,
+      "price": 1230.0,
       "currency": "台幣",
-      "change_pct": 17.54
+      "change_pct": 6.03
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 100.95,
+      "price": 102.6,
       "currency": "台幣",
-      "change_pct": 9.14
+      "change_pct": 5.28
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 49.59,
+      "price": 50.7,
       "currency": "台幣",
-      "change_pct": 11.61
+      "change_pct": 6.51
     },
     {
       "id": "t_1101",
@@ -418,9 +418,9 @@
       "score": 100,
       "color": "#14b8a6",
       "summary": "從傳統水泥龍頭積極轉型為能元科技三元鋰電池、儲能電廠、歐洲低碳建材供應商，高度受碳費政策牽動。",
-      "price": 27.15,
+      "price": 27.25,
       "currency": "台幣",
-      "change_pct": 1.5
+      "change_pct": 1.68
     },
     {
       "id": "t_bank_sp",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 52.6,
+      "price": 53.2,
       "currency": "台幣",
-      "change_pct": 3.14
+      "change_pct": 3.5
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 43.25,
+      "price": 44.0,
       "currency": "台幣",
-      "change_pct": 3.72
+      "change_pct": 4.51
     }
   ],
   "links": [
@@ -458,9 +458,9 @@
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_3",
