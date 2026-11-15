@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-14 21:09",
+  "updatedAt": "2026-11-15 01:33",
   "events": [
     {
       "id": "e_breaking_1",
       "name": "⚡ 台積電法說遇輝達財報AI行情的關鍵48小...",
-      "date": "11-14",
+      "date": "11-15",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電法說遇輝達財報AI行情的關鍵48小時 MSCI半年度調整出爐AI伺服器供電散熱誰最強？緯穎台達電奇鋐雙鴻11月17至18日法說見真章中油油價連8凍漲｜投資早知道",
@@ -22,27 +22,8 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電(2330) 今日股價與討論",
-      "date": "11-14",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "台積電(2330) 今日股價與討論",
-      "newsSource": "CMoney",
-      "newsDate": "Thu, 12 Nov 2026 08:00:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03M3BXYmZ0QmJ1bF9rNXlLWkw2Qkp3ek9VMXFyX09kT0poVlRjVFJ4bzBEWFh1aTU0Y3Z0ekJqQ3pJNWVIam5MQzlRM0N4OXc?oc=5",
-      "desc": "【CMoney】台積電(2330) 今日股價與討論",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_3",
       "name": "⚡ 台積電明年就能見3,000元？華爾街操盤...",
-      "date": "11-14",
+      "date": "11-15",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "台積電明年就能見3,000元？華爾街操盤手「重估時間表」 揭股價跌22％後布局策略- 上市櫃",
@@ -59,9 +40,28 @@
       ]
     },
     {
+      "id": "e_breaking_3",
+      "name": "⚡ 台達電股價腰斬 便宜就能買？看懂AI擴產...",
+      "date": "11-15",
+      "category": "突發基建",
+      "isBreaking": true,
+      "newsTitle": "台達電股價腰斬 便宜就能買？看懂AI擴產風險 從低本益比、融資退潮找「跌深股」",
+      "newsSource": "工商時報",
+      "newsDate": "Sat, 14 Nov 2026 23:44:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ETEpUMkM1X1Q0dFk3UmxndVFtV2YyS1dLODRIR3N1cEhkdkRDcGg2U2xNUXBxUzhkSWM4N3lpUjcxaFllZTBTMjQ4OW9zcFZvOXk4UnZWTHVWUFd3MnUw?oc=5",
+      "desc": "【工商時報】台達電股價腰斬 便宜就能買？看懂AI擴產風險 從低本益比、融資退潮找「跌深股」",
+      "impactTargets": [
+        "t_2308"
+      ],
+      "primaryChain": [
+        "f_server_power",
+        "t_2308"
+      ]
+    },
+    {
       "id": "e_breaking_4",
       "name": "⚡ 地下論壇有人聲稱兜售4.6萬筆台積電員工...",
-      "date": "11-14",
+      "date": "11-15",
       "category": "突發半導體",
       "isBreaking": true,
       "newsTitle": "地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
@@ -464,9 +464,9 @@
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_server_power",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發基建"
     },
     {
       "source": "e_breaking_4",
