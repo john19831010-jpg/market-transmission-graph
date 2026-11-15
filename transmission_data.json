@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15 08:56",
+  "updatedAt": "2026-11-15 16:10",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電(2330) 個股概覽 | 個股",
+      "name": "⚡ 中國客戶只剩5% 台積電8成營收靠北美",
       "date": "11-15",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電(2330) 個股概覽 | 個股",
-      "newsSource": "CMoney",
-      "newsDate": "Sun, 15 Nov 2026 06:48:31 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVkxvYUp1Tnk1ZXpiVjE5NnVGN01xajlQOE9obFZzT1hRLTV3OV94MWxlQWpwNkRQenlmVUJXb1ZScEtlc2xUYWs4WjNnRHhpNzlJ?oc=5",
-      "desc": "【CMoney】台積電(2330) 個股概覽 | 個股",
+      "newsTitle": "中國客戶只剩5% 台積電8成營收靠北美",
+      "newsSource": "短新聞SHOTNEWS",
+      "newsDate": "Sun, 15 Nov 2026 13:26:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DSGs1LXdMX2RzNkRCWnB2Y1hDaUVnNmMyTTdMbnBFRjFNTmM0VGM0LU82WGVSWjlVMTlOLXktU2Z1NXA4ZlI1WVY0d2g4bVBMR1JRWg?oc=5",
+      "desc": "【短新聞SHOTNEWS】中國客戶只剩5% 台積電8成營收靠北美",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,25 +41,6 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 【即時新聞】台積電今日公布10月營收達5...",
-      "date": "11-15",
-      "category": "突發半導體",
-      "isBreaking": true,
-      "newsTitle": "【即時新聞】台積電今日公布10月營收達5868.9億元，年增高達59.7%創單月新高！",
-      "newsSource": "CMoney投資網誌",
-      "newsDate": "Sun, 15 Nov 2026 05:04:54 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUHRDWDNSLWZGVjE0alROSGdVQmVxTjhZc3BIUkVaeUJncDdiT3EzTjVlbTVaaGdTanUyOFJiMVZSQlFEd2sxTmd3VFphTEZOR3BuODdTUHFYbTR0M0pmb1J3VGpyaXhVYVFWb1llUkJfWldXWUN1ZWFzOFBia3p2REZ0Ym9Nd1NZUjZRam8xdVg?oc=5",
-      "desc": "【CMoney投資網誌】【即時新聞】台積電今日公布10月營收達5868.9億元，年增高達59.7%創單月新高！",
-      "impactTargets": [
-        "t_2330"
-      ],
-      "primaryChain": [
-        "f_foundry",
-        "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
       "name": "⚡ 地下論壇有人聲稱兜售4.6萬筆台積電員工...",
       "date": "11-15",
       "category": "突發半導體",
@@ -75,6 +56,25 @@
       "primaryChain": [
         "f_foundry",
         "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_4",
+      "name": "⚡ 馬斯克AI算力送上太空！1萬座機櫃商機爆...",
+      "date": "11-15",
+      "category": "突發自駕",
+      "isBreaking": true,
+      "newsTitle": "馬斯克AI算力送上太空！1萬座機櫃商機爆發 外資點名台光電、奇鋐等7檔台廠",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 15 Nov 2026 04:01:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMizANBVV95cUxQUkRvbmk1QzlDVUJCZjlNRHMyamVyeVJGZTZ1cDNza0diRjdHNkxEc09WN0RiLVVfX3ZPSlBqbk0xNGJqNEd3Wi0wUmxrYzFqTkJfNHFSRV9pRUtkbTdaMkpaWXVEdF9Va2gwd09VdjRidkRrVVdjVlBWQXZmcE02NE1tZVJXR3U1UlZjT0poOUp4ZGxhZ3lXVHBPRGdXTE5MSDJxNlN6d1loQUJiSTJuX01memJYSDItWW1uZ25aTDZKSG91YXQxS0tNUDBPc1dDVFRWOTRVdFJ1dkVlTE1BZXpheWpWRUhZQ0FyY1Q4b1U0MlBOazlGQ1k5amotb1FZRm5FVHNZcnJWaThXTVBCRFdSdGxYd2ROTEh1c3A0QnBtcmR3cGxxd3BGYnBjX2lkeUdKSmV1U25yR240d2ZMSnROb3hkTmpiWUhFR2ZBWTF4WDc1bHlpNWRXOVpZdGQyVzRsWXRRWHUxMkhTSGh6Y2tEWkdyZTFwZVB5ajliMHY4WVJ6b0tLdWR3OG5xZ2NLT0JJUnc5WVZuTDZFelVpWlNqMXp4czBTdHNEQ3dobkJGN0RQdlBFT3FvMWdXRFF2Q1VZYkF0WkRFRTM4?oc=5",
+      "desc": "【Yahoo股市】馬斯克AI算力送上太空！1萬座機櫃商機爆發 外資點名台光電、奇鋐等7檔台廠",
+      "impactTargets": [
+        "t_tsla"
+      ],
+      "primaryChain": [
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_fomc",
