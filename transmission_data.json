@@ -1,80 +1,80 @@
 {
-  "updatedAt": "2026-11-16 09:09",
+  "updatedAt": "2026-11-16 20:03",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 傳黃仁勳有意重返輝達？台積電跌逾3％ 失...",
+      "name": "⚡ SpaceX（SPCX）星艦首次接住回收...",
       "date": "11-16",
-      "category": "突發半導體",
+      "category": "突發航太",
       "isBreaking": true,
-      "newsTitle": "傳黃仁勳有意重返輝達？台積電跌逾3％ 失守2300元",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Mon, 16 Nov 2026 03:07:25 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNb1FSWHhya2EtZlZjbEpFYmpJOHVRUmwtRmtuQ2s1SFR4NjI4UDl0eGhCRm1xeTdZVG1rYjdPYjcxckhnZ1l1azZ2b0J5azZCMFJkbW53a2pqMTRIbEhITGMwVm9rc1NmQUY1LWRuV3RwOFNaVVlvSGtkbUpSOWUwdjhUeVZuVlJpRjN2RWZzcm0xTFVHQlhicVkta1pNdm0yZXZMMTM4MUxvODR1REFabUpJX080Y0s0RXg5cTFEbDlXbHhBalFaUmIycEltam1UMzM0RzFhQ2M4ZmYzLWNHVXdDRXkxSnpNSGhFSTJFdXYwU2I2a3B0dEtRNFRZTjdPd3NOZENRNUxkVlljNTRqYnExVDF3YlgyQU5hREpNTXlIa3Z1YjJ1ck1ETjlRODN5NkpRUmlDM0MxcHpmZVRjTmozeDVmSU9rU0VxUnloeHZwaTA?oc=5",
-      "desc": "【Yahoo股市】傳黃仁勳有意重返輝達？台積電跌逾3％ 失守2300元",
+      "newsTitle": "SpaceX（SPCX）星艦首次接住回收成功，740億美元AI園區惹議，6檔台股概念股一次看｜股市話題｜豐雲學堂2026 年 11 月",
+      "newsSource": "永豐金證券",
+      "newsDate": "Mon, 16 Nov 2026 15:32:15 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMigARBVV95cUxPMUNvY056dXRrWEJVSDd5OVV0Rm9RdngtMlktVDB6eU9DWlVYdWRCWkxOb2t0c1pudWFlQTF1TE05UWlOTWs2b1lBYWJBdXQ4UzA0N2ZzdlBPU1FxMWZDWThMbmctMnAycmZQQnl0cWxqUFZMcHJ4cmM1eEtMTDByT2FpakFhRUNRc3lqNGhvcGg3c0tfOEh4bzMycGpsbHNhUm1LcmdHbkdvOGN3MHU2b2tpalJjbzJ6Z0NkRUVsNTRXSVV3Ui1XVFlCa1NFQ3EwZlU0UFM5azRLZFNLWWdGUTY4SHVlVkkyNVlBczRIazk1cjNRVTBqRkFIcXB1Rk5rX1RGSXRoQUFYTU0xbms5QjN1TlFqdGJFTFdXcEc1UllYbVd1NzNJXzhKQ2JXMnZtOEVNcnNYb21qMUVTZGNfeGxLS2dIZnN6dzVULUR4Y2pCcDA3TmEzWl9PYmxqU3pRYzNfckNHN0d1VUdtdWNtOXVsaHZ2RzJiMkhvVldEcTA5Q2hCbjlEbHRQeUtLeTNCak12S0dNMWhnRVdRaUdBbTFob0M5V1l4LWVETUF5elBlQkViVlZKTURQc0MxOXNmeWt5M0V1UkFnMm96dExQYlFiUDNaVVJNdTBYSWw0bHZ5RHRIQkUzQUhzdGlzTFNpTVkzQ1MwVF91d1lHUFpSNg?oc=5",
+      "desc": "【永豐金證券】SpaceX（SPCX）星艦首次接住回收成功，740億美元AI園區惹議，6檔台股概念股一次看｜股市話題｜豐雲學堂2026 年 11 月",
       "impactTargets": [
-        "t_2330"
+        "t_spacex"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_satellite",
+        "t_spacex"
       ]
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台股史上第2慘！崩2635點收41040...",
+      "name": "⚡ 亞灣AI實證成果發表 攜手微軟、Goog...",
       "date": "11-16",
-      "category": "突發半導體",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "台股史上第2慘！崩2635點收41040　台積電8560張絕殺暴跌135元",
-      "newsSource": "ETtoday財經雲",
-      "newsDate": "Mon, 16 Nov 2026 05:35:00 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lTzNiSko3Wko3SWZENjE3NGd2SkFXM0Z6R2pzUTZEUFI2RWRBeVhyRlBKQ0hRNDJ0Zmp1S3VfQXZGOWtuU2RFWDktc3ZRR2VodEHSAVBBVV95cUxQOU1RQzVWalJGOUo4ZFRseHpfRXBuemdoUE15c2JjSEVVclJYcEExdXFqU0VVWUNITm10RDNuV084SDBOWWdDOXdPV09GUTNNdg?oc=5",
-      "desc": "【ETtoday財經雲】台股史上第2慘！崩2635點收41040　台積電8560張絕殺暴跌135元",
+      "newsTitle": "亞灣AI實證成果發表 攜手微軟、Google加速技術落地|政經臺灣",
+      "newsSource": "僑新聞",
+      "newsDate": "Mon, 16 Nov 2026 11:00:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5hSGpkczZPZnRBOEJONUdZUW9KYWFrTkNDXzBkU3hpYTBMN3pBSGlFdkJndTU2N2QxaFB6MGNEdTVKX0dVcEFmdVZ5RQ?oc=5",
+      "desc": "【僑新聞】亞灣AI實證成果發表 攜手微軟、Google加速技術落地|政經臺灣",
       "impactTargets": [
-        "t_2330"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 【研究觀點】台股大漲一成之後：輝達財報與...",
+      "name": "⚡ 馬斯克AI算力送上太空！1萬座機櫃商機爆...",
       "date": "11-16",
-      "category": "突發半導體",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "【研究觀點】台股大漲一成之後：輝達財報與升息循環的雙重考驗；避風港看軟體與航運，科技股聚焦台積電與測試介面",
-      "newsSource": "永豐金證券",
-      "newsDate": "Mon, 16 Nov 2026 08:26:21 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiyAVBVV95cUxOVExMRkxaSjdEa3N1cFNoRXJQQl9rUlUtOVRYMkhrbHE4THFvX1lGLU9xeDQ1ajdlRXZFS3haXzRsZWJXZ2ZHZFhWd2V4UHBtdUJYZ2ZtU1A5UU9VVVZMME9DUkdINkFjY0wtTnNLNWx3N2ltb2h5TWgzQVhvV2xlMjBKU09JQnBmSnU1a3RneFU1UTZhZDNpSlZLMDNPYnhOVUFOLWllUVlYR0JjdW56Z2xiLV9UT05VSXJCTV96YmRxRmRvWTJvOFU2XzU0R2JKRXZ2Y1BjSV81eFJKYUxnT1pkT1dGZ0p0TFpnYm9DWkdhUEw0UnNIWWlZVklPd0Jwck1maHRPUnoxR1dMV3hfaUthMzU0VlU3TGFvckhBbHdyX3ItTjNEUEh0dEg1cW1GUFV5OG1HSjRHWXdqSWU5N3B4WjlfNURFdWIzMmpQQTdDbFV4SERyY2dDaEZCeF9yWm1vbTNWa0JraWFOdkRpOXo2a1JPdDFnemMtc0JiSzlicmFmU3pQMnVtem14cnQ2UUVBTG5SaFhLQjBZTlFEbGJfRzFTMXNhUHpiOFhUV0pJZkFyV2dpUTFnYThWdjNrMDdXc2NaM3pQUFZ6SEtydUYtYzZXTlNTVWhNUE4zbHk5ejNCRU4ySHBmaFF2bUhGUG5JcVlJUFBqbkJqR2lVeGktNEZfc0IxTmVPRDBnTHlOTER4bEhiZDBqRmFmejBkeE5VbG9ndzFObW1yNDZwTXk3MGRSZ0tKdjQxOFdQMlROdFpsSVBWRzNtdWNSa0drQjcxcDdNbkgwT0JTNXZaM1p2dGFFazNQWWs5ZnhfMUZhQTYwRzBCZWFHdXpJUFVKeUJ0WlpaVHNoWVI1Z3JuWGwxRVZhTXAzN2U4YjgxczdBc3FyMHRLYk1JLWpZNEd0dGFXT2h0Mk9lc1dxc0dSNC1QMFJSSzRk?oc=5",
-      "desc": "【永豐金證券】【研究觀點】台股大漲一成之後：輝達財報與升息循環的雙重考驗；避風港看軟體與航運，科技股聚焦台積電與測試介面",
+      "newsTitle": "馬斯克AI算力送上太空！1萬座機櫃商機爆發 外資點名台光電、奇鋐等7檔台廠",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Sun, 15 Nov 2026 04:01:49 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMizANBVV95cUxQUkRvbmk1QzlDVUJCZjlNRHMyamVyeVJGZTZ1cDNza0diRjdHNkxEc09WN0RiLVVfX3ZPSlBqbk0xNGJqNEd3Wi0wUmxrYzFqTkJfNHFSRV9pRUtkbTdaMkpaWXVEdF9Va2gwd09VdjRidkRrVVdjVlBWQXZmcE02NE1tZVJXR3U1UlZjT0poOUp4ZGxhZ3lXVHBPRGdXTE5MSDJxNlN6d1loQUJiSTJuX01memJYSDItWW1uZ25aTDZKSG91YXQxS0tNUDBPc1dDVFRWOTRVdFJ1dkVlTE1BZXpheWpWRUhZQ0FyY1Q4b1U0MlBOazlGQ1k5amotb1FZRm5FVHNZcnJWaThXTVBCRFdSdGxYd2ROTEh1c3A0QnBtcmR3cGxxd3BGYnBjX2lkeUdKSmV1U25yR240d2ZMSnROb3hkTmpiWUhFR2ZBWTF4WDc1bHlpNWRXOVpZdGQyVzRsWXRRWHUxMkhTSGh6Y2tEWkdyZTFwZVB5ajliMHY4WVJ6b0tLdWR3OG5xZ2NLT0JJUnc5WVZuTDZFelVpWlNqMXp4czBTdHNEQ3dobkJGN0RQdlBFT3FvMWdXRFF2Q1VZYkF0WkRFRTM4?oc=5",
+      "desc": "【Yahoo股市】馬斯克AI算力送上太空！1萬座機櫃商機爆發 外資點名台光電、奇鋐等7檔台廠",
       "impactTargets": [
-        "t_2330"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美國CPI超預期會怎樣？Fed12月會升...",
+      "name": "⚡ 研調：三星與Google攜手進軍AI眼鏡...",
       "date": "11-16",
-      "category": "突發貴金屬",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "美國CPI超預期會怎樣？Fed12月會升息嗎？對美股、美元、美債、黃金影響一次搞懂｜豐雲學堂2026 年 11 月",
-      "newsSource": "永豐金證券",
-      "newsDate": "Mon, 16 Nov 2026 02:15:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQN29SUHgxbkc0QzBOM2RsM1JYZElFWTZURjlZVm9KX3BOTW5VY2JIT3VUeXZuT3RSV2RCOFpQdHlBdjNMci1VdzRkV2FVUy0wZlVMMlpkTGZxbWtaTjhWaWpNSkp3UDI1U1d1SzNKTmV3VkVpUW9MMEVEYjlVbUM4UjBhY2dKTFNja3VsOFEwRDJva1A0dWJhdVJwOG9TX0o2SnoxcnVwTldZUjJ2d2ZMU1NRRUhFTzdEU2FzUXp2YTY4UEo4RnhYLUswdmJFcEN0OHJfb1hsZWU5TzlFWHp1SkVmOXFfR3laS3lfMndNbkZZV2pfb2VRcnE5Vi1XNVZLWkFJMHZQUV95Qy1sUDVSTDJaekVFZGVlTFpzb1FTcktlXzNaM2FlQTA1eGN5M243N3ZjS0VWRXZXRFY2bHN0bDVjdW1fWEZraTNlczRxZ2huOXNuYzd1TFI1S3BYb3lVXzFIb0RVRGNMT2NOaXdPTUh3cFo4Q1ZGMFNmcVlMT0ZyUE8tdVVBdVRWRW9mS1M2dHVrc0xoUGREZ2RBejBsVGwtSUVJWG45eU1KRXA5VWd5MjRPNnl4T1dDYkI4cmhfUjdQUy1KQm5CRG8tOHpwcTFoVXpsWUxXaWJoUA?oc=5",
-      "desc": "【永豐金證券】美國CPI超預期會怎樣？Fed12月會升息嗎？對美股、美元、美債、黃金影響一次搞懂｜豐雲學堂2026 年 11 月",
+      "newsTitle": "研調：三星與Google攜手進軍AI眼鏡市場 AI體驗與生態系成競爭重點",
+      "newsSource": "鉅亨網",
+      "newsDate": "Mon, 16 Nov 2026 09:40:11 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1OX3dTQW9CX2kycUFEblE5Y3FoSEdBWEFvY29rZ190VUZkal9HSS1Sb0NZMzlDYU5ZZ040LTk5Yk04cmRfQXZZNC0yY3FxVk0?oc=5",
+      "desc": "【鉅亨網】研調：三星與Google攜手進軍AI眼鏡市場 AI體驗與生態系成競爭重點",
       "impactTargets": [
-        "t_gold"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_dollar",
-        "t_gold"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3863.0,
+      "price": 3867.3,
       "currency": "美元",
-      "change_pct": -3.44,
+      "change_pct": -3.33,
       "gold_units": {
-        "oz_usd": 3863.0,
-        "gram_twd": 4087.4,
-        "qian_twd": 15328,
-        "usdtwd": 32.91
+        "oz_usd": 3867.3,
+        "gram_twd": 4095.6,
+        "qian_twd": 15358,
+        "usdtwd": 32.94
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 679.89,
+      "price": 663.57,
       "currency": "美元",
-      "change_pct": 3.63
+      "change_pct": -2.32
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 693.38,
+      "price": 680.61,
       "currency": "美元",
-      "change_pct": 2.57
+      "change_pct": -1.63
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 295.77,
+      "price": 284.98,
       "currency": "美元",
-      "change_pct": 3.86
+      "change_pct": -1.1
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 390.22,
+      "price": 377.045,
       "currency": "美元",
-      "change_pct": 8.93
+      "change_pct": -0.27
     },
     {
       "id": "t_spacex",
@@ -452,27 +452,27 @@
   "links": [
     {
       "source": "e_breaking_1",
-      "target": "f_foundry",
+      "target": "f_satellite",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發航太"
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_dollar",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發貴金屬"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_fomc",
