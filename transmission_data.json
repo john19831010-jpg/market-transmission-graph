@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-22 18:18",
+  "updatedAt": "2026-11-23 00:02",
   "events": [
     {
       "id": "e_breaking_1",
-      "name": "⚡ 台積電崩回600元？哲哲喊「不可能」！再...",
-      "date": "11-22",
+      "name": "⚡ 台電將砸千億投資輸變電計畫 台積電1奈米...",
+      "date": "11-23",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電崩回600元？哲哲喊「不可能」！再押3千萬買0050：真的沒錢了",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Sun, 22 Nov 2026 04:22:54 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQNDNoa0FXZFJRcmU3NmpJbzlXbGp5WU01TEhsWXcwU3h6SE8wRFEwOWVoQUIyOG5HWkhYZ0dJVm04REl0dkNURXp5S0hCbVAyYmxIdkx4LWJqci1xQVY1cGtNRUlDcG5HWEY0NVA5RmxuaHJscXpwd2JQY2ZvQWYwVjNjblZoeXpvS0ptb2V1RDU1VWZaV0pIYTRLTDVCNG5QTm9hNEVSemtHbFo4VlVSSS14d3U1c29DNDYtWmJRVWhMS05FdkpjS1NBNFZicEtQUnRMTE9ZSFJrU09GWUVsbXJQbjZVbGdpOERGa3JPUVRCM1ZrN08xM2oxX0FZaW5VcFhDSElzT1JzRUVTNFdpVW8ySFBRY0NHQnltMWh1QmY0Z3VuVXo3SWZnVmRYdGk3b2E3anhCSmhod245MjBzZ09aY2hTVkxtTXdiV0I5UDR5Sl9GamRtSFdVbEVRczhGSktsS05RcGhIa0JwMUFXX2xtWQ?oc=5",
-      "desc": "【Yahoo股市】台積電崩回600元？哲哲喊「不可能」！再押3千萬買0050：真的沒錢了",
+      "newsTitle": "台電將砸千億投資輸變電計畫 台積電1奈米用電穩了",
+      "newsSource": "經濟日報",
+      "newsDate": "Sun, 22 Nov 2026 18:55:25 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yckJqNF80aUlRWE9aWkc2SzJ2VWNoZGRUbEViWk1yUWhORXdMbGVBQlpuWnVBbTJNcHM2OVpKdHdiYWh1QXRmNEwtSzkwT3BCcEhoU2ZQRXRIZ9IBX0FVX3lxTE10aUI5VERKZENUNzJkZWVITW9peU03R2lIc1FoQjJVQ2dzTlJJNWFLX3RhMXF1SzFmVUM3UldZRXY5MWNlLWtyWERlZk9LeWtIQ2Q2LTZNX0RQUzNMVWU0?oc=5",
+      "desc": "【經濟日報】台電將砸千億投資輸變電計畫 台積電1奈米用電穩了",
       "impactTargets": [
         "t_2330"
       ],
@@ -22,59 +22,59 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 2330 台積電",
-      "date": "11-22",
-      "category": "突發半導體",
+      "name": "⚡ 美股崩跌逼宮Fed？美銀Hartnett...",
+      "date": "11-23",
+      "category": "突發總經",
       "isBreaking": true,
-      "newsTitle": "2330 台積電",
-      "newsSource": "CMoney",
-      "newsDate": "Sun, 22 Nov 2026 10:16:18 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKMHdKSElWLUE0UVJHV0dKSGhpMkhDY1kwa05wMElhaFVJQ21HNU5FeEFtc3c2T1JZQmZKS1IwUmZHN1gwM2lKS1ZKSDlLTjdVWGE5ckt3MFg?oc=5",
-      "desc": "【CMoney】2330 台積電",
+      "newsTitle": "美股崩跌逼宮Fed？美銀Hartnett揭聯準會升息喊停關鍵- 國際",
+      "newsSource": "工商時報",
+      "newsDate": "Sun, 22 Nov 2026 06:14:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HU05UZUlSUW5TU0E3S293bVlPY2ktVVJJaVhwSGQtdlhBcGpROUF0THU1TFdyTEh5QXN3bEZ5cVlEenhud1ozX3R2Z0FrS3FsLV95dFdhZmJGeUdVZ3hV?oc=5",
+      "desc": "【工商時報】美股崩跌逼宮Fed？美銀Hartnett揭聯準會升息喊停關鍵- 國際",
       "impactTargets": [
-        "t_2330"
+        "t_gold"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_rates",
+        "t_gold"
       ]
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電、鴻海基本面續旺！Q3 EPS雙創...",
-      "date": "11-22",
-      "category": "突發半導體",
+      "name": "⚡ Google AI Plus/Pro 值...",
+      "date": "11-23",
+      "category": "突發AI",
       "isBreaking": true,
-      "newsTitle": "台積電、鴻海基本面續旺！Q3 EPS雙創單季新高 法人建議布局認購權證",
-      "newsSource": "UDN",
-      "newsDate": "Sun, 22 Nov 2026 17:00:35 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CUThrRVBXZUZGOXpnVkNqS1Z3WERPS2hQclFfdUR3bnlmVVh0Nk5fOVRLalQ2bk9kei15Vnk3MVo5YmxWTGNfVDVwZlN0a0Rk0gFWQVVfeXFMTS12eXVXWVAwVks0M3NHQWVWUVFnNFk3UlM4U1pIUTdsT1dTQ0JDWl83R055NVZmOFBfc2pEOGV0cWRJWEtNcWpWWFhfTng3MHAxRlRJREE?oc=5",
-      "desc": "【UDN】台積電、鴻海基本面續旺！Q3 EPS雙創單季新高 法人建議布局認購權證",
+      "newsTitle": "Google AI Plus/Pro 值得趁優惠訂閱一年嗎？",
+      "newsSource": "Yahoo",
+      "newsDate": "Sun, 22 Nov 2026 23:26:15 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWHUyWnAwQ2hQeUhzWm9KY2ltMDlWbV9yNlNPdEItalVKaVdzODd4SU9WcHJwbS1TU1hOekFQQTM2aW81RzdlM2dyVmNkSHEtR2NxSXVFWm5Ld1YzbTdTZmNCOUJ3eUZGMkJEeUVIUkI4aU4yNDJDeGhTSWJzU3F2N0gwaXZISkRyZTdGTG5laTlZY2JjQzhWOWpsdFFDNXB5MW5KcGg0dzFJd0ptTnNvQXVqT1hWalRwbmQtOGpvdzM?oc=5",
+      "desc": "【Yahoo】Google AI Plus/Pro 值得趁優惠訂閱一年嗎？",
       "impactTargets": [
-        "t_2330"
+        "t_googl"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ai_cloud",
+        "t_googl"
       ]
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 美禁令生效！傳停供中國16奈米晶片 台積...",
-      "date": "11-22",
-      "category": "突發半導體",
+      "name": "⚡ 特斯拉執行長馬斯克：AI 建設過熱 產業...",
+      "date": "11-23",
+      "category": "突發自駕",
       "isBreaking": true,
-      "newsTitle": "美禁令生效！傳停供中國16奈米晶片 台積電回應了",
-      "newsSource": "民報",
-      "newsDate": "Fri, 20 Nov 2026 05:29:27 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81QUZveEZWYTFGYUZHaW5QeUJCUEtlSk44d1VkMG5fcTN0cW15blc1aDZ2UW0takpoeTd5bHpUTUR0eHQ0Z2paSWVUSS1MX0F0QkNCbHlXN0h5M0NwZ28zbktUTks?oc=5",
-      "desc": "【民報】美禁令生效！傳停供中國16奈米晶片 台積電回應了",
+      "newsTitle": "特斯拉執行長馬斯克：AI 建設過熱 產業恐面臨資金短缺",
+      "newsSource": "經濟日報",
+      "newsDate": "Sun, 22 Nov 2026 18:09:53 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03eldGdHU3X3dEa1I1SGNYMTQ4VE5LbC1KWWkzMGpmMHprMnJ5Q0tBX1MxT0l3YWhUR2ZVYno5b01XU0FVbUh6a2t4NjkxbGItSlBrRzdtMUR0WkRj0gFiQVVfeXFMUEgwYnpBbU9RVXBDem9oNnNOWlIzelZKbDYyTFhqSk5JeTNVRTNNNmtoc0dJSVRyeTRMTFEtb090UG1MMmU3MzExY3lvMjJERVlzSmxYbll0TF9jLV9lVEZGc1E?oc=5",
+      "desc": "【經濟日報】特斯拉執行長馬斯克：AI 建設過熱 產業恐面臨資金短缺",
       "impactTargets": [
-        "t_2330"
+        "t_tsla"
       ],
       "primaryChain": [
-        "f_foundry",
-        "t_2330"
+        "f_ev_auto",
+        "t_tsla"
       ]
     },
     {
@@ -282,13 +282,13 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3515.4,
+      "price": 3581.0,
       "currency": "美元",
-      "change_pct": -9.03,
+      "change_pct": -7.33,
       "gold_units": {
-        "oz_usd": 3515.4,
-        "gram_twd": 3725.2,
-        "qian_twd": 13970,
+        "oz_usd": 3581.0,
+        "gram_twd": 3794.7,
+        "qian_twd": 14230,
         "usdtwd": 32.96
       }
     },
@@ -458,21 +458,21 @@
     },
     {
       "source": "e_breaking_2",
-      "target": "f_foundry",
+      "target": "f_rates",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發總經"
     },
     {
       "source": "e_breaking_3",
-      "target": "f_foundry",
+      "target": "f_ai_cloud",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發AI"
     },
     {
       "source": "e_breaking_4",
-      "target": "f_foundry",
+      "target": "f_ev_auto",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發半導體"
+      "desc": "突發快訊即時牽動市場預期：突發自駕"
     },
     {
       "source": "e_fomc",
