@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25 11:09",
+  "updatedAt": "2026-11-25 21:18",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,6 +22,25 @@
     },
     {
       "id": "e_breaking_2",
+      "name": "⚡ 亞大逾200名校友任職台積電！國儀中心向...",
+      "date": "11-25",
+      "category": "突發半導體",
+      "isBreaking": true,
+      "newsTitle": "亞大逾200名校友任職台積電！國儀中心向半導體專班學子招手",
+      "newsSource": "亞洲大學",
+      "newsDate": "Wed, 25 Nov 2026 08:51:36 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcWlYVXBWUDZ1TTBUNWE5czB4bVZkTUNuTzFCbzFaaS1tZmhiN011cVBpMi1qUVBjWkQ0WGYxUlZMRUlZWVpjcHZQTmlJRE5zMnpSY1c4QUFvbDRZRmxCVTloeldzQWdlN2ZB?oc=5",
+      "desc": "【亞洲大學】亞大逾200名校友任職台積電！國儀中心向半導體專班學子招手",
+      "impactTargets": [
+        "t_2330"
+      ],
+      "primaryChain": [
+        "f_foundry",
+        "t_2330"
+      ]
+    },
+    {
+      "id": "e_breaking_3",
       "name": "⚡ 杜金龍昨賣漲停台積電！曝老婆「解定存買聯...",
       "date": "11-25",
       "category": "突發半導體",
@@ -40,41 +59,22 @@
       ]
     },
     {
-      "id": "e_breaking_3",
-      "name": "⚡ 外資提款1236億元持續倒貨0050、台...",
+      "id": "e_breaking_4",
+      "name": "⚡ 【台積電調高季配息！抱730張可多領1元...",
       "date": "11-25",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "外資提款1236億元持續倒貨0050、台積電及鴻海 主動式ETF獲青睞",
-      "newsSource": "鉅亨網",
-      "newsDate": "Wed, 25 Nov 2026 09:24:39 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kR1dOZGZIMzl6dlUwU1JnTmxHejRpTFc0V0xxYnI4Nk0xSW1wZF9qR3l5RFB2X3R6emw4Q1d2YTE3TUhLSHJuSmhwY094ZFE?oc=5",
-      "desc": "【鉅亨網】外資提款1236億元持續倒貨0050、台積電及鴻海 主動式ETF獲青睞",
+      "newsTitle": "【台積電調高季配息！抱730張可多領1元現金股利】\n（#大表哥）",
+      "newsSource": "Facebook",
+      "newsDate": "Wed, 25 Nov 2026 18:36:05 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPelBrRG9ibUxsY1I3RWpGSVNoNEk2Y3hzSXhfOEJiSklwcDVwdkJRcWNXaGJGOENocVJieUlqWF9ZeFhZSG85UktGVU54Ym1sWWF2UFdqNl84eEZtZ1RKU1MxTmZZYlR0RFE0YXRnMjkyVEQycnhxaU1UTjBpS0ZRWkhVbE1ld0o4dEItVXRpUnlXMDQ5WXBTZTBnRDBIc09ERHpPTU1CVWRndS1EclF6ckpnb1l2MUZiRmkwVXoyOWZ2UVZ4RndwYmpuaEtZRFJWWlp0QzhZQW9lV0xHSTE1Y2psaFFnTFVEWEhkVXBweGRCZ2xMRV9BeTdkaXRYNlpVY0JXcDNsak1WZ2RNU2pPSXBoem5CQ1EyVFpyQllVYXFNV20zSWlBdkphNU84ZWRjUWE1NjNTZWxtYTlqQkJBQ0Y0REVxUC1uMUM4Z2lMcGk2bjJqb1MxUk9hQ0tjamhYUzVGelUxal9DMTA?oc=5",
+      "desc": "【Facebook】【台積電調高季配息！抱730張可多領1元現金股利】\n（#大表哥）",
       "impactTargets": [
         "t_2330"
       ],
       "primaryChain": [
         "f_foundry",
         "t_2330"
-      ]
-    },
-    {
-      "id": "e_breaking_4",
-      "name": "⚡ 金州勇士攜手 Google 指定 Gem...",
-      "date": "11-25",
-      "category": "突發AI",
-      "isBreaking": true,
-      "newsTitle": "金州勇士攜手 Google 指定 Gemini 為官方 AI 合作夥伴",
-      "newsSource": "Yahoo股市",
-      "newsDate": "Wed, 25 Nov 2026 09:06:04 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRWw1WHNkbHpWVGdxSFVxeGI5ZXktbnhha1NZdk5aNUEwM2w5ekdMakJyWC1lZVFjbDhZeFltZjhlbEYwRHpZU3BiQ0pKSWZsdWFRd3FGUXdxcm5yX2t2ekplRXAwWHNTdHQtU3VGWjNMSGV3Mm1RR0VETXNCcUxSQjZ3blZ3YkJaWFQ2dEZfTVhOaUVXWllVMUVzVTR0RmNaS2VJdlp4WnBLa1VZdGRucWNqdzdmYlRVbmYtOWtVX3RRbGRUTjhRdXVUT25FZ0VuOXRTMWhXbmJWb19NMU9Id3FQLWVfMmpmRDVUMHpTZ191ZU1Y?oc=5",
-      "desc": "【Yahoo股市】金州勇士攜手 Google 指定 Gemini 為官方 AI 合作夥伴",
-      "impactTargets": [
-        "t_googl"
-      ],
-      "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3559.9,
+      "price": 3606.0,
       "currency": "美元",
-      "change_pct": 1.27,
+      "change_pct": 2.58,
       "gold_units": {
-        "oz_usd": 3559.9,
-        "gram_twd": 3791.8,
-        "qian_twd": 14219,
-        "usdtwd": 33.13
+        "oz_usd": 3606.0,
+        "gram_twd": 3846.7,
+        "qian_twd": 14425,
+        "usdtwd": 33.18
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 638.1,
+      "price": 633.93,
       "currency": "美元",
-      "change_pct": -2.87
+      "change_pct": -3.88
     },
     {
       "id": "t_voo",
@@ -314,7 +314,7 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 660.71,
+      "price": 658.87,
       "currency": "美元",
       "change_pct": -1.85
     },
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 279.05,
+      "price": 273.1,
       "currency": "美元",
-      "change_pct": -0.41
+      "change_pct": -3.31
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 384.68,
+      "price": 380.14,
       "currency": "美元",
-      "change_pct": 1.2
+      "change_pct": -0.93
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
