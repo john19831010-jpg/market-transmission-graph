@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26 04:00",
+  "updatedAt": "2026-11-26 13:46",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電ADR收盤跌近2% 台指期反彈274點",
+      "name": "⚡ 台積電在內！若股市崩盤 外媒點名「這3檔...",
       "date": "11-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電ADR收盤跌近2% 台指期反彈274點",
-      "newsSource": "經濟日報",
-      "newsDate": "Wed, 25 Nov 2026 23:03:23 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeEp0eVh0MTAtWFRGdVJVWlRmcUZRV19nNzNGZHRabkV5QmdsTHh4ZFJtMmMtaHlWd1ZvTC05TjctM2lwcV9FOTBtc3N3UlFBenRwYWkySUFjajVu0gFiQVVfeXFMTzVGbWpRdjNHQXR4MkxyTnBCT3pscjBEakNMZVBZb19iODM3UXVWcWhzckFHcDROVWc5MVhTaVo3MElIMXptRmFGYzJZeTRwMWI3WUJDeXd1ZlprSndpX2xycnc?oc=5",
-      "desc": "【經濟日報】台積電ADR收盤跌近2% 台指期反彈274點",
+      "newsTitle": "台積電在內！若股市崩盤 外媒點名「這3檔」絕對值得積極買進",
+      "newsSource": "自由財經",
+      "newsDate": "Thu, 26 Nov 2026 03:57:38 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRWxZSURjUXI3NF9KQlpDczVJdG5MSEhoRElqSl9CU1kxd2wxTTNxV0xULVo1UUF2emxOLXZ5SEFVa2p4WEQ3Z1BtSTlMM0YwY0NmSUdZZGJVRHFhNHRZ0gFkQVVfeXFMTnVrcnFQZjk2am9uZ1ZVVUlDVEd4NHN2MmEtMWR5dThDSk9YN0F2MFk1cWpZRmVTSkFjZWpBS21zQk5fSThveTdTY1g4RlNDS0pvVzdBOGhfSDB4UmlvWm1zQ09tUQ?oc=5",
+      "desc": "【自由財經】台積電在內！若股市崩盤 外媒點名「這3檔」絕對值得積極買進",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電美國新廠動土倒數！重量級嘉賓曝光",
+      "name": "⚡ 【即時新聞】台積電建廠能見度達2030年...",
       "date": "11-26",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電美國新廠動土倒數！重量級嘉賓曝光",
-      "newsSource": "自由財經",
-      "newsDate": "Thu, 26 Nov 2026 03:07:55 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Xdlc4R1hfd1AwSW1pRXZ0Q2pSWG9pRnBmTW1abFV0VW9kcS01Nkt3MDl5NG9fXzljX1ZKVzk2SnRSTl9WMXR6U3E0cXF4dEFaQVgwYkIzblNfX2RDdGNz0gFkQVVfeXFMTnFZcTZPRV9BMnJtNVdZTU1vM2QyRHVRMVEyRnNiVnVqME1ua3QxRTkxTDJpS3FRdlVlYXdwWWZJQ25rVlRLd3VSbFdodHotNVF4dnp4aERzVHpqMll4bGN4bk1BWQ?oc=5",
-      "desc": "【自由財經】台積電美國新廠動土倒數！重量級嘉賓曝光",
+      "newsTitle": "【即時新聞】台積電建廠能見度達2030年，AI算力迭代引領半導體迎新成長",
+      "newsSource": "CMoney投資網誌",
+      "newsDate": "Thu, 26 Nov 2026 09:53:50 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSVdrdWdHd3hBcUJDaTc2T0FXcURscWNVSkhIR2F4X0tabF9XR251aGM3b3BUVGs1TldoTmcwWkotOTk5b2VtaF9uV205SmUxb3JOcTZIc3BkLVd0Uzdsa2FpQ1M2UXRMYVl5U1VIWUcydWNVREg0aEVtY0pYMVBmNHdRYjZZdXByT3VyT2lwbTY?oc=5",
+      "desc": "【CMoney投資網誌】【即時新聞】台積電建廠能見度達2030年，AI算力迭代引領半導體迎新成長",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 2026 Gemini黑五優惠倒數！Go...",
+      "name": "⚡ 台積電德州廠細節曝光！擬砸226 億美元...",
       "date": "11-26",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "2026 Gemini黑五優惠倒數！Google AI Pro最高5折！截止日期、領取步驟一次看",
-      "newsSource": "104職場力",
-      "newsDate": "Tue, 24 Nov 2026 08:04:18 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JOElERXlFSXliUXQwcmFfb3NrNjU2QS1YemtoNUdheWtHX3VKVHNjcFhrY3hTZXdKLVViRmJXeEthZTJNbXRZMWlJQ0Q2QVZTNFBLMl9kby1HUlgzZDdjWm5IRFo0S19sVHItbEk4djhYbDhGeTMtM0xZOVM?oc=5",
-      "desc": "【104職場力】2026 Gemini黑五優惠倒數！Google AI Pro最高5折！截止日期、領取步驟一次看",
+      "newsTitle": "台積電德州廠細節曝光！擬砸226 億美元建2 奈米廠，10年減稅成設廠關鍵｜股市話題｜豐雲學堂2026 年 11 月",
+      "newsSource": "永豐金證券",
+      "newsDate": "Wed, 25 Nov 2026 02:08:44 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQNll2dGVEVHBOSGJYTmNqNF9kSHRKZ3Q0b2l6NmFHdktMcmdtOWNwTW9HYzdITFNiOWFzeEFrdXY0M2V1RmZOdVBQLTZuaWJDZDRyNk84RGtHUkNxSG85REdYR3JRN2k5U01VRW1pdEE2TTJoZUhpU3RPcC1hbEtlTjlWV0VKR3lGMzJ4ZURvQVB0OFlySVBPUk5acndrT29YSXFTamI1TXl4RVVmMHBabXVPTGg2YUJMQXJJMXBFWktqM1FVa0xNYUk2alBkVElhbGtnZjdhcl9MSWpSU0tUdHhEeE9QeFFHUUk4WTBGU3hXYjZBUnRIbU1oNjdfMkFVRVFseHBNV1FJaWNWaFRhcXFEYjE5MG1HY2tGQnR4Wmo0V2sySjBPaFlOU1lVZXJMRjEtRU9BZ2NhVjlCdUV6TTVWMnkyLWota19XVkVRaUVrTUNoZEE2cUVxX0RneUJTMnNuckZ6YmVBbmVTb05kcjExMnc0bmd1bGRRYUd5NWM3SFYtbjkwUzRTeTNuUzE0NmN0UUp2bHoxQ09KdHFjckQ3Z1I5NUcyYWVGb2ZKem12VE5oSGNvX1l2dTZFdWxvV0xpemNXeWpTUWtzUHd1dExUNVZka3NDSlA1SGlueFlOYjU5VTZzSkM4bDZFcU41RWRYWms4a21KdFlHWENEWXV3?oc=5",
+      "desc": "【永豐金證券】台積電德州廠細節曝光！擬砸226 億美元建2 奈米廠，10年減稅成設廠關鍵｜股市話題｜豐雲學堂2026 年 11 月",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3606.3,
+      "price": 3598.1,
       "currency": "美元",
-      "change_pct": 2.59,
+      "change_pct": 2.35,
       "gold_units": {
-        "oz_usd": 3606.3,
-        "gram_twd": 3822.7,
-        "qian_twd": 14335,
-        "usdtwd": 32.97
+        "oz_usd": 3598.1,
+        "gram_twd": 3812.9,
+        "qian_twd": 14298,
+        "usdtwd": 32.96
       }
     },
     {
@@ -366,9 +366,9 @@
       "score": 100,
       "color": "#f59e0b",
       "summary": "全球先進製程獨家王者，吃下 Google TPU、蘋果、輝達、超微訂單，為台股 0050 與 00935 第一大靈魂標的。",
-      "price": 2155.0,
+      "price": 2145.0,
       "currency": "台幣",
-      "change_pct": 7.75
+      "change_pct": 7.25
     },
     {
       "id": "t_2308",
@@ -379,9 +379,9 @@
       "score": 100,
       "color": "#10b981",
       "summary": "通吃 AI 伺服器 DC/DC 電源架構、液冷散熱系統、電動車驅動馬達與 SpaceX 星鏈衛星電源零組件。",
-      "price": 1110.0,
+      "price": 1120.0,
       "currency": "台幣",
-      "change_pct": 23.33
+      "change_pct": 24.44
     },
     {
       "id": "t_0050",
@@ -392,9 +392,9 @@
       "score": 100,
       "color": "#3b82f6",
       "summary": "台灣市值前五十大企業集合，台積電權重突破五成，與外資進出台股脈動亦步亦趨。",
-      "price": 92.3,
+      "price": 92.85,
       "currency": "台幣",
-      "change_pct": 9.3
+      "change_pct": 9.95
     },
     {
       "id": "t_00935",
@@ -405,9 +405,9 @@
       "score": 100,
       "color": "#8b5cf6",
       "summary": "聚焦研發費用佔比高、專利實力強的台股創新高科技黑馬，具備強大進攻彈性。",
-      "price": 44.8,
+      "price": 45.12,
       "currency": "台幣",
-      "change_pct": 13.07
+      "change_pct": 13.88
     },
     {
       "id": "t_1101",
@@ -431,9 +431,9 @@
       "score": 100,
       "color": "#06b6d4",
       "summary": "百年企金外匯老字號，資產品質優異、受美台利差與台商跨國貿易金流帶動，具備穩健股利保護。",
-      "price": 49.05,
+      "price": 49.75,
       "currency": "台幣",
-      "change_pct": -1.11
+      "change_pct": 0.3
     },
     {
       "id": "t_bank_sinopac",
@@ -444,9 +444,9 @@
       "score": 100,
       "color": "#ec4899",
       "summary": "大戶投證券數位市佔高、太陽能電廠融資龍頭，兼具台股量能收益與降息週期配息亮點。",
-      "price": 35.85,
+      "price": 35.55,
       "currency": "台幣",
-      "change_pct": -0.42
+      "change_pct": -1.25
     }
   ],
   "links": [
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
