@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27 14:47",
+  "updatedAt": "2026-11-27 23:16",
   "events": [
     {
       "id": "e_breaking_1",
@@ -22,15 +22,15 @@
     },
     {
       "id": "e_breaking_2",
-      "name": "⚡ 台積電擬在美布局第二座先進晶圓廠！美銀重...",
+      "name": "⚡ 美股收盤》科技股回神！道瓊漲591點 台...",
       "date": "11-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電擬在美布局第二座先進晶圓廠！美銀重申買進、目標價3260、隱含漲幅逾5成",
-      "newsSource": "鉅亨網",
-      "newsDate": "Fri, 27 Nov 2026 09:00:03 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlWVNoYjRPeC12eldqUGJHVlB0ODZwaWV1VUt4RUtDOXJnS0M4d3NtQ0pzMmxPREt1dGtndWUxbldJLXI0WHRSWXJ0QVQ1a1k?oc=5",
-      "desc": "【鉅亨網】台積電擬在美布局第二座先進晶圓廠！美銀重申買進、目標價3260、隱含漲幅逾5成",
+      "newsTitle": "美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％",
+      "newsSource": "自由財經",
+      "newsDate": "Fri, 27 Nov 2026 21:57:32 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XYjQwX2UxYnE0bVB5RXFITmJsb1gwUVRpbkNJbFZkb3dJekt2T2ZIaE9zX2ZFZURDNjVYNW5iRHIxNGJORkZRd3Z3UlZWS1dIWHI1dGVBS3B3eGQwUkdr0gFkQVVfeXFMTjNGYkRhQ3N2dGZCa1RwY3RsNnFzaXJhUEUzcjJ2bUFrTHdLZTlWMTU3SThHbWdUOXI1WTEzUmZiUHkwMG5Jd0w3RWhQVjNIYTZMdGM2T05RVHlpSDY4ajEwb0dqTQ?oc=5",
+      "desc": "【自由財經】美股收盤》科技股回神！道瓊漲591點 台積電ADR升逾3％",
       "impactTargets": [
         "t_2330"
       ],
@@ -41,15 +41,15 @@
     },
     {
       "id": "e_breaking_3",
-      "name": "⚡ 台積電亞利桑那新廠將動土！川普想帶黃仁勳同行",
+      "name": "⚡ 【川普挺到底！出席台積電亞利桑那新廠動土...",
       "date": "11-27",
       "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "台積電亞利桑那新廠將動土！川普想帶黃仁勳同行",
-      "newsSource": "自由財經",
-      "newsDate": "Fri, 27 Nov 2026 08:55:37 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BVHdfTmlJS3FLZHVaU003UWZmVzc0TXY2Mm0zSmRLcXBpdWZSYmRqNTlRN005YmhzS1NSZnZQbjRQUkppRjdBaTFnZFhaZENobDV6UGVlNHZTOE1VUjFj0gFkQVVfeXFMUHkzUkRUQmw1QWFsMm5qSzhxZVlJUnNjTW5FLWdYOURwNU9uem1PTzlpbW95aUFWRUJyZU9VZ05MT3FsWHpaVklwZmQwMW5FX0x2STlSMHBhdXB6X011dzhXanhITg?oc=5",
-      "desc": "【自由財經】台積電亞利桑那新廠將動土！川普想帶黃仁勳同行",
+      "newsTitle": "【川普挺到底！出席台積電亞利桑那新廠動土 想帶黃仁勳一起去】 挺到底！ （#起啵）",
+      "newsSource": "Facebook",
+      "newsDate": "Fri, 27 Nov 2026 21:30:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxPRTA5MG9Ic2syXzBKOTFLR0JvVlotVHg4R0N6UHRodmxPeE0zVFNoWHJfbTBFMlRwNnhwTEd1blBLWVI3bmNTS2d1ckVJc1BwVFY0T1owWHRNeXJGYmdWTFczcVVsU09NSHdCaFRLQlpITWkzc1V2Y0dBZFNiRlpyMUY1WWtiNHpwTXV4UnR4VTFCQVVFWDNWVTZmZmhabEE5SmFfVUNsaTVidkx0NFAzaVpWci1UWmFmTmlydFdBMFZLaWRvaTR2ZXdmcXNMYU4xWVNJQlY4ZER6ZFF3VUpkOTd5V2Y5SEFrRFNXUW9NV0pud29wT284Y3ZNU2hJWjhLaWRQZFEwcHpHczQzd2xkOUZRdWpzVmdFT05KWVZLaGxjU2k3TWlFZG8tbXJDX1FDbnNEbDdpazJiWjd3Qm5QLVBIVEtELWpiUmxkNEVMdkEyUkNscjFaQ3lCSEpTUGhvVVVNZF9tMHpsUlNNc3g3VTNhNkxtSS0tMUU0VkhJbVNEVjZ5WnJQU2IzcXNlV01wQXZZNERRR0t5YUFWWjNIcGI1Vnh5VTB1RG5OT2xFd3luMk1NYkxQYVNOUnh0c2J4WGdoX2M0S25VVzNEakx1TkZHYlNPdmhnR0x6amFxOV8?oc=5",
+      "desc": "【Facebook】【川普挺到底！出席台積電亞利桑那新廠動土 想帶黃仁勳一起去】 挺到底！ （#起啵）",
       "impactTargets": [
         "t_2330"
       ],
@@ -60,21 +60,21 @@
     },
     {
       "id": "e_breaking_4",
-      "name": "⚡ 洛杉磯學區悄關Google AI搜尋摘要...",
+      "name": "⚡ 【Follow法人】外資提款台積電189...",
       "date": "11-27",
-      "category": "突發AI",
+      "category": "突發半導體",
       "isBreaking": true,
-      "newsTitle": "洛杉磯學區悄關Google AI搜尋摘要 半百萬學生突失AI搜尋功能引爆抗議",
-      "newsSource": "CMoney投資網誌",
-      "newsDate": "Fri, 27 Nov 2026 08:37:57 GMT",
-      "newsUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSzB4NTBoZTR1YmZrbUFkMnFWemZyR0NvZmw0WlVaekJyUHZIZ2JZaVRpWkRqNlQ0dzdQdDhUdTJvNGNhZ0NuLVFGYU5Fb0dWdjRZblh3T2VkTnFSVmJ1V2kySktTODR0clptM3ZGbnJrSlUtdEZfVHNMRXo0aGdXT0RWRUJsX09ndnFmcGtR?oc=5",
-      "desc": "【CMoney投資網誌】洛杉磯學區悄關Google AI搜尋摘要 半百萬學生突失AI搜尋功能引爆抗議",
+      "newsTitle": "【Follow法人】外資提款台積電189億元 永豐金等3金釵、中華電也同步遭甩賣",
+      "newsSource": "Yahoo股市",
+      "newsDate": "Fri, 27 Nov 2026 08:28:00 GMT",
+      "newsUrl": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQZjM2OHVuSjFRdW55RTQteEh1RnU4U3pRanhVM01VRERCVTZCSTVKb3k5LXZYVUQxOEt1RFlKY0o0NXh1RVpqejdJTGxZVjBmWEpvemM5azhjRjY1QmF5NFNwbnZoQ3RIdVN5M1M2bU9xWkdGeEQtT0t2b21LLXN2R294bjVBc05rNm9xY08yYUZnaVZtVzM2ZmV5TndrRkVIRW1CcFQ4czlDOUFXckNNa1h2SDBtamJGZkpCNU5BT3F4elpuWTJjMGdsZjR6NXlONHM2RGpmc0ZPYU94Sk9KZnFiY3gtZGVsTGhNbF9mdWZlNWRQSmhGYUkyM1k4ejhxQTBndnJna3pxQWxjdnVvbzYwV0xWZE1jV3NsaDhFMFlRVGN6NlJ3bE90bWVJLVNJUFlNbVNRZkdPTFNZcnpOa3ozdVBhdU9WOGJjTG5iNkxUZHFwVHRCTG5PVGRKaklpWmc0M1hyT3FDa3N2N0pLWUhhZzhnbFlxY2FSVDZnTVBDV280dGNYcWFQRTdTYnNkS2RzalMxSUxpNV9zLUM0d29RZ21TUjVVY2pvUmlPOUp1c2lpMUxUQTBseUdoQVF5aVE4Vzln?oc=5",
+      "desc": "【Yahoo股市】【Follow法人】外資提款台積電189億元 永豐金等3金釵、中華電也同步遭甩賣",
       "impactTargets": [
-        "t_googl"
+        "t_2330"
       ],
       "primaryChain": [
-        "f_ai_cloud",
-        "t_googl"
+        "f_foundry",
+        "t_2330"
       ]
     },
     {
@@ -282,14 +282,14 @@
       "score": 100,
       "color": "#eab308",
       "summary": "與美國實質利率與美元成高度負相關。當 FOMC 降息預期升高、地緣風險升溫時，黃金傳導反應最快 (T+0)。",
-      "price": 3658.7,
+      "price": 3668.5,
       "currency": "美元",
-      "change_pct": 0.2,
+      "change_pct": 0.47,
       "gold_units": {
-        "oz_usd": 3658.7,
-        "gram_twd": 3880.6,
-        "qian_twd": 14552,
-        "usdtwd": 32.99
+        "oz_usd": 3668.5,
+        "gram_twd": 3889.8,
+        "qian_twd": 14587,
+        "usdtwd": 32.98
       }
     },
     {
@@ -301,9 +301,9 @@
       "score": 100,
       "color": "#38bdf8",
       "summary": "高度權重於 Google、Tesla、NVIDIA 等科技七雄，受美債殖利率、AI 資本支出與美股四巫日直接牽動。",
-      "price": 637.85,
+      "price": 650.99,
       "currency": "美元",
-      "change_pct": -1.11
+      "change_pct": 0.92
     },
     {
       "id": "t_voo",
@@ -314,9 +314,9 @@
       "score": 100,
       "color": "#60a5fa",
       "summary": "美國整體經濟與大盤風向球，均衡涵蓋科技、金融、傳產，防禦與成長並重。",
-      "price": 662.69,
+      "price": 669.79,
       "currency": "美元",
-      "change_pct": 0.71
+      "change_pct": 1.79
     },
     {
       "id": "t_googl",
@@ -327,9 +327,9 @@
       "score": 100,
       "color": "#f97316",
       "summary": "AI 搜尋、YouTube 廣告、Google Cloud 以及自研 TPU 算力生態，直接向外牽動台灣代工與散熱鏈。",
-      "price": 273.4,
+      "price": 274.96,
       "currency": "美元",
-      "change_pct": 0.27
+      "change_pct": 0.84
     },
     {
       "id": "t_tsla",
@@ -340,9 +340,9 @@
       "score": 100,
       "color": "#ef4444",
       "summary": "交車數據、FSD 自動駕駛商業化進度、Dojo 算力中心與能源儲能 Megapack 成長動能。",
-      "price": 391.42,
+      "price": 400.0,
       "currency": "美元",
-      "change_pct": 4.54
+      "change_pct": 6.83
     },
     {
       "id": "t_spacex",
@@ -470,9 +470,9 @@
     },
     {
       "source": "e_breaking_4",
-      "target": "f_ai_cloud",
+      "target": "f_foundry",
       "weight": 92,
-      "desc": "突發快訊即時牽動市場預期：突發AI"
+      "desc": "突發快訊即時牽動市場預期：突發半導體"
     },
     {
       "source": "e_fomc",
